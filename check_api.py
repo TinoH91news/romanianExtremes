@@ -645,6 +645,8 @@ def checkLanguageSetting(results=[]):
     if(lng):
       if(lng == 'xx'):
         lngExists = False
+      if(not len(lng)==2):
+        lngExists = False
     else:
         lngExists = False      
     if(not lngExists): 
@@ -654,8 +656,7 @@ def checkLanguageSetting(results=[]):
         results.append("   * Value: **Your language code here** ") 
         return False    
     else:
-        results.append(":white_check_mark: EXTREME_LANGUAGE key exists")
-        inqNewsApi(results) 
+        results.append(":white_check_mark: EXTREME_LANGUAGE key exists ("+lng+")")
         return True 
     return False
 

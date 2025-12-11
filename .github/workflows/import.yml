@@ -50,6 +50,7 @@ jobs:
       - name: Run import
         env:
             EXTREME_GH_TOKEN: ${{ secrets.EXTREME_GH_TOKEN }}
+            EXTREME_LANGUAGE: ${{ secrets.EXTREME_LANGUAGE }}
             RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
         run: (python3 import.py)
       - name: Submit changes       

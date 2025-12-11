@@ -37,6 +37,8 @@ jobs:
         run: (pip3 install aiohttp)
       - name: install asyncio
         run: (pip3 install asyncio)
+      - name: install CreLanguageTranslate
+        run: (pip3 install CreLanguageTranslate)
       - name: cd /cre/python/
         run: (cd /cre/python/)
       - name: cp mysecrets.py
@@ -44,6 +46,7 @@ jobs:
       - name: Run newsapi
         env:
             NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+            RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
         run: (python3 harvest.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
