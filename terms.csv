@@ -1,8 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'89426ddfd9',extremes,Fog,#d60d2b,wmo,fog moldova,2025-11-27T03:34:00+00:00,Moldova,0.7336414698246129,0,1,ro,WCE,Europe
-'edf3f3d750',extremes,Storm,#b3b2b1,wmo,storm surge arad caraș severin timiș,2025-11-25T03:37:00+00:00,Romania,0.7205866683678688,0,1,ro,WCE,Europe
 'fdb7ab37ec',extremes,Storm,#b3b2b1,wmo,storm constanța tulcea,2025-11-25T03:37:00+00:00,Romania,0.7063389717809999,0,1,ro,WCE,Europe
-'8cccfcd42d',extremes,Storm,#b3b2b1,wmo,storm alba hunedoara sibiu,2025-12-05T03:41:00+00:00,Romania,0.6682246377931623,0,1,ro,WCE,Europe
+'89426ddfd9',extremes,Fog,#d60d2b,wmo,fog moldova,2025-11-27T03:34:00+00:00,Moldova,0.6235952493509209,1,1,ro,WCE,Europe
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2025-12-07T03:47:00+00:00,Moldova,0.5149438314088808,0,1,ro,WCE,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2025-11-26T03:37:00+00:00,Romania,0.5061592565983669,0,1,ro,WCE,Europe
 '8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2025-12-01T04:02:00+00:00,Romania,0.476881819915345,0,1,ro,WCE,Europe
@@ -10,12 +8,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2025-12-10T03:45:00+00:00,Moldova,0.4482754791416027,0,1,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2025-11-30T03:47:00+00:00,Moldova,0.444315651859087,0,1,ro,WCE,Europe
 '75579b650e',extremes,Drought,#edc291,edo,seceta romania,2025-12-11T03:46:00+00:00,Romania,0.4283148023848886,0,2,ro,WCE,Europe
-'985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2025-12-12T03:46:00+00:00,Romania,0.42457042636203185,0,2,ro,WCE,Europe
-'615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,​​ciclon tropical ditwah,2025-11-28T03:33:00+00:00,,0.31890064928959616,0,2,ro,EIO,Indian Ocean
+'985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2025-12-12T03:46:00+00:00,Romania,0.4245704263620318,0,2,ro,WCE,Europe
+'615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,​​ciclon tropical ditwah,2025-11-28T03:33:00+00:00,,0.3189006492895961,0,2,ro,EIO,Indian Ocean
 '8d8981ac5b',extremes,Flood,#030ba1,acwe,inundare Queensland,2025-11-27T03:34:00+00:00,Australia,0.3187971077162626,0,2,ro,CAU,Oceania
-'641ad67faf',extremes,Wildfire,#d60d2b,acwe,interdicție de incendiu australia de sud,2025-11-27T03:34:00+00:00,Australia,0.31877256057640063,0,2,ro,CAU,Oceania
-'83c282088c',extremes,Precipitation,#d60d2b,acwe,ploaie abundentă nordul teritoriului,2025-11-26T03:37:00+00:00,Australia,0.31874916548133436,0,2,ro,CAU,Oceania
-'9d59b1d751',extremes,Flood,#030ba1,acwe,inundație fulgerătoare australia de sud,2025-11-27T03:34:00+00:00,Australia,0.31874140969916037,0,2,ro,SAU,Oceania
+'641ad67faf',extremes,Wildfire,#d60d2b,acwe,interdicție de incendiu australia de sud,2025-11-27T03:34:00+00:00,Australia,0.3187725605764006,0,2,ro,CAU,Oceania
+'83c282088c',extremes,Precipitation,#d60d2b,acwe,ploaie abundentă nordul teritoriului,2025-11-26T03:37:00+00:00,Australia,0.3187491654813343,0,2,ro,CAU,Oceania
+'9d59b1d751',extremes,Flood,#030ba1,acwe,inundație fulgerătoare australia de sud,2025-11-27T03:34:00+00:00,Australia,0.3187414096991603,0,2,ro,SAU,Oceania
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,wildfire teritoriu de nord,2025-11-27T03:34:00+00:00,Australia,0.3186710523035853,0,2,ro,CAU,Oceania
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,caniculă din teritoriul nordic,2025-11-26T03:37:00+00:00,Australia,0.3183462179056731,0,2,ro,NAU,Oceania
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,umed australia,2025-11-27T03:34:00+00:00,Australia,0.3182085863292513,0,2,ro,CAU,Oceania
