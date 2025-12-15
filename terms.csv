@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'edf3f3d750',extremes,Storm,#b3b2b1,wmo,storm surge arad caraș severin timiș,2025-11-25T03:37:00+00:00,Romania,0.7205866683678688,0,2,ro,WCE,Europe
-'fdb7ab37ec',extremes,Storm,#b3b2b1,wmo,storm constanța tulcea,2025-11-25T03:37:00+00:00,Romania,0.7063389717809999,0,2,ro,WCE,Europe
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,fog moldova,2025-11-27T03:34:00+00:00,Moldova,0.6235952493509209,1,1,ro,WCE,Europe
+'edf3f3d750',extremes,Storm,#b3b2b1,wmo,storm surge arad caraș severin timiș,2025-11-25T03:37:00+00:00,Romania,0.6124986681126885,1,1,ro,WCE,Europe
 '8cccfcd42d',extremes,Storm,#b3b2b1,wmo,storm alba hunedoara sibiu,2025-12-05T03:41:00+00:00,Romania,0.567990942124188,1,1,ro,WCE,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2025-12-10T03:45:00+00:00,Moldova,0.4482754791416027,0,2,ro,WCE,Europe
 '985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2025-12-12T03:46:00+00:00,Romania,0.4245704263620318,0,2,ro,WCE,Europe
@@ -13,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,ploaie abundentă nordul teritoriului,2025-11-26T03:37:00+00:00,Australia,0.3187491654813343,0,1,ro,CAU,Oceania
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,wildfire teritoriu de nord,2025-11-27T03:34:00+00:00,Australia,0.3186710523035853,0,1,ro,CAU,Oceania
 '6977afac24',extremes,Volcano,#b83202,eonet,vulcan puracé colombia,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,1,ro,NWS,South-America
-'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,1,ro,SAU,Oceania
 '8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,caniculă australia,2025-11-26T03:37:00+00:00,Australia,0.3166173437169293,0,1,ro,CAU,Oceania
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,inundatie albania,2025-11-30T03:47:00+00:00,Albania,0.3147785346184448,0,1,ro,MED,Europe
 '59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,wildfire queensland,2025-11-27T03:34:00+00:00,Australia,0.3125771822937785,0,1,ro,CAU,Oceania
@@ -43,4 +41,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,caniculă din teritoriul nordic,2025-11-26T03:37:00+00:00,Australia,0.2705942852198221,1,1,ro,NAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,inundație rapidă queensland,2025-11-26T03:37:00+00:00,Australia,0.2704460415770781,1,1,ro,CAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,vară umedă New South Wales,2025-11-27T03:34:00+00:00,Australia,0.2702642822971516,1,1,ro,EAU,Oceania
+'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave victoria,2025-12-04T03:42:00+00:00,Australia,0.2692333508802405,1,1,ro,SAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,wmo,inundarea australiei,2025-11-24T03:46:00+00:00,Australia,0.2681482887042349,1,1,ro,CAU,Oceania
