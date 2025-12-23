@@ -1,11 +1,21 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,fog moldova,2025-12-18T03:44:00+00:00,Moldova,0.6268763782898695,1,1,ro,WCE,Europe
+'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2025-12-19T03:46:00+00:00,Romania,0.45328527386610445,0,2,ro,WCE,Europe
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2025-12-07T03:47:00+00:00,Moldova,0.4377022566975486,1,1,ro,WCE,Europe
+'885597e0f4',extremes,Wildfire,#d60d2b,wmo,wildfire australia,2025-12-05T03:41:00+00:00,Australia,0.3025596841486156,0,2,ro,CAU,Oceania
 '25bb73581e',extremes,Flood,#030ba1,wmo,flashflood filipine,2025-12-07T03:47:00+00:00,Philippines,0.30242348056156,0,2,ro,SEA,Asia
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,caniculă rusia,2025-12-10T03:45:00+00:00,Russia,0.3024090499046859,0,2,ro,ESB,Europe
 '3a583bc64a',extremes,Drought,#edc291,edo,secetă republică centralafricană,2025-12-03T03:40:00+00:00,Central African Republic,0.3023828258899474,0,2,ro,CAF,Africa
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,ploaie noua zeelanda,2025-12-02T03:41:00+00:00,New Zealand,0.3023686986462397,0,2,ro,NZ,Oceania
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,wildfire russia,2025-12-07T03:47:00+00:00,Russia,0.302308713280931,0,2,ro,ESB,Europe
+'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială insulele Solomon,2025-12-10T03:45:00+00:00,Solomon Islands,0.3022670112011385,0,2,ro,EPO,Oceania
+'559acde5fe',extremes,Fog,#d60d2b,wmo,ceață serbia,2025-12-01T04:02:00+00:00,Serbia,0.3022448158326494,0,2,ro,MED,Europe
+'50a3485796',extremes,Flood,#030ba1,wmo,inundație fulgerătoare norvegia,2025-12-01T04:02:00+00:00,Norway,0.30220498848842503,0,2,ro,NEU,Europe
+'87ba69f7f2',extremes,Storm,#b3b2b1,wmo,storm surge maldive,2025-12-01T04:02:00+00:00,Maldives,0.30217309396835157,0,2,ro,EIO,Indian Ocean
+'11db661ab4',extremes,Thunderstorm,#53785a,wmo,vreme severă maldive,2025-12-18T03:44:00+00:00,Maldives,0.30206904240991184,0,2,ro,EIO,Indian Ocean
+'ae340540d6',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie argentina,2025-12-14T03:49:00+00:00,Argentina,0.30204388695869916,0,2,ro,SES,South-America
+'0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,wildfire china,2025-12-05T03:41:00+00:00,China,0.3020267391424865,0,2,ro,EAS,Asia
+'5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,grindină qatar,2025-12-13T03:38:00+00:00,Qatar,0.30200863047215887,0,2,ro,ARP,Asia
 '8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2025-12-01T04:02:00+00:00,Romania,0.2928650476555112,3,1,ro,WCE,Europe
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,vară umedă New South Wales,2025-11-27T03:34:00+00:00,Australia,0.2702642822971516,1,1,ro,EAU,Oceania
 '5ea67ea4a7',extremes,Drought,#edc291,edo,secetă din Trinidad și Tobago,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.2646681010909014,1,1,ro,NSA,North-America
@@ -89,7 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,furtună africa de sud,2025-12-08T03:44:00+00:00,South Africa,0.2571813061558382,1,1,ro,WSAF,Africa
 'fe75824d98',extremes,Snow&Ice,#d60d2b,wmo,Finlanda înghețată,2025-12-01T04:02:00+00:00,Finland,0.2571717719232649,1,1,ro,NEU,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,storm surge brazil,2025-12-14T03:49:00+00:00,Brazil,0.2571574304222133,1,1,ro,SAM,South-America
-'25902e48eb',extremes,Storm,#b3b2b1,wmo,storm territorio nacional.,2025-12-08T03:44:00+00:00,Paraguay,0.25712797409168914,1,1,ro,SES,South-America
+'25902e48eb',extremes,Storm,#b3b2b1,wmo,storm territorio nacional.,2025-12-08T03:44:00+00:00,Paraguay,0.2571279740916891,1,1,ro,SES,South-America
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,alunecare de stâncă norvegia,2025-12-12T03:45:00+00:00,Norway,0.2569966844988926,1,1,ro,NEU,Europe
 '8cccfcd42d',extremes,Storm,#b3b2b1,wmo,storm alba hunedoara sibiu,2025-12-05T03:41:00+00:00,Romania,0.2520205984723822,6,1,ro,WCE,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2025-12-10T03:45:00+00:00,Moldova,0.2347419349324112,4,1,ro,WCE,Europe
