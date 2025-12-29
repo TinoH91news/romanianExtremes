@@ -1,23 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2025-12-01T04:02:00+00:00,Romania,0.3468247283952643,3,1,ro,WCE,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2025-12-03T03:40:00+00:00,Moldova,0.3358273344287035,2,1,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2025-11-30T03:47:00+00:00,Moldova,0.3215731139681903,2,2,ro,WCE,Europe
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2025-12-07T03:47:00+00:00,Moldova,0.3162398804639788,3,1,ro,WCE,Europe
 'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,grindină noua zeelandă,2025-12-02T03:41:00+00:00,New Zealand,0.3040394466418858,1,1,ro,NZ,Oceania
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,wildfire russia,2025-12-07T03:47:00+00:00,Russia,0.302308713280931,1,1,ro,ESB,Europe
 '1a2d89fcc9',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie pe coasta Kaikoura,2025-12-03T03:40:00+00:00,New Zealand,0.3016711411500021,1,1,ro,NZ,Oceania
-'20a8865cfc',extremes,Storm,#b3b2b1,aidr,furtuna brisbane 2014,2025-12-13T03:38:00+00:00,Australia,0.3012806166704327,0,2,ro,EAU,Oceania
-'33030ebc24',extremes,Flood,#030ba1,wmo,inundarea Franței,2025-12-06T03:32:00+00:00,France,0.3012751851671205,0,2,ro,WCE,Europe
-'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,ploaie argentina,2025-12-16T03:47:00+00:00,Argentina,0.3012320105111286,0,2,ro,SES,South-America
-'fe7870f943',extremes,Wildfire,#d60d2b,wmo,incendiu wildfire oraș jinggangshan,2025-12-02T03:41:00+00:00,China,0.3012120212742524,0,2,ro,EAS,Asia
-'d3ea8177c3',extremes,Flood,#030ba1,wmo,inundarea statelor unite,2025-12-08T03:44:00+00:00,United States,0.3012027164081983,0,2,ro,CNA,North-America
-'6560ef8c08',extremes,Storm,#b3b2b1,wmo,storm litoral,2025-12-19T03:46:00+00:00,Ecuador,0.3011818994246616,0,2,ro,NWS,South-America
-'00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclon australia,2025-12-12T03:46:00+00:00,Australia,0.3011009710432263,0,2,ro,NAU,Oceania
 '872efa97c6',extremes,Snow&Ice,#d60d2b,wmo,dempster de inghet,2025-12-03T03:40:00+00:00,Canada,0.3010617692466334,0,2,ro,NEN,North-America
-'8d1767f806',extremes,Storm,#b3b2b1,wmo,val de vijelie islanda,2025-12-08T03:44:00+00:00,Iceland,0.3010192053750318,0,2,ro,GIC,Europe
-'8cccfcd42d',extremes,Storm,#b3b2b1,wmo,storm alba hunedoara sibiu,2025-12-05T03:41:00+00:00,Romania,0.29649482173221436,5,1,ro,WCE,Europe
-'99d338c49c',extremes,Drought,#edc291,edo,secetă uzbekistan,2025-11-30T03:47:00+00:00,Uzbekistan,0.2618438425906376,1,1,ro,WCA,Asia
-'bc92de09b1',extremes,Flood,#030ba1,wmo,flashflood regatul unit,2025-11-30T03:46:00+00:00,United Kingdom,0.2582909458929938,1,1,ro,NEU,Europe
+'8cccfcd42d',extremes,Storm,#b3b2b1,wmo,storm alba hunedoara sibiu,2025-12-05T03:41:00+00:00,Romania,0.2964948217322143,5,1,ro,WCE,Europe
 '3e99480ef7',extremes,Drought,#edc291,edo,lipsa ploii uzbekistan,2025-12-06T03:32:00+00:00,Uzbekistan,0.2581433092486364,3,1,ro,WCA,Asia
 '388a6dbadc',extremes,Storm,#b3b2b1,wmo,furtuna algeria,2025-12-06T03:32:00+00:00,Algeria,0.2580425451290766,4,1,ro,SAH,Africa
 '4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,ploaie insulele Solomon,2025-12-09T03:41:00+00:00,Solomon Islands,0.2577262696565561,3,1,ro,EPO,Oceania
@@ -33,20 +22,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3421a57149',extremes,Storm,#b3b2b1,wmo,furtuna ecuador,2025-12-19T03:46:00+00:00,Ecuador,0.2563463688420165,1,1,ro,NWS,South-America
 'd709206c08',extremes,Storm,#b3b2b1,wmo,furtuna reg. 15 cordilieră,2025-12-18T03:44:00+00:00,Chile,0.2563243923944449,2,1,ro,SWS,South-America
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,aterizare în Australia,2025-12-08T03:45:00+00:00,Australia,0.256321644300266,2,1,ro,NAU,Oceania
-'aa56a8832c',extremes,Snow&Ice,#d60d2b,wmo,avalanșă etiopia,2025-12-14T03:49:00+00:00,Ethiopia,0.25623357698819466,1,1,ro,NEAF,Africa
-'61bcd02de5',extremes,Drought,#edc291,edo,seceta mozambic,2025-12-08T03:45:00+00:00,Mozambique,0.2561741668658107,2,1,ro,ESAF,Africa
+'aa56a8832c',extremes,Snow&Ice,#d60d2b,wmo,avalanșă etiopia,2025-12-14T03:49:00+00:00,Ethiopia,0.2562335769881946,1,1,ro,NEAF,Africa
 '5436243a4b',extremes,Wildfire,#d60d2b,wmo,wildfire stavropol krai,2025-12-05T03:41:00+00:00,Russia,0.2561711525093412,1,1,ro,ESB,Europe
 '1ff36d7a46',extremes,Drought,#edc291,edo,uscăciune belgia,2025-12-08T03:45:00+00:00,Belgium,0.2561674059815218,1,1,ro,WCE,Europe
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitation litoral,2025-12-18T03:44:00+00:00,Ecuador,0.2561553606699052,1,1,ro,NWS,South-America
 'f172d6090a',extremes,Precipitation,#d60d2b,wmo,ploaie taranaki,2025-12-02T03:41:00+00:00,New Zealand,0.2561509884527439,1,1,ro,NZ,Oceania
 '82b998a6aa',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială wairarapa,2025-12-03T03:40:00+00:00,New Zealand,0.2561219882907699,1,1,ro,NZ,Oceania
 'fb43bdaa2f',extremes,Drought,#edc291,edo,uscăciune Saint Pierre și Miquelon,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.2561213211074665,1,1,ro,ENA,North-America
-'614aacfa91',extremes,Thunderstorm,#53785a,wmo,vreme severă iran,2025-12-03T03:40:00+00:00,Iran,0.25609249217075936,1,1,ro,WCA,Asia
+'614aacfa91',extremes,Thunderstorm,#53785a,wmo,vreme severă iran,2025-12-03T03:40:00+00:00,Iran,0.2560924921707593,1,1,ro,WCA,Asia
+'20a8865cfc',extremes,Storm,#b3b2b1,aidr,furtuna brisbane 2014,2025-12-13T03:38:00+00:00,Australia,0.25608852416986777,1,1,ro,EAU,Oceania
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,ploaie argentina,2025-12-16T03:47:00+00:00,Argentina,0.25604720893445926,1,1,ro,SES,South-America
+'fe7870f943',extremes,Wildfire,#d60d2b,wmo,incendiu wildfire oraș jinggangshan,2025-12-02T03:41:00+00:00,China,0.25603021808311455,1,1,ro,EAS,Asia
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,inundarea statelor unite,2025-12-08T03:44:00+00:00,United States,0.25602230894696854,1,1,ro,CNA,North-America
+'6560ef8c08',extremes,Storm,#b3b2b1,wmo,storm litoral,2025-12-19T03:46:00+00:00,Ecuador,0.25600461451096235,1,1,ro,NWS,South-America
+'00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclon australia,2025-12-12T03:46:00+00:00,Australia,0.25593582538674237,1,1,ro,NAU,Oceania
+'8d1767f806',extremes,Storm,#b3b2b1,wmo,val de vijelie islanda,2025-12-08T03:44:00+00:00,Iceland,0.255866324568777,1,1,ro,GIC,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2025-12-19T03:46:00+00:00,Romania,0.2366177459910681,4,1,ro,WCE,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2025-12-10T03:45:00+00:00,Moldova,0.2347419349324112,4,1,ro,WCE,Europe
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,furtună australia,2025-12-05T03:41:00+00:00,Australia,0.2329501754666308,3,1,ro,SAU,Oceania
 '985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2025-12-12T03:46:00+00:00,Romania,0.2316099701926806,4,1,ro,WCE,Europe
-'6dfc67df50',extremes,Flood,#030ba1,cmeter,inundatie albania,2025-11-30T03:47:00+00:00,Albania,0.2274274912618263,3,1,ro,MED,Europe
 '5ea67ea4a7',extremes,Drought,#edc291,edo,secetă din Trinidad și Tobago,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.2249678859272661,2,1,ro,NSA,North-America
 '291335c911',extremes,Drought,#edc291,edo,lipsa ploii gabon,2025-12-08T03:45:00+00:00,Gabon,0.2244817342600409,2,1,ro,CAF,Africa
 '5a20612e67',extremes,Drought,#edc291,edo,lipsa de ploaie Trinidad și Tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.2238869649907922,2,1,ro,NSA,North-America
@@ -73,7 +67,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,storm surge uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.2202701132700184,2,1,ro,SES,South-America
 '4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclon ciclon acordă Katherine inundații deraiere tren deversare chimică,2025-12-01T04:03:00+00:00,Australia,0.2202607536892216,2,1,ro,NAU,Oceania
 'c2b6fa6e9e',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie de la atolul baa la atolul alif alif,2025-12-04T03:42:00+00:00,Maldives,0.2202504340283405,3,1,ro,EIO,Indian Ocean
-'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială brazilia,2025-11-28T03:34:00+00:00,Brazil,0.2202384120358523,2,1,ro,SAM,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,furtuna paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.220198689090575,2,1,ro,SES,South-America
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,ploaie على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.220144727373883,2,1,ro,SAH,Africa
 '9d50c81991',extremes,Precipitation,#d60d2b,wmo,precipitaţii eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.2201313407002703,3,1,ro,ESAF,Africa
@@ -88,7 +81,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,wildfire madhya pradesh,2025-11-30T03:46:00+00:00,India,0.2198864236577934,2,1,ro,SAS,Asia
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,avalanșă canada,2025-12-10T03:45:00+00:00,Canada,0.2198773715790272,2,1,ro,NEN,North-America
 'dc8be80c47',extremes,Drought,#edc291,edo,uscăciune insulele Feroe,2025-12-05T03:41:00+00:00,Faroe Islands,0.2198525100808949,2,1,ro,NEU,Europe
-'80d6b52deb',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.2198408579376766,3,1,ro,SAH,Africa
 'a2c72301a8',extremes,Drought,#edc291,edo,secetă cameroon,2025-12-08T03:45:00+00:00,Cameroon,0.219823070995584,2,1,ro,CAF,Africa
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,storm surge Africa de Sud,2025-12-01T04:02:00+00:00,South Africa,0.219783041211727,2,1,ro,WSAF,Africa
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,val de furtună paraguay,2025-11-30T03:46:00+00:00,Paraguay,0.2197617675355778,2,1,ro,SES,South-America
@@ -96,10 +88,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf84083cec',extremes,Landslide,#572c03,wmo,alunecare de teren norvegia,2025-12-10T03:45:00+00:00,Norway,0.2196322649591729,2,1,ro,NEU,Europe
 '14ecb8c2a0',extremes,Drought,#edc291,edo,seceta nigeria,2025-12-08T03:45:00+00:00,Nigeria,0.2195686788713353,2,1,ro,WAF,Africa
 '912d7e568c',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială rusia,2025-12-07T03:47:00+00:00,Russia,0.2195603831634852,2,1,ro,ESB,Europe
+'bc92de09b1',extremes,Flood,#030ba1,wmo,flashflood regatul unit,2025-11-30T03:46:00+00:00,United Kingdom,0.2195473040090447,2,1,ro,NEU,Europe
 '3336c980ab',extremes,Earthquake,#870007,usgs,cutremur sfanta elena,2025-12-08T03:44:00+00:00,Saint Helena,0.2195380930349691,2,1,ro,EAO,Atlantic Ocean
-'3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2025-12-03T03:40:00+00:00,Canada,0.2194971190275187,4,1,ro,NEN,North-America
 'e84ad823fc',extremes,Thunderstorm,#53785a,wmo,grindină maldive,2025-12-02T03:41:00+00:00,Maldives,0.2194894954554991,2,1,ro,EIO,Indian Ocean
-'8982a15e86',extremes,Wildfire,#d60d2b,wmo,wildfire teritoriu nordic barkly nord,2025-12-01T04:02:00+00:00,Australia,0.2194742754583548,3,1,ro,CAU,Oceania
 'ebb583160c',extremes,Precipitation,#d60d2b,wmo,ploaie vertiginoasă și părțile de est,2025-12-06T03:32:00+00:00,Madagascar,0.2194196341891226,3,1,ro,MDG,Africa
 '1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,ceață lituania,2025-11-30T03:46:00+00:00,Lithuania,0.2194167013727907,2,1,ro,WCE,Europe
 'd61de81685',extremes,Storm,#b3b2b1,wmo,storm surge chile,2025-12-09T03:41:00+00:00,Chile,0.2194012353540918,2,1,ro,SWS,South-America
@@ -107,19 +98,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,storm vanuatu,2025-12-06T03:32:00+00:00,Vanuatu,0.2193343854768005,2,1,ro,SPO,Oceania
 '2de1728bca',extremes,Storm,#b3b2b1,wmo,storm surge eswatini,2025-12-06T03:32:00+00:00,Eswatini,0.2193218793192741,2,1,ro,ESAF,Africa
 '4496a0cd3b',extremes,Storm,#b3b2b1,wmo,storm surge territorio nacional.,2025-12-01T04:02:00+00:00,Paraguay,0.2193089770326454,2,1,ro,SES,South-America
-'84a2fde8e0',extremes,Heat Wave,#c40202,wmo,val de căldură australia,2025-12-09T03:41:00+00:00,Australia,0.21926252994615628,3,1,ro,CAU,Oceania
+'84a2fde8e0',extremes,Heat Wave,#c40202,wmo,val de căldură australia,2025-12-09T03:41:00+00:00,Australia,0.2192625299461562,3,1,ro,CAU,Oceania
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,precipitaţii new zealand,2025-12-02T03:41:00+00:00,New Zealand,0.2192333320845574,3,1,ro,NZ,Oceania
 '7f4bbe1e4f',extremes,Thunderstorm,#53785a,wmo,vreme severă zimbabwe,2025-12-05T03:41:00+00:00,Zimbabwe,0.2192008029889649,2,1,ro,ESAF,Africa
 'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,caniculă rio cuarto y alrededores,2025-12-07T03:47:00+00:00,Argentina,0.2191366581183937,3,1,ro,SES,South-America
 '515277a569',extremes,Flood,#030ba1,wmo,inundarea Regatului Unit,2025-12-01T04:02:00+00:00,United Kingdom,0.2191186794465793,2,1,ro,NEU,Europe
-'cf99db758d',extremes,Fog,#d60d2b,wmo,ceață letonia,2025-12-01T04:02:00+00:00,Latvia,0.2191017456296775,3,1,ro,WCE,Europe
 '42eb55f644',extremes,Precipitation,#d60d2b,wmo,precipitaţii libia,2025-12-04T03:42:00+00:00,Libya,0.2191002030457721,4,1,ro,SAH,Africa
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,storm africa de sud,2025-12-07T03:47:00+00:00,South Africa,0.219056885222534,2,1,ro,WSAF,Africa
 'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2025-12-07T03:46:00+00:00,Alaska,0.218949537962467,2,1,ro,NWN,North-America
 'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,uragan filipine,2025-12-04T03:42:00+00:00,Philippines,0.2188401264575551,2,1,ro,SEA,Asia
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială tanzania,2025-12-11T03:46:00+00:00,Tanzania,0.218774902153021,2,1,ro,SEAF,Africa
 '8f00e2675b',extremes,Snow&Ice,#d60d2b,wmo,ger etiopia,2025-12-11T03:46:00+00:00,Ethiopia,0.218755931946101,2,1,ro,NEAF,Africa
-'93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,taifun australia,2025-12-07T03:47:00+00:00,Australia,0.2187117425446995,2,1,ro,NAU,Oceania
 '9d5914f39c',extremes,Storm,#b3b2b1,wmo,furtună sud islandeză,2025-11-30T03:46:00+00:00,Iceland,0.2186914774540469,2,1,ro,GIC,Europe
 '17b34b3e5b',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială golf din abundenţă inclusiv rotorua,2025-12-02T03:41:00+00:00,New Zealand,0.218669169888211,3,1,ro,NZ,Oceania
 '2876c1c93a',extremes,Landslide,#572c03,wmo,alunecare de noroi norvegia,2025-12-10T03:45:00+00:00,Norway,0.2186271059210889,2,1,ro,NEU,Europe
@@ -152,7 +141,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,grindină seychelles,2025-12-16T03:47:00+00:00,Seychelles,0.217950780113554,3,1,ro,EIO,Africa
 '3640cbbb22',extremes,Flood,#030ba1,wmo,inundație de sud-vest a Angliei,2025-12-09T03:41:00+00:00,United Kingdom,0.2179349690512199,2,1,ro,NEU,Europe
 '3dea46c095',extremes,Flood,#030ba1,wmo,inundații fulgerătoare Statele Unite ale Americii,2025-12-08T03:44:00+00:00,United States,0.2179234112389075,2,1,ro,CNA,North-America
-'6cf82d1771',extremes,Flood,#030ba1,wmo,inundarea filipinei,2025-12-07T03:47:00+00:00,Philippines,0.21767789110436617,2,1,ro,SEA,Asia
+'6cf82d1771',extremes,Flood,#030ba1,wmo,inundarea filipinei,2025-12-07T03:47:00+00:00,Philippines,0.2176778911043661,2,1,ro,SEA,Asia
 '6977afac24',extremes,Volcano,#b83202,eonet,vulcan puracé colombia,2025-12-06T03:32:00+00:00,Colombia,0.1950174122789294,3,1,ro,NWS,South-America
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave victoria,2025-12-04T03:42:00+00:00,Australia,0.1945210960109737,3,1,ro,SAU,Oceania
 '8a654473a4',extremes,Drought,#edc291,edo,seceta sao tome si principe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.1921384689776782,3,1,ro,WAF,Africa
@@ -167,11 +156,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27e5411070',extremes,Precipitation,#d60d2b,wmo,ploaie ploaie insulele Solomon,2025-12-11T03:46:00+00:00,Solomon Islands,0.1879584662260341,3,1,ro,EPO,Oceania
 'c72865acbd',extremes,Drought,#edc291,edo,lipsa ploii togo,2025-12-08T03:45:00+00:00,Togo,0.1877534164224841,3,1,ro,WAF,Africa
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie Noua Zeelandă,2025-12-14T03:49:00+00:00,New Zealand,0.1876882509695896,3,1,ro,NZ,Oceania
-'93f18e9364',extremes,Heat Wave,#c40202,wmo,caniculă argentina,2025-12-01T04:02:00+00:00,Argentina,0.1872189446358549,3,1,ro,SES,South-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,canada înghețată,2025-12-04T03:42:00+00:00,Canada,0.1871401819710201,3,1,ro,NEN,North-America
 '8be002d270',extremes,Drought,#edc291,edo,lipsa ploii venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.1868074129725386,3,1,ro,NSA,South-America
-'30e79eda20',extremes,Storm,#b3b2b1,wmo,furtuna sud-est a islandei,2025-12-01T04:02:00+00:00,Iceland,0.18636441104592172,3,1,ro,GIC,Europe
-'88f49d6040',extremes,Storm,#b3b2b1,wmo,storm zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.1858675192252757,3,1,ro,NWS,South-America
-'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială insulele Solomon,2025-12-10T03:45:00+00:00,Solomon Islands,0.18562972825389912,3,1,ro,EPO,Oceania
+'93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,taifun australia,2025-12-07T03:47:00+00:00,Australia,0.18590498116299456,3,1,ro,NAU,Oceania
+'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială insulele Solomon,2025-12-10T03:45:00+00:00,Solomon Islands,0.1856297282538991,3,1,ro,EPO,Oceania
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,furtună bahrain,2025-12-19T03:46:00+00:00,Bahrain,0.1854310284469072,3,1,ro,ARP,Asia
 'c85db986fe',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială madagascar,2025-12-06T03:32:00+00:00,Madagascar,0.1588748428818334,4,1,ro,MDG,Africa
+'88f49d6040',extremes,Storm,#b3b2b1,wmo,storm zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.15798739134148435,4,1,ro,NWS,South-America
