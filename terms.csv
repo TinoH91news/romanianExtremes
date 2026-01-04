@@ -1,21 +1,17 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2025-12-01T04:02:00+00:00,Romania,0.5647461484148413,0,2,ro,WCE,Europe
-'8cccfcd42d',extremes,Storm,#b3b2b1,wmo,storm alba hunedoara sibiu,2025-12-05T03:41:00+00:00,Romania,0.4827923008055598,2,1,ro,WCE,Europe
-'126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2025-11-30T03:47:00+00:00,Moldova,0.44431565185908706,0,2,ro,WCE,Europe
+'8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2025-12-01T04:02:00+00:00,Romania,0.4800342261526151,1,1,ro,WCE,Europe
+'8cccfcd42d',extremes,Storm,#b3b2b1,wmo,storm alba hunedoara sibiu,2025-12-05T03:41:00+00:00,Romania,0.41037345568472583,3,1,ro,WCE,Europe
+'126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2025-11-30T03:47:00+00:00,Moldova,0.37766833408022393,1,1,ro,WCE,Europe
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2025-12-07T03:47:00+00:00,Moldova,0.3720469181929163,2,1,ro,WCE,Europe
 '75579b650e',extremes,Drought,#edc291,edo,seceta romania,2025-12-11T03:46:00+00:00,Romania,0.3640675820271553,1,1,ro,WCE,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2025-12-03T03:40:00+00:00,Moldova,0.3358273344287035,2,1,ro,WCE,Europe
-'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,ro,SAU,Oceania
-'6dfc67df50',extremes,Flood,#030ba1,cmeter,inundatie albania,2025-11-30T03:47:00+00:00,Albania,0.31477853461844485,0,2,ro,MED,Europe
-'8a654473a4',extremes,Drought,#edc291,edo,seceta sao tome si principe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.31286540847169286,0,2,ro,WAF,Africa
-'0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,India înghețată,2025-12-07T03:47:00+00:00,India,0.30940581612136264,0,2,ro,SAS,Asia
-'da5c6d0821',extremes,Drought,#edc291,edo,lipsa ploii Kârgâzstan,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.30882337474258037,0,2,ro,WCA,Asia
-'99d338c49c',extremes,Drought,#edc291,edo,secetă uzbekistan,2025-11-30T03:47:00+00:00,Uzbekistan,0.30805157951839723,0,2,ro,WCA,Asia
-'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,precipitaţii albania,2025-12-01T04:03:00+00:00,Albania,0.30636965833800445,0,2,ro,MED,Europe
+'0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,India înghețată,2025-12-07T03:47:00+00:00,India,0.3094058161213626,0,2,ro,SAS,Asia
+'da5c6d0821',extremes,Drought,#edc291,edo,lipsa ploii Kârgâzstan,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.3088233747425803,0,2,ro,WCA,Asia
+'99d338c49c',extremes,Drought,#edc291,edo,secetă uzbekistan,2025-11-30T03:47:00+00:00,Uzbekistan,0.3080515795183972,0,2,ro,WCA,Asia
+'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,precipitaţii albania,2025-12-01T04:03:00+00:00,Albania,0.3063696583380044,0,2,ro,MED,Europe
 '4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclon ciclon acordă Katherine inundații deraiere tren deversare chimică,2025-12-01T04:03:00+00:00,Australia,0.3048591746563622,0,2,ro,NAU,Oceania
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,furtuna paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.3047732720976817,0,2,ro,SES,South-America
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,ploaie على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.3046985846005302,0,2,ro,SAH,Africa
-'042968096b',extremes,Storm,#b3b2b1,wmo,furtuna islanda,2025-12-02T03:41:00+00:00,Iceland,0.3045606836582313,0,2,ro,GIC,Europe
 '7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,furtuna noua zeelanda,2025-11-30T03:46:00+00:00,New Zealand,0.3045580522474928,0,2,ro,NZ,Oceania
 '06adbcbae1',extremes,Drought,#edc291,edo,uscăciune madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.3044840775775195,0,2,ro,MDG,Africa
 '9044bc0335',extremes,Earthquake,#870007,usgs,cutremur georgetown,2025-11-30T03:46:00+00:00,Saint Helena,0.3043485780202859,0,2,ro,EAO,Atlantic Ocean
@@ -26,6 +22,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06285e171c',extremes,Flood,#030ba1,wmo,inundarea Norvegiei,2025-12-02T03:41:00+00:00,Norway,0.3036267732979363,0,2,ro,NEU,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2025-12-10T03:45:00+00:00,Moldova,0.2872130995189421,4,1,ro,WCE,Europe
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,fog moldova,2025-12-18T03:44:00+00:00,Moldova,0.2781483793279747,6,1,ro,WCE,Europe
+'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave victoria,2025-12-04T03:42:00+00:00,Australia,0.2692333508802405,1,1,ro,SAU,Oceania
+'8a654473a4',extremes,Drought,#edc291,edo,seceta sao tome si principe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.2659355972009389,1,1,ro,WAF,Africa
 '2407b3a8ab',extremes,Drought,#edc291,edo,uscăciune burundi,2025-12-03T03:40:00+00:00,Burundi,0.2619463335373195,1,1,ro,SEAF,Africa
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,ice canada,2025-12-02T03:41:00+00:00,Canada,0.2592510231915779,1,2,ro,NEN,North-America
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,furtuna uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.2592446518846215,1,1,ro,SES,South-America
@@ -90,7 +88,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,ploaie argentina,2025-12-16T03:47:00+00:00,Argentina,0.2177901425942903,2,1,ro,SES,South-America
 '5436243a4b',extremes,Wildfire,#d60d2b,wmo,wildfire stavropol krai,2025-12-05T03:41:00+00:00,Russia,0.21774547963294,2,1,ro,ESB,Europe
 '1ff36d7a46',extremes,Drought,#edc291,edo,uscăciune belgia,2025-12-08T03:45:00+00:00,Belgium,0.2177422950842935,2,1,ro,WCE,Europe
-'fb43bdaa2f',extremes,Drought,#edc291,edo,uscăciune Saint Pierre și Miquelon,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.2177031229413465,2,1,ro,ENA,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundarea statelor unite,2025-12-08T03:44:00+00:00,United States,0.2176189626049232,2,1,ro,CNA,North-America
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclon australia,2025-12-12T03:46:00+00:00,Australia,0.2175454515787309,2,1,ro,NAU,Oceania
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2025-12-19T03:46:00+00:00,Romania,0.2011250840924079,5,1,ro,WCE,Europe
