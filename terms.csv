@@ -1,11 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-01-15T10:57:00+00:00,Romania,0.7890886618771866,0,1,ro,WCE,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-01-15T10:57:00+00:00,Moldova,0.6702010056578596,1,1,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-01-15T12:14:00+00:00,Moldova,0.6348060406713669,0,1,ro,WCE,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-01-15T10:39:00+00:00,,0.4989089366075219,1,2,ro,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,căldură,2026-01-15T10:39:00+00:00,,0.4988841633594203,1,3,ro,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,viscol de praf,2026-01-15T10:39:00+00:00,,0.4988656287900779,1,2,ro,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4307302862723958,1,2,ro,,
+'1c38b19449',extremes,Storm,#b3b2b1,random,boluri de praf,2026-01-15T10:39:00+00:00,,0.4099359567017878,0,1,ro,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-01-15T10:39:00+00:00,,0.4099008832218642,0,1,ro,,
+'82d648b882',extremes,Drought,#edc291,random,seceta,2026-01-15T10:39:00+00:00,,0.40983057390482674,0,1,ro,,
 '62084daeb0',extremes,Earthquake,#870007,random,cutremur,2026-01-15T10:39:00+00:00,,0.4097458683214559,0,1,ro,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centru național pentru uragane,2026-01-15T10:39:00+00:00,,0.4089201669038112,0,1,ro,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-01-15T10:20:00+00:00,,0.3690018706965229,1,3,ro,,
@@ -28,6 +31,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,vârtej,2026-01-15T10:56:00+00:00,,0.3314856725807237,0,1,ro,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gheață de mare arctică,2025-12-12T03:45:00+00:00,,0.3303946277240399,1,1,ro,,
 '45f861329d',extremes,Landslide,#572c03,aidr,alunecare de teren adelaide hills south australia,2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,ro,SAU,Oceania
+'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym vulcano vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,ro,SPO,Oceania
+'6f7179aa00',extremes,Volcano,#b83202,eonet,vulcan filipine,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,ro,SEA,Asia
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,inundarea râului australia,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,ro,EAU,Oceania
+'ebe314dd99',extremes,Flood,#030ba1,aidr,precipitații abundente și inundații Queensland februarie 2020,2026-01-15T10:57:00+00:00,Australia,0.3199146917595632,0,1,ro,EAU,Oceania
+'02f56319a7',extremes,Flood,#030ba1,wmo,inundație australia,2026-01-15T10:56:00+00:00,Australia,0.3199135658236194,0,1,ro,CAU,Oceania
+'3894a694d1',extremes,Flood,#030ba1,aidr,inundație fulgerătoare australia,2026-01-15T10:57:00+00:00,Australia,0.3199061281685654,0,1,ro,EAU,Oceania
+'6852666385',extremes,Earthquake,#870007,usgs,cutremur port mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.3198614496640228,0,1,ro,SIO,Indian Ocean
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,furtună australia,2025-12-05T03:41:00+00:00,Australia,0.3087605287264497,0,2,ro,SAU,Oceania
 '989439d143',extremes,Snow&Ice,#d60d2b,wmo,gheață etiopia,2025-12-09T03:41:00+00:00,Ethiopia,0.3075462733965737,0,2,ro,NEAF,Africa
 'c4be795f03',extremes,Drought,#edc291,edo,lipsa ploii guinea ecuatoriala,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.3071540363877651,0,2,ro,WAF,Africa
