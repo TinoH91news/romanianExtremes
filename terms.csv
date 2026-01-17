@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-01-15T10:57:00+00:00,Romania,0.7890886618771866,0,1,ro,WCE,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-01-15T10:57:00+00:00,Moldova,0.6702010056578596,1,1,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-01-15T12:14:00+00:00,Moldova,0.6348060406713669,0,1,ro,WCE,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-01-15T10:39:00+00:00,,0.4989089366075219,1,2,ro,,
@@ -9,12 +10,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '15a9c61e3e',extremes,Landslide,#572c03,random,alunecare,2026-01-15T12:13:00+00:00,,0.4173400490065645,1,2,ro,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-01-15T10:39:00+00:00,,0.4099008832218642,0,1,ro,,
 '62084daeb0',extremes,Earthquake,#870007,random,cutremur,2026-01-15T10:39:00+00:00,,0.4097458683214559,0,1,ro,,
+'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ploaie puternică,2026-01-17T03:44:00+00:00,,0.3888307895574756,0,1,ro,,
 '82d648b882',extremes,Drought,#edc291,random,seceta,2026-01-15T10:39:00+00:00,,0.3806062128191027,1,1,ro,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-01-15T10:20:00+00:00,,0.3690018706965229,1,3,ro,,
+'59b5340b69',extremes,Precipitation,#d60d2b,random,frontul meteo,2026-01-15T10:56:00+00:00,,0.36100498685681265,0,1,ro,,
+'283b154c38',extremes,Wet Spell,#d60d2b,random,vrajă umedă,2026-01-15T12:13:00+00:00,,0.3602027799732853,0,1,ro,,
+'538eadceb4',extremes,Heat Wave,#c40202,random,iarnă blândă,2026-01-17T03:44:00+00:00,,0.34864645073840245,0,1,ro,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,lăcustă,2025-12-15T03:53:00+00:00,,0.3485064152251044,1,1,ro,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,boluri de praf,2026-01-15T10:39:00+00:00,,0.3484455631965196,1,1,ro,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centru național pentru uragane,2026-01-15T10:39:00+00:00,,0.3475821418682395,1,1,ro,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclon,2026-01-15T10:56:00+00:00,,0.3453068999447984,0,1,ro,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,tornadă,2026-01-17T03:44:00+00:00,,0.34387966352720745,0,1,ro,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,diavol de praf,2026-01-15T10:56:00+00:00,,0.34341234140124,0,1,ro,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,lăcuste,2026-01-15T10:56:00+00:00,,0.3419969009279606,0,1,ro,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mercurul scade,2025-12-16T03:46:00+00:00,,0.3410230205559805,1,1,ro,,
@@ -24,6 +30,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,furtună tropicală,2025-12-19T03:45:00+00:00,,0.3350258033420993,1,1,ro,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,viscol,2026-01-15T10:56:00+00:00,,0.3344515297349608,0,1,ro,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,vârtej,2026-01-15T10:56:00+00:00,,0.3314856725807237,0,1,ro,,
+'5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-01-17T03:44:00+00:00,,0.3294232107700241,0,1,ro,,
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rime winter,2026-01-17T03:44:00+00:00,,0.32880302696201225,0,1,ro,,
+'69791e5a17',extremes,Flood,#030ba1,random,inundaţie fulgerătoare,2026-01-17T03:44:00+00:00,,0.32732760858219745,0,1,ro,,
+'776fe47817',extremes,Wildfire,#d60d2b,random,wildfire,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,ro,,
 '45f861329d',extremes,Landslide,#572c03,aidr,alunecare de teren adelaide hills south australia,2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,ro,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym vulcano vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,ro,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulcan filipine,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,ro,SEA,Asia
