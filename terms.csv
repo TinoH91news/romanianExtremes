@@ -9,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4307302862723958,1,2,ro,,
 '560b05d603',extremes,Heat Wave,#c40202,random,val de căldură,2026-01-18T03:56:00+00:00,,0.4290635194565841,1,2,ro,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclon,2026-01-15T10:56:00+00:00,,0.4259609849530786,1,2,ro,,
+'6f7179aa00',extremes,Volcano,#b83202,eonet,vulcan filipine,2026-01-15T10:56:00+00:00,Philippines,0.4222808906448024,1,2,ro,SEA,Asia
 '15a9c61e3e',extremes,Landslide,#572c03,random,alunecare,2026-01-15T12:13:00+00:00,,0.4173400490065645,1,2,ro,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-01-15T10:39:00+00:00,,0.4099008832218642,0,1,ro,,
 '62084daeb0',extremes,Earthquake,#870007,random,cutremur,2026-01-15T10:39:00+00:00,,0.4097458683214559,0,1,ro,,
@@ -24,13 +25,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,furtună tropicală,2025-12-19T03:45:00+00:00,,0.3350258033420993,1,1,ro,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,viscol,2026-01-15T10:56:00+00:00,,0.3344515297349608,0,1,ro,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ploaie puternică,2026-01-17T03:44:00+00:00,,0.3309562161238542,1,1,ro,,
-'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rime winter,2026-01-17T03:44:00+00:00,,0.3288030269620122,0,1,ro,,
-'69791e5a17',extremes,Flood,#030ba1,random,inundaţie fulgerătoare,2026-01-17T03:44:00+00:00,,0.3273276085821974,0,1,ro,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-01-17T03:44:00+00:00,,0.3258695700636114,1,2,ro,,
-'776fe47817',extremes,Wildfire,#d60d2b,random,wildfire,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,ro,,
-'45f861329d',extremes,Landslide,#572c03,aidr,alunecare de teren adelaide hills south australia,2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,ro,SAU,Oceania
-'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym vulcano vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,ro,SPO,Oceania
-'6f7179aa00',extremes,Volcano,#b83202,eonet,vulcan filipine,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,ro,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,inundarea râului australia,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,ro,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,precipitații abundente și inundații Queensland februarie 2020,2026-01-15T10:57:00+00:00,Australia,0.3199146917595632,0,1,ro,EAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,inundație australia,2026-01-15T10:56:00+00:00,Australia,0.3199135658236194,0,1,ro,CAU,Oceania
@@ -79,6 +74,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,lăcuste,2026-01-15T10:56:00+00:00,,0.2906973657887665,1,1,ro,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,izbucnirea lacului glaciar,2026-01-18T03:56:00+00:00,,0.2884934163704752,1,1,ro,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,temperatură arzătoare,2026-01-15T12:13:00+00:00,,0.2871362216175053,1,1,ro,,
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rime winter,2026-01-17T03:44:00+00:00,,0.27948257291771034,1,1,ro,,
+'69791e5a17',extremes,Flood,#030ba1,random,inundaţie fulgerătoare,2026-01-17T03:44:00+00:00,,0.2782284672948678,1,1,ro,,
+'776fe47817',extremes,Wildfire,#d60d2b,random,wildfire,2026-01-17T03:44:00+00:00,,0.2742407220415916,1,1,ro,,
+'45f861329d',extremes,Landslide,#572c03,aidr,alunecare de teren adelaide hills south australia,2026-01-15T10:57:00+00:00,Australia,0.27200641522510444,1,1,ro,SAU,Oceania
+'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym vulcano vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,ro,SPO,Oceania
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,precipitaţii tanzania,2025-12-18T03:44:00+00:00,Tanzania,0.2620014494686384,1,1,ro,SEAF,Africa
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2025-12-18T03:44:00+00:00,Brazil,0.2617451173728926,1,1,ro,SAM,South-America
 'b6cef22543',extremes,Drought,#edc291,random,restricție de apă,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,ro,,
