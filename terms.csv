@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-01-15T10:57:00+00:00,Romania,0.7890886618771866,0,1,ro,WCE,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-01-15T10:57:00+00:00,Moldova,0.6702010056578596,1,1,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-01-15T12:14:00+00:00,Moldova,0.6348060406713669,0,1,ro,WCE,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-01-15T10:39:00+00:00,,0.4989089366075219,1,2,ro,,
@@ -62,6 +63,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,cutremur Tajikistan,2026-01-15T10:56:00+00:00,Tajikistan,0.319793045756558,0,1,ro,WCA,Asia
 '8710bd49ea',extremes,Earthquake,#870007,usgs,cutremur severo kuril’sk,2026-01-15T10:56:00+00:00,Russia,0.3197921675817287,0,1,ro,RFE,Asia
 'db5f39549c',extremes,Earthquake,#870007,usgs,cutremur indonezia,2026-01-15T10:56:00+00:00,Indonesia,0.319787770621371,0,1,ro,SEA,Asia
+'85a135fac3',extremes,Earthquake,#870007,usgs,cutremur ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,0,1,ro,RFE,Asia
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,cutremur kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.31978555565455874,0,1,ro,EPO,Pacific Ocean
+'fc0fd225f3',extremes,Earthquake,#870007,usgs,cutremur birmania myanmar,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.3197854094247633,0,1,ro,SAS,Asia
+'066ed457ed',extremes,Earthquake,#870007,usgs,cutremur nordul insulelor mariane,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.3197822395529101,0,1,ro,NPO,Pacific Ocean
+'4ea40cfaf4',extremes,Earthquake,#870007,usgs,cutremur regiunea insulelor prințului edward,2026-01-15T10:56:00+00:00,,0.3197749182823346,0,1,ro,SOO,Antarctica
+'f7921ef009',extremes,Earthquake,#870007,usgs,cutremur vilyuchinsk,2026-01-15T10:56:00+00:00,Russia,0.3197735132787656,0,1,ro,RFE,Asia
+'1133ce1349',extremes,Earthquake,#870007,usgs,cutremur costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.31977305475664575,0,1,ro,SCA,South-America
+'c685705bbd',extremes,Earthquake,#870007,usgs,cutremur china,2026-01-15T10:56:00+00:00,China,0.31977260661763446,0,1,ro,EAS,Asia
+'6bf5e2061d',extremes,Earthquake,#870007,usgs,cutremur punct castel,2026-01-15T10:56:00+00:00,New Zealand,0.31977139966941065,0,1,ro,NZ,Oceania
 '989439d143',extremes,Snow&Ice,#d60d2b,wmo,gheață etiopia,2025-12-09T03:41:00+00:00,Ethiopia,0.3075462733965737,0,2,ro,NEAF,Africa
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frontul meteo,2026-01-15T10:56:00+00:00,,0.3073042838282907,1,1,ro,,
 'c4be795f03',extremes,Drought,#edc291,edo,lipsa ploii guinea ecuatoriala,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.3071540363877651,0,2,ro,WAF,Africa
