@@ -33,13 +33,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-01-17T03:44:00+00:00,,0.3258695700636114,1,2,ro,,
 '23ad2bb822',extremes,Earthquake,#870007,usgs,cutremur rusia,2026-01-15T10:56:00+00:00,Russia,0.3223030402183668,1,1,ro,EAS,Asia
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,vârtej,2026-01-15T10:56:00+00:00,,0.3198628816936151,1,1,ro,,
-'e551102071',extremes,Earthquake,#870007,usgs,cutremur vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.319807582224722,0,1,ro,SPO,Pacific Ocean
-'f5e86f8f49',extremes,Earthquake,#870007,usgs,cutremur san miguel,2026-01-15T10:56:00+00:00,Ecuador,0.3198065722150023,0,1,ro,NWS,South-America
-'e6998a615e',extremes,Earthquake,#870007,usgs,cutremur murghob,2026-01-15T12:13:00+00:00,Tajikistan,0.3198049562481557,0,1,ro,WCA,Asia
-'c605f8759a',extremes,Earthquake,#870007,usgs,cutremur guam,2026-01-15T10:56:00+00:00,Guam,0.3198027513793051,0,1,ro,NPO,Pacific Ocean
-'9f3b29621a',extremes,Earthquake,#870007,usgs,cutremur creasta atlantică mijlocie centrală,2026-01-15T10:56:00+00:00,,0.3198024693508642,0,1,ro,EAO,Atlantic Ocean
-'70773b5956',extremes,Earthquake,#870007,usgs,cutremur alaska,2026-01-15T10:56:00+00:00,Alaska,0.3198017125682,0,1,ro,NWN,North-America
-'4594f1a372',extremes,Earthquake,#870007,usgs,cutremur iran,2026-01-15T10:56:00+00:00,Iran,0.3197940875986025,0,1,ro,WCA,Asia
 '957a7a09df',extremes,Earthquake,#870007,usgs,cutremur attu station,2026-01-15T10:56:00+00:00,Alaska,0.3197938741364492,0,1,ro,NPO,Pacific Ocean
 'db2a276fc1',extremes,Earthquake,#870007,usgs,cutremur aisen,2026-01-15T12:13:00+00:00,Chile,0.3197935412133924,0,1,ro,SWS,South-America
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,cutremur Tajikistan,2026-01-15T10:56:00+00:00,Tajikistan,0.319793045756558,0,1,ro,WCA,Asia
@@ -89,6 +82,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d51911b1d',extremes,Earthquake,#870007,usgs,cutremur de sol,2026-01-15T10:56:00+00:00,Vanuatu,0.2720075634724872,1,1,ro,SPO,Pacific Ocean
 '45f861329d',extremes,Landslide,#572c03,aidr,alunecare de teren adelaide hills south australia,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,ro,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym vulcano vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,ro,SPO,Oceania
+'4594f1a372',extremes,Earthquake,#870007,usgs,cutremur iran,2026-01-15T10:56:00+00:00,Iran,0.2719749894588121,1,1,ro,WCA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,inundarea râului australia,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,ro,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,precipitații abundente și inundații Queensland februarie 2020,2026-01-15T10:57:00+00:00,Australia,0.2719274879956287,1,1,ro,EAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,inundație australia,2026-01-15T10:56:00+00:00,Australia,0.2719265309500764,1,1,ro,CAU,Oceania
@@ -104,14 +98,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b1cc9478a',extremes,Earthquake,#870007,usgs,cutremur mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.271855897429081,1,1,ro,NSA,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,cutremur san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.2718542367751476,1,1,ro,SES,South-America
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.2718532280204247,1,1,ro,SEA,Asia
-'2617cc6cc9',extremes,Earthquake,#870007,usgs,cutremur noua zeelanda,2026-01-15T10:56:00+00:00,New Zealand,0.27185206409061924,1,1,ro,NZ,Oceania
-'73d01d320c',extremes,Earthquake,#870007,usgs,cutremur afghanistan,2026-01-15T12:13:00+00:00,Afghanistan,0.27184813008158676,1,1,ro,WCA,Asia
-'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami port alsworth,2026-01-15T10:56:00+00:00,United States,0.27184811082334037,1,1,ro,NWN,North-America
-'072f41af80',extremes,Earthquake,#870007,usgs,cutremur aratoca,2026-01-15T10:56:00+00:00,Colombia,0.27184450195989157,1,1,ro,NWS,South-America
-'43165fdae0',extremes,Earthquake,#870007,usgs,cutremur villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.27184438462564176,1,1,ro,SWS,South-America
-'01e4b0cc71',extremes,Earthquake,#870007,usgs,cutremur kuril’sk,2026-01-15T10:56:00+00:00,Russia,0.27183916784637596,1,1,ro,EAS,Asia
-'e1256a9495',extremes,Tsunami,#690191,usgs,tsunami rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.27183758409220093,1,1,ro,SCA,North-America
-'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2026-01-15T10:56:00+00:00,Canada,0.27183737136721964,1,1,ro,NWN,North-America
+'2617cc6cc9',extremes,Earthquake,#870007,usgs,cutremur noua zeelanda,2026-01-15T10:56:00+00:00,New Zealand,0.2718520640906192,1,1,ro,NZ,Oceania
+'73d01d320c',extremes,Earthquake,#870007,usgs,cutremur afghanistan,2026-01-15T12:13:00+00:00,Afghanistan,0.2718481300815867,1,1,ro,WCA,Asia
+'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami port alsworth,2026-01-15T10:56:00+00:00,United States,0.2718481108233403,1,1,ro,NWN,North-America
+'072f41af80',extremes,Earthquake,#870007,usgs,cutremur aratoca,2026-01-15T10:56:00+00:00,Colombia,0.2718445019598915,1,1,ro,NWS,South-America
+'43165fdae0',extremes,Earthquake,#870007,usgs,cutremur villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.2718443846256417,1,1,ro,SWS,South-America
+'01e4b0cc71',extremes,Earthquake,#870007,usgs,cutremur kuril’sk,2026-01-15T10:56:00+00:00,Russia,0.2718391678463759,1,1,ro,EAS,Asia
+'e1256a9495',extremes,Tsunami,#690191,usgs,tsunami rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.2718375840922009,1,1,ro,SCA,North-America
+'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2026-01-15T10:56:00+00:00,Canada,0.2718373713672196,1,1,ro,NWN,North-America
+'e551102071',extremes,Earthquake,#870007,usgs,cutremur vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.2718364448910137,1,1,ro,SPO,Pacific Ocean
+'f5e86f8f49',extremes,Earthquake,#870007,usgs,cutremur san miguel,2026-01-15T10:56:00+00:00,Ecuador,0.27183558638275196,1,1,ro,NWS,South-America
+'e6998a615e',extremes,Earthquake,#870007,usgs,cutremur murghob,2026-01-15T12:13:00+00:00,Tajikistan,0.27183421281093234,1,1,ro,WCA,Asia
+'c605f8759a',extremes,Earthquake,#870007,usgs,cutremur guam,2026-01-15T10:56:00+00:00,Guam,0.2718323386724093,1,1,ro,NPO,Pacific Ocean
+'9f3b29621a',extremes,Earthquake,#870007,usgs,cutremur creasta atlantică mijlocie centrală,2026-01-15T10:56:00+00:00,,0.27183209894823457,1,1,ro,EAO,Atlantic Ocean
+'70773b5956',extremes,Earthquake,#870007,usgs,cutremur alaska,2026-01-15T10:56:00+00:00,Alaska,0.27183145568297,1,1,ro,NWN,North-America
 'b6cef22543',extremes,Drought,#edc291,random,restricție de apă,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,ro,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,fluviu atmosferic,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,ro,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de frig,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,ro,,
