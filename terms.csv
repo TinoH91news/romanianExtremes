@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-01-15T10:57:00+00:00,Romania,0.7890886618771866,0,1,ro,WCE,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-01-15T10:57:00+00:00,Moldova,0.6702010056578596,1,1,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-01-15T12:14:00+00:00,Moldova,0.6348060406713669,0,1,ro,WCE,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-01-22T04:00:00+00:00,Moldova,0.5749944258028443,0,1,ro,WCE,Europe
@@ -42,15 +41,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23ad2bb822',extremes,Earthquake,#870007,usgs,cutremur rusia,2026-01-15T10:56:00+00:00,Russia,0.3223030402183668,1,1,ro,EAS,Asia
 '52af874334',extremes,Drought,#edc291,random,ariditate,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,ro,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,vârtej,2026-01-15T10:56:00+00:00,,0.3198628816936151,1,1,ro,,
-'3e36cbc783',extremes,Earthquake,#870007,usgs,cutremur la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.3197420361636449,0,1,ro,NWS,South-America
-'8bf8909453',extremes,Earthquake,#870007,usgs,cutremur levuka,2026-01-15T10:56:00+00:00,Fiji,0.3197390800577933,0,1,ro,SPO,Pacific Ocean
-'9de3c9007e',extremes,Earthquake,#870007,usgs,cutremur yakutat,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,1,ro,NWN,North-America
-'2fa9116266',extremes,Earthquake,#870007,usgs,cutremur port alsworth,2026-01-15T12:13:00+00:00,United States,0.3197340735312253,0,1,ro,NWN,North-America
-'b0d647e9d3',extremes,Earthquake,#870007,usgs,cutremur creasta indiană de sud-est,2026-01-15T10:56:00+00:00,,0.3197330455307343,0,1,ro,SOO,Antarctica
-'0f6b56852d',extremes,Earthquake,#870007,usgs,cutremur baculin,2026-01-15T10:56:00+00:00,Philippines,0.319730831712139,0,1,ro,SEA,Asia
-'80f83e2f4e',extremes,Earthquake,#870007,usgs,cutremur bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.3197282945330044,0,1,ro,SES,South-America
-'c797f587a9',extremes,Flood,#030ba1,aidr,inundație boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.3197274241818447,0,1,ro,EAU,Oceania
-'daed8f4597',extremes,Earthquake,#870007,usgs,cutremur somalia,2026-01-15T12:13:00+00:00,Somalia,0.3197224088521724,0,1,ro,NEAF,Africa
 '997a2e2157',extremes,Earthquake,#870007,usgs,cutremur argentina,2026-01-15T10:56:00+00:00,Argentina,0.3197162811068849,0,1,ro,SWS,South-America
 '90e6558608',extremes,Earthquake,#870007,usgs,cutremur sudul crestei atlantice medii,2026-01-15T10:56:00+00:00,,0.3197141389002151,0,1,ro,SAO,Atlantic Ocean
 'ad41fee440',extremes,Earthquake,#870007,usgs,cutremur lata,2026-01-15T10:56:00+00:00,Solomon Islands,0.3197138825463702,0,1,ro,SPO,Oceania
@@ -64,12 +54,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17b150a7a2',extremes,Earthquake,#870007,usgs,cutremur tanzania,2026-01-15T10:56:00+00:00,Tanzania,0.3196854740944746,0,1,ro,SEAF,Africa
 'ba6e07a583',extremes,Storm,#b3b2b1,emdat,storm al hasakeh governorates,2026-01-15T10:57:00+00:00,Syria,0.3196835928337069,0,1,ro,MED,Asia
 '95694d19cf',extremes,Earthquake,#870007,usgs,cutremur yemen,2026-01-15T12:13:00+00:00,Yemen,0.3196785588064959,0,1,ro,NEAF,Africa
-'cc449c3731',extremes,Earthquake,#870007,usgs,cutremur regiunea insulelor Kermadec,2026-01-15T10:56:00+00:00,,0.31967654225515996,0,1,ro,SPO,Pacific Ocean
+'cc449c3731',extremes,Earthquake,#870007,usgs,cutremur regiunea insulelor Kermadec,2026-01-15T10:56:00+00:00,,0.3196765422551599,0,1,ro,SPO,Pacific Ocean
 '5484f48de4',extremes,Earthquake,#870007,usgs,cutremur de la mijlocul crestei indiene,2026-01-15T10:56:00+00:00,,0.3196762612572651,0,1,ro,SIO,Indian Ocean
-'f200ff28aa',extremes,Earthquake,#870007,usgs,cutremur state unite,2026-01-15T10:56:00+00:00,United States,0.31967398416605053,0,1,ro,WNA,North-America
+'f200ff28aa',extremes,Earthquake,#870007,usgs,cutremur state unite,2026-01-15T10:56:00+00:00,United States,0.3196739841660505,0,1,ro,WNA,North-America
 'e98c9b3f42',extremes,Earthquake,#870007,usgs,trecere de dracu cutremur,2026-01-15T10:56:00+00:00,,0.3196709283081229,0,1,ro,SOO,Antarctica
-'6ff5caa4ff',extremes,Earthquake,#870007,usgs,cutremur atka,2026-01-15T10:56:00+00:00,Alaska,0.31966948238112836,0,1,ro,NPO,Pacific Ocean
-'8b5b4c9d3b',extremes,Earthquake,#870007,usgs,cutremur puerto santa,2026-01-15T10:56:00+00:00,Peru,0.31966490236557776,0,1,ro,NWS,South-America
+'6ff5caa4ff',extremes,Earthquake,#870007,usgs,cutremur atka,2026-01-15T10:56:00+00:00,Alaska,0.3196694823811283,0,1,ro,NPO,Pacific Ocean
+'8b5b4c9d3b',extremes,Earthquake,#870007,usgs,cutremur puerto santa,2026-01-15T10:56:00+00:00,Peru,0.3196649023655777,0,1,ro,NWS,South-America
 '37af8de5d1',extremes,Earthquake,#870007,usgs,cutremur regiunea insulei Paștelui,2026-01-15T10:56:00+00:00,,0.3196606738976758,0,1,ro,SPO,Pacific Ocean
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,cutremur miyako,2026-01-15T10:56:00+00:00,Japan,0.3196603663022271,0,1,ro,EAS,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,ro,,
@@ -105,6 +95,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ebe314dd99',extremes,Flood,#030ba1,aidr,precipitații abundente și inundații Queensland februarie 2020,2026-01-15T10:57:00+00:00,Australia,0.2719274879956287,1,1,ro,EAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,inundație australia,2026-01-15T10:56:00+00:00,Australia,0.2719265309500764,1,1,ro,CAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundație fulgerătoare australia,2026-01-15T10:57:00+00:00,Australia,0.2719202089432805,1,1,ro,EAU,Oceania
+'daed8f4597',extremes,Earthquake,#870007,usgs,cutremur somalia,2026-01-15T12:13:00+00:00,Somalia,0.2719140625243465,1,1,ro,NEAF,Africa
 '6852666385',extremes,Earthquake,#870007,usgs,cutremur port mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.2718822322144194,1,1,ro,SIO,Indian Ocean
 '2c38aada07',extremes,Earthquake,#870007,usgs,cutremur colchane,2026-01-15T12:13:00+00:00,Chile,0.2718806833866668,1,1,ro,SWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,cutremur ollagüe,2026-01-15T10:56:00+00:00,Chile,0.2718780783172336,1,1,ro,SWS,South-America
@@ -148,6 +139,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d79b2a1fb',extremes,Earthquake,#870007,usgs,cutremur kencong,2026-01-15T12:13:00+00:00,Indonesia,0.2717905854242224,1,1,ro,NAU,Oceania
 '6628268bda',extremes,Earthquake,#870007,usgs,cutremur korla,2026-01-15T10:56:00+00:00,China,0.2717864982562222,1,1,ro,ECA,Asia
 'd920e41c1e',extremes,Earthquake,#870007,usgs,cutremur mek'ele,2026-01-15T12:13:00+00:00,Ethiopia,0.2717854040008172,1,1,ro,NEAF,Africa
+'3e36cbc783',extremes,Earthquake,#870007,usgs,cutremur la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.27178073073909814,1,1,ro,NWS,South-America
+'8bf8909453',extremes,Earthquake,#870007,usgs,cutremur levuka,2026-01-15T10:56:00+00:00,Fiji,0.2717782180491243,1,1,ro,SPO,Pacific Ocean
+'9de3c9007e',extremes,Earthquake,#870007,usgs,cutremur yakutat,2026-01-15T10:56:00+00:00,Alaska,0.2717744004149364,1,1,ro,NWN,North-America
+'2fa9116266',extremes,Earthquake,#870007,usgs,cutremur port alsworth,2026-01-15T12:13:00+00:00,United States,0.2717739625015415,1,1,ro,NWN,North-America
+'b0d647e9d3',extremes,Earthquake,#870007,usgs,cutremur creasta indiană de sud-est,2026-01-15T10:56:00+00:00,,0.27177308870112415,1,1,ro,SOO,Antarctica
+'0f6b56852d',extremes,Earthquake,#870007,usgs,cutremur baculin,2026-01-15T10:56:00+00:00,Philippines,0.27177120695531815,1,1,ro,SEA,Asia
+'80f83e2f4e',extremes,Earthquake,#870007,usgs,cutremur bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.2717690503530537,1,1,ro,SES,South-America
+'c797f587a9',extremes,Flood,#030ba1,aidr,inundație boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.27176831055456796,1,1,ro,EAU,Oceania
 'b6cef22543',extremes,Drought,#edc291,random,restricție de apă,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,ro,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,fluviu atmosferic,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,ro,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de frig,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,ro,,
