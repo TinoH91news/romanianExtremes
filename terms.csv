@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-01-15T10:57:00+00:00,Romania,0.7890886618771866,0,1,ro,WCE,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-01-15T10:57:00+00:00,Moldova,0.6702010056578596,1,1,ro,WCE,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-01-22T04:00:00+00:00,Moldova,0.5749944258028443,0,1,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-01-15T12:14:00+00:00,Moldova,0.5397351495706618,1,1,ro,WCE,Europe
@@ -15,7 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4307302862723958,1,2,ro,,
 '560b05d603',extremes,Heat Wave,#c40202,random,val de căldură,2026-01-18T03:56:00+00:00,,0.4290635194565841,1,2,ro,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclon,2026-01-15T10:56:00+00:00,,0.4259609849530786,1,2,ro,,
-'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incendiu de vegetație,2026-01-24T03:48:00+00:00,,0.42290551426017997,1,2,ro,,
+'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incendiu de vegetație,2026-01-24T03:48:00+00:00,,0.4229055142601799,1,2,ro,,
 '5bf34f285a',extremes,Earthquake,#870007,usgs,cutremur italia,2026-01-15T10:56:00+00:00,Italy,0.4224938686253051,1,2,ro,MED,Europe
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulcan filipine,2026-01-15T10:56:00+00:00,Philippines,0.4222808906448024,1,2,ro,SEA,Asia
 '0b2fd57376',extremes,Earthquake,#870007,usgs,cutremur taiwan,2026-01-15T12:13:00+00:00,Taiwan,0.4221983751773215,1,2,ro,EAS,Asia
@@ -30,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aceadd432',extremes,Heat Wave,#c40202,random,căldură record,2026-01-21T03:55:00+00:00,,0.377834632528104,1,2,ro,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mercurul scade,2026-01-22T03:59:00+00:00,,0.3767178110878088,0,1,ro,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanșă,2026-01-23T04:02:00+00:00,,0.3727079634185535,0,1,ro,,
+'8b4587c763',extremes,Storm,#b3b2b1,random,furtuna de praf,2026-01-24T03:48:00+00:00,,0.3694329533406308,0,1,ro,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-01-15T10:20:00+00:00,,0.3690018706965229,1,3,ro,,
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-01-24T03:49:00+00:00,Moldova,0.3622176189109624,1,1,ro,WCE,Europe
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,ger de noapte,2026-01-15T10:56:00+00:00,,0.3586132225126353,1,2,ro,,
@@ -80,6 +82,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6ff301646',extremes,Drought,#edc291,edo,seceta somalie,2026-01-15T10:57:00+00:00,Somalia,0.3195655994444291,0,1,ro,NEAF,Africa
 'd9cc56f031',extremes,Drought,#edc291,edo,secetă Tajikistan,2026-01-15T10:57:00+00:00,Tajikistan,0.3195640466482966,0,1,ro,WCA,Asia
 '22045a461a',extremes,Earthquake,#870007,usgs,cutremur insulele Izu regiunea Japonia,2026-01-15T10:56:00+00:00,,0.3195636381732957,0,1,ro,NPO,Pacific Ocean
+'cce4634973',extremes,Drought,#edc291,edo,vrajă uscată Kenya,2026-01-15T10:57:00+00:00,Kenya,0.31954273697374286,0,1,ro,SEAF,Africa
+'08226562a9',extremes,Earthquake,#870007,usgs,cutremur fais,2026-01-15T10:56:00+00:00,Micronesia,0.3195394583161646,0,1,ro,NPO,Pacific Ocean
+'43540d11be',extremes,Earthquake,#870007,usgs,cutremur akkeshi,2026-01-15T10:56:00+00:00,Japan,0.319536041667731,0,1,ro,EAS,Asia
+'2725619969',extremes,Earthquake,#870007,usgs,cutremur hanawa,2026-01-15T12:13:00+00:00,Japan,0.3195356071355527,0,1,ro,EAS,Asia
+'74236bd182',extremes,Drought,#edc291,edo,lipsa de ploaie islanda,2026-01-15T10:57:00+00:00,Iceland,0.3195301763658332,0,1,ro,GIC,Europe
+'40a849aef3',extremes,Earthquake,#870007,usgs,cutremur zhaotong,2026-01-15T12:13:00+00:00,China,0.3195106860766282,0,1,ro,EAS,Asia
+'982d97b8ec',extremes,Earthquake,#870007,usgs,cutremur susanville,2026-01-15T12:13:00+00:00,United States,0.3194977377164754,0,1,ro,WNA,North-America
+'a6144d1f04',extremes,Earthquake,#870007,usgs,cutremur insulele șobolanilor insulele aleutine alaska,2026-01-15T10:56:00+00:00,,0.3194963093664921,0,1,ro,NPO,Pacific Ocean
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,ro,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,ro,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,slip de gheață,2026-01-23T04:02:00+00:00,,0.3100490573909686,1,1,ro,,
