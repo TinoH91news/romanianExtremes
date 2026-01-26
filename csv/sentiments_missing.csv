@@ -1,91 +1,146 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Tuesday,Tuesday,DATE,,,en,3.6999999999999997
+Friday,Friday,DATE,,,en,7.699999999999999
+Saturday,Saturday,DATE,,,en,7.4
+night,night,TIME,,,en,6.200000000000001
+morning,morning,TIME,,,en,4.9
+Wednesday,Wednesday,DATE,,,en,4.4
+Tuesday,Tuesday,DATE,,,en,4.3999999999999995
+winter,winter,DATE,,,en,4.1000000000000005
 Thousands,Thousands,CARDINAL,,,en,3.6999999999999997
-Wednesday,Wednesday,DATE,,,en,3.5
-Friday,Friday,DATE,,,en,3.4000000000000004
+Thursday,Thursday,DATE,,,en,3.6999999999999997
+the night,the night,TIME,,,en,3.6
+Four,Four,CARDINAL,,,en,2.8
+Two,Two,CARDINAL,,,en,2.8
 CET Sud,CET Sud,FAC,,,en,2.8
+Sunday,Sunday,DATE,,,en,2.7
 Monday,Monday,DATE,,,en,2.7
-night,night,TIME,,,en,2.7
-winter,winter,DATE,,,en,2.3000000000000003
-four more days,four more days,DATE,,,en,1.9
+first,first,ORDINAL,,,en,2.0
+15,15,CARDINAL,,,en,2.0
+evening,evening,TIME,,,en,1.9000000000000001
 Romanians,Romanians,NORP,,,en,1.9
+thousands,thousands,CARDINAL,,,en,1.9
+noon,noon,TIME,,,en,1.9
+Dozens,Dozens,CARDINAL,,,en,1.9
+3,3,CARDINAL,,,en,1.9
+mornings,mornings,TIME,,,en,1.9
+four more days,four more days,DATE,,,en,1.9
+"Tuesday, January 13","Tuesday, January 13",DATE,,,en,1.9
+the morning,the morning,TIME,,,en,1.9
+35,35,CARDINAL,,,en,1.9
 Half,Half,CARDINAL,,,en,1.9
+the next few days,the next few days,DATE,,,en,1.9
 Romanian,Romanian,NORP,,,en,1.9
-Saturday,Saturday,DATE,,,en,1.9
 Today,Today,DATE,,,en,1.9
+6.4,6.4,CARDINAL,,,en,1.9
+"Almost 3,500","Almost 3,500",CARDINAL,,,en,1.9
+the last 24 hours,the last 24 hours,TIME,,,en,1.8
+more than half,more than half,CARDINAL,,,en,1.8
 half,half,CARDINAL,,,en,1.8
-Sunday,Sunday,DATE,,,en,1.8
 "more than 95,000","more than 95,000",CARDINAL,,,en,1.8
-2025,2025,DATE,,,en,1.3
 Winter,Winter,DATE,,,en,1.3
-morning,morning,TIME,,,en,1.3
-first,first,ORDINAL,,,en,1.1
-6 million cubic meters,6 million cubic meters,QUANTITY,,,en,1.0
-more than three days,more than three days,DATE,,,en,1.0
-"April 1, 2026","April 1, 2026",DATE,,,en,1.0
-The next ten years,The next ten years,DATE,,,en,1.0
-|,|,CARDINAL,,,en,1.0
-10 years,10 years,DATE,,,en,1.0
-2040,2040,DATE,,,en,1.0
-the night,the night,TIME,,,en,1.0
--18,-18,CARDINAL,,,en,1.0
-cobza,cobza,NORP,,,en,1.0
-Minus 13 degrees,Minus 13 degrees,QUANTITY,,,en,1.0
-evening,evening,TIME,,,en,1.0
-"450,000 euros","450,000 euros",MONEY,,,en,1.0
-next week,next week,DATE,,,en,1.0
-Americans,Americans,NORP,,,en,1.0
-Russian,Russian,NORP,,,en,1.0
-Japanese,Japanese,NORP,,,en,1.0
-more than 90%,more than 90%,PERCENT,,,en,1.0
-at least 100,at least 100,CARDINAL,,,en,1.0
-the coldest day,the coldest day,DATE,,,en,1.0
-10,10,CARDINAL,,,en,1.0
-more than half,more than half,CARDINAL,,,en,1.0
--19 degrees,-19 degrees,QUANTITY,,,en,1.0
-today,today,DATE,,,en,1.0
+hundreds,hundreds,CARDINAL,,,en,1.3
+2025,2025,DATE,,,en,1.3
+"50,000","50,000",CARDINAL,,,en,1.3
+two,two,CARDINAL,,,en,1.3
+next week,next week,DATE,,,en,1.1
+"January 2, 1970","January 2, 1970",DATE,,,en,1.0
+16 degrees,16 degrees,QUANTITY,,,en,1.0
 daily,daily,DATE,,,en,1.0
+at least 100,at least 100,CARDINAL,,,en,1.0
 0 at night,0 at night,TIME,,,en,1.0
-"over 3,500","over 3,500",CARDINAL,,,en,1.0
 between -6 and 6 degrees,between -6 and 6 degrees,QUANTITY,,,en,1.0
 the next period,the next period,DATE,,,en,1.0
 Sibiu International Airport,Sibiu International Airport,FAC,,,en,1.0
 Sibiu Airport,Sibiu Airport,FAC,,,en,1.0
 Revolution,Revolution,EVENT,,,en,1.0
-16 degrees,16 degrees,QUANTITY,,,en,1.0
-tens of thousands,tens of thousands,CARDINAL,,,en,1.0
-Oceans,Oceans,NORP,,,en,1.0
-a week,a week,DATE,,,en,1.0
-hundreds,hundreds,CARDINAL,,,en,1.0
-2004,2004,DATE,,,en,1.0
-"January 2, 1970","January 2, 1970",DATE,,,en,1.0
-second,second,ORDINAL,,,en,1.0
-"January 2, 1822","January 2, 1822",DATE,,,en,1.0
-The day,The day,DATE,,,en,1.0
-January 2,January 2,DATE,,,en,1.0
-thousands,thousands,CARDINAL,,,en,1.0
-3,3,CARDINAL,,,en,1.0
-a third day in a row Monday,a third day in a row Monday,DATE,,,en,1.0
-"more than 6,000","more than 6,000",CARDINAL,,,en,1.0
-the weekend,the weekend,DATE,,,en,1.0
-January 1,January 1,DATE,,,en,1.0
-Thursday,Thursday,DATE,,,en,1.0
-six months,six months,DATE,,,en,1.0
-Chinese,Chinese,NORP,,,en,1.0
-South Korean,South Korean,NORP,,,en,1.0
+2,2,CARDINAL,,,en,1.0
 4,4,CARDINAL,,,en,1.0
-A Tsunami of Harassment,A Tsunami of Harassment,WORK_OF_ART,,,en,1.0
-Vietnamese,Vietnamese,NORP,,,en,1.0
-"50,000","50,000",CARDINAL,,,en,1.0
-the beginning of the year,the beginning of the year,DATE,,,en,1.0
-January 7,January 7,DATE,,,en,1.0
-Almost 40%,Almost 40%,PERCENT,,,en,1.0
+"over 3,500","over 3,500",CARDINAL,,,en,1.0
+10 years,10 years,DATE,,,en,1.0
+tens of thousands,tens of thousands,CARDINAL,,,en,1.0
+January 1,January 1,DATE,,,en,1.0
+Russian,Russian,NORP,,,en,1.0
+more than three days,more than three days,DATE,,,en,1.0
+the day,the day,DATE,,,en,1.0
+the first few days,the first few days,DATE,,,en,1.0
+the middle of this week,the middle of this week,DATE,,,en,1.0
+the next two weeks,the next two weeks,DATE,,,en,1.0
+"April 1, 2026","April 1, 2026",DATE,,,en,1.0
+The next ten years,The next ten years,DATE,,,en,1.0
+"450,000 euros","450,000 euros",MONEY,,,en,1.0
+minus 12 degrees,minus 12 degrees,QUANTITY,,,en,1.0
+cobza,cobza,NORP,,,en,1.0
+the next days,the next days,DATE,,,en,1.0
+"today, January 21st","today, January 21st",DATE,,,en,1.0
+the last eight years,the last eight years,DATE,,,en,1.0
+these days,these days,DATE,,,en,1.0
+dozens,dozens,CARDINAL,,,en,1.0
+the following days,the following days,DATE,,,en,1.0
+below -20 degrees,below -20 degrees,QUANTITY,,,en,1.0
+"lower than 1,800 meters","lower than 1,800 meters",QUANTITY,,,en,1.0
+the coldest day,the coldest day,DATE,,,en,1.0
+10,10,CARDINAL,,,en,1.0
+-12 degrees,-12 degrees,QUANTITY,,,en,1.0
+today,today,DATE,,,en,1.0
+10:00 a.m.,10:00 a.m.,TIME,,,en,1.0
+"Monday, January 19","Monday, January 19",DATE,,,en,1.0
+the last few days,the last few days,DATE,,,en,1.0
+up to 1.5 meters,up to 1.5 meters,QUANTITY,,,en,1.0
+6 million cubic meters,6 million cubic meters,QUANTITY,,,en,1.0
+-19 degrees,-19 degrees,QUANTITY,,,en,1.0
+Saturday morning,Saturday morning,TIME,,,en,1.0
+10:00,10:00,TIME,,,en,1.0
+this morning,this morning,TIME,,,en,1.0
+-12 degrees Celsius,-12 degrees Celsius,QUANTITY,,,en,1.0
+|,|,CARDINAL,,,en,1.0
+2040,2040,DATE,,,en,1.0
+2004,2004,DATE,,,en,1.0
 "3,476","3,476",CARDINAL,,,en,1.0
-Australian,Australian,NORP,,,en,1.0
-noon,noon,TIME,,,en,1.0
-37.7%,37.7%,PERCENT,,,en,1.0
-almost 40%,almost 40%,PERCENT,,,en,1.0
-January 8,January 8,DATE,,,en,1.0
-the 2025–2026 school year,the 2025–2026 school year,DATE,,,en,1.0
+two millennia,two millennia,DATE,,,en,1.0
 "Thursday, January 8, 2026","Thursday, January 8, 2026",DATE,,,en,1.0
-the morning,the morning,TIME,,,en,1.0
+the 2025–2026 school year,the 2025–2026 school year,DATE,,,en,1.0
+January 8,January 8,DATE,,,en,1.0
+almost 40%,almost 40%,PERCENT,,,en,1.0
+At least 20,At least 20,CARDINAL,,,en,1.0
+"more than 2,000 years","more than 2,000 years",DATE,,,en,1.0
+37.7%,37.7%,PERCENT,,,en,1.0
+"more than 6,000","more than 6,000",CARDINAL,,,en,1.0
+a third day in a row Monday,a third day in a row Monday,DATE,,,en,1.0
+Almost 40%,Almost 40%,PERCENT,,,en,1.0
+six months,six months,DATE,,,en,1.0
+January 7,January 7,DATE,,,en,1.0
+the beginning of the year,the beginning of the year,DATE,,,en,1.0
+January 2,January 2,DATE,,,en,1.0
+Vietnamese,Vietnamese,NORP,,,en,1.0
+A Tsunami of Harassment,A Tsunami of Harassment,WORK_OF_ART,,,en,1.0
+The day,The day,DATE,,,en,1.0
+"January 2, 1822","January 2, 1822",DATE,,,en,1.0
+second,second,ORDINAL,,,en,1.0
+South Korean,South Korean,NORP,,,en,1.0
+Chinese,Chinese,NORP,,,en,1.0
+the nights,the nights,TIME,,,en,1.0
+the weekend,the weekend,DATE,,,en,1.0
+Christmas Day,Christmas Day,DATE,,,en,1.0
+below -18 degrees Celsius,below -18 degrees Celsius,QUANTITY,,,en,1.0
+-18,-18,CARDINAL,,,en,1.0
+Minus 13 degrees,Minus 13 degrees,QUANTITY,,,en,1.0
+Japanese,Japanese,NORP,,,en,1.0
+a week,a week,DATE,,,en,1.0
+Americans,Americans,NORP,,,en,1.0
+"almost 400,000","almost 400,000",CARDINAL,,,en,1.0
+up to 20cm,up to 20cm,QUANTITY,,,en,1.0
+200 km/h,200 km/h,QUANTITY,,,en,1.0
+a hundred years old,a hundred years old,DATE,,,en,1.0
+nearly 100,nearly 100,CARDINAL,,,en,1.0
+30,30,CARDINAL,,,en,1.0
+At least four,At least four,CARDINAL,,,en,1.0
+tonight,tonight,TIME,,,en,1.0
+"over 1,800 meters","over 1,800 meters",QUANTITY,,,en,1.0
+20:00,20:00,TIME,,,en,1.0
+"Saturday, December 27","Saturday, December 27",DATE,,,en,1.0
+more than 90%,more than 90%,PERCENT,,,en,1.0
+"more than 1,000","more than 1,000",CARDINAL,,,en,1.0
+Oceans,Oceans,NORP,,,en,1.0
+Christmas,Christmas,DATE,,,en,1.0
+Australian,Australian,NORP,,,en,1.0
+the past days,the past days,DATE,,,en,1.0

@@ -1,28 +1,36 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Capital,Capital,ORG,0.004504504504504507,0.26801801801801806,en,3.6999999999999997
+Capital,Capital,ORG,-0.045454545454545456,0.24696969696969698,en,5.5
+ANM,ANM,ORG,0.2102102102102102,0.13513513513513514,en,3.6999999999999997
 Reuters,Reuters,ORG,0.1880952380952381,0.6071428571428572,en,2.1
+the National Meteorological Administration,the National Meteorological Administration,ORG,-0.15789473684210525,0.0,en,1.9
 Elcen,Elcen,ORG,0.125,0.1118421052631579,en,1.9
+the Ministerial Committee for Emergency Situations,the Ministerial Committee for Emergency Situations,ORG,0.14619883040935672,0.216374269005848,en,1.9
 the Minister of Energy,the Minister of Energy,ORG,0.008771929824561408,0.12719298245614036,en,1.9
-The Ministry of Energy,The Ministry of Energy,ORG,-0.14722222222222223,0.0,en,1.0
+EU,EU,ORG,0.0,0.0,en,1.9
+superlong Kondratieff,superlong Kondratieff,ORG,0.0,0.0,en,1.0
 Sfântul Ion,Sfântul Ion,ORG,0.0,0.0,en,1.0
 Termo,Termo,ORG,0.0,0.0,en,1.0
 CET Bucharest Sud,CET Bucharest Sud,ORG,0.125,0.0,en,1.0
 Greenland,Greenland,ORG,0.45,0.0,en,1.0
 State,State,ORG,-0.24166666666666667,0.0,en,1.0
-superlong Kondratieff,superlong Kondratieff,ORG,0.0,0.0,en,1.0
-Blue Origin's,Blue Origin's,ORG,0.08333333333333333,0.0,en,1.0
-Kondratieff,Kondratieff,ORG,0.08733766233766234,0.0,en,1.0
+The Ministry of Energy,The Ministry of Energy,ORG,-0.14722222222222223,0.0,en,1.0
 ELCEN,ELCEN,ORG,0.016666666666666673,0.0,en,1.0
+Kondratieff,Kondratieff,ORG,0.08733766233766234,0.0,en,1.0
+Blue Origin's,Blue Origin's,ORG,0.08333333333333333,0.0,en,1.0
 The Minister of Health,The Minister of Health,ORG,0.0,0.0,en,1.0
 the Minister of Health,the Minister of Health,ORG,0.0,0.0,en,1.0
 the Ministry of Health,the Ministry of Health,ORG,0.0,0.0,en,1.0
 the Institute of Cardiovascular Diseases CC Iliescu,the Institute of Cardiovascular Diseases CC Iliescu,ORG,0.0,0.0,en,1.0
 Wizz Air company,Wizz Air company,ORG,0.0,0.0,en,1.0
 the National Institute of Infectious Diseases,the National Institute of Infectious Diseases,ORG,0.0,0.0,en,1.0
+​​reaching,​​reaching,ORG,-0.3,0.0,en,1.0
+Maramureş,Maramureş,ORG,0.10212987012987014,0.0,en,1.0
+Galațiului,Galațiului,ORG,0.10212987012987014,0.0,en,1.0
+Maramureș,Maramureș,ORG,0.16,0.0,en,1.0
 Bucharesters,Bucharesters,ORG,0.125,0.0,en,1.0
+Luna 1,Luna 1,ORG,0.25,0.0,en,1.0
 Sun,Sun,ORG,0.25,0.0,en,1.0
-Infotraffic,Infotraffic,ORG,0.0,0.0,en,1.0
-Feyenoord,Feyenoord,ORG,0.6499999999999999,0.775,en,1.0
+the Europa League,the Europa League,ORG,0.3,0.0,en,1.0
 Cobza,Cobza,ORG,0.0,0.0,en,1.0
 UNESCO,UNESCO,ORG,0.15000000000000002,0.525,en,1.0
 the Intergovernmental Committee for the Safeguarding of,the Intergovernmental Committee for the Safeguarding of,ORG,0.05,0.0,en,1.0
@@ -31,14 +39,18 @@ the UNESCO Intangible Cultural Heritage,the UNESCO Intangible Cultural Heritage,
 the Ministry of Culture,the Ministry of Culture,ORG,0.1,0.0,en,1.0
 Kremlin,Kremlin,ORG,-0.1,0.0,en,1.0
 Becali,Becali,ORG,0.0,0.0,en,1.0
+Feyenoord,Feyenoord,ORG,0.6499999999999999,0.775,en,1.0
 FCSB,FCSB,ORG,0.3,0.0,en,1.0
-Luna 1,Luna 1,ORG,0.25,0.0,en,1.0
-the Europa League,the Europa League,ORG,0.3,0.0,en,1.0
-EU,EU,ORG,0.0,0.0,en,1.0
 the European Union,the European Union,ORG,0.0,0.05,en,1.0
+Infotraffic,Infotraffic,ORG,0.0,0.0,en,1.0
 the EU Council,the EU Council,ORG,0.0,0.0,en,1.0
 Prahova,Prahova,ORG,0.0,0.0,en,1.0
 Cornu,Cornu,ORG,0.0,0.0,en,1.0
 DSU,DSU,ORG,0.0,0.0,en,1.0
 The Department of Emergency Management,The Department of Emergency Management,ORG,0.0,0.0,en,1.0
-ANM,ANM,ORG,0.5,0.0,en,1.0
+FlightAware,FlightAware,ORG,-0.125,0.0,en,1.0
+the Ministry of the Environment,the Ministry of the Environment,ORG,0.0,0.0,en,1.0
+The Ministry of the Environment,The Ministry of the Environment,ORG,0.27777777777777773,0.0,en,1.0
+Code Yellow and Code,Code Yellow and Code,ORG,0.27777777777777773,0.0,en,1.0
+BBC,BBC,ORG,-0.13333333333333333,0.0,en,1.0
+Salvamont,Salvamont,ORG,0.16,0.0,en,1.0
