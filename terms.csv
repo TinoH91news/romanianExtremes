@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'adc50a5751',extremes,Snow&Ice,#d60d2b,wmo,freezing romania,2026-01-27T03:58:00+00:00,Romania,0.6274512926816381,1,1,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-01-15T12:14:00+00:00,Moldova,0.5397351495706618,1,1,ro,WCE,Europe
 'df4df3c972',extremes,Snow&Ice,#d60d2b,wmo,snow romania,2026-01-26T04:09:00+00:00,Romania,0.5358774338228954,2,1,ro,WCE,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-01-15T10:39:00+00:00,,0.4989089366075219,1,2,ro,,
@@ -32,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d648b882',extremes,Drought,#edc291,random,seceta,2026-01-15T10:39:00+00:00,,0.3806062128191027,1,1,ro,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,viscol,2026-01-15T10:56:00+00:00,,0.3801451561838075,1,3,ro,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,căldură record,2026-01-21T03:55:00+00:00,,0.377834632528104,1,2,ro,,
-'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-01-17T03:44:00+00:00,Romania,0.3700949471465944,2,1,ro,WCE,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-01-15T10:20:00+00:00,,0.3690018706965229,1,3,ro,,
 '560b05d603',extremes,Heat Wave,#c40202,random,val de căldură,2026-01-18T03:56:00+00:00,,0.3647040665380964,2,1,ro,,
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-01-24T03:49:00+00:00,Moldova,0.3622176189109624,1,1,ro,WCE,Europe
@@ -56,17 +54,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mercurul scade,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,ro,,
 '52af874334',extremes,Drought,#edc291,random,ariditate,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,ro,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,vârtej,2026-01-15T10:56:00+00:00,,0.3198628816936151,1,1,ro,,
-'f986f74559',extremes,Earthquake,#870007,usgs,cutremur yonakuni,2026-01-15T10:56:00+00:00,Japan,0.3194878129364829,0,1,ro,EAS,Asia
-'0e39632695',extremes,Drought,#edc291,edo,lipsa ploii iran,2026-01-15T10:57:00+00:00,Iran,0.3194737814584171,0,1,ro,WCA,Asia
-'1a5e4bce35',extremes,Drought,#edc291,edo,lipsa ploii kuweit,2026-01-15T10:57:00+00:00,Kuwait,0.3194730257656478,0,1,ro,ARP,Asia
-'e1559df16c',extremes,Earthquake,#870007,usgs,cutremur tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.3194694374992225,0,1,ro,SEA,Asia
 'c29a12e099',extremes,Earthquake,#870007,usgs,cutremur san vicente de cañete,2026-01-15T12:13:00+00:00,Peru,0.3194607973701726,0,1,ro,NWS,South-America
 '958e326b08',extremes,Earthquake,#870007,usgs,cutremur insulele Bonin regiunea Japonia,2026-01-15T10:56:00+00:00,,0.3194601121122835,0,1,ro,NPO,Pacific Ocean
 'c25ecb1005',extremes,Earthquake,#870007,usgs,cutremur yilan,2026-01-15T10:56:00+00:00,Taiwan,0.319454858991562,0,1,ro,EAS,Asia
 '0ca87424f0',extremes,Drought,#edc291,edo,uscăciunea Maroc,2026-01-15T10:57:00+00:00,Morocco,0.3194542799043131,0,1,ro,MED,Africa
 '34799f2163',extremes,Drought,#edc291,edo,secetă republica congo,2026-01-15T10:57:00+00:00,Republic of the Congo,0.3194515879691881,0,1,ro,CAF,Africa
 '06532967b8',extremes,Drought,#edc291,edo,lipsa ploii brazilia,2026-01-15T10:57:00+00:00,Brazil,0.3194470072157563,0,1,ro,SAM,South-America
-'eb91bf9344',extremes,Earthquake,#870007,usgs,cutremur la sud de insulele Kermadec,2026-01-15T10:56:00+00:00,,0.3194433959116101,0,1,ro,SPO,Pacific Ocean
 'bef1a25283',extremes,Drought,#edc291,edo,vrajă uscată siria,2026-01-15T10:57:00+00:00,Syria,0.3194401627265655,0,1,ro,MED,Asia
 '1c9dc747da',extremes,Drought,#edc291,edo,lipsa ploii cuba,2026-01-15T10:57:00+00:00,Cuba,0.319438728692943,0,1,ro,CAR,North-America
 '16348a6786',extremes,Drought,#edc291,edo,secetă tunisia,2026-01-15T10:57:00+00:00,Tunisia,0.3194383884051427,0,1,ro,MED,Africa
@@ -78,7 +71,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bd3759e67',extremes,Drought,#edc291,edo,seceta wallis si futuna,2026-01-15T10:57:00+00:00,Wallis and Futuna,0.31941119043432,0,1,ro,SPO,Pacific Ocean
 '9845e6aafe',extremes,Drought,#edc291,edo,seceta nordul insulelor mariana,2026-01-15T10:57:00+00:00,Northern Mariana Islands,0.3194050900910309,0,1,ro,NPO,Pacific Ocean
 '63aea37e6c',extremes,Earthquake,#870007,usgs,cutremur mutsu,2026-01-15T10:56:00+00:00,Japan,0.3193994258812029,0,1,ro,EAS,Asia
-'b5bfafc451',extremes,Drought,#edc291,edo,lipsa ploilor state unite insule minore periferice,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.3193987013593226,0,1,ro,WAF,Africa
 '69a64e0e6b',extremes,Drought,#edc291,edo,uscăciune irak,2026-01-15T10:57:00+00:00,Iraq,0.3193951598575566,0,1,ro,WCA,Asia
 '3c0d8a70ba',extremes,Earthquake,#870007,usgs,cutremur finschhafen,2026-01-15T12:13:00+00:00,Papua New Guinea,0.3193941326949972,0,1,ro,SEA,Asia
 'f5090b53e9',extremes,Drought,#edc291,edo,uscăciune polinezia franceză,2026-01-15T10:57:00+00:00,French Polynesia,0.3193922589204243,0,1,ro,SPO,Pacific Ocean
@@ -93,6 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bc178afc30',extremes,Drought,#edc291,edo,uscăciune mauritius,2026-01-15T10:57:00+00:00,Mauritius,0.3193740390702331,0,1,ro,SIO,Indian Ocean
 '8daec4f52d',extremes,Earthquake,#870007,usgs,cutremur la sud-est de insulă de Paște,2026-01-15T10:56:00+00:00,,0.319365211278062,0,1,ro,SPO,Pacific Ocean
 '34fd30e809',extremes,Earthquake,#870007,usgs,cutremur calama,2026-01-15T10:56:00+00:00,Chile,0.3193642581749714,0,1,ro,SWS,South-America
+'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-01-17T03:44:00+00:00,Romania,0.3145807050746052,3,1,ro,WCE,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,furtuna de praf,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,ro,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,ro,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,ro,,
@@ -198,6 +191,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '37af8de5d1',extremes,Earthquake,#870007,usgs,cutremur regiunea insulei Paștelui,2026-01-15T10:56:00+00:00,,0.2717115728130244,1,1,ro,SPO,Pacific Ocean
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,cutremur miyako,2026-01-15T10:56:00+00:00,Japan,0.271711311356893,1,1,ro,EAS,Asia
 '53e17b7a15',extremes,Earthquake,#870007,usgs,cutremur houma,2026-01-15T10:56:00+00:00,Tonga,0.271699611597642,1,1,ro,SPO,Pacific Ocean
+'e1559df16c',extremes,Earthquake,#870007,usgs,cutremur tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.27169903687433916,1,1,ro,SEA,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,cutremur india,2026-01-15T10:56:00+00:00,India,0.271693877628717,1,1,ro,SAS,Asia
 '27bfeaeef2',extremes,Earthquake,#870007,usgs,cutremur insulele kuril,2026-01-15T10:56:00+00:00,,0.2716937364745184,1,1,ro,RFE,Asia
 '2407b3a8ab',extremes,Drought,#edc291,edo,uscăciune burundi,2026-01-15T10:57:00+00:00,Burundi,0.2716919451404975,1,1,ro,SEAF,Africa
@@ -222,8 +216,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '982d97b8ec',extremes,Earthquake,#870007,usgs,cutremur susanville,2026-01-15T12:13:00+00:00,United States,0.2715730770590041,1,1,ro,WNA,North-America
 'a6144d1f04',extremes,Earthquake,#870007,usgs,cutremur insulele șobolanilor insulele aleutine alaska,2026-01-15T10:56:00+00:00,,0.2715718629615182,1,1,ro,NPO,Pacific Ocean
 '0816dd344b',extremes,Earthquake,#870007,usgs,cutremur lae,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2715689707938774,1,1,ro,SEA,Asia
+'f986f74559',extremes,Earthquake,#870007,usgs,cutremur yonakuni,2026-01-15T10:56:00+00:00,Japan,0.2715646409960104,1,1,ro,EAS,Asia
+'0e39632695',extremes,Drought,#edc291,edo,lipsa ploii iran,2026-01-15T10:57:00+00:00,Iran,0.27155271423965455,1,1,ro,WCA,Asia
+'1a5e4bce35',extremes,Drought,#edc291,edo,lipsa ploii kuweit,2026-01-15T10:57:00+00:00,Kuwait,0.2715520719008006,1,1,ro,ARP,Asia
+'eb91bf9344',extremes,Earthquake,#870007,usgs,cutremur la sud de insulele Kermadec,2026-01-15T10:56:00+00:00,,0.27152688652486856,1,1,ro,SPO,Pacific Ocean
 '1613eab3ee',extremes,Drought,#edc291,edo,lipsa ploii etiopia,2026-01-15T10:57:00+00:00,Ethiopia,0.2715058717432232,1,1,ro,NEAF,Africa
 'f1493fbbc1',extremes,Drought,#edc291,edo,lipsa ploii insula bouvet,2026-01-15T10:57:00+00:00,Bouvet Island,0.2715018350682894,1,1,ro,SOO,Antarctica
+'b5bfafc451',extremes,Drought,#edc291,edo,lipsa ploilor state unite insule minore periferice,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.2714888961554242,1,1,ro,WAF,Africa
 'e058bc3eb7',extremes,Drought,#edc291,edo,secetă sri lanka,2026-01-15T10:57:00+00:00,Sri Lanka,0.2714793111652458,1,1,ro,BOB,Asia
 'b6cef22543',extremes,Drought,#edc291,random,restricție de apă,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,ro,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de frig,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,ro,,
