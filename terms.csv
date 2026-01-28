@@ -1,15 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'adc50a5751',extremes,Snow&Ice,#d60d2b,wmo,freezing romania,2026-01-27T03:58:00+00:00,Romania,0.7381779913901625,0,1,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-01-15T12:14:00+00:00,Moldova,0.5397351495706618,1,1,ro,WCE,Europe
 'df4df3c972',extremes,Snow&Ice,#d60d2b,wmo,snow romania,2026-01-26T04:09:00+00:00,Romania,0.5358774338228954,2,1,ro,WCE,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-01-15T10:39:00+00:00,,0.4989089366075219,1,2,ro,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,căldură,2026-01-15T10:39:00+00:00,,0.4988841633594203,1,3,ro,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundații,2026-01-23T04:02:00+00:00,,0.4854680331459899,1,2,ro,,
 '8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-01-15T10:57:00+00:00,Romania,0.4845990744753272,3,1,ro,WCE,Europe
-'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-01-15T10:57:00+00:00,Moldova,0.48422022658780345,3,1,ro,WCE,Europe
+'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-01-15T10:57:00+00:00,Moldova,0.4842202265878034,3,1,ro,WCE,Europe
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ger,2026-01-24T03:48:00+00:00,,0.4773468622728164,1,3,ro,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclon,2026-01-15T10:56:00+00:00,,0.4757669572101168,2,2,ro,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-01-15T10:39:00+00:00,,0.4743158407385845,1,2,ro,,
-'030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-01-22T04:00:00+00:00,Moldova,0.46187936533367174,3,2,ro,WCE,Europe
+'030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-01-22T04:00:00+00:00,Moldova,0.4618793653336717,3,2,ro,WCE,Europe
 'f7fad55db6',extremes,Storm,#b3b2b1,wmo,storm romania,2026-01-26T04:09:00+00:00,Romania,0.4595225732500408,3,1,ro,WCE,Europe
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,avalanșă de zăpadă,2026-01-20T03:55:00+00:00,,0.4534098335233366,1,2,ro,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,vreme severă,2026-01-20T03:55:00+00:00,,0.448395539572185,1,2,ro,,
@@ -90,6 +91,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93760c82eb',extremes,Drought,#edc291,edo,uscăciune lesotho,2026-01-15T10:57:00+00:00,Lesotho,0.3193790419938667,0,1,ro,ESAF,Africa
 '1918ad6f9e',extremes,Drought,#edc291,edo,seceta tuvalu,2026-01-15T10:57:00+00:00,Tuvalu,0.3193771212827962,0,1,ro,EPO,Pacific Ocean
 'bc178afc30',extremes,Drought,#edc291,edo,uscăciune mauritius,2026-01-15T10:57:00+00:00,Mauritius,0.3193740390702331,0,1,ro,SIO,Indian Ocean
+'8daec4f52d',extremes,Earthquake,#870007,usgs,cutremur la sud-est de insulă de Paște,2026-01-15T10:56:00+00:00,,0.319365211278062,0,1,ro,SPO,Pacific Ocean
+'34fd30e809',extremes,Earthquake,#870007,usgs,cutremur calama,2026-01-15T10:56:00+00:00,Chile,0.3193642581749714,0,1,ro,SWS,South-America
 '8b4587c763',extremes,Storm,#b3b2b1,random,furtuna de praf,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,ro,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,ro,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,ro,,
@@ -219,7 +222,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '982d97b8ec',extremes,Earthquake,#870007,usgs,cutremur susanville,2026-01-15T12:13:00+00:00,United States,0.2715730770590041,1,1,ro,WNA,North-America
 'a6144d1f04',extremes,Earthquake,#870007,usgs,cutremur insulele șobolanilor insulele aleutine alaska,2026-01-15T10:56:00+00:00,,0.2715718629615182,1,1,ro,NPO,Pacific Ocean
 '0816dd344b',extremes,Earthquake,#870007,usgs,cutremur lae,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2715689707938774,1,1,ro,SEA,Asia
-'1613eab3ee',extremes,Drought,#edc291,edo,lipsa ploii etiopia,2026-01-15T10:57:00+00:00,Ethiopia,0.27150587174322327,1,1,ro,NEAF,Africa
+'1613eab3ee',extremes,Drought,#edc291,edo,lipsa ploii etiopia,2026-01-15T10:57:00+00:00,Ethiopia,0.2715058717432232,1,1,ro,NEAF,Africa
 'f1493fbbc1',extremes,Drought,#edc291,edo,lipsa ploii insula bouvet,2026-01-15T10:57:00+00:00,Bouvet Island,0.2715018350682894,1,1,ro,SOO,Antarctica
 'e058bc3eb7',extremes,Drought,#edc291,edo,secetă sri lanka,2026-01-15T10:57:00+00:00,Sri Lanka,0.2714793111652458,1,1,ro,BOB,Asia
 'b6cef22543',extremes,Drought,#edc291,random,restricție de apă,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,ro,,
