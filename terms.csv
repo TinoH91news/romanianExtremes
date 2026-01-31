@@ -1,15 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d811d106a0',extremes,Snow&Ice,#d60d2b,wmo,snow moldova,2026-01-30T04:21:00+00:00,Moldova,0.7364366156517438,0,1,ro,WCE,Europe
-'c2b3b4722a',extremes,Storm,#b3b2b1,wmo,storm surge romania,2026-01-30T04:21:00+00:00,Romania,0.7265348261145653,0,1,ro,WCE,Europe
-'985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2026-01-19T04:03:00+00:00,Romania,0.5756645307412538,0,1,ro,WCE,Europe
+'d811d106a0',extremes,Snow&Ice,#d60d2b,wmo,snow moldova,2026-01-30T04:21:00+00:00,Moldova,0.6259711233039822,1,1,ro,WCE,Europe
+'c2b3b4722a',extremes,Storm,#b3b2b1,wmo,storm surge romania,2026-01-30T04:21:00+00:00,Romania,0.6175546021973806,1,1,ro,WCE,Europe
 'adc50a5751',extremes,Snow&Ice,#d60d2b,wmo,freezing romania,2026-01-27T03:58:00+00:00,Romania,0.5333335987793923,2,1,ro,WCE,Europe
 '89426ddfd9',extremes,Fog,#d60d2b,wmo,fog moldova,2026-01-28T03:56:00+00:00,Moldova,0.5323097709205695,2,1,ro,WCE,Europe
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,vreme severă,2026-01-20T03:55:00+00:00,,0.5204363886363572,2,2,ro,,
 '0b2fd57376',extremes,Earthquake,#870007,usgs,cutremur taiwan,2026-01-15T12:13:00+00:00,Taiwan,0.5090186339007232,2,2,ro,EAS,Asia
 '997a2e2157',extremes,Earthquake,#870007,usgs,cutremur argentina,2026-01-15T10:56:00+00:00,Argentina,0.5087725408497242,2,2,ro,SWS,South-America
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,căldură,2026-01-15T10:39:00+00:00,,0.4988841633594203,1,3,ro,,
+'985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2026-01-19T04:03:00+00:00,Romania,0.48931485113006573,1,1,ro,WCE,Europe
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclon,2026-01-15T10:56:00+00:00,,0.4890853819619326,3,2,ro,,
-'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-01-29T04:18:00+00:00,,0.4888601050248309,1,3,ro,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundații,2026-01-23T04:02:00+00:00,,0.4854680331459899,1,2,ro,,
 '8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-01-15T10:57:00+00:00,Romania,0.4845990744753272,3,1,ro,WCE,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-01-15T10:57:00+00:00,Moldova,0.4842202265878034,3,1,ro,WCE,Europe
@@ -20,6 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-01-15T12:14:00+00:00,Moldova,0.4589248921350625,2,1,ro,WCE,Europe
 'df4df3c972',extremes,Snow&Ice,#d60d2b,wmo,snow romania,2026-01-26T04:09:00+00:00,Romania,0.4554958187494611,3,1,ro,WCE,Europe
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,avalanșă de zăpadă,2026-01-20T03:55:00+00:00,,0.4534098335233366,1,2,ro,,
+'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-01-29T04:18:00+00:00,,0.43411806790746993,2,3,ro,,
 'f200ff28aa',extremes,Earthquake,#870007,usgs,cutremur state unite,2026-01-15T10:56:00+00:00,United States,0.4326666127009757,3,1,ro,WNA,North-America
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-01-15T10:39:00+00:00,,0.4240727011163935,2,1,ro,,
 '1a17358ebb',extremes,Tsunami,#690191,usgs,tsunami tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.4220199972017002,1,2,ro,SEA,Asia
@@ -74,18 +74,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fada59714f',extremes,Drought,#edc291,edo,lipsa ploii zambia,2026-01-15T10:57:00+00:00,Zambia,0.319365512325778,0,1,ro,ESAF,Africa
 '34fd30e809',extremes,Earthquake,#870007,usgs,cutremur calama,2026-01-15T10:56:00+00:00,Chile,0.3193642581749714,0,1,ro,SWS,South-America
 '617402fc79',extremes,Drought,#edc291,edo,secetă eritreea,2026-01-15T10:57:00+00:00,Eritrea,0.3193608056086076,0,1,ro,SAH,Africa
-'22cdaf7557',extremes,Drought,#edc291,edo,secetă malawi,2026-01-15T10:57:00+00:00,Malawi,0.31935582193752166,0,1,ro,ESAF,Africa
+'22cdaf7557',extremes,Drought,#edc291,edo,secetă malawi,2026-01-15T10:57:00+00:00,Malawi,0.3193558219375216,0,1,ro,ESAF,Africa
 'c7be7a383d',extremes,Earthquake,#870007,usgs,cutremur sarangani,2026-01-15T10:56:00+00:00,Philippines,0.319346089176954,0,1,ro,SEA,Asia
 '02f4a27a12',extremes,Earthquake,#870007,usgs,cutremur mendi,2026-01-15T12:13:00+00:00,Papua New Guinea,0.3193398428974148,0,1,ro,SEA,Oceania
 '685995fcc4',extremes,Earthquake,#870007,usgs,cutremur la vest de insula Macquarie,2026-01-15T10:56:00+00:00,,0.3193359624061447,0,1,ro,SOO,Antarctica
 '2072c25fd3',extremes,Drought,#edc291,edo,secetă guyana,2026-01-15T10:57:00+00:00,Guyana,0.3193318160482953,0,1,ro,NSA,South-America
 '925cc6c6e9',extremes,Drought,#edc291,edo,secetă costa rica,2026-01-15T10:57:00+00:00,Costa Rica,0.3193315261263682,0,1,ro,SCA,South-America
 '6797a9705d',extremes,Drought,#edc291,edo,seceta jamaica,2026-01-15T10:57:00+00:00,Jamaica,0.3193252325143567,0,1,ro,CAR,North-America
-'474905c6c6',extremes,Drought,#edc291,edo,lipsa ploii namibia,2026-01-15T10:57:00+00:00,Namibia,0.31932025368051736,0,1,ro,WSAF,Africa
+'474905c6c6',extremes,Drought,#edc291,edo,lipsa ploii namibia,2026-01-15T10:57:00+00:00,Namibia,0.3193202536805173,0,1,ro,WSAF,Africa
 '68eb7178de',extremes,Earthquake,#870007,usgs,cutremur yasugichō,2026-01-15T10:56:00+00:00,Japan,0.3193143888043919,0,1,ro,EAS,Asia
 '7ae6318c5b',extremes,Earthquake,#870007,usgs,cutremur shikotan,2026-01-15T12:13:00+00:00,Russia,0.3193120962452619,0,1,ro,EAS,Asia
 'e5b46f3978',extremes,Drought,#edc291,edo,secetă argentina,2026-01-15T10:57:00+00:00,Argentina,0.3193104287613515,0,1,ro,SES,South-America
-'c92435bdaa',extremes,Drought,#edc291,edo,lipsă de ploaie el salvador,2026-01-15T10:57:00+00:00,El Salvador,0.31930804863452966,0,1,ro,SCA,North-America
+'c92435bdaa',extremes,Drought,#edc291,edo,lipsă de ploaie el salvador,2026-01-15T10:57:00+00:00,El Salvador,0.3193080486345296,0,1,ro,SCA,North-America
 '04bee72edb',extremes,Drought,#edc291,edo,lipsa ploii antigua si barbuda,2026-01-15T10:57:00+00:00,Antigua and Barbuda,0.3192995257692845,0,1,ro,CAR,North-America
 '7e642c0883',extremes,Drought,#edc291,edo,vrajă uscată anguilla,2026-01-15T10:57:00+00:00,Anguilla,0.319298912391842,0,1,ro,CAR,North-America
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-01-17T03:44:00+00:00,Romania,0.3145807050746052,3,1,ro,WCE,Europe
