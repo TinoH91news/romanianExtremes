@@ -45,24 +45,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclon bombă,2026-01-15T10:56:00+00:00,,0.3321008564047642,3,1,ro,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,cea mai rece zi,2026-01-15T10:56:00+00:00,,0.326375807578239,1,2,ro,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-01-17T03:44:00+00:00,,0.3258695700636114,1,2,ro,,
-'45500dcb47',extremes,Precipitation,#d60d2b,random,precipitaţii record,2026-01-27T03:58:00+00:00,,0.3220848420292492,1,1,ro,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,căldură record,2026-01-21T03:55:00+00:00,,0.3211594826488884,2,1,ro,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mercurul scade,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,ro,,
-'52af874334',extremes,Drought,#edc291,random,ariditate,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,ro,,
-'f5090b53e9',extremes,Drought,#edc291,edo,uscăciune polinezia franceză,2026-01-15T10:57:00+00:00,French Polynesia,0.3193922589204243,0,1,ro,SPO,Pacific Ocean
-'99549776e6',extremes,Drought,#edc291,edo,seceta papua noua guinea,2026-01-15T10:57:00+00:00,Papua New Guinea,0.3193908499474605,0,1,ro,EPO,Pacific Ocean
-'bba49c53eb',extremes,Drought,#edc291,edo,lipsa ploii insula Norfolk,2026-01-15T10:57:00+00:00,Norfolk Island,0.3193859949897914,0,1,ro,SPO,Pacific Ocean
-'a0374d7fc3',extremes,Drought,#edc291,edo,lipsa ploii niger,2026-01-15T10:57:00+00:00,Niger,0.3193831331523791,0,1,ro,SAH,Africa
-'fd25f2baec',extremes,Drought,#edc291,edo,uscăciune seychelles,2026-01-15T10:57:00+00:00,Seychelles,0.3193818845357581,0,1,ro,EIO,Indian Ocean
-'93760c82eb',extremes,Drought,#edc291,edo,uscăciune lesotho,2026-01-15T10:57:00+00:00,Lesotho,0.3193790419938667,0,1,ro,ESAF,Africa
-'88c42e7c0f',extremes,Drought,#edc291,edo,lipsa ploii tonga,2026-01-15T10:57:00+00:00,Tonga,0.3193778667360959,0,1,ro,SPO,Pacific Ocean
-'1918ad6f9e',extremes,Drought,#edc291,edo,seceta tuvalu,2026-01-15T10:57:00+00:00,Tuvalu,0.3193771212827962,0,1,ro,EPO,Pacific Ocean
-'904c16f856',extremes,Drought,#edc291,edo,secetă togo,2026-01-15T10:57:00+00:00,Togo,0.3193677253182152,0,1,ro,WAF,Africa
-'fada59714f',extremes,Drought,#edc291,edo,lipsa ploii zambia,2026-01-15T10:57:00+00:00,Zambia,0.319365512325778,0,1,ro,ESAF,Africa
-'22cdaf7557',extremes,Drought,#edc291,edo,secetă malawi,2026-01-15T10:57:00+00:00,Malawi,0.3193558219375216,0,1,ro,ESAF,Africa
-'c7be7a383d',extremes,Earthquake,#870007,usgs,cutremur sarangani,2026-01-15T10:56:00+00:00,Philippines,0.319346089176954,0,1,ro,SEA,Asia
-'02f4a27a12',extremes,Earthquake,#870007,usgs,cutremur mendi,2026-01-15T12:13:00+00:00,Papua New Guinea,0.3193398428974148,0,1,ro,SEA,Oceania
-'685995fcc4',extremes,Earthquake,#870007,usgs,cutremur la vest de insula Macquarie,2026-01-15T10:56:00+00:00,,0.3193359624061447,0,1,ro,SOO,Antarctica
 '2072c25fd3',extremes,Drought,#edc291,edo,secetă guyana,2026-01-15T10:57:00+00:00,Guyana,0.3193318160482953,0,1,ro,NSA,South-America
 '925cc6c6e9',extremes,Drought,#edc291,edo,secetă costa rica,2026-01-15T10:57:00+00:00,Costa Rica,0.3193315261263682,0,1,ro,SCA,South-America
 '6797a9705d',extremes,Drought,#edc291,edo,seceta jamaica,2026-01-15T10:57:00+00:00,Jamaica,0.3193252325143567,0,1,ro,CAR,North-America
@@ -123,12 +107,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,vara indiană,2026-01-23T04:02:00+00:00,,0.2759803107403592,1,1,ro,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,wildfire,2026-01-17T03:44:00+00:00,,0.2742407220415916,1,1,ro,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,inghet,2026-01-22T03:59:00+00:00,,0.2741264129223377,2,1,ro,,
+'45500dcb47',extremes,Precipitation,#d60d2b,random,precipitaţii record,2026-01-27T03:58:00+00:00,,0.2737721157248618,2,1,ro,,
+'52af874334',extremes,Drought,#edc291,random,ariditate,2026-01-21T03:55:00+00:00,,0.2721368250466943,2,1,ro,,
 'db5f39549c',extremes,Earthquake,#870007,usgs,cutremur indonezia,2026-01-15T10:56:00+00:00,Indonesia,0.2721196350281653,1,1,ro,SEA,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,cutremur china,2026-01-15T10:56:00+00:00,China,0.2721067456249892,1,1,ro,EAS,Asia
 '4d51911b1d',extremes,Earthquake,#870007,usgs,cutremur de sol,2026-01-15T10:56:00+00:00,Vanuatu,0.2720075634724872,1,1,ro,SPO,Pacific Ocean
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclon tropical italia,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,ro,MED,Europe
-'45f861329d',extremes,Landslide,#572c03,aidr,alunecare de teren adelaide hills south australia,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,ro,SAU,Oceania
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,furtuna de iarnă nord-americană new york,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,ro,ENA,North-America
+'45f861329d',extremes,Landslide,#572c03,aidr,alunecare de teren adelaide hills south australia,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,ro,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym vulcano vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,ro,SPO,Oceania
 '4594f1a372',extremes,Earthquake,#870007,usgs,cutremur iran,2026-01-15T10:56:00+00:00,Iran,0.2719749894588121,1,1,ro,WCA,Asia
 '1133ce1349',extremes,Earthquake,#870007,usgs,cutremur costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.2719571115431488,1,1,ro,SCA,South-America
@@ -254,17 +240,31 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '63aea37e6c',extremes,Earthquake,#870007,usgs,cutremur mutsu,2026-01-15T10:56:00+00:00,Japan,0.2714895119990224,1,1,ro,EAS,Asia
 'b5bfafc451',extremes,Drought,#edc291,edo,lipsa ploilor state unite insule minore periferice,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.2714888961554242,1,1,ro,WAF,Africa
 '69a64e0e6b',extremes,Drought,#edc291,edo,uscăciune irak,2026-01-15T10:57:00+00:00,Iraq,0.2714858858789231,1,1,ro,WCA,Asia
-'3c0d8a70ba',extremes,Earthquake,#870007,usgs,cutremur finschhafen,2026-01-15T12:13:00+00:00,Papua New Guinea,0.27148501279074766,1,1,ro,SEA,Asia
+'3c0d8a70ba',extremes,Earthquake,#870007,usgs,cutremur finschhafen,2026-01-15T12:13:00+00:00,Papua New Guinea,0.2714850127907476,1,1,ro,SEA,Asia
+'f5090b53e9',extremes,Drought,#edc291,edo,uscăciune polinezia franceză,2026-01-15T10:57:00+00:00,French Polynesia,0.27148342008236065,1,1,ro,SPO,Pacific Ocean
+'99549776e6',extremes,Drought,#edc291,edo,seceta papua noua guinea,2026-01-15T10:57:00+00:00,Papua New Guinea,0.27148222245534137,1,1,ro,EPO,Pacific Ocean
 '5a7935db1c',extremes,Drought,#edc291,edo,seceta eswatini,2026-01-15T10:57:00+00:00,Eswatini,0.2714810352997441,1,1,ro,ESAF,Africa
 'e058bc3eb7',extremes,Drought,#edc291,edo,secetă sri lanka,2026-01-15T10:57:00+00:00,Sri Lanka,0.2714793111652458,1,1,ro,BOB,Asia
+'bba49c53eb',extremes,Drought,#edc291,edo,lipsa ploii insula Norfolk,2026-01-15T10:57:00+00:00,Norfolk Island,0.2714780957413227,1,1,ro,SPO,Pacific Ocean
 '0df507a059',extremes,Drought,#edc291,edo,secetă azerbaidjan,2026-01-15T10:57:00+00:00,Azerbaijan,0.2714767284998128,1,1,ro,WCA,Asia
+'a0374d7fc3',extremes,Drought,#edc291,edo,lipsa ploii niger,2026-01-15T10:57:00+00:00,Niger,0.2714756631795222,1,1,ro,SAH,Africa
 'f84e373f72',extremes,Drought,#edc291,edo,lipsa ploii insulele cocos,2026-01-15T10:57:00+00:00,Cocos Islands,0.2714749304674092,1,1,ro,SIO,Indian Ocean
+'fd25f2baec',extremes,Drought,#edc291,edo,uscăciune seychelles,2026-01-15T10:57:00+00:00,Seychelles,0.2714746018553944,1,1,ro,EIO,Indian Ocean
+'93760c82eb',extremes,Drought,#edc291,edo,uscăciune lesotho,2026-01-15T10:57:00+00:00,Lesotho,0.27147218569478665,1,1,ro,ESAF,Africa
+'88c42e7c0f',extremes,Drought,#edc291,edo,lipsa ploii tonga,2026-01-15T10:57:00+00:00,Tonga,0.27147118672568155,1,1,ro,SPO,Pacific Ocean
 '4c395ac77e',extremes,Drought,#edc291,edo,uscăciune burkina faso,2026-01-15T10:57:00+00:00,Burkina Faso,0.2714705968155138,1,1,ro,WAF,Africa
+'1918ad6f9e',extremes,Drought,#edc291,edo,seceta tuvalu,2026-01-15T10:57:00+00:00,Tuvalu,0.27147055309037676,1,1,ro,EPO,Pacific Ocean
 'bc178afc30',extremes,Drought,#edc291,edo,uscăciune mauritius,2026-01-15T10:57:00+00:00,Mauritius,0.2714679332096981,1,1,ro,SIO,Indian Ocean
+'904c16f856',extremes,Drought,#edc291,edo,secetă togo,2026-01-15T10:57:00+00:00,Togo,0.27146256652048295,1,1,ro,WAF,Africa
+'fada59714f',extremes,Drought,#edc291,edo,lipsa ploii zambia,2026-01-15T10:57:00+00:00,Zambia,0.27146068547691127,1,1,ro,ESAF,Africa
 '8daec4f52d',extremes,Earthquake,#870007,usgs,cutremur la sud-est de insulă de Paște,2026-01-15T10:56:00+00:00,,0.2714604295863527,1,1,ro,SPO,Pacific Ocean
 '34fd30e809',extremes,Earthquake,#870007,usgs,cutremur calama,2026-01-15T10:56:00+00:00,Chile,0.2714596194487256,1,1,ro,SWS,South-America
 '617402fc79',extremes,Drought,#edc291,edo,secetă eritreea,2026-01-15T10:57:00+00:00,Eritrea,0.2714566847673164,1,1,ro,SAH,Africa
+'22cdaf7557',extremes,Drought,#edc291,edo,secetă malawi,2026-01-15T10:57:00+00:00,Malawi,0.27145244864689333,1,1,ro,ESAF,Africa
+'c7be7a383d',extremes,Earthquake,#870007,usgs,cutremur sarangani,2026-01-15T10:56:00+00:00,Philippines,0.2714441758004109,1,1,ro,SEA,Asia
+'02f4a27a12',extremes,Earthquake,#870007,usgs,cutremur mendi,2026-01-15T12:13:00+00:00,Papua New Guinea,0.2714388664628026,1,1,ro,SEA,Oceania
 'cdbf3f27ef',extremes,Drought,#edc291,edo,vara uscata Haiti,2026-01-15T10:57:00+00:00,Haiti,0.2714385611404515,1,1,ro,CAR,North-America
+'685995fcc4',extremes,Earthquake,#870007,usgs,cutremur la vest de insula Macquarie,2026-01-15T10:56:00+00:00,,0.271435568045223,1,1,ro,SOO,Antarctica
 '6cfc55b8b1',extremes,Drought,#edc291,edo,uscăciune bonaire saint eustatius and saba,2026-01-15T10:57:00+00:00,Bonaire; Saint Eustatius and Saba ,0.271414138736716,1,1,ro,CAR,North-America
 'b6cef22543',extremes,Drought,#edc291,random,restricție de apă,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,ro,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de frig,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,ro,,
