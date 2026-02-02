@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b2d779acfd',extremes,Snow&Ice,#d60d2b,wmo,ice romania,2026-02-02T04:36:00+00:00,Romania,0.7375960247034493,0,1,ro,WCE,Europe
 '00aaa81565',extremes,Snow&Ice,#d60d2b,wmo,frost romania,2026-02-02T04:36:00+00:00,Romania,0.7267967649364555,0,1,ro,WCE,Europe
+'b2d779acfd',extremes,Snow&Ice,#d60d2b,wmo,ice romania,2026-02-02T04:36:00+00:00,Romania,0.6271066359979319,1,1,ro,WCE,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundații,2026-01-23T04:02:00+00:00,,0.5576033763319861,2,2,ro,,
 'd811d106a0',extremes,Snow&Ice,#d60d2b,wmo,snow moldova,2026-01-30T04:21:00+00:00,Moldova,0.5320754548083848,2,1,ro,WCE,Europe
 'c2b3b4722a',extremes,Storm,#b3b2b1,wmo,storm surge romania,2026-01-30T04:21:00+00:00,Romania,0.5249214118677734,2,1,ro,WCE,Europe
@@ -51,10 +51,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-01-17T03:44:00+00:00,,0.3258695700636114,1,2,ro,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,căldură record,2026-01-21T03:55:00+00:00,,0.3211594826488884,2,1,ro,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mercurul scade,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,ro,,
-'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclon tropical 18p,2026-01-29T04:18:00+00:00,,0.31833332736552133,0,1,ro,SPO,Pacific Ocean
-'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclon tropical fytia,2026-01-31T04:16:00+00:00,,0.31824399549392157,0,1,ro,ESAF,Africa
-'f314bb7747',extremes,Flood,#030ba1,aidr,inundaţii pluviale australia,2026-01-15T10:57:00+00:00,Australia,0.31819670257821153,0,1,ro,SAU,Oceania
-'4d9577e33d',extremes,Volcano,#b83202,random,vulcan,2026-01-15T12:13:00+00:00,,0.31815366198983447,0,1,ro,,
+'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclon tropical 18p,2026-01-29T04:18:00+00:00,,0.3183333273655213,0,1,ro,SPO,Pacific Ocean
+'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclon tropical fytia,2026-01-31T04:16:00+00:00,,0.3182439954939215,0,1,ro,ESAF,Africa
+'f314bb7747',extremes,Flood,#030ba1,aidr,inundaţii pluviale australia,2026-01-15T10:57:00+00:00,Australia,0.3181967025782115,0,1,ro,SAU,Oceania
+'4d9577e33d',extremes,Volcano,#b83202,random,vulcan,2026-01-15T12:13:00+00:00,,0.3181536619898344,0,1,ro,,
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,cutremur noua caledonie,2026-01-15T10:56:00+00:00,New Caledonia,0.317937492940392,0,1,ro,SPO,Pacific Ocean
 '8c46315dbe',extremes,Earthquake,#870007,aidr,cutremur australia,2026-01-15T10:57:00+00:00,Australia,0.3177806361312545,0,1,ro,EAU,Oceania
 '64058b2dc1',extremes,Drought,#edc291,edo,vrajă uscată Ungaria,2026-01-15T10:57:00+00:00,Hungary,0.3177722741789591,0,1,ro,WCE,Europe
