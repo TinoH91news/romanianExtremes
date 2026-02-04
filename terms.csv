@@ -53,25 +53,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-01-17T03:44:00+00:00,,0.3258695700636114,1,2,ro,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,căldură record,2026-01-21T03:55:00+00:00,,0.3211594826488884,2,1,ro,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mercurul scade,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,ro,,
-'628c910b11',extremes,Flood,#030ba1,aidr,inundații care au inundat New South Wales 2022,2026-02-01T04:41:00+00:00,Australia,0.3146840262444516,0,1,ro,EAU,Oceania
-'81df5b3034',extremes,Storm,#b3b2b1,aidr,furtuna nordul sydney-ului 2017,2026-01-25T04:06:00+00:00,,0.3145838379494257,0,1,ro,EAU,Oceania
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-01-17T03:44:00+00:00,Romania,0.3145807050746052,3,1,ro,WCE,Europe
-'a0068b2b6b',extremes,Flood,#030ba1,aidr,inundații precipitații și inundații Queensland februarie martie 2022,2026-01-15T10:57:00+00:00,Australia,0.3145547697810502,0,1,ro,EAU,Oceania
-'e5e64ee526',extremes,Flood,#030ba1,aidr,inundație katherine teritoriu de nord,2026-01-15T12:14:00+00:00,Australia,0.31401305661368,0,1,ro,NAU,Oceania
-'b1d56de062',extremes,Snow&Ice,#d60d2b,random,bruma,2026-01-15T12:13:00+00:00,,0.3136784043417908,0,1,ro,,
-'44211c95de',extremes,Flood,#030ba1,wmo,inundarea australiei,2026-01-15T10:56:00+00:00,Australia,0.3132987510748307,0,1,ro,CAU,Oceania
-'06972a2776',extremes,Flood,#030ba1,acwe,inundație rapidă New South Wales,2026-01-31T04:17:00+00:00,Australia,0.3130599624297377,0,1,ro,EAU,Oceania
-'f7e4598a47',extremes,Tropical Cyclone,#4f4f4f,eonet,​​ciclon tropical ewetse,2026-01-21T03:55:00+00:00,,0.312567970644984,0,1,ro,MDG,Africa
-'3388f3d3d6',extremes,Drought,#edc291,acwe,lipsa ploii australia,2026-01-15T10:57:00+00:00,Australia,0.31250571845087816,0,1,ro,CAU,Oceania
-'42f9f7020d',extremes,Heat Wave,#c40202,acwe,vrajă caldă New South Wales,2026-02-02T04:37:00+00:00,Australia,0.31238760952474887,0,1,ro,EAU,Oceania
-'e921e2b0b7',extremes,Flood,#030ba1,aidr,inundații puternice de la fostul ciclon tropical Tiffany South Australia 2022,2026-01-17T03:45:00+00:00,Australia,0.3121208036512291,0,1,ro,SAU,Oceania
-'4dc8bdbf14',extremes,Flood,#030ba1,random,inundare a râului,2026-01-18T03:56:00+00:00,,0.3120834724982529,0,1,ro,,
-'d79796a1fe',extremes,Thunderstorm,#53785a,wmo,vreme severă australia,2026-01-15T10:56:00+00:00,Australia,0.31200754732365227,0,1,ro,CAU,Oceania
-'6684ff3339',extremes,Precipitation,#d60d2b,wmo,ploaie côtes d'armor morbihan,2026-01-15T10:56:00+00:00,France,0.31200754732365227,0,1,ro,WCE,Europe
-'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,furtună australia,2026-01-15T10:56:00+00:00,Australia,0.31200754732365227,0,1,ro,CAU,Oceania
-'f5b7e0886f',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie santarém,2026-01-15T10:56:00+00:00,Portugal,0.31200754732365227,0,1,ro,MED,Europe
-'64cbc1eb6b',extremes,Precipitation,#d60d2b,wmo,precipitatii papua selatan,2026-01-15T10:56:00+00:00,Indonesia,0.31200754732365227,0,1,ro,SEA,Asia
-'bec5ab9e20',extremes,Precipitation,#d60d2b,wmo,ploaie dobrich varna silistra,2026-01-15T10:56:00+00:00,Bulgaria,0.31200754732365227,0,1,ro,MED,Europe
+'6684ff3339',extremes,Precipitation,#d60d2b,wmo,ploaie côtes d'armor morbihan,2026-01-15T10:56:00+00:00,France,0.3120075473236522,0,1,ro,WCE,Europe
+'64cbc1eb6b',extremes,Precipitation,#d60d2b,wmo,precipitatii papua selatan,2026-01-15T10:56:00+00:00,Indonesia,0.3120075473236522,0,1,ro,SEA,Asia
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-01-24T03:49:00+00:00,Moldova,0.307884976074318,2,1,ro,WCE,Europe
 '283b154c38',extremes,Wet Spell,#d60d2b,random,vrajă umedă,2026-01-15T12:13:00+00:00,,0.3061723629772925,1,1,ro,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,vara de frig,2026-01-27T03:58:00+00:00,,0.3045780671121753,1,1,ro,,
@@ -104,9 +88,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db5f39549c',extremes,Earthquake,#870007,usgs,cutremur indonezia,2026-01-15T10:56:00+00:00,Indonesia,0.2721196350281653,1,1,ro,SEA,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,cutremur china,2026-01-15T10:56:00+00:00,China,0.2721067456249892,1,1,ro,EAS,Asia
 '4d51911b1d',extremes,Earthquake,#870007,usgs,cutremur de sol,2026-01-15T10:56:00+00:00,Vanuatu,0.2720075634724872,1,1,ro,SPO,Pacific Ocean
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,furtuna de iarnă nord-americană new york,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,ro,ENA,North-America
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclon tropical italia,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,ro,MED,Europe
 '45f861329d',extremes,Landslide,#572c03,aidr,alunecare de teren adelaide hills south australia,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,ro,SAU,Oceania
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,furtuna de iarnă nord-americană new york,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,ro,ENA,North-America
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym vulcano vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,ro,SPO,Oceania
 '4594f1a372',extremes,Earthquake,#870007,usgs,cutremur iran,2026-01-15T10:56:00+00:00,Iran,0.2719749894588121,1,1,ro,WCA,Asia
 '1133ce1349',extremes,Earthquake,#870007,usgs,cutremur costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.2719571115431488,1,1,ro,SCA,South-America
@@ -321,8 +305,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd4757169ad',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclon ciclon Yasi Queensland 2011,2026-01-15T10:57:00+00:00,,0.2679943439818302,1,1,ro,NAU,Oceania
 '5c82519f0a',extremes,Tropical Cyclone,#4f4f4f,eonet,​​ciclon tropical 17s,2026-01-24T03:48:00+00:00,,0.2679484859511865,1,1,ro,NAU,Oceania
 'ebbb5bceab',extremes,Flood,#030ba1,aidr,inundație nord și central Queensland,2026-01-15T12:14:00+00:00,Australia,0.2678561780084277,1,1,ro,NAU,Oceania
+'628c910b11',extremes,Flood,#030ba1,aidr,inundații care au inundat New South Wales 2022,2026-02-01T04:41:00+00:00,Australia,0.2674814223077838,1,1,ro,EAU,Oceania
+'81df5b3034',extremes,Storm,#b3b2b1,aidr,furtuna nordul sydney-ului 2017,2026-01-25T04:06:00+00:00,,0.2673962622570118,1,1,ro,EAU,Oceania
+'a0068b2b6b',extremes,Flood,#030ba1,aidr,inundații precipitații și inundații Queensland februarie martie 2022,2026-01-15T10:57:00+00:00,Australia,0.26737155431389265,1,1,ro,EAU,Oceania
 '8b4587c763',extremes,Storm,#b3b2b1,random,furtuna de praf,2026-01-24T03:48:00+00:00,,0.2669153087886057,2,1,ro,,
+'e5e64ee526',extremes,Flood,#030ba1,aidr,inundație katherine teritoriu de nord,2026-01-15T12:14:00+00:00,Australia,0.266911098121628,1,1,ro,NAU,Oceania
+'b1d56de062',extremes,Snow&Ice,#d60d2b,random,bruma,2026-01-15T12:13:00+00:00,,0.26662664369052214,1,1,ro,,
+'44211c95de',extremes,Flood,#030ba1,wmo,inundarea australiei,2026-01-15T10:56:00+00:00,Australia,0.26630393841360606,1,1,ro,CAU,Oceania
+'06972a2776',extremes,Flood,#030ba1,acwe,inundație rapidă New South Wales,2026-01-31T04:17:00+00:00,Australia,0.26610096806527705,1,1,ro,EAU,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-01-20T03:55:00+00:00,,0.2660470416237085,2,1,ro,,
+'f7e4598a47',extremes,Tropical Cyclone,#4f4f4f,eonet,​​ciclon tropical ewetse,2026-01-21T03:55:00+00:00,,0.2656827750482364,1,1,ro,MDG,Africa
+'3388f3d3d6',extremes,Drought,#edc291,acwe,lipsa ploii australia,2026-01-15T10:57:00+00:00,Australia,0.2656298606832464,1,1,ro,CAU,Oceania
+'42f9f7020d',extremes,Heat Wave,#c40202,acwe,vrajă caldă New South Wales,2026-02-02T04:37:00+00:00,Australia,0.2655294680960365,1,1,ro,EAU,Oceania
+'e921e2b0b7',extremes,Flood,#030ba1,aidr,inundații puternice de la fostul ciclon tropical Tiffany South Australia 2022,2026-01-17T03:45:00+00:00,Australia,0.2653026831035447,1,1,ro,SAU,Oceania
+'4dc8bdbf14',extremes,Flood,#030ba1,random,inundare a râului,2026-01-18T03:56:00+00:00,,0.265270951623515,1,1,ro,,
+'bec5ab9e20',extremes,Precipitation,#d60d2b,wmo,ploaie dobrich varna silistra,2026-01-15T10:56:00+00:00,Bulgaria,0.26520641522510435,1,1,ro,MED,Europe
+'f5b7e0886f',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie santarém,2026-01-15T10:56:00+00:00,Portugal,0.26520641522510435,1,1,ro,MED,Europe
+'d79796a1fe',extremes,Thunderstorm,#53785a,wmo,vreme severă australia,2026-01-15T10:56:00+00:00,Australia,0.26520641522510435,1,1,ro,CAU,Oceania
+'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,furtună australia,2026-01-15T10:56:00+00:00,Australia,0.26520641522510435,1,1,ro,CAU,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-01-21T03:55:00+00:00,,0.2642649326982095,2,1,ro,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,slip de gheață,2026-01-23T04:02:00+00:00,,0.2635416987823233,2,1,ro,,
 'b6cef22543',extremes,Drought,#edc291,random,restricție de apă,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,ro,,
