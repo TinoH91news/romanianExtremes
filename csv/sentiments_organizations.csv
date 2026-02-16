@@ -1,95 +1,96 @@
 ,phrase,label,sentiment,subjectivity,language,count
+ANM,ANM,ORG,0.12078098053707809,0.17750677506775064,en,8.200000000000001
 Capital,Capital,ORG,0.030487804878048783,0.23069105691056907,en,8.200000000000001
-ANM,ANM,ORG,0.13567178635671784,0.19939117199391168,en,7.300000000000001
 INCDFP,INCDFP,ORG,0.0,0.0,en,3.6999999999999997
 The National Meteorological Administration,The National Meteorological Administration,ORG,0.14475839475839478,0.1320638820638821,en,3.6999999999999997
 the National Research and Development Institute for Earth Physics,the National Research and Development Institute for Earth Physics,ORG,0.0,0.0,en,2.8
 AFP,AFP,ORG,0.27083333333333337,0.31547619047619047,en,2.8
+the Minister of Energy,the Minister of Energy,ORG,0.04166666666666668,0.25909090909090915,en,2.1999999999999997
 Reuters,Reuters,ORG,0.1880952380952381,0.6071428571428572,en,2.1
-Bucegi,Bucegi,ORG,0.18289473684210528,0.23026315789473686,en,1.9
 MAE,MAE,ORG,-0.013157894736842103,0.10964912280701755,en,1.9
-the Ministerial Committee for Emergency Situations,the Ministerial Committee for Emergency Situations,ORG,0.14619883040935672,0.216374269005848,en,1.9
-the National Meteorological Administration,the National Meteorological Administration,ORG,-0.15789473684210525,0.0,en,1.9
-BBC,BBC,ORG,-0.14912280701754385,0.17105263157894737,en,1.9
 DSU,DSU,ORG,0.2631578947368421,0.2631578947368421,en,1.9
+the National Meteorological Administration,the National Meteorological Administration,ORG,-0.15789473684210525,0.0,en,1.9
 Elcen,Elcen,ORG,0.125,0.1118421052631579,en,1.9
 EU,EU,ORG,0.0,0.0,en,1.9
-the Minister of Energy,the Minister of Energy,ORG,0.008771929824561408,0.12719298245614036,en,1.9
+Bucegi,Bucegi,ORG,0.18289473684210528,0.23026315789473686,en,1.9
 Mehedinți,Mehedinți,ORG,-0.06578947368421052,0.19736842105263158,en,1.9
+BBC,BBC,ORG,-0.14912280701754385,0.17105263157894737,en,1.9
+the Ministerial Committee for Emergency Situations,the Ministerial Committee for Emergency Situations,ORG,0.14619883040935672,0.216374269005848,en,1.9
 Salvamont,Salvamont,ORG,0.12361111111111112,0.29999999999999993,en,1.8
 Trump,Trump,ORG,0.0,0.0,en,1.7
 State,State,ORG,0.2348484848484848,0.3863636363636363,en,1.1
-Galațiului,Galațiului,ORG,0.10212987012987014,0.0,en,1.0
+ABC News,ABC News,ORG,0.0,0.0,en,1.0
 VIDEO Autostrada Soarelui,VIDEO Autostrada Soarelui,ORG,0.0,0.0,en,1.0
-Maramureș,Maramureș,ORG,0.16,0.0,en,1.0
+MAP,MAP,ORG,0.0,0.0,en,1.0
 Mount Elbrus,Mount Elbrus,ORG,0.4000000000000001,0.0,en,1.0
-​​reaching,​​reaching,ORG,-0.3,0.0,en,1.0
+Maramureș,Maramureș,ORG,0.16,0.0,en,1.0
+Galațiului,Galațiului,ORG,0.10212987012987014,0.0,en,1.0
 Maramureş,Maramureş,ORG,0.10212987012987014,0.0,en,1.0
-the European Mediterranean Seismological Center,the European Mediterranean Seismological Center,ORG,-0.03333333333333333,0.0,en,1.0
+MFA,MFA,ORG,0.0,0.0,en,1.0
+Yellow Flood Codes,Yellow Flood Codes,ORG,0.0,0.0,en,1.0
 the National Institute of Infectious Diseases,the National Institute of Infectious Diseases,ORG,0.0,0.0,en,1.0
 Wizz Air company,Wizz Air company,ORG,0.0,0.0,en,1.0
+The Ministry of Foreign Affairs,The Ministry of Foreign Affairs,ORG,-0.024999999999999994,0.0,en,1.0
 CNN,CNN,ORG,0.05,0.0,en,1.0
 the Institute of Cardiovascular Diseases CC Iliescu,the Institute of Cardiovascular Diseases CC Iliescu,ORG,0.0,0.0,en,1.0
 the Ministry of Health,the Ministry of Health,ORG,0.0,0.0,en,1.0
 the Minister of Health,the Minister of Health,ORG,0.0,0.0,en,1.0
+​​reaching,​​reaching,ORG,-0.3,0.0,en,1.0
 the Institute for Earth Physics,the Institute for Earth Physics,ORG,0.0,0.0,en,1.0
-the Ministry of Culture,the Ministry of Culture,ORG,0.1,0.0,en,1.0
-EMSC,EMSC,ORG,-0.03333333333333333,0.0,en,1.0
-ELCEN,ELCEN,ORG,0.016666666666666673,0.0,en,1.0
-The Ministry of Foreign Affairs,The Ministry of Foreign Affairs,ORG,-0.024999999999999994,0.0,en,1.0
-MFA,MFA,ORG,0.0,0.0,en,1.0
-MAP,MAP,ORG,0.0,0.0,en,1.0
-AP,AP,ORG,-0.07916666666666666,0.0,en,1.0
-the Moscow State University,the Moscow State University,ORG,0.25,0.0,en,1.0
-PHOTO/VIDEO Moscow,PHOTO/VIDEO Moscow,ORG,0.0,0.0,en,1.0
-The China Meteorological Administration,The China Meteorological Administration,ORG,-0.049999999999999996,0.0,en,1.0
-Yellow Flood Codes,Yellow Flood Codes,ORG,0.0,0.0,en,1.0
+the European Mediterranean Seismological Center,the European Mediterranean Seismological Center,ORG,-0.03333333333333333,0.0,en,1.0
+The National Meteorological Authority,The National Meteorological Authority,ORG,0.10833333333333332,0.0,en,1.0
 Vulkangruppe,Vulkangruppe,ORG,0.0,0.0,en,1.0
+The China Meteorological Administration,The China Meteorological Administration,ORG,-0.049999999999999996,0.0,en,1.0
 the National Institute of Hydrology,the National Institute of Hydrology,ORG,0.0,0.0,en,1.0
 Digi24,Digi24,ORG,0.4166666666666667,0.0,en,1.0
 The Minister of Energy,The Minister of Energy,ORG,0.4166666666666667,0.0,en,1.0
-The National Meteorological Authority,The National Meteorological Authority,ORG,0.10833333333333332,0.0,en,1.0
+PHOTO/VIDEO Moscow,PHOTO/VIDEO Moscow,ORG,0.0,0.0,en,1.0
 Arad,Arad,ORG,0.14444444444444443,0.0,en,1.0
+EMSC,EMSC,ORG,-0.03333333333333333,0.0,en,1.0
 DPA,DPA,ORG,0.125,0.0,en,1.0
 The Foreign Office,The Foreign Office,ORG,-0.0625,0.0,en,1.0
+ELCEN,ELCEN,ORG,0.016666666666666673,0.0,en,1.0
+the Moscow State University,the Moscow State University,ORG,0.25,0.0,en,1.0
 Rodnei,Rodnei,ORG,0.1875,0.0,en,1.0
+AP,AP,ORG,-0.07916666666666666,0.0,en,1.0
 The Minister of Health,The Minister of Health,ORG,0.0,0.0,en,1.0
-Greenland,Greenland,ORG,0.45,0.0,en,1.0
+Kremlin,Kremlin,ORG,-0.1,0.0,en,1.0
 Kondratieff,Kondratieff,ORG,0.08733766233766234,0.0,en,1.0
-The Department of Emergency Management,The Department of Emergency Management,ORG,0.0,0.0,en,1.0
+FlightAware,FlightAware,ORG,-0.125,0.0,en,1.0
+Blue Origin's,Blue Origin's,ORG,0.08333333333333333,0.0,en,1.0
 Sun,Sun,ORG,0.25,0.0,en,1.0
 Luna 1,Luna 1,ORG,0.25,0.0,en,1.0
 Code Yellow and Code,Code Yellow and Code,ORG,0.27777777777777773,0.0,en,1.0
 The Ministry of the Environment,The Ministry of the Environment,ORG,0.27777777777777773,0.0,en,1.0
 the Ministry of the Environment,the Ministry of the Environment,ORG,0.0,0.0,en,1.0
-the UNESCO Intangible Cultural Heritage,the UNESCO Intangible Cultural Heritage,ORG,0.1,0.0,en,1.0
-FlightAware,FlightAware,ORG,-0.125,0.0,en,1.0
+the Ministry of Culture,the Ministry of Culture,ORG,0.1,0.0,en,1.0
+The Department of Emergency Management,The Department of Emergency Management,ORG,0.0,0.0,en,1.0
+Sfântul Ion,Sfântul Ion,ORG,0.0,0.0,en,1.0
 Cornu,Cornu,ORG,0.0,0.0,en,1.0
-superlong Kondratieff,superlong Kondratieff,ORG,0.0,0.0,en,1.0
 Prahova,Prahova,ORG,0.0,0.0,en,1.0
 the EU Council,the EU Council,ORG,0.0,0.0,en,1.0
 the European Union,the European Union,ORG,0.0,0.05,en,1.0
 the Europa League,the Europa League,ORG,0.3,0.0,en,1.0
 FCSB,FCSB,ORG,0.3,0.0,en,1.0
 Feyenoord,Feyenoord,ORG,0.6499999999999999,0.775,en,1.0
-Becali,Becali,ORG,0.0,0.0,en,1.0
-Blue Origin's,Blue Origin's,ORG,0.08333333333333333,0.0,en,1.0
 Bucharesters,Bucharesters,ORG,0.125,0.0,en,1.0
-Sfântul Ion,Sfântul Ion,ORG,0.0,0.0,en,1.0
 the National Institute,the National Institute,ORG,-0.125,0.0,en,1.0
-The Ministry of Energy,The Ministry of Energy,ORG,-0.14722222222222223,0.0,en,1.0
-Kremlin,Kremlin,ORG,-0.1,0.0,en,1.0
-Cobza,Cobza,ORG,0.0,0.0,en,1.0
-Infotraffic,Infotraffic,ORG,0.0,0.0,en,1.0
-UNESCO,UNESCO,ORG,0.15000000000000002,0.525,en,1.0
+superlong Kondratieff,superlong Kondratieff,ORG,0.0,0.0,en,1.0
 Elli,Elli,ORG,-0.15555555555555559,0.0,en,1.0
+The Ministry of Energy,The Ministry of Energy,ORG,-0.14722222222222223,0.0,en,1.0
+Cobza,Cobza,ORG,0.0,0.0,en,1.0
+Becali,Becali,ORG,0.0,0.0,en,1.0
+Greenland,Greenland,ORG,0.45,0.0,en,1.0
+UNESCO,UNESCO,ORG,0.15000000000000002,0.525,en,1.0
+Infotraffic,Infotraffic,ORG,0.0,0.0,en,1.0
+the Intergovernmental Committee for the Safeguarding of,the Intergovernmental Committee for the Safeguarding of,ORG,0.05,0.0,en,1.0
 INHGA,INHGA,ORG,0.0,0.0,en,1.0
+The Winter Command,The Winter Command,ORG,0.0,0.0,en,1.0
 The National Institute of Hydrology and Water Management,The National Institute of Hydrology and Water Management,ORG,0.0,0.0,en,1.0
 Spartan,Spartan,ORG,0.037500000000000006,0.0,en,1.0
 CET Bucharest Sud,CET Bucharest Sud,ORG,0.125,0.0,en,1.0
-the Intergovernmental Committee for the Safeguarding of,the Intergovernmental Committee for the Safeguarding of,ORG,0.05,0.0,en,1.0
-Termo,Termo,ORG,0.0,0.0,en,1.0
 the Kyiv Post,the Kyiv Post,ORG,0.0,0.0,en,1.0
+Termo,Termo,ORG,0.0,0.0,en,1.0
+the UNESCO Intangible Cultural Heritage,the UNESCO Intangible Cultural Heritage,ORG,0.1,0.0,en,1.0
 MAI,MAI,ORG,0.0,0.0,en,1.0
-The Winter Command,The Winter Command,ORG,0.0,0.0,en,1.0
 the General Directorate of Meteorology,the General Directorate of Meteorology,ORG,-0.024999999999999994,0.0,en,1.0
