@@ -24,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-02-05T04:28:00+00:00,Moldova,0.435774672786095,2,1,ro,WCE,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-01-29T04:18:00+00:00,,0.4341180679074699,2,3,ro,,
 '0b2fd57376',extremes,Earthquake,#870007,usgs,cutremur taiwan,2026-01-15T12:13:00+00:00,Taiwan,0.4328158538156147,3,2,ro,EAS,Asia
+'b1d56de062',extremes,Snow&Ice,#d60d2b,random,bruma,2026-02-16T04:37:00+00:00,,0.4303975693655234,2,2,ro,,
 '75ba270824',extremes,Storm,#b3b2b1,wmo,furtună caraș severin,2026-02-10T04:43:00+00:00,Romania,0.4258058380912501,2,1,ro,WCE,Europe
 '75579b650e',extremes,Drought,#edc291,edo,seceta romania,2026-02-10T04:43:00+00:00,Romania,0.4249502882170869,2,1,ro,WCE,Europe
 '23ad2bb822',extremes,Earthquake,#870007,usgs,cutremur rusia,2026-01-15T10:56:00+00:00,Russia,0.4241075991856118,2,2,ro,EAS,Asia
@@ -56,20 +57,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Canada înghețată,2026-02-06T04:27:00+00:00,Canada,0.3487554372648882,2,1,ro,NEN,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,val de căldură australia,2026-02-05T04:27:00+00:00,Australia,0.3481985881457436,2,1,ro,CAU,Oceania
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-02-09T04:39:00+00:00,Romania,0.3333160658853458,2,1,ro,WCE,Europe
-'b1d56de062',extremes,Snow&Ice,#d60d2b,random,bruma,2026-02-16T04:37:00+00:00,,0.3297030051359099,1,1,ro,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ploaie puternică,2026-01-17T03:44:00+00:00,,0.3295310326494846,3,2,ro,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,cea mai rece zi,2026-01-15T10:56:00+00:00,,0.326375807578239,1,2,ro,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,căldură record,2026-01-21T03:55:00+00:00,,0.3211594826488884,2,1,ro,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antarctica,2026-02-19T04:31:00+00:00,,0.3177487546426184,0,1,ro,,
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-02-06T04:27:00+00:00,Brazil,0.3139990650066986,2,1,ro,SAM,South-America
-'a0068b2b6b',extremes,Flood,#030ba1,aidr,inundații precipitații și inundații Queensland februarie martie 2022,2026-02-05T04:28:00+00:00,Australia,0.3127534347774909,0,1,ro,EAU,Oceania
 '7b672dbbe2',extremes,Earthquake,#870007,usgs,cutremur sud-est Pacific Rise,2026-02-05T04:27:00+00:00,,0.3079063278340997,0,1,ro,SPO,Pacific Ocean
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-01-24T03:49:00+00:00,Moldova,0.307884976074318,2,1,ro,WCE,Europe
 '0df507a059',extremes,Drought,#edc291,edo,secetă azerbaidjan,2026-02-06T04:28:00+00:00,Azerbaijan,0.3076176103470676,0,1,ro,WCA,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,cutremur china,2026-01-15T10:56:00+00:00,China,0.3071908237812408,2,2,ro,EAS,Asia
-'054f4c1126',extremes,Fog,#d60d2b,wmo,ceață izrael valley,2026-02-05T04:27:00+00:00,Israel,0.30687673838743446,0,1,ro,MED,Asia
+'054f4c1126',extremes,Fog,#d60d2b,wmo,ceață izrael valley,2026-02-05T04:27:00+00:00,Israel,0.3068767383874344,0,1,ro,MED,Asia
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,Islanda înghețată,2026-02-18T04:34:00+00:00,Iceland,0.3068718313985285,0,1,ro,GIC,Europe
-'2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,furtuna مملكة البحرين والمناطق المحيطة بها,2026-02-08T04:43:00+00:00,Bahrain,0.30587109410054236,0,1,ro,ARP,Asia
+'2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,furtuna مملكة البحرين والمناطق المحيطة بها,2026-02-08T04:43:00+00:00,Bahrain,0.3058710941005423,0,1,ro,ARP,Asia
 '01b678efbf',extremes,Heat Wave,#c40202,wmo,caniculă reg. 3 precordillera,2026-02-17T04:31:00+00:00,Chile,0.3057876921280838,0,1,ro,SWS,South-America
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-01-17T03:44:00+00:00,,0.3046671272813424,2,2,ro,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,lăcustă,2026-01-26T04:08:00+00:00,,0.2962304529413387,2,1,ro,,
@@ -130,6 +129,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad41fee440',extremes,Earthquake,#870007,usgs,cutremur lata,2026-02-05T04:27:00+00:00,Solomon Islands,0.2660989767731193,1,1,ro,SPO,Pacific Ocean
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-01-20T03:55:00+00:00,,0.2660470416237085,2,1,ro,,
 '03f33e230d',extremes,Earthquake,#870007,usgs,cutremur chile,2026-02-05T04:27:00+00:00,Chile,0.2659845531088818,1,1,ro,SWS,South-America
+'a0068b2b6b',extremes,Flood,#030ba1,aidr,inundații precipitații și inundații Queensland februarie martie 2022,2026-02-05T04:28:00+00:00,Australia,0.26584041956086724,1,1,ro,EAU,Oceania
 '85a135fac3',extremes,Earthquake,#870007,usgs,cutremur ozernovskiy,2026-02-05T04:27:00+00:00,Russia,0.2658240566375687,1,1,ro,NPO,Pacific Ocean
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundație fulgerătoare australia,2026-02-05T04:28:00+00:00,Australia,0.2657748328336556,1,1,ro,NAU,Oceania
 '34fd30e809',extremes,Earthquake,#870007,usgs,cutremur calama,2026-02-05T04:27:00+00:00,Chile,0.2657208751858185,1,1,ro,SWS,South-America
