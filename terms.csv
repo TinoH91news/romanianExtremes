@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'df4df3c972',extremes,Snow&Ice,#d60d2b,wmo,snow romania,2026-02-21T04:18:00+00:00,Romania,0.702631899283063,0,1,ro,WCE,Europe
+'df4df3c972',extremes,Snow&Ice,#d60d2b,wmo,snow romania,2026-02-21T04:18:00+00:00,Romania,0.5972371143906036,1,1,ro,WCE,Europe
 'f7fad55db6',extremes,Storm,#b3b2b1,wmo,storm romania,2026-02-17T04:31:00+00:00,Romania,0.5277568643881487,2,1,ro,WCE,Europe
 'f05a6139b4',extremes,Precipitation,#d60d2b,wmo,ploaie rusă,2026-01-15T10:56:00+00:00,Russia,0.5032029806913387,2,2,ro,ESB,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-02-08T04:43:00+00:00,Moldova,0.501937803692148,2,2,ro,WCE,Europe
@@ -11,6 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundații,2026-01-23T04:02:00+00:00,,0.4739632148821882,3,1,ro,,
 '747143fa4d',extremes,Storm,#b3b2b1,wmo,storm gorj hunedoara,2026-02-04T04:21:00+00:00,Romania,0.4738636277251716,2,1,ro,WCE,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-01-22T04:00:00+00:00,Moldova,0.4618793653336717,3,2,ro,WCE,Europe
+'84febdd06c',extremes,Thunderstorm,#53785a,random,furtună,2026-02-23T04:36:00+00:00,,0.4596905698089051,1,3,ro,,
 '43e3252826',extremes,Storm,#b3b2b1,wmo,furtuna moldova,2026-02-18T04:34:00+00:00,Moldova,0.4558253513251887,3,1,ro,WCE,Europe
 'b2d779acfd',extremes,Snow&Ice,#d60d2b,wmo,ice romania,2026-02-02T04:36:00+00:00,Romania,0.4533620722585058,3,1,ro,WCE,Europe
 'adc50a5751',extremes,Snow&Ice,#d60d2b,wmo,freezing romania,2026-01-27T03:58:00+00:00,Romania,0.4533335589624835,3,1,ro,WCE,Europe
@@ -33,7 +34,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-01-15T10:20:00+00:00,,0.4070178545327832,3,3,ro,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanșă,2026-01-23T04:02:00+00:00,,0.398599422326823,1,2,ro,,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,ice canada,2026-02-06T04:27:00+00:00,Canada,0.3941805867862706,2,2,ro,NEN,North-America
-'84febdd06c',extremes,Thunderstorm,#53785a,random,furtună,2026-02-23T04:36:00+00:00,,0.39368980430006945,0,1,ro,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umiditatea solului,2026-01-28T03:56:00+00:00,,0.3920756989882669,2,2,ro,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-01-18T03:56:00+00:00,,0.3906886910073215,1,3,ro,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,vara de frig,2026-01-27T03:58:00+00:00,,0.3867220699052133,3,2,ro,,
@@ -57,9 +57,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17c827a010',extremes,Earthquake,#870007,usgs,cutremur japan,2026-02-05T04:27:00+00:00,Japan,0.3115742770013889,0,1,ro,EAS,Asia
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclon,2026-02-05T04:27:00+00:00,,0.3103265399887555,2,1,ro,,
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-01-24T03:49:00+00:00,Moldova,0.307884976074318,2,1,ro,WCE,Europe
-'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,ploaie Africa de Sud,2026-02-23T04:37:00+00:00,South Africa,0.30584115826826125,0,1,ro,WSAF,Africa
+'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,ploaie Africa de Sud,2026-02-23T04:37:00+00:00,South Africa,0.3058411582682612,0,1,ro,WSAF,Africa
 'a486f7aaa7',extremes,Snow Avalanche,#deddd5,wmo,avalanșă republic of adygea,2026-02-10T04:43:00+00:00,Russia,0.3051462385098296,0,1,ro,ESB,Europe
-'d61de81685',extremes,Storm,#b3b2b1,wmo,storm surge chile,2026-02-10T04:43:00+00:00,Chile,0.30508748998560603,0,1,ro,SWS,South-America
+'d61de81685',extremes,Storm,#b3b2b1,wmo,storm surge chile,2026-02-10T04:43:00+00:00,Chile,0.305087489985606,0,1,ro,SWS,South-America
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-01-17T03:44:00+00:00,,0.3046671272813424,2,2,ro,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-02-11T04:41:00+00:00,,0.3009203989211476,1,1,ro,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mercurul scade,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,ro,,
