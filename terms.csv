@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'adc50a5751',extremes,Snow&Ice,#d60d2b,wmo,freezing romania,2026-02-18T04:34:00+00:00,Romania,0.7326947407086365,0,1,ro,WCE,Europe
+'adc50a5751',extremes,Snow&Ice,#d60d2b,wmo,freezing romania,2026-02-18T04:34:00+00:00,Romania,0.622790529602341,1,1,ro,WCE,Europe
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,căldură,2026-01-15T10:39:00+00:00,,0.4988841633594203,1,3,ro,,
 '9f0423d739',extremes,Drought,#edc291,random,uscăciune,2026-02-15T04:34:00+00:00,,0.4779349237864072,1,2,ro,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,viscol,2026-01-15T10:56:00+00:00,,0.4776376856155282,3,3,ro,,
@@ -13,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00aaa81565',extremes,Snow&Ice,#d60d2b,wmo,frost romania,2026-02-02T04:36:00+00:00,Romania,0.4463440632666007,3,1,ro,WCE,Europe
 '0a8e5743d9',extremes,Landslide,#572c03,random,alunecare de teren,2026-02-17T04:30:00+00:00,,0.4462943073495013,1,3,ro,,
 'c2b3b4722a',extremes,Storm,#b3b2b1,wmo,storm surge romania,2026-01-30T04:21:00+00:00,Romania,0.4461832000876073,3,1,ro,WCE,Europe
+'d587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,uragan,2026-03-01T04:34:00+00:00,,0.4429376139116203,1,2,ro,,
 'c37833a8e4',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială moldova,2026-02-15T04:35:00+00:00,Moldova,0.4391706003859817,3,1,ro,WCE,Europe
 '985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2026-02-08T04:43:00+00:00,Romania,0.4372267171571267,2,1,ro,WCE,Europe
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-02-05T04:28:00+00:00,Moldova,0.435774672786095,2,1,ro,WCE,Europe
@@ -46,9 +47,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Canada înghețată,2026-02-06T04:27:00+00:00,Canada,0.3487554372648882,2,1,ro,NEN,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,val de căldură australia,2026-02-05T04:27:00+00:00,Australia,0.3481985881457436,2,1,ro,CAU,Oceania
 'b6ae58ad13',extremes,Earthquake,#870007,usgs,cutremur romania,2026-02-27T04:25:00+00:00,Romania,0.3457178089804301,2,1,ro,WCE,Europe
-'d587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,uragan,2026-03-01T04:34:00+00:00,,0.3442795104842592,0,1,ro,,
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-02-06T04:27:00+00:00,Brazil,0.3424992652556938,3,2,ro,SAM,South-America
-'056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-03-01T04:34:00+00:00,,0.34075688545848876,0,1,ro,,
+'056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-03-01T04:34:00+00:00,,0.3407568854584887,0,1,ro,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-02-28T04:07:00+00:00,,0.3382177784887811,2,1,ro,,
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-02-20T04:27:00+00:00,Moldova,0.3368667391085996,2,1,ro,WCE,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-02-09T04:39:00+00:00,Romania,0.3333160658853458,2,1,ro,WCE,Europe
@@ -57,9 +57,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f37139fe2d',extremes,Landslide,#572c03,random,alunecare de noroi,2026-02-12T04:36:00+00:00,,0.3133702019506147,2,1,ro,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclon,2026-02-05T04:27:00+00:00,,0.3103265399887555,2,1,ro,,
 '3421a57149',extremes,Storm,#b3b2b1,wmo,furtuna ecuador,2026-02-17T04:31:00+00:00,Ecuador,0.3056011259887339,0,1,ro,NWS,South-America
-'931978a75d',extremes,Cold Wave,#a7e9fa,wmo,val de frig arabia saudită,2026-02-28T04:07:00+00:00,Saudi Arabia,0.30550121725684315,0,1,ro,ARP,Asia
+'931978a75d',extremes,Cold Wave,#a7e9fa,wmo,val de frig arabia saudită,2026-02-28T04:07:00+00:00,Saudi Arabia,0.3055012172568431,0,1,ro,ARP,Asia
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado murray river townships victoria 2013,2026-02-26T04:29:00+00:00,Australia,0.3052348712702683,0,1,ro,SAU,Oceania
-'9fe5b0338d',extremes,Fog,#d60d2b,wmo,ceață croația,2026-03-01T04:35:00+00:00,Croatia,0.30465527874251874,0,1,ro,WCE,Europe
+'9fe5b0338d',extremes,Fog,#d60d2b,wmo,ceață croația,2026-03-01T04:35:00+00:00,Croatia,0.3046552787425187,0,1,ro,WCE,Europe
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitation litoral,2026-02-16T04:38:00+00:00,Ecuador,0.3046052908001678,0,1,ro,NWS,South-America
 'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,ice pickle lake cat lake,2026-02-21T04:18:00+00:00,Canada,0.304604969912017,0,1,ro,NEN,North-America
 '6902568f9a',extremes,Precipitation,#d60d2b,wmo,averse litoral,2026-02-16T04:38:00+00:00,Ecuador,0.3045899174541804,0,1,ro,NWS,South-America
