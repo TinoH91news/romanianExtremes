@@ -5,8 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ger,2026-01-24T03:48:00+00:00,,0.4773468622728164,1,3,ro,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,furtună,2026-02-23T04:36:00+00:00,,0.4596905698089051,1,3,ro,,
 '43e3252826',extremes,Storm,#b3b2b1,wmo,furtuna moldova,2026-02-18T04:34:00+00:00,Moldova,0.4558253513251887,3,1,ro,WCE,Europe
-'8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-02-06T04:28:00+00:00,Romania,0.4495458505385938,4,1,ro,WCE,Europe
-'62084daeb0',extremes,Earthquake,#870007,random,cutremur,2026-01-15T10:39:00+00:00,,0.4495183196804336,2,3,ro,,
 'f7fad55db6',extremes,Storm,#b3b2b1,wmo,storm romania,2026-02-17T04:31:00+00:00,Romania,0.4485933347299264,3,1,ro,WCE,Europe
 '00aaa81565',extremes,Snow&Ice,#d60d2b,wmo,frost romania,2026-02-02T04:36:00+00:00,Romania,0.4463440632666007,3,1,ro,WCE,Europe
 '0a8e5743d9',extremes,Landslide,#572c03,random,alunecare de teren,2026-02-17T04:30:00+00:00,,0.4462943073495013,1,3,ro,,
@@ -32,6 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-02-12T04:37:00+00:00,Moldova,0.3890404089053882,1,1,ro,WCE,Europe
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,vara de frig,2026-01-27T03:58:00+00:00,,0.3867220699052133,3,2,ro,,
 'f6f7877d71',extremes,Earthquake,#870007,usgs,cutremur paltin,2026-03-02T04:27:00+00:00,Romania,0.3861495159065267,2,1,ro,WCE,Europe
+'8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-02-06T04:28:00+00:00,Romania,0.38226398795780475,5,1,ro,WCE,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,vara cea mai fierbinte,2026-02-13T04:33:00+00:00,,0.3766837903452464,2,2,ro,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,uragan,2026-03-01T04:34:00+00:00,,0.3764970018248772,2,1,ro,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,alunecare,2026-02-12T04:36:00+00:00,,0.3740543532555352,1,2,ro,,
@@ -271,13 +270,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2e0bdac9f',extremes,Snow Avalanche,#deddd5,wmo,avalanșă republica daghestan,2026-02-05T04:27:00+00:00,Russia,0.2586470653342232,1,1,ro,ESB,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,furtuna islanda,2026-02-22T04:30:00+00:00,Iceland,0.2586297081117996,1,1,ro,GIC,Europe
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,storm litoral,2026-02-19T04:32:00+00:00,Ecuador,0.2586225516109111,1,1,ro,NWS,South-America
-'2876c1c93a',extremes,Landslide,#572c03,wmo,alunecare de noroi norvegia,2026-02-25T04:32:00+00:00,Norway,0.25858331500437054,1,1,ro,NEU,Europe
+'2876c1c93a',extremes,Landslide,#572c03,wmo,alunecare de noroi norvegia,2026-02-25T04:32:00+00:00,Norway,0.2585833150043705,1,1,ro,NEU,Europe
 '12141e6d2a',extremes,Storm,#b3b2b1,wmo,storm litoral provincia de huasco,2026-02-10T04:43:00+00:00,Chile,0.2585817848916644,1,1,ro,SWS,South-America
 'b9576a4c93',extremes,Storm,#b3b2b1,wmo,val de furtună trinidad și tobago,2026-02-20T04:27:00+00:00,Trinidad and Tobago,0.2585791467333601,1,1,ro,NSA,North-America
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,vreme severă algeria,2026-02-14T04:21:00+00:00,Algeria,0.2585696948110995,1,1,ro,SAH,Africa
-'654261891c',extremes,Precipitation,#d60d2b,wmo,ploaie sierra sur,2026-02-15T04:35:00+00:00,Ecuador,0.25856813279640456,1,1,ro,NWS,South-America
-'d862ab1a40',extremes,Flood,#030ba1,wmo,inundare cehia,2026-02-22T04:30:00+00:00,Czechia,0.25855538571675024,1,1,ro,WCE,Europe
-'8fa3dac96d',extremes,Precipitation,#d60d2b,wmo,ploaie sierra,2026-02-19T04:32:00+00:00,Ecuador,0.25855374443585727,1,1,ro,NWS,South-America
+'654261891c',extremes,Precipitation,#d60d2b,wmo,ploaie sierra sur,2026-02-15T04:35:00+00:00,Ecuador,0.2585681327964045,1,1,ro,NWS,South-America
+'d862ab1a40',extremes,Flood,#030ba1,wmo,inundare cehia,2026-02-22T04:30:00+00:00,Czechia,0.2585553857167502,1,1,ro,WCE,Europe
+'8fa3dac96d',extremes,Precipitation,#d60d2b,wmo,ploaie sierra,2026-02-19T04:32:00+00:00,Ecuador,0.2585537444358572,1,1,ro,NWS,South-America
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclon bombă,2026-02-09T04:38:00+00:00,,0.2576120649395132,2,1,ro,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,fătare iceberg,2026-02-09T04:38:00+00:00,,0.2559497107281093,2,1,ro,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornadă,2026-02-07T04:19:00+00:00,,0.2552429866999436,2,1,ro,,
