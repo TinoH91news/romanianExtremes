@@ -17,6 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,bruma,2026-02-16T04:37:00+00:00,,0.4303975693655234,2,2,ro,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanșă,2026-02-22T04:30:00+00:00,,0.4296238090116274,1,2,ro,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,viscol,2026-02-10T04:42:00+00:00,,0.4293417971366967,1,3,ro,,
+'de3b36bacb',extremes,Thunderstorm,#53785a,random,vreme severă,2026-03-04T04:20:00+00:00,,0.42870934168811914,1,2,ro,,
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-02-08T04:43:00+00:00,Moldova,0.4269471631383258,3,2,ro,WCE,Europe
 '75579b650e',extremes,Drought,#edc291,edo,seceta romania,2026-02-10T04:43:00+00:00,Romania,0.4249502882170869,2,1,ro,WCE,Europe
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,ger de noapte,2026-02-17T04:30:00+00:00,,0.42426309894052,1,3,ro,,
@@ -39,9 +40,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '75ba270824',extremes,Storm,#b3b2b1,wmo,furtună caraș severin,2026-02-10T04:43:00+00:00,Romania,0.3619349623775625,3,1,ro,WCE,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-02-05T04:27:00+00:00,Brazil,0.3602703259145995,1,2,ro,SAM,South-America
 '3e4b341619',extremes,Storm,#b3b2b1,random,furtuna,2026-01-20T03:55:00+00:00,,0.3571719154748053,1,3,ro,,
-'7b765a4d4c',extremes,Precipitation,#d60d2b,random,ploaie,2026-03-04T04:20:00+00:00,,0.35348756095568773,1,2,ro,,
+'7b765a4d4c',extremes,Precipitation,#d60d2b,random,ploaie,2026-03-04T04:20:00+00:00,,0.3534875609556877,1,2,ro,,
 '17c827a010',extremes,Earthquake,#870007,usgs,cutremur japan,2026-02-05T04:27:00+00:00,Japan,0.3527399428835034,2,1,ro,EAS,Asia
-'de3b36bacb',extremes,Thunderstorm,#53785a,random,vreme severă,2026-03-04T04:20:00+00:00,,0.3506325919019889,0,1,ro,,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Canada înghețată,2026-02-06T04:27:00+00:00,Canada,0.3487554372648882,2,1,ro,NEN,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,val de căldură australia,2026-02-05T04:27:00+00:00,Australia,0.3481985881457436,2,1,ro,CAU,Oceania
 'b6ae58ad13',extremes,Earthquake,#870007,usgs,cutremur romania,2026-02-27T04:25:00+00:00,Romania,0.3457178089804301,2,1,ro,WCE,Europe
@@ -50,10 +50,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-02-20T04:27:00+00:00,Moldova,0.3368667391085996,2,1,ro,WCE,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-02-09T04:39:00+00:00,Romania,0.3333160658853458,2,1,ro,WCE,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-02-12T04:37:00+00:00,Moldova,0.33083436256958,2,1,ro,WCE,Europe
-'69791e5a17',extremes,Flood,#030ba1,random,inundaţie fulgerătoare,2026-03-04T04:20:00+00:00,,0.32778847917004483,1,1,ro,,
+'69791e5a17',extremes,Flood,#030ba1,random,inundaţie fulgerătoare,2026-03-04T04:20:00+00:00,,0.3277884791700448,1,1,ro,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,ziua cea mai rece,2026-02-17T04:30:00+00:00,,0.3149924897781577,2,2,ro,,
 'f37139fe2d',extremes,Landslide,#572c03,random,alunecare de noroi,2026-02-12T04:36:00+00:00,,0.3133702019506147,2,1,ro,,
-'b8eb47bf7f',extremes,Heat Wave,#c40202,random,dom de căldură,2026-03-04T04:20:00+00:00,,0.312157460710675,0,1,ro,,
 '55459a4ab8',extremes,Drought,#edc291,edo,secetă luxembourg,2026-03-04T04:21:00+00:00,Luxembourg,0.3118741111680536,0,1,ro,WCE,Europe
 '8143644bfb',extremes,Drought,#edc291,edo,secetă djibouti,2026-02-12T04:37:00+00:00,Djibouti,0.3118037565557281,0,1,ro,NEAF,Africa
 'bb9a490561',extremes,Drought,#edc291,edo,secetă Germania,2026-02-14T04:22:00+00:00,Germany,0.3107698572634028,0,1,ro,WCE,Europe
@@ -78,6 +77,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,ploaie litoral,2026-02-17T04:31:00+00:00,Ecuador,0.2704448088098296,2,1,ro,NWS,South-America
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ploaie puternică,2026-02-11T04:41:00+00:00,,0.2680049194082516,2,1,ro,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-02-12T04:36:00+00:00,,0.267228568286191,2,1,ro,,
+'b8eb47bf7f',extremes,Heat Wave,#c40202,random,dom de căldură,2026-03-04T04:20:00+00:00,,0.26533384160407375,1,1,ro,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-03-03T04:26:00+00:00,,0.2644156229343417,2,1,ro,,
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,alunecare de stâncă norvegia,2026-02-25T04:32:00+00:00,Norway,0.2606103942273459,1,1,ro,NEU,Europe
 '81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,frost sydney metro și cape breton county,2026-02-16T04:38:00+00:00,Canada,0.260575600467313,1,1,ro,NEN,North-America
