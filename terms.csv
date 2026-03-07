@@ -23,7 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundarea statelor unite,2026-02-07T04:19:00+00:00,United States,0.4236963989772951,2,2,ro,CNA,North-America
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-02-11T04:41:00+00:00,,0.4059323540829754,2,2,ro,,
 '747143fa4d',extremes,Storm,#b3b2b1,wmo,storm gorj hunedoara,2026-02-04T04:21:00+00:00,Romania,0.4027840835663958,3,1,ro,WCE,Europe
-'e593608bfa',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-03-06T04:20:00+00:00,,0.39979755168286096,1,3,ro,,
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-03-06T04:20:00+00:00,,0.3997975516828609,1,3,ro,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,precipitaţii record,2026-02-16T04:37:00+00:00,,0.3993751217261632,2,1,ro,,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,ice canada,2026-02-06T04:27:00+00:00,Canada,0.3941805867862706,2,2,ro,NEN,North-America
 'a5ff1cde4a',extremes,Drought,#edc291,random,umiditatea solului,2026-01-28T03:56:00+00:00,,0.3920756989882669,2,2,ro,,
@@ -74,6 +74,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9a5622b49',extremes,Wildfire,#d60d2b,wmo,incendiu de pădure chengjiang city,2026-02-15T04:35:00+00:00,China,0.3037530769541252,0,1,ro,EAS,Asia
 '5c1bd23e01',extremes,Wildfire,#d60d2b,wmo,wildfire județul eryuan,2026-02-16T04:38:00+00:00,China,0.3036797421406025,0,1,ro,EAS,Asia
 '6adcc55c0a',extremes,Storm,#b3b2b1,wmo,storm surge adrar,2026-02-23T04:37:00+00:00,Algeria,0.3036712767919978,0,1,ro,SAH,Africa
+'a930a8e86c',extremes,Wildfire,#d60d2b,wmo,wildfire longling county,2026-02-17T04:31:00+00:00,China,0.3036379091704707,0,1,ro,EAS,Asia
+'58193d11dc',extremes,Storm,#b3b2b1,wmo,furtuna taupo,2026-02-15T04:35:00+00:00,New Zealand,0.30363611505040594,0,1,ro,NZ,Oceania
+'6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,wildfire telangana,2026-02-21T04:18:00+00:00,India,0.30363095734044737,0,1,ro,SAS,Asia
+'0aea61081d',extremes,Thunderstorm,#53785a,wmo,vreme severă insulele de sud ale Vanuatu.,2026-02-21T04:18:00+00:00,Vanuatu,0.30359061047235064,0,1,ro,SPO,Oceania
+'c528204ef7',extremes,Wildfire,#d60d2b,wmo,wildfire lekwa teemane bloemhof,2026-03-01T04:35:00+00:00,South Africa,0.30354063997041614,0,1,ro,WSAF,Africa
+'dadf3ad301',extremes,Thunderstorm,#53785a,wmo,grindină insulele sudului Vanuatu.,2026-02-18T04:34:00+00:00,Vanuatu,0.3035315295718285,0,1,ro,SPO,Oceania
+'302e5ee660',extremes,Flood,#030ba1,wmo,inundație fulgerătoare cehia,2026-02-22T04:30:00+00:00,Czechia,0.3035313923957863,0,1,ro,WCE,Europe
+'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,precipitatii arabia saudita,2026-02-27T04:26:00+00:00,Saudi Arabia,0.3035158767305617,0,1,ro,ARP,Asia
+'84a977d87f',extremes,Wildfire,#d60d2b,wmo,wildfire harvey,2026-02-16T04:38:00+00:00,United States,0.30347739342645574,0,1,ro,CNA,North-America
+'1073537f95',extremes,Landslide,#572c03,wmo,alunecare de stâncă părți din vestland fylke,2026-02-26T04:29:00+00:00,Norway,0.30347103859518065,0,1,ro,NEU,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcan,2026-02-26T04:28:00+00:00,,0.2985156265880067,1,1,ro,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,cea mai tare zi,2026-02-15T04:34:00+00:00,,0.2932149429585332,2,1,ro,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-03-01T04:34:00+00:00,,0.2928706420619399,2,2,ro,,
@@ -92,7 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,vrajă caldă tasmania,2026-03-05T04:24:00+00:00,Australia,0.2713560046315142,1,1,ro,SAU,Oceania
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,umed tasmania,2026-03-05T04:24:00+00:00,Australia,0.2709977600450708,1,1,ro,SAU,Oceania
 '5acb09ddba',extremes,Iceberg,#d60d2b,eonet,aisberg d32,2026-03-06T04:21:00+00:00,,0.270708566172708,1,1,ro,EAN,
-'c2ae664a83',extremes,Iceberg,#d60d2b,eonet,aisberg c18b,2026-03-06T04:21:00+00:00,,0.27067140842325715,1,1,ro,EAN,
+'c2ae664a83',extremes,Iceberg,#d60d2b,eonet,aisberg c18b,2026-03-06T04:21:00+00:00,,0.2706714084232571,1,1,ro,EAN,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-05T04:27:00+00:00,,0.2705756358842192,2,1,ro,,
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,ploaie litoral,2026-02-17T04:31:00+00:00,Ecuador,0.2704448088098296,2,1,ro,NWS,South-America
 '59b529f428',extremes,Thunderstorm,#53785a,random,furtună cu grindină,2026-03-05T04:23:00+00:00,,0.2698393371964594,1,1,ro,,
