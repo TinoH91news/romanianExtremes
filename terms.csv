@@ -37,6 +37,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-02-06T04:27:00+00:00,,0.3700136780633306,1,2,ro,,
 '75ba270824',extremes,Storm,#b3b2b1,wmo,furtună caraș severin,2026-02-10T04:43:00+00:00,Romania,0.3619349623775625,3,1,ro,WCE,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-02-05T04:27:00+00:00,Brazil,0.3602703259145995,1,2,ro,SAM,South-America
+'7e303c7e63',extremes,Snow Avalanche,#deddd5,random,avalanșă de zăpadă,2026-03-08T04:24:00+00:00,,0.3597691967376218,1,2,ro,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,furtuna,2026-01-20T03:55:00+00:00,,0.3571719154748053,1,3,ro,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,ploaie,2026-03-04T04:20:00+00:00,,0.3534875609556877,1,2,ro,,
 '17c827a010',extremes,Earthquake,#870007,usgs,cutremur japan,2026-02-05T04:27:00+00:00,Japan,0.3527399428835034,2,1,ro,EAS,Asia
@@ -50,13 +51,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-02-20T04:27:00+00:00,Moldova,0.3368667391085996,2,1,ro,WCE,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-02-09T04:39:00+00:00,Romania,0.3333160658853458,2,1,ro,WCE,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-02-12T04:37:00+00:00,Moldova,0.33083436256958,2,1,ro,WCE,Europe
-'f314bb7747',extremes,Flood,#030ba1,aidr,inundaţii pluviale australia,2026-02-26T04:29:00+00:00,Australia,0.3151046927199928,0,1,ro,EAU,Oceania
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,ziua cea mai rece,2026-02-17T04:30:00+00:00,,0.3149924897781577,2,2,ro,,
 'f37139fe2d',extremes,Landslide,#572c03,random,alunecare de noroi,2026-02-12T04:36:00+00:00,,0.3133702019506147,2,1,ro,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclon,2026-02-05T04:27:00+00:00,,0.3103265399887555,2,1,ro,,
-'e431c24ff6',extremes,Heat Wave,#c40202,wmo,caniculă chile,2026-02-25T04:32:00+00:00,Chile,0.3090161000292206,0,1,ro,SWS,South-America
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-03-05T04:23:00+00:00,,0.30838986138547,2,2,ro,,
-'7e303c7e63',extremes,Snow Avalanche,#deddd5,random,avalanșă de zăpadă,2026-03-08T04:24:00+00:00,,0.3045518902795551,0,1,ro,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,cea mai tare zi,2026-02-15T04:34:00+00:00,,0.2932149429585332,2,1,ro,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-03-01T04:34:00+00:00,,0.2928706420619399,2,2,ro,,
 '82d648b882',extremes,Drought,#edc291,random,seceta,2026-02-08T04:43:00+00:00,,0.2891042686799631,2,1,ro,,
@@ -77,8 +75,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-05T04:27:00+00:00,,0.2705756358842192,2,1,ro,,
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,ploaie litoral,2026-02-17T04:31:00+00:00,Ecuador,0.2704448088098296,2,1,ro,NWS,South-America
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ploaie puternică,2026-02-11T04:41:00+00:00,,0.2680049194082516,2,1,ro,,
+'f314bb7747',extremes,Flood,#030ba1,aidr,inundaţii pluviale australia,2026-02-26T04:29:00+00:00,Australia,0.26783898881199386,1,1,ro,EAU,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-02-12T04:36:00+00:00,,0.267228568286191,2,1,ro,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-03-03T04:26:00+00:00,,0.2644156229343417,2,1,ro,,
+'e431c24ff6',extremes,Heat Wave,#c40202,wmo,caniculă chile,2026-02-25T04:32:00+00:00,Chile,0.2626636850248375,1,1,ro,SWS,South-America
 'aacf82e274',extremes,Drought,#edc291,edo,secetă insulele Feroe,2026-02-12T04:37:00+00:00,Faroe Islands,0.2619820033638784,1,1,ro,NEU,Europe
 '2096f9b691',extremes,Drought,#edc291,edo,lipsa ploii bhutan,2026-02-14T04:22:00+00:00,Bhutan,0.2617434968773138,1,1,ro,TIB,Asia
 '945465874b',extremes,Drought,#edc291,edo,seceta djibouti,2026-03-07T04:13:00+00:00,Djibouti,0.2608448106820212,1,1,ro,NEAF,Africa
