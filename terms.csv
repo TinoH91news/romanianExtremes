@@ -1,7 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-03-04T04:21:00+00:00,Moldova,0.5688453031438023,0,1,ro,WCE,Europe
 '84febdd06c',extremes,Thunderstorm,#53785a,random,furtună,2026-02-23T04:36:00+00:00,,0.4596905698089051,1,3,ro,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,alunecare de teren,2026-02-17T04:30:00+00:00,,0.4567504012470761,2,3,ro,,
-'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ger,2026-01-24T03:48:00+00:00,,0.45619537293189394,2,3,ro,,
+'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ger,2026-01-24T03:48:00+00:00,,0.4561953729318939,2,3,ro,,
 'b2d779acfd',extremes,Snow&Ice,#d60d2b,wmo,ice romania,2026-02-24T04:31:00+00:00,Romania,0.452670194841173,3,1,ro,WCE,Europe
 'adc50a5751',extremes,Snow&Ice,#d60d2b,wmo,freezing romania,2026-02-18T04:34:00+00:00,Romania,0.4499661576376914,3,1,ro,WCE,Europe
 'f7fad55db6',extremes,Storm,#b3b2b1,wmo,storm romania,2026-02-17T04:31:00+00:00,Romania,0.4485933347299264,3,1,ro,WCE,Europe
@@ -49,10 +50,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-02-28T04:07:00+00:00,,0.3382177784887811,2,1,ro,,
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-02-20T04:27:00+00:00,Moldova,0.3368667391085996,2,1,ro,WCE,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-02-09T04:39:00+00:00,Romania,0.3333160658853458,2,1,ro,WCE,Europe
+'16aa48504a',extremes,Cold Wave,#a7e9fa,random,picături de mercur,2026-03-12T04:25:00+00:00,,0.33329016931734934,0,1,ro,,
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-02-12T04:37:00+00:00,Moldova,0.33083436256958,2,1,ro,WCE,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,ziua cea mai rece,2026-02-17T04:30:00+00:00,,0.3149924897781577,2,2,ro,,
 'f37139fe2d',extremes,Landslide,#572c03,random,alunecare de noroi,2026-02-12T04:36:00+00:00,,0.3133702019506147,2,1,ro,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-03-05T04:23:00+00:00,,0.30838986138547,2,2,ro,,
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială brazilia,2026-02-28T04:07:00+00:00,Brazil,0.30633606179389083,0,1,ro,SAM,South-America
+'c6083600a3',extremes,Flood,#030ba1,acwe,nivel ridicat al apei vestul australiei,2026-03-10T04:22:00+00:00,Australia,0.30476318065144037,0,1,ro,CAU,Oceania
 '595acbcf9f',extremes,Heat Wave,#c40202,random,cea mai tare zi,2026-02-15T04:34:00+00:00,,0.2932149429585332,2,1,ro,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-03-01T04:34:00+00:00,,0.2928706420619399,2,2,ro,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,căldură record,2026-02-17T04:30:00+00:00,,0.2887649606172503,2,1,ro,,
@@ -231,7 +235,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c948617fef',extremes,Heat Wave,#c40202,random,expunere la căldură extremă,2026-02-26T04:28:00+00:00,,0.2435231521428329,3,1,ro,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,lăcustă,2026-02-19T04:31:00+00:00,,0.2402631268604447,2,1,ro,,
 'f90601fa23',extremes,Volcano,#b83202,random,erupție vulcanică,2026-02-21T04:17:00+00:00,,0.2393579789220319,2,1,ro,,
-'69791e5a17',extremes,Flood,#030ba1,random,inundaţie fulgerătoare,2026-03-04T04:20:00+00:00,,0.23682717620035731,3,1,ro,,
+'69791e5a17',extremes,Flood,#030ba1,random,inundaţie fulgerătoare,2026-03-04T04:20:00+00:00,,0.2368271762003573,3,1,ro,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,furtuna de nisip,2026-02-20T04:27:00+00:00,,0.2363908116729928,2,1,ro,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grindină,2026-02-21T04:17:00+00:00,,0.2353082807547717,2,1,ro,,
 'ae657332f9',extremes,Wildfire,#d60d2b,acwe,interdicție de incendiu New South Wales,2026-03-09T04:31:00+00:00,Australia,0.2306862011171322,2,1,ro,EAU,Oceania
@@ -290,7 +294,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,precipitaţii new zealand,2026-02-12T04:37:00+00:00,New Zealand,0.2222238265305511,2,1,ro,NZ,Oceania
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitaţii ecuador,2026-02-18T04:34:00+00:00,Ecuador,0.2219377567848996,2,1,ro,NWS,South-America
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,Islanda înghețată,2026-02-18T04:34:00+00:00,Iceland,0.2218424109354368,2,1,ro,GIC,Europe
-'f6ff301646',extremes,Drought,#edc291,edo,seceta somalie,2026-02-28T04:07:00+00:00,Somalia,0.22177860003507063,2,1,ro,NEAF,Africa
+'f6ff301646',extremes,Drought,#edc291,edo,seceta somalie,2026-02-28T04:07:00+00:00,Somalia,0.2217786000350706,2,1,ro,NEAF,Africa
 '945465874b',extremes,Drought,#edc291,edo,seceta djibouti,2026-03-07T04:13:00+00:00,Djibouti,0.221718089079718,2,1,ro,NEAF,Africa
 'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclonul din 2019 a fost un ciclon tropical sever veronica,2026-02-23T04:37:00+00:00,Australia,0.2216858383932805,2,1,ro,CAU,Oceania
 '4efa147b2d',extremes,Precipitation,#d60d2b,wmo,precipitatii maeneo machache ya mkoa wa ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.2216822522459583,2,1,ro,SEAF,Africa
@@ -299,11 +303,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,ploaie Africa de Sud,2026-02-23T04:37:00+00:00,South Africa,0.2215252923488186,2,1,ro,WSAF,Africa
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,alunecare de stâncă norvegia,2026-02-25T04:32:00+00:00,Norway,0.221518835093244,2,1,ro,NEU,Europe
 'cf99db758d',extremes,Fog,#d60d2b,wmo,ceață letonia,2026-02-28T04:07:00+00:00,Latvia,0.2215151176890464,2,1,ro,WCE,Europe
-'84a2fde8e0',extremes,Heat Wave,#c40202,wmo,val de căldură australia,2026-02-25T04:32:00+00:00,Australia,0.22150196799506122,2,1,ro,CAU,Oceania
+'84a2fde8e0',extremes,Heat Wave,#c40202,wmo,val de căldură australia,2026-02-25T04:32:00+00:00,Australia,0.2215019679950612,2,1,ro,CAU,Oceania
 '0511e6ef31',extremes,Drought,#edc291,edo,vrajă de secetă Estonia,2026-02-28T04:07:00+00:00,Estonia,0.221491246552545,2,1,ro,NEU,Europe
 '81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,frost sydney metro și cape breton county,2026-02-16T04:38:00+00:00,Canada,0.221489260397216,2,1,ro,NEN,North-America
 '8a654473a4',extremes,Drought,#edc291,edo,seceta sao tome si principe,2026-02-12T04:37:00+00:00,Sao Tome and Principe,0.2214568325980276,2,1,ro,WAF,Africa
-'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitaţii argentina,2026-02-27T04:26:00+00:00,Argentina,0.22142801859224198,2,1,ro,SES,South-America
+'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitaţii argentina,2026-02-27T04:26:00+00:00,Argentina,0.2214280185922419,2,1,ro,SES,South-America
 'bd09b9486d',extremes,Drought,#edc291,edo,lipsa ploii djibouti,2026-02-25T04:33:00+00:00,Djibouti,0.2214037295023609,2,1,ro,NEAF,Africa
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie argentina,2026-02-27T04:26:00+00:00,Argentina,0.2213769254501018,2,1,ro,SES,South-America
 '157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,zone cu ploaie torenţială din regiunea ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.2213752143449389,2,1,ro,SEAF,Africa
