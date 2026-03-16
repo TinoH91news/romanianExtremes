@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'9f0423d739',extremes,Drought,#edc291,random,uscăciune,2026-02-15T04:34:00+00:00,,0.49560802518567915,3,2,ro,,
+'75ba270824',extremes,Storm,#b3b2b1,wmo,furtună caraș severin,2026-03-09T04:31:00+00:00,Romania,0.640498341503106,0,1,ro,WCE,Europe
+'9f0423d739',extremes,Drought,#edc291,random,uscăciune,2026-02-15T04:34:00+00:00,,0.4956080251856791,3,2,ro,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundații,2026-03-15T04:44:00+00:00,,0.4909710341828939,1,2,ro,,
 '578f8fb0fa',extremes,Storm,#b3b2b1,wmo,storm surge caraș severin,2026-03-15T04:45:00+00:00,Romania,0.4371426973150044,3,1,ro,WCE,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-01-29T04:18:00+00:00,,0.4341180679074699,2,3,ro,,
@@ -43,6 +44,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,precipitaţii record,2026-02-16T04:37:00+00:00,,0.3396188684672387,3,1,ro,,
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-02-20T04:27:00+00:00,Moldova,0.3368667391085996,2,1,ro,WCE,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-02-12T04:37:00+00:00,Moldova,0.33083436256958,2,1,ro,WCE,Europe
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperatura scade,2026-03-06T04:20:00+00:00,,0.3279652971560943,0,1,ro,,
 'b2d779acfd',extremes,Snow&Ice,#d60d2b,wmo,ice romania,2026-02-24T04:31:00+00:00,Romania,0.3270542157727474,5,1,ro,WCE,Europe
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,vârtej,2026-03-14T04:22:00+00:00,,0.324903791208128,2,2,ro,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-02-28T04:07:00+00:00,,0.3240506913308485,3,1,ro,,
@@ -50,6 +52,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9391f481ee',extremes,Storm,#b3b2b1,random,furtună,2026-03-06T04:20:00+00:00,,0.3185871243473231,2,1,ro,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,ziua cea mai rece,2026-02-17T04:30:00+00:00,,0.3149924897781577,2,2,ro,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-03-05T04:23:00+00:00,,0.30838986138547,2,2,ro,,
+'8a654473a4',extremes,Drought,#edc291,edo,seceta sao tome si principe,2026-03-10T04:22:00+00:00,Sao Tome and Principe,0.3066846604213136,0,1,ro,WAF,Africa
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-02-25T04:32:00+00:00,Brazil,0.306210022618449,0,1,ro,SAM,South-America
+'98db96b6de',extremes,Drought,#edc291,edo,secetă lituania,2026-03-06T04:21:00+00:00,Lithuania,0.30551984172517666,0,1,ro,WCE,Europe
+'b6a7c43ff9',extremes,Drought,#edc291,edo,uscăciune bangladesh,2026-02-28T04:07:00+00:00,Bangladesh,0.3055077193923729,0,1,ro,SAS,Asia
 '135f8534c2',extremes,Precipitation,#d60d2b,random,precipitații mai multe,2026-03-05T04:23:00+00:00,,0.2936132611654208,3,1,ro,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-03-01T04:34:00+00:00,,0.2928706420619399,2,2,ro,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,căldură record,2026-02-17T04:30:00+00:00,,0.2887649606172503,2,1,ro,,
@@ -187,7 +193,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e5f311da7',extremes,Drought,#edc291,edo,vraja uscata sao tome si principe,2026-02-25T04:33:00+00:00,Sao Tome and Principe,0.2232716797564133,2,1,ro,WAF,Africa
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,caniculă chile,2026-02-25T04:32:00+00:00,Chile,0.2232641322711118,2,1,ro,SWS,South-America
 '69f6b18bc8',extremes,Drought,#edc291,edo,lipsa ploii bangladesh,2026-03-14T04:23:00+00:00,Bangladesh,0.22307293450428,2,1,ro,SAS,Asia
-'7f426032e8',extremes,Drought,#edc291,edo,vrajă uscată bhutan,2026-03-06T04:21:00+00:00,Bhutan,0.22299975362469698,2,1,ro,TIB,Asia
+'7f426032e8',extremes,Drought,#edc291,edo,vrajă uscată bhutan,2026-03-06T04:21:00+00:00,Bhutan,0.2229997536246969,2,1,ro,TIB,Asia
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,val de căldură corrientes y alrededores,2026-02-18T04:34:00+00:00,Argentina,0.2229630435761272,2,1,ro,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,caniculă argentina,2026-03-03T04:27:00+00:00,Argentina,0.2228805557356627,2,1,ro,SES,South-America
 '9349bd9c5e',extremes,Drought,#edc291,edo,uscăciune Guineea ecuatorială,2026-02-15T04:35:00+00:00,Equatorial Guinea,0.2227794940887278,2,1,ro,WAF,Africa
@@ -298,6 +304,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,ceață state unite,2026-02-26T04:29:00+00:00,United States,0.2199818669173618,2,1,ro,CNA,North-America
 '46757c038c',extremes,Thunderstorm,#53785a,wmo,grindină africa de sud,2026-02-26T04:29:00+00:00,South Africa,0.2197775868723645,2,1,ro,WSAF,Africa
 '8fa3dac96d',extremes,Precipitation,#d60d2b,wmo,ploaie sierra,2026-02-19T04:32:00+00:00,Ecuador,0.2197706827704786,2,1,ro,NWS,South-America
-'4093195155',extremes,Storm,#b3b2b1,wmo,storm surge india,2026-02-18T04:34:00+00:00,India,0.21952150499330553,2,1,ro,SAS,Asia
+'4093195155',extremes,Storm,#b3b2b1,wmo,storm surge india,2026-02-18T04:34:00+00:00,India,0.2195215049933055,2,1,ro,SAS,Asia
 'a930a8e86c',extremes,Wildfire,#d60d2b,wmo,wildfire longling county,2026-02-17T04:31:00+00:00,China,0.219378389375665,2,1,ro,EAS,Asia
 '72543c90cb',extremes,Earthquake,#870007,usgs,cutremur plat de bambus,2026-02-24T04:30:00+00:00,India,0.219179359878845,2,1,ro,BOB,Indian Ocean
