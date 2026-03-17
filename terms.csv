@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-03-10T04:22:00+00:00,Moldova,0.555513832458132,0,1,ro,WCE,Europe
+'030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-03-10T04:22:00+00:00,Moldova,0.6223367725894122,1,2,ro,WCE,Europe
 '9f0423d739',extremes,Drought,#edc291,random,uscăciune,2026-02-15T04:34:00+00:00,,0.4956080251856791,3,2,ro,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundații,2026-03-15T04:44:00+00:00,,0.4909710341828939,1,2,ro,,
 '75ba270824',extremes,Storm,#b3b2b1,wmo,furtună caraș severin,2026-03-09T04:31:00+00:00,Romania,0.462760051735994,2,1,ro,WCE,Europe
@@ -42,7 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf43374236',extremes,Precipitation,#d60d2b,wmo,ploaie vanuatu,2026-03-04T04:20:00+00:00,Vanuatu,0.3468419859255848,2,1,ro,SPO,Oceania
 'b6ae58ad13',extremes,Earthquake,#870007,usgs,cutremur romania,2026-02-27T04:25:00+00:00,Romania,0.3457178089804301,2,1,ro,WCE,Europe
 '45500dcb47',extremes,Precipitation,#d60d2b,random,precipitaţii record,2026-02-16T04:37:00+00:00,,0.3396188684672387,3,1,ro,,
-'3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-03-17T04:30:00+00:00,,0.33762339528900964,0,1,ro,,
+'3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-03-17T04:30:00+00:00,,0.3376233952890096,0,1,ro,,
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-02-20T04:27:00+00:00,Moldova,0.3368667391085996,2,1,ro,WCE,Europe
 'b2d779acfd',extremes,Snow&Ice,#d60d2b,wmo,ice romania,2026-02-24T04:31:00+00:00,Romania,0.3270542157727474,5,1,ro,WCE,Europe
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,vârtej,2026-03-14T04:22:00+00:00,,0.324903791208128,2,2,ro,,
@@ -51,7 +51,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00aaa81565',extremes,Snow&Ice,#d60d2b,wmo,frost romania,2026-02-26T04:29:00+00:00,Romania,0.3223136878039142,5,1,ro,WCE,Europe
 '9391f481ee',extremes,Storm,#b3b2b1,random,furtună,2026-03-06T04:20:00+00:00,,0.3185871243473231,2,1,ro,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,ziua cea mai rece,2026-02-17T04:30:00+00:00,,0.3149924897781577,2,2,ro,,
-'81df5b3034',extremes,Storm,#b3b2b1,aidr,furtuna nordul sydney grindina 2017,2026-03-06T04:21:00+00:00,,0.31327546587413097,0,1,ro,EAU,Oceania
+'81df5b3034',extremes,Storm,#b3b2b1,aidr,furtuna nordul sydney grindina 2017,2026-03-06T04:21:00+00:00,,0.3132754658741309,0,1,ro,EAU,Oceania
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-03-05T04:23:00+00:00,,0.30838986138547,2,2,ro,,
 'b6a7c43ff9',extremes,Drought,#edc291,edo,uscăciune bangladesh,2026-02-28T04:07:00+00:00,Bangladesh,0.3055077193923729,0,1,ro,SAS,Asia
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,precipitaţii new zealand,2026-03-06T04:21:00+00:00,New Zealand,0.3053213352274406,0,1,ro,NZ,Oceania
