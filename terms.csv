@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '9f0423d739',extremes,Drought,#edc291,random,uscăciune,2026-02-15T04:34:00+00:00,,0.4956080251856791,3,2,ro,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundații,2026-03-15T04:44:00+00:00,,0.4909710341828939,1,2,ro,,
-'75ba270824',extremes,Storm,#b3b2b1,wmo,furtună caraș severin,2026-03-09T04:31:00+00:00,Romania,0.46276005173599405,2,1,ro,WCE,Europe
+'75ba270824',extremes,Storm,#b3b2b1,wmo,furtună caraș severin,2026-03-09T04:31:00+00:00,Romania,0.462760051735994,2,1,ro,WCE,Europe
 '578f8fb0fa',extremes,Storm,#b3b2b1,wmo,storm surge caraș severin,2026-03-15T04:45:00+00:00,Romania,0.4371426973150044,3,1,ro,WCE,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-01-29T04:18:00+00:00,,0.4341180679074699,2,3,ro,,
 'df4df3c972',extremes,Snow&Ice,#d60d2b,wmo,snow romania,2026-02-21T04:18:00+00:00,Romania,0.431503815147211,3,1,ro,WCE,Europe
@@ -51,10 +51,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00aaa81565',extremes,Snow&Ice,#d60d2b,wmo,frost romania,2026-02-26T04:29:00+00:00,Romania,0.3223136878039142,5,1,ro,WCE,Europe
 '9391f481ee',extremes,Storm,#b3b2b1,random,furtună,2026-03-06T04:20:00+00:00,,0.3185871243473231,2,1,ro,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,ziua cea mai rece,2026-02-17T04:30:00+00:00,,0.3149924897781577,2,2,ro,,
+'fa9e452d04',extremes,Precipitation,#d60d2b,random,furtună,2026-03-16T05:04:00+00:00,,0.3124920646474871,0,1,ro,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-03-05T04:23:00+00:00,,0.30838986138547,2,2,ro,,
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-02-26T04:29:00+00:00,Brazil,0.30645881650206214,0,1,ro,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-02-25T04:32:00+00:00,Brazil,0.306210022618449,0,1,ro,SAM,South-America
 '98db96b6de',extremes,Drought,#edc291,edo,secetă lituania,2026-03-06T04:21:00+00:00,Lithuania,0.3055198417251766,0,1,ro,WCE,Europe
 'b6a7c43ff9',extremes,Drought,#edc291,edo,uscăciune bangladesh,2026-02-28T04:07:00+00:00,Bangladesh,0.3055077193923729,0,1,ro,SAS,Asia
+'b40495b93f',extremes,Precipitation,#d60d2b,wmo,precipitaţii new zealand,2026-03-06T04:21:00+00:00,New Zealand,0.30532133522744065,0,1,ro,NZ,Oceania
+'61a00c0855',extremes,Drought,#edc291,edo,uscăciune surinam,2026-03-04T04:21:00+00:00,Suriname,0.30422685242266134,0,1,ro,NSA,South-America
 '135f8534c2',extremes,Precipitation,#d60d2b,random,precipitații mai multe,2026-03-05T04:23:00+00:00,,0.2936132611654208,3,1,ro,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-03-01T04:34:00+00:00,,0.2928706420619399,2,2,ro,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,căldură record,2026-02-17T04:30:00+00:00,,0.2887649606172503,2,1,ro,,
@@ -72,7 +76,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,ploaie litoral,2026-02-17T04:31:00+00:00,Ecuador,0.2704448088098296,2,1,ro,NWS,South-America
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.2674627628770998,2,1,ro,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-03-03T04:26:00+00:00,,0.2644156229343417,2,1,ro,,
-'8a654473a4',extremes,Drought,#edc291,edo,seceta sao tome si principe,2026-03-10T04:22:00+00:00,Sao Tome and Principe,0.26068196135811655,1,1,ro,WAF,Africa
+'8a654473a4',extremes,Drought,#edc291,edo,seceta sao tome si principe,2026-03-10T04:22:00+00:00,Sao Tome and Principe,0.2606819613581165,1,1,ro,WAF,Africa
 '286dc3a4c3',extremes,Snow Avalanche,#deddd5,wmo,avalanșă isère savoie haute savoie,2026-02-17T04:31:00+00:00,France,0.258790940204561,1,1,ro,WCE,Europe
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,wildfire madhya pradesh,2026-02-12T04:37:00+00:00,India,0.2587908771547092,1,1,ro,SAS,Asia
 'd68189cbca',extremes,Precipitation,#d60d2b,wmo,ploaie algeria,2026-02-17T04:31:00+00:00,Algeria,0.2587887748765462,1,1,ro,SAH,Africa
