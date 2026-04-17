@@ -21,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91377cc2a9',extremes,Drought,#edc291,acwe,secetă australia de sud,2026-03-31T05:00:00+00:00,Australia,0.417363691783762,1,2,ro,SAU,Oceania
 'a5ff1cde4a',extremes,Drought,#edc291,random,umiditatea solului,2026-04-13T05:27:00+00:00,,0.4151345813862387,1,2,ro,,
 '3de7140b94',extremes,Storm,#b3b2b1,wmo,storm surge buzău vrancea,2026-03-20T04:26:00+00:00,Romania,0.4133272006576775,3,1,ro,WCE,Europe
+'00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclon australia,2026-04-08T05:01:00+00:00,Australia,0.412140415218313,1,2,ro,EAU,Oceania
 '135f8534c2',extremes,Precipitation,#d60d2b,random,precipitații mai multe,2026-03-29T04:59:00+00:00,,0.3970733786390805,1,2,ro,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-03-12T04:25:00+00:00,,0.3893381625322398,2,2,ro,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de frig,2026-04-07T04:58:00+00:00,,0.385987920933808,0,1,ro,,
@@ -54,13 +55,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8e5743d9',extremes,Landslide,#572c03,random,alunecare de teren,2026-04-12T05:11:00+00:00,,0.3204786149208289,0,1,ro,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,val de frig,2026-03-12T04:25:00+00:00,,0.3202253088219295,2,2,ro,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-03-28T04:33:00+00:00,,0.3195279864174729,0,1,ro,,
-'136998b302',extremes,Cold Wave,#a7e9fa,acwe,vreme rece queensland,2026-03-31T05:00:00+00:00,Australia,0.310529476902571,0,1,ro,CAU,Oceania
-'352775dd3c',extremes,Drought,#edc291,edo,uscăciune nepal,2026-04-02T04:42:00+00:00,Nepal,0.309616930047449,0,1,ro,TIB,Asia
-'37d08d7316',extremes,Precipitation,#d60d2b,acwe,vară umedă South Australia,2026-04-12T05:12:00+00:00,Australia,0.3096086511659965,0,1,ro,SAU,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,ro,,
-'4508810067',extremes,Storm,#b3b2b1,wmo,storm litoral norte e interior,2026-03-31T04:59:00+00:00,Ecuador,0.3088576176033376,0,1,ro,NWS,South-America
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,2018 ciclon nt ciclon tropical marcus,2026-04-01T05:13:00+00:00,,0.3082299465782532,0,1,ro,NAU,Oceania
-'00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclon australia,2026-04-08T05:01:00+00:00,Australia,0.3082240002568389,0,1,ro,EAU,Oceania
 '7e68dc4baa',extremes,Drought,#edc291,edo,secetă bhutan,2026-03-20T04:26:00+00:00,Bhutan,0.308200872080606,0,1,ro,TIB,Asia
 '1512e9c6b2',extremes,Drought,#edc291,edo,surinam secetă,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,1,ro,NSA,South-America
 'a715281618',extremes,Storm,#b3b2b1,wmo,storm surge vanuatu,2026-04-02T04:42:00+00:00,Vanuatu,0.3079145219475853,0,1,ro,SPO,Oceania
@@ -436,10 +432,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9969e8e386',extremes,Flood,#030ba1,emdat,inundaţie regiune centrală,2026-03-24T04:32:00+00:00,Kenya,0.264512410425559,1,1,ro,SEAF,Africa
 '59b529f428',extremes,Thunderstorm,#53785a,random,furtună cu grindină,2026-03-28T04:33:00+00:00,,0.264307015999597,1,1,ro,,
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundație rapidă australia,2026-04-10T05:13:00+00:00,Australia,0.2641834553823319,1,1,ro,EAU,Oceania
-'2096f9b691',extremes,Drought,#edc291,edo,lipsa ploii bhutan,2026-04-05T05:01:00+00:00,Bhutan,0.26414350844629364,1,1,ro,TIB,Asia
-'ed806b22f8',extremes,Drought,#edc291,edo,uscăciune bhutan,2026-03-19T04:35:00+00:00,Bhutan,0.26412848195878647,1,1,ro,TIB,Asia
-'9ca1eb0a20',extremes,Drought,#edc291,edo,seceta australia,2026-03-20T04:26:00+00:00,Australia,0.26412758160289956,1,1,ro,SAU,Oceania
+'2096f9b691',extremes,Drought,#edc291,edo,lipsa ploii bhutan,2026-04-05T05:01:00+00:00,Bhutan,0.2641435084462936,1,1,ro,TIB,Asia
+'ed806b22f8',extremes,Drought,#edc291,edo,uscăciune bhutan,2026-03-19T04:35:00+00:00,Bhutan,0.2641284819587864,1,1,ro,TIB,Asia
+'9ca1eb0a20',extremes,Drought,#edc291,edo,seceta australia,2026-03-20T04:26:00+00:00,Australia,0.2641275816028995,1,1,ro,SAU,Oceania
 '62dc5cf511',extremes,Storm,#b3b2b1,aidr,storm severe storm melbourne victoria 2010,2026-03-25T04:34:00+00:00,Australia,0.2640552658270273,1,1,ro,SAU,Oceania
+'136998b302',extremes,Cold Wave,#a7e9fa,acwe,vreme rece queensland,2026-03-31T05:00:00+00:00,Australia,0.26395005536718535,1,1,ro,CAU,Oceania
+'352775dd3c',extremes,Drought,#edc291,edo,uscăciune nepal,2026-04-02T04:42:00+00:00,Nepal,0.26317439054033165,1,1,ro,TIB,Asia
+'37d08d7316',extremes,Precipitation,#d60d2b,acwe,vară umedă South Australia,2026-04-12T05:12:00+00:00,Australia,0.26316735349109704,1,1,ro,SAU,Oceania
+'4508810067',extremes,Storm,#b3b2b1,wmo,storm litoral norte e interior,2026-03-31T04:59:00+00:00,Ecuador,0.26252897496283695,1,1,ro,NWS,South-America
 '548a967433',extremes,Storm,#b3b2b1,emdat,furtuna tete,2026-03-24T04:32:00+00:00,Mozambique,0.2618360086084816,1,1,ro,ESAF,Africa
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,furtuna noua zeelanda,2026-03-24T04:31:00+00:00,New Zealand,0.2616236551749095,1,1,ro,NZ,Oceania
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,storm northland,2026-03-23T04:42:00+00:00,New Zealand,0.2613406621152075,1,1,ro,NZ,Oceania
