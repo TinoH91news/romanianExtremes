@@ -1,185 +1,199 @@
 ,phrase,label,sentiment,subjectivity,language,count
 ANM,ANM,ORG,0.08877984389348026,0.21617883379247013,en,21.999999999999996
 Capital,Capital,ORG,0.039230605795022966,0.26415557857275646,en,16.300000000000004
-The National Meteorological Administration,The National Meteorological Administration,ORG,0.07156239817530138,0.4371334310850438,en,12.400000000000004
-INCDFP,INCDFP,ORG,0.0,0.0,en,6.4
+The National Meteorological Administration,The National Meteorological Administration,ORG,0.07306492959902047,0.4434687786960512,en,13.200000000000005
+Trump,Trump,ORG,0.1256410256410256,0.23589743589743584,en,6.500000000000001
 the National Research and Development Institute for Earth Physics,the National Research and Development Institute for Earth Physics,ORG,0.0,0.0,en,6.4
-Trump,Trump,ORG,0.14583333333333331,0.2738095238095238,en,5.6000000000000005
+INCDFP,INCDFP,ORG,0.0,0.0,en,6.4
 Digi24,Digi24,ORG,0.17970521541950116,0.2244897959183674,en,4.8999999999999995
+AFP,AFP,ORG,0.17572463768115945,0.3369565217391305,en,4.6
 Bucegi,Bucegi,ORG,0.09467391304347829,0.3716304347826087,en,4.6
-AFP,AFP,ORG,0.2184684684684685,0.29279279279279286,en,3.6999999999999997
+MAE,MAE,ORG,-0.011093073593073596,0.14908008658008662,en,4.3999999999999995
 The National Institute of Hydrology and Water Management,The National Institute of Hydrology and Water Management,ORG,-0.02252252252252252,0.2927927927927928,en,3.6999999999999997
 the Minister of Energy,the Minister of Energy,ORG,0.021505376344086023,0.30560675883256533,en,3.0999999999999996
-BBC,BBC,ORG,0.005952380952380951,0.47321428571428575,en,2.8
 INHGA,INHGA,ORG,0.0,0.35714285714285715,en,2.8
 Mehedinți,Mehedinți,ORG,-0.044642857142857144,0.13392857142857142,en,2.8
+BBC,BBC,ORG,0.005952380952380951,0.47321428571428575,en,2.8
 Congress,Congress,ORG,0.016483516483516487,0.14652014652014653,en,2.6
-MAE,MAE,ORG,-0.057692307692307696,0.12820512820512825,en,2.5999999999999996
 Reuters,Reuters,ORG,0.1880952380952381,0.6071428571428572,en,2.1
-Elcen,Elcen,ORG,0.125,0.1118421052631579,en,1.9
-The Capital City Hall,The Capital City Hall,ORG,0.0,0.0,en,1.9
-the Ministerial Committee for Emergency Situations,the Ministerial Committee for Emergency Situations,ORG,0.14619883040935672,0.216374269005848,en,1.9
-the National Meteorological Administration,the National Meteorological Administration,ORG,-0.15789473684210525,0.0,en,1.9
+Cornu,Cornu,ORG,0.0,0.0,en,1.9
+Maramureș,Maramureș,ORG,-0.10657894736842105,0.3618421052631579,en,1.9
+Easter,Easter,ORG,0.0,0.0,en,1.9
+Pietrele lui Solomon,Pietrele lui Solomon,ORG,0.0,0.0,en,1.9
+Pietrele,Pietrele,ORG,0.0,0.0,en,1.9
+CSAT,CSAT,ORG,0.18421052631578946,0.18421052631578946,en,1.9
 The Ministry of Development,The Ministry of Development,ORG,0.0,0.0,en,1.9
-MFA,MFA,ORG,0.0,0.0,en,1.9
+The Capital City Hall,The Capital City Hall,ORG,0.0,0.0,en,1.9
+DSU,DSU,ORG,0.2631578947368421,0.2631578947368421,en,1.9
+the National Meteorological Administration,the National Meteorological Administration,ORG,-0.15789473684210525,0.0,en,1.9
 Buzau,Buzau,ORG,0.0,0.0,en,1.9
 EU,EU,ORG,0.0,0.0,en,1.9
+the Ministerial Committee for Emergency Situations,the Ministerial Committee for Emergency Situations,ORG,0.14619883040935672,0.216374269005848,en,1.9
 the European Union,the European Union,ORG,0.08771929824561403,0.22807017543859648,en,1.9
-CSAT,CSAT,ORG,0.18421052631578946,0.18421052631578946,en,1.9
-DSU,DSU,ORG,0.2631578947368421,0.2631578947368421,en,1.9
+MFA,MFA,ORG,0.0,0.0,en,1.9
+Elcen,Elcen,ORG,0.125,0.1118421052631579,en,1.9
 Salvamont,Salvamont,ORG,0.12361111111111112,0.29999999999999993,en,1.8
-The Ministry of Foreign Affairs,The Ministry of Foreign Affairs,ORG,-0.08823529411764706,0.07352941176470588,en,1.7
 Toyota,Toyota,ORG,0.09313725490196079,0.39215686274509803,en,1.7
+The Ministry of Foreign Affairs,The Ministry of Foreign Affairs,ORG,-0.08823529411764706,0.07352941176470588,en,1.7
+Constantin Dumbravă,Constantin Dumbravă,ORG,0.16025641025641027,0.09615384615384615,en,1.3
 BNR,BNR,ORG,0.0,0.0,en,1.3
-Kremlin,Kremlin,ORG,-0.24358974358974356,0.5192307692307693,en,1.3
-CTP,CTP,ORG,0.08974358974358974,0.10256410256410256,en,1.3
+PSD,PSD,ORG,0.21367521367521367,0.09401709401709402,en,1.3
 DPA,DPA,ORG,0.04807692307692307,0.04807692307692307,en,1.3
 The Minister of Energy,The Minister of Energy,ORG,0.03846153846153849,0.3247863247863248,en,1.3
-Constantin Dumbravă,Constantin Dumbravă,ORG,0.16025641025641027,0.09615384615384615,en,1.3
-PSD,PSD,ORG,0.21367521367521367,0.09401709401709402,en,1.3
+CTP,CTP,ORG,0.08974358974358974,0.10256410256410256,en,1.3
+Kremlin,Kremlin,ORG,-0.24358974358974356,0.5192307692307693,en,1.3
 State,State,ORG,0.2348484848484848,0.3863636363636363,en,1.1
-NATO,NATO,ORG,0.16666666666666666,0.0,en,1.0
-the Social Democrats,the Social Democrats,ORG,0.07777777777777778,0.0,en,1.0
-Mountaineer,Mountaineer,ORG,0.0,0.0,en,1.0
-Farmers,Farmers,ORG,0.0,0.0,en,1.0
-Infotraffic Center,Infotraffic Center,ORG,-0.025,0.0,en,1.0
-Police Infotraffic Center,Police Infotraffic Center,ORG,-0.05,0.0,en,1.0
-PNRR,PNRR,ORG,0.0,0.0,en,1.0
-the Oltenia Energy Complex,the Oltenia Energy Complex,ORG,-0.3,0.0,en,1.0
-the Superior Council of Magistrates,the Superior Council of Magistrates,ORG,0.13999999999999999,0.0,en,1.0
-National,National,ORG,0.0,0.0,en,1.0
-Elon Musk,Elon Musk,ORG,0.1,0.0,en,1.0
-Kievan,Kievan,ORG,0.0,0.0,en,1.0
-the Winter Command,the Winter Command,ORG,-0.36666666666666664,0.0,en,1.0
-the Supreme Court of Justice,the Supreme Court of Justice,ORG,0.21875,0.0,en,1.0
-RTL Today,RTL Today,ORG,0.05,0.0,en,1.0
-Facebook,Facebook,ORG,0.4,0.0,en,1.0
-The Ministry of Education,The Ministry of Education,ORG,0.0,0.0,en,1.0
-the Board of Directors of the National Bank,the Board of Directors of the National Bank,ORG,0.4000000000000001,0.0,en,1.0
-the Department for Emergency Situations,the Department for Emergency Situations,ORG,0.1875,0.0,en,1.0
-Ministry of Education,Ministry of Education,ORG,0.325,0.0,en,1.0
-the Jerusalem Post,the Jerusalem Post,ORG,0.5,0.0,en,1.0
-US Supreme Court,US Supreme Court,ORG,0.05000000000000002,0.0,en,1.0
-BLS,BLS,ORG,0.05,0.0,en,1.0
-NBR,NBR,ORG,0.05,0.0,en,1.0
-A3,A3,ORG,-0.1,0.0,en,1.0
-PSRM,PSRM,ORG,0.21875,0.0,en,1.0
-Ilfov,Ilfov,ORG,0.0,0.0,en,1.0
-Melatonin,Melatonin,ORG,0.0,0.0,en,1.0
-The United States Supreme Court's,The United States Supreme Court's,ORG,0.0,0.0,en,1.0
-AI,AI,ORG,0.042857142857142864,0.0,en,1.0
-MAP Flood,MAP Flood,ORG,0.0,0.0,en,1.0
-the Constanța Clinical Hospital for Infectious Diseases,the Constanța Clinical Hospital for Infectious Diseases,ORG,0.16666666666666666,0.0,en,1.0
-Piazza Vittorio Veneto,Piazza Vittorio Veneto,ORG,-0.3333333333333333,0.0,en,1.0
-ISU Olt,ISU Olt,ORG,0.03333333333333333,0.0,en,1.0
-the National Institute for Earth Physics,the National Institute for Earth Physics,ORG,-0.15000000000000002,0.0,en,1.0
-06:01,06:01,ORG,0.0,0.0,en,1.0
-Le Monde,Le Monde,ORG,0.04999999999999999,0.0,en,1.0
-Christianity,Christianity,ORG,0.016666666666666663,0.0,en,1.0
-the Iranian Ministry of Foreign Affairs,the Iranian Ministry of Foreign Affairs,ORG,-0.0625,0.0,en,1.0
-the European Commission,the European Commission,ORG,-0.0625,0.0,en,1.0
-Herăstrau,Herăstrau,ORG,0.0,0.0,en,1.0
-Riviera,Riviera,ORG,0.15,0.0,en,1.0
-the Gasteig Cultural Center HP 8,the Gasteig Cultural Center HP 8,ORG,-0.03333333333333333,0.0,en,1.0
-Hârșova,Hârșova,ORG,-0.1625,0.0,en,1.0
-Evtol,Evtol,ORG,0.1,0.0,en,1.0
-Pietrele,Pietrele,ORG,0.0,0.0,en,1.0
-Pietrele lui Solomon,Pietrele lui Solomon,ORG,0.0,0.0,en,1.0
-HotNews,HotNews,ORG,0.0,0.0,en,1.0
-MApN,MApN,ORG,0.0,0.0,en,1.0
-the National Bank of Romania,the National Bank of Romania,ORG,-0.1,0.0,en,1.0
-the National Union of Insurance and Reinsurance Companies,the National Union of Insurance and Reinsurance Companies,ORG,0.09999999999999999,0.0,en,1.0
-Brâncuși,Brâncuși,ORG,0.0,0.0,en,1.0
+Spartan,Spartan,ORG,0.037500000000000006,0.0,en,1.0
+UNSAR,UNSAR,ORG,0.09999999999999999,0.0,en,1.0
 Infinitul,Infinitul,ORG,0.0,0.0,en,1.0
 CIA,CIA,ORG,0.0,0.0,en,1.0
 the National Weather Service,the National Weather Service,ORG,0.0,0.0,en,1.0
 The Ialomița County Police Inspectorate,The Ialomița County Police Inspectorate,ORG,-0.1125,0.0,en,1.0
+the Ministry of Culture,the Ministry of Culture,ORG,0.1,0.0,en,1.0
 Digi 24,Digi 24,ORG,0.0,0.0,en,1.0
-UNSAR,UNSAR,ORG,0.09999999999999999,0.0,en,1.0
+the National Union of Insurance and Reinsurance Companies,the National Union of Insurance and Reinsurance Companies,ORG,0.09999999999999999,0.0,en,1.0
+AI,AI,ORG,0.042857142857142864,0.0,en,1.0
+Melatonin,Melatonin,ORG,0.0,0.0,en,1.0
 IGSU,IGSU,ORG,-0.6999999999999998,0.0,en,1.0
-Champions League,Champions League,ORG,0.0,0.0,en,1.0
 the Boston Globe,the Boston Globe,ORG,0.0,0.0,en,1.0
 BRD,BRD,ORG,0.0,0.0,en,1.0
 Novaci,Novaci,ORG,0.10277777777777776,0.0,en,1.0
 DN 67C – Transalpina,DN 67C – Transalpina,ORG,0.04166666666666666,0.0,en,1.0
 multiannual,multiannual,ORG,0.2,0.0,en,1.0
-the Champions League,the Champions League,ORG,-0.25555555555555554,0.0,en,1.0
+Brâncuși,Brâncuși,ORG,0.0,0.0,en,1.0
+US Supreme Court,US Supreme Court,ORG,0.05000000000000002,0.0,en,1.0
+The United States Supreme Court's,The United States Supreme Court's,ORG,0.0,0.0,en,1.0
 Juventus,Juventus,ORG,-0.25555555555555554,0.0,en,1.0
-News.ro,News.ro,ORG,0.03333333333333333,0.0,en,1.0
-MAP,MAP,ORG,0.0,0.0,en,1.0
-Red Code,Red Code,ORG,0.0,0.0,en,1.0
-Termo,Termo,ORG,0.0,0.0,en,1.0
-Sun,Sun,ORG,0.25,0.0,en,1.0
-Blue Origin's,Blue Origin's,ORG,0.08333333333333333,0.0,en,1.0
-Bucharesters,Bucharesters,ORG,0.125,0.0,en,1.0
-Sfântul Ion,Sfântul Ion,ORG,0.0,0.0,en,1.0
-the National Institute,the National Institute,ORG,-0.125,0.0,en,1.0
-The Winter Command,The Winter Command,ORG,0.0,0.0,en,1.0
-MAI,MAI,ORG,0.0,0.0,en,1.0
+PSRM,PSRM,ORG,0.21875,0.0,en,1.0
+A3,A3,ORG,-0.1,0.0,en,1.0
+NBR,NBR,ORG,0.05,0.0,en,1.0
+Ilfov,Ilfov,ORG,0.0,0.0,en,1.0
+Ministry of Education,Ministry of Education,ORG,0.325,0.0,en,1.0
+The Ministry of Education,The Ministry of Education,ORG,0.0,0.0,en,1.0
+Facebook,Facebook,ORG,0.4,0.0,en,1.0
+the Winter Command,the Winter Command,ORG,-0.36666666666666664,0.0,en,1.0
+Mountaineer,Mountaineer,ORG,0.0,0.0,en,1.0
+the Social Democrats,the Social Democrats,ORG,0.07777777777777778,0.0,en,1.0
+Infotraffic Center,Infotraffic Center,ORG,-0.025,0.0,en,1.0
+Police Infotraffic Center,Police Infotraffic Center,ORG,-0.05,0.0,en,1.0
+PNRR,PNRR,ORG,0.0,0.0,en,1.0
+the Superior Council of Magistrates,the Superior Council of Magistrates,ORG,0.13999999999999999,0.0,en,1.0
+National,National,ORG,0.0,0.0,en,1.0
+the Champions League,the Champions League,ORG,-0.25555555555555554,0.0,en,1.0
+Champions League,Champions League,ORG,0.0,0.0,en,1.0
+Elon Musk,Elon Musk,ORG,0.1,0.0,en,1.0
+the Ministry of Foreign Affairs,the Ministry of Foreign Affairs,ORG,0.10119047619047618,0.0,en,1.0
+the Intergovernmental Committee for the Safeguarding of,the Intergovernmental Committee for the Safeguarding of,ORG,0.05,0.0,en,1.0
+UNESCO,UNESCO,ORG,0.15000000000000002,0.525,en,1.0
+Maduro,Maduro,ORG,-0.1,0.0,en,1.0
+Wagner Group,Wagner Group,ORG,-0.13333333333333333,0.0,en,1.0
+MAGA,MAGA,ORG,-0.4,0.0,en,1.0
+the Constitution of Greater Romania,the Constitution of Greater Romania,ORG,0.375,0.0,en,1.0
+the Socialist Republic,the Socialist Republic,ORG,0.25,0.0,en,1.0
+Skoda Octavia,Skoda Octavia,ORG,0.0,0.0,en,1.0
+the National Bank of Romania,the National Bank of Romania,ORG,-0.1,0.0,en,1.0
+@sabinix,@sabinix,ORG,0.16666666666666666,0.0,en,1.0
+HL,HL,ORG,0.16666666666666666,0.0,en,1.0
+Savior,Savior,ORG,0.04999999999999999,0.0,en,1.0
+Cobza,Cobza,ORG,0.0,0.0,en,1.0
+CTV News,CTV News,ORG,-0.209375,0.0,en,1.0
+the European Space Agency,the European Space Agency,ORG,0.0,0.0,en,1.0
+Câmpina,Câmpina,ORG,0.0,0.0,en,1.0
+Evtol,Evtol,ORG,0.1,0.0,en,1.0
+Hârșova,Hârșova,ORG,-0.1625,0.0,en,1.0
+the Gasteig Cultural Center HP 8,the Gasteig Cultural Center HP 8,ORG,-0.03333333333333333,0.0,en,1.0
+Riviera,Riviera,ORG,0.15,0.0,en,1.0
+MApN,MApN,ORG,0.0,0.0,en,1.0
+HotNews,HotNews,ORG,0.0,0.0,en,1.0
+MAP Flood,MAP Flood,ORG,0.0,0.0,en,1.0
+the Constanța Clinical Hospital for Infectious Diseases,the Constanța Clinical Hospital for Infectious Diseases,ORG,0.16666666666666666,0.0,en,1.0
+Piazza Vittorio Veneto,Piazza Vittorio Veneto,ORG,-0.3333333333333333,0.0,en,1.0
+ISU Olt,ISU Olt,ORG,0.03333333333333333,0.0,en,1.0
+the UNESCO Intangible Cultural Heritage,the UNESCO Intangible Cultural Heritage,ORG,0.1,0.0,en,1.0
+the National Institute for Earth Physics,the National Institute for Earth Physics,ORG,-0.15000000000000002,0.0,en,1.0
+06:01,06:01,ORG,0.0,0.0,en,1.0
+Le Monde,Le Monde,ORG,0.04999999999999999,0.0,en,1.0
+Christianity,Christianity,ORG,0.016666666666666663,0.0,en,1.0
+the Kyiv Post,the Kyiv Post,ORG,0.0,0.0,en,1.0
+the Iranian Ministry of Foreign Affairs,the Iranian Ministry of Foreign Affairs,ORG,-0.0625,0.0,en,1.0
+the European Commission,the European Commission,ORG,-0.0625,0.0,en,1.0
+Herăstrau,Herăstrau,ORG,0.0,0.0,en,1.0
+the Supreme Court of Justice,the Supreme Court of Justice,ORG,0.21875,0.0,en,1.0
+the Department for Emergency Situations,the Department for Emergency Situations,ORG,0.1875,0.0,en,1.0
 CET Bucharest Sud,CET Bucharest Sud,ORG,0.125,0.0,en,1.0
-RO,RO,ORG,0.0,0.0,en,1.0
-Spartan,Spartan,ORG,0.037500000000000006,0.0,en,1.0
+the Institute for Earth Physics,the Institute for Earth Physics,ORG,0.0,0.0,en,1.0
+​​reaching,​​reaching,ORG,-0.3,0.0,en,1.0
+Blue Origin's,Blue Origin's,ORG,0.08333333333333333,0.0,en,1.0
+Maramureş,Maramureş,ORG,0.10212987012987014,0.0,en,1.0
+Galațiului,Galațiului,ORG,0.10212987012987014,0.0,en,1.0
+Sun,Sun,ORG,0.25,0.0,en,1.0
+Mount Elbrus,Mount Elbrus,ORG,0.4000000000000001,0.0,en,1.0
+VIDEO Autostrada Soarelui,VIDEO Autostrada Soarelui,ORG,0.0,0.0,en,1.0
+the European Mediterranean Seismological Center,the European Mediterranean Seismological Center,ORG,-0.03333333333333333,0.0,en,1.0
+The National Meteorological Authority,The National Meteorological Authority,ORG,0.10833333333333332,0.0,en,1.0
+EMSC,EMSC,ORG,-0.03333333333333333,0.0,en,1.0
+Luna 1,Luna 1,ORG,0.25,0.0,en,1.0
+Rodnei,Rodnei,ORG,0.1875,0.0,en,1.0
+Code Yellow and Code,Code Yellow and Code,ORG,0.27777777777777773,0.0,en,1.0
+The Foreign Office,The Foreign Office,ORG,-0.0625,0.0,en,1.0
+The Ministry of the Environment,The Ministry of the Environment,ORG,0.27777777777777773,0.0,en,1.0
+PHOTO USA,PHOTO USA,ORG,0.0,0.0,en,1.0
+the National Institute of Infectious Diseases,the National Institute of Infectious Diseases,ORG,0.0,0.0,en,1.0
+Wizz Air company,Wizz Air company,ORG,0.0,0.0,en,1.0
+CNN,CNN,ORG,0.05,0.0,en,1.0
+the Institute of Cardiovascular Diseases CC Iliescu,the Institute of Cardiovascular Diseases CC Iliescu,ORG,0.0,0.0,en,1.0
 Elli,Elli,ORG,-0.15555555555555559,0.0,en,1.0
+Termo,Termo,ORG,0.0,0.0,en,1.0
+MAI,MAI,ORG,0.0,0.0,en,1.0
+The Winter Command,The Winter Command,ORG,0.0,0.0,en,1.0
+the National Institute,the National Institute,ORG,-0.125,0.0,en,1.0
 Greenland,Greenland,ORG,0.45,0.0,en,1.0
+Sfântul Ion,Sfântul Ion,ORG,0.0,0.0,en,1.0
+Bucharesters,Bucharesters,ORG,0.125,0.0,en,1.0
 The Ministry of Energy,The Ministry of Energy,ORG,-0.14722222222222223,0.0,en,1.0
 superlong Kondratieff,superlong Kondratieff,ORG,0.0,0.0,en,1.0
 Kondratieff,Kondratieff,ORG,0.08733766233766234,0.0,en,1.0
 ELCEN,ELCEN,ORG,0.016666666666666673,0.0,en,1.0
-Luna 1,Luna 1,ORG,0.25,0.0,en,1.0
-Code Yellow and Code,Code Yellow and Code,ORG,0.27777777777777773,0.0,en,1.0
-The Ministry of the Environment,The Ministry of the Environment,ORG,0.27777777777777773,0.0,en,1.0
-the Ministry of the Environment,the Ministry of the Environment,ORG,0.0,0.0,en,1.0
-Cobza,Cobza,ORG,0.0,0.0,en,1.0
-UNESCO,UNESCO,ORG,0.15000000000000002,0.525,en,1.0
-the Intergovernmental Committee for the Safeguarding of,the Intergovernmental Committee for the Safeguarding of,ORG,0.05,0.0,en,1.0
-the Kyiv Post,the Kyiv Post,ORG,0.0,0.0,en,1.0
-the UNESCO Intangible Cultural Heritage,the UNESCO Intangible Cultural Heritage,ORG,0.1,0.0,en,1.0
-the Ministry of Culture,the Ministry of Culture,ORG,0.1,0.0,en,1.0
-Becali,Becali,ORG,0.0,0.0,en,1.0
-Feyenoord,Feyenoord,ORG,0.6499999999999999,0.775,en,1.0
-FCSB,FCSB,ORG,0.3,0.0,en,1.0
-the Europa League,the Europa League,ORG,0.3,0.0,en,1.0
-the EU Council,the EU Council,ORG,0.0,0.0,en,1.0
-Prahova,Prahova,ORG,0.0,0.0,en,1.0
-Cornu,Cornu,ORG,0.0,0.0,en,1.0
-The Department of Emergency Management,The Department of Emergency Management,ORG,0.0,0.0,en,1.0
-FlightAware,FlightAware,ORG,-0.125,0.0,en,1.0
 The Minister of Health,The Minister of Health,ORG,0.0,0.0,en,1.0
 the Minister of Health,the Minister of Health,ORG,0.0,0.0,en,1.0
 the Ministry of Health,the Ministry of Health,ORG,0.0,0.0,en,1.0
+Arad,Arad,ORG,0.14444444444444443,0.0,en,1.0
+the Ministry of the Environment,the Ministry of the Environment,ORG,0.0,0.0,en,1.0
+the Board of Directors of the National Bank,the Board of Directors of the National Bank,ORG,0.4000000000000001,0.0,en,1.0
+Feyenoord,Feyenoord,ORG,0.6499999999999999,0.775,en,1.0
+the US,the US,ORG,0.11666666666666667,0.0,en,1.0
+House of Representatives,House of Representatives,ORG,0.11666666666666667,0.0,en,1.0
+the Europa League,the Europa League,ORG,0.3,0.0,en,1.0
+RO,RO,ORG,0.0,0.0,en,1.0
+Red Code,Red Code,ORG,0.0,0.0,en,1.0
+FCSB,FCSB,ORG,0.3,0.0,en,1.0
+News.ro,News.ro,ORG,0.03333333333333333,0.0,en,1.0
+Farmers,Farmers,ORG,0.0,0.0,en,1.0
+FlightAware,FlightAware,ORG,-0.125,0.0,en,1.0
+the Oltenia Energy Complex,the Oltenia Energy Complex,ORG,-0.3,0.0,en,1.0
+NATO,NATO,ORG,0.16666666666666666,0.0,en,1.0
+Kievan,Kievan,ORG,0.0,0.0,en,1.0
+the Jerusalem Post,the Jerusalem Post,ORG,0.5,0.0,en,1.0
+BLS,BLS,ORG,0.05,0.0,en,1.0
+RTL Today,RTL Today,ORG,0.05,0.0,en,1.0
+Becali,Becali,ORG,0.0,0.0,en,1.0
+the Legal Commission,the Legal Commission,ORG,0.11666666666666667,0.0,en,1.0
+the EU Council,the EU Council,ORG,0.0,0.0,en,1.0
+the MAGA Commission,the MAGA Commission,ORG,0.0,0.0,en,1.0
+Infotraffic,Infotraffic,ORG,0.0,0.0,en,1.0
 the National Institute of Hydrology,the National Institute of Hydrology,ORG,0.0,0.0,en,1.0
+Vulkangruppe,Vulkangruppe,ORG,0.0,0.0,en,1.0
 ABC News,ABC News,ORG,0.0,0.0,en,1.0
 Yellow Flood Codes,Yellow Flood Codes,ORG,0.0,0.0,en,1.0
 The China Meteorological Administration,The China Meteorological Administration,ORG,-0.049999999999999996,0.0,en,1.0
 PHOTO/VIDEO Moscow,PHOTO/VIDEO Moscow,ORG,0.0,0.0,en,1.0
 the Moscow State University,the Moscow State University,ORG,0.25,0.0,en,1.0
 AP,AP,ORG,-0.07916666666666666,0.0,en,1.0
-Infotraffic,Infotraffic,ORG,0.0,0.0,en,1.0
+MAP,MAP,ORG,0.0,0.0,en,1.0
 Nuclearelectrica,Nuclearelectrica,ORG,-0.1,0.0,en,1.0
 The Air Force of Ukraine,The Air Force of Ukraine,ORG,0.24166666666666667,0.0,en,1.0
+The Department of Emergency Management,The Department of Emergency Management,ORG,0.0,0.0,en,1.0
 The Portuguese Institute,The Portuguese Institute,ORG,0.0,0.0,en,1.0
+Prahova,Prahova,ORG,0.0,0.0,en,1.0
 the General Directorate of Meteorology,the General Directorate of Meteorology,ORG,-0.024999999999999994,0.0,en,1.0
-the MAGA Commission,the MAGA Commission,ORG,0.0,0.0,en,1.0
-the Legal Commission,the Legal Commission,ORG,0.11666666666666667,0.0,en,1.0
-the US,the US,ORG,0.11666666666666667,0.0,en,1.0
-House of Representatives,House of Representatives,ORG,0.11666666666666667,0.0,en,1.0
-Vulkangruppe,Vulkangruppe,ORG,0.0,0.0,en,1.0
-The National Meteorological Authority,The National Meteorological Authority,ORG,0.10833333333333332,0.0,en,1.0
-the Institute of Cardiovascular Diseases CC Iliescu,the Institute of Cardiovascular Diseases CC Iliescu,ORG,0.0,0.0,en,1.0
-Arad,Arad,ORG,0.14444444444444443,0.0,en,1.0
-CNN,CNN,ORG,0.05,0.0,en,1.0
-Wizz Air company,Wizz Air company,ORG,0.0,0.0,en,1.0
-the National Institute of Infectious Diseases,the National Institute of Infectious Diseases,ORG,0.0,0.0,en,1.0
-​​reaching,​​reaching,ORG,-0.3,0.0,en,1.0
-Maramureş,Maramureş,ORG,0.10212987012987014,0.0,en,1.0
-Galațiului,Galațiului,ORG,0.10212987012987014,0.0,en,1.0
-Maramureș,Maramureș,ORG,0.16,0.0,en,1.0
-Mount Elbrus,Mount Elbrus,ORG,0.4000000000000001,0.0,en,1.0
-VIDEO Autostrada Soarelui,VIDEO Autostrada Soarelui,ORG,0.0,0.0,en,1.0
-the Institute for Earth Physics,the Institute for Earth Physics,ORG,0.0,0.0,en,1.0
-the European Mediterranean Seismological Center,the European Mediterranean Seismological Center,ORG,-0.03333333333333333,0.0,en,1.0
-EMSC,EMSC,ORG,-0.03333333333333333,0.0,en,1.0
-Rodnei,Rodnei,ORG,0.1875,0.0,en,1.0
-The Foreign Office,The Foreign Office,ORG,-0.0625,0.0,en,1.0
-PHOTO USA,PHOTO USA,ORG,0.0,0.0,en,1.0
-Maduro,Maduro,ORG,-0.1,0.0,en,1.0
+The Financial Times,The Financial Times,ORG,0.03125,0.0,en,1.0
