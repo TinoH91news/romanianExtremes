@@ -24,7 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,furtună africa de sud,2026-04-16T05:17:00+00:00,South Africa,0.4101543181171923,1,2,ro,WSAF,Africa
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-04-10T05:13:00+00:00,Brazil,0.4093381887495686,1,2,ro,SAM,South-America
 '2866b55c37',extremes,Storm,#b3b2b1,wmo,furtuna nord-macedonia,2026-03-26T04:56:00+00:00,North Macedonia,0.4092713401075898,1,2,ro,MED,Europe
-'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,ice canada,2026-03-19T04:35:00+00:00,Canada,0.40879776463356854,1,2,ro,NEN,North-America
+'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,ice canada,2026-03-19T04:35:00+00:00,Canada,0.4087977646335685,1,2,ro,NEN,North-America
 '135f8534c2',extremes,Precipitation,#d60d2b,random,precipitații mai multe,2026-03-29T04:59:00+00:00,,0.3970733786390805,1,2,ro,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,lăcuste,2026-04-06T05:11:00+00:00,,0.3930962192895902,0,1,ro,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-03-12T04:25:00+00:00,,0.3893381625322398,2,2,ro,,
@@ -317,6 +317,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d73764800',extremes,Earthquake,#870007,usgs,cutremur izvoare de argint,2026-04-14T05:10:00+00:00,United States,0.3018225474035657,0,1,ro,WNA,North-America
 '111942eccf',extremes,Storm,#b3b2b1,wmo,storm auckland,2026-04-10T05:13:00+00:00,New Zealand,0.3018012426400514,0,1,ro,NZ,Oceania
 '5ed391213f',extremes,Snow&Ice,#d60d2b,wmo,îngheţ regatul Unit,2026-04-04T04:30:00+00:00,United Kingdom,0.3017798721773943,0,1,ro,NEU,Europe
+'fcb1daa9f9',extremes,Snow Avalanche,#deddd5,wmo,avalanșă tuva republic,2026-04-08T05:01:00+00:00,Russia,0.30177121027609577,0,1,ro,ESB,Europe
+'6c7c509ea5',extremes,Flood,#030ba1,wmo,inundare suedia,2026-04-13T05:28:00+00:00,Sweden,0.30166573818444664,0,1,ro,NEU,Europe
+'5032c3d748',extremes,Wildfire,#d60d2b,wmo,wildfire hongta,2026-04-06T05:11:00+00:00,China,0.30161634062489795,0,1,ro,EAS,Asia
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,storm africa de sud,2026-04-15T05:12:00+00:00,South Africa,0.3015545796843412,0,1,ro,WSAF,Africa
+'ba0df33205',extremes,Storm,#b3b2b1,wmo,val de vijelie tamanrasset,2026-04-10T05:13:00+00:00,Algeria,0.3015488777191332,0,1,ro,SAH,Africa
+'fceedbfdbe',extremes,Storm,#b3b2b1,wmo,furtună béchar,2026-04-09T04:58:00+00:00,Algeria,0.3013980997923414,0,1,ro,SAH,Africa
+'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,avalanșă helgeland,2026-04-11T04:34:00+00:00,Norway,0.30139675188627835,0,1,ro,NEU,Europe
+'94e628bbb7',extremes,Wildfire,#d60d2b,wmo,wildfire qilin district,2026-04-11T04:34:00+00:00,China,0.3013628276820925,0,1,ro,EAS,Asia
+'42b882d252',extremes,Drought,#edc291,edo,lipsa ploilor Danemarca,2026-04-02T04:42:00+00:00,Denmark,0.3013550459687975,0,1,ro,NEU,Europe
+'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,avalanșă finnmarkskysten,2026-04-12T05:12:00+00:00,Norway,0.30133210038249597,0,1,ro,NEU,Europe
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,inghet,2026-04-02T04:41:00+00:00,,0.3007139205323829,1,1,ro,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,inundare a râului,2026-04-20T05:26:00+00:00,,0.2987585760089489,1,1,ro,,
 'a652c78afc',extremes,Drought,#edc291,random,megasecetă,2026-04-09T04:57:00+00:00,,0.2897089760322336,1,1,ro,,
@@ -490,7 +500,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,ploaie algeria,2026-04-01T05:12:00+00:00,Algeria,0.2588166598400999,1,1,ro,SAH,Africa
 'f7a6169f5f',extremes,Heat Wave,#c40202,wmo,val de căldură regiunea vladimir,2026-04-01T05:12:00+00:00,Russia,0.2588047058812992,1,1,ro,ESB,Europe
 '78e909d3d3',extremes,Flood,#030ba1,wmo,inundare israel,2026-03-21T04:17:00+00:00,Israel,0.2588035629764236,1,1,ro,MED,Asia
-'60cdf9fb44',extremes,Heat Wave,#c40202,wmo,val de căldură india,2026-04-03T04:43:00+00:00,India,0.25877507251823206,1,1,ro,SAS,Asia
+'60cdf9fb44',extremes,Heat Wave,#c40202,wmo,val de căldură india,2026-04-03T04:43:00+00:00,India,0.258775072518232,1,1,ro,SAS,Asia
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie Africa de Sud,2026-04-03T04:43:00+00:00,South Africa,0.2587264304513282,1,1,ro,WSAF,Africa
 '8a3ed6b772',extremes,Heat Wave,#c40202,wmo,val de căldură regiune ryazan,2026-04-01T05:12:00+00:00,Russia,0.2587171793378568,1,1,ro,ESB,Europe
 'aa611870f3',extremes,Earthquake,#870007,usgs,cutremur la vale,2026-03-22T04:33:00+00:00,Anguilla,0.258689562960899,1,1,ro,NAO,Atlantic Ocean
