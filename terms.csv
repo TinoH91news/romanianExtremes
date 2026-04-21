@@ -77,13 +77,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ger,2026-03-27T04:56:00+00:00,,0.3048577872373129,0,1,ro,,
 '3421a57149',extremes,Storm,#b3b2b1,wmo,furtuna ecuador,2026-04-03T04:43:00+00:00,Ecuador,0.3048555039225196,0,1,ro,NWS,South-America
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,storm surge ecuador,2026-04-03T04:43:00+00:00,Ecuador,0.3046438930281721,0,1,ro,NWS,South-America
-'854af57bd3',extremes,Fog,#d60d2b,wmo,ceață canada,2026-04-03T04:43:00+00:00,Canada,0.3041876718384806,0,1,ro,NEN,North-America
-'a5a19a733b',extremes,Flood,#030ba1,wmo,inundație fulgerătoare etiopia,2026-03-29T05:00:00+00:00,Ethiopia,0.3041647558920509,0,1,ro,NEAF,Africa
-'8f1c5d5139',extremes,Tropical Cyclone,#4f4f4f,wmo,taifun western isabel si choiseul,2026-04-05T05:01:00+00:00,Solomon Islands,0.3041583729578517,0,1,ro,EPO,Oceania
-'69840e877f',extremes,Storm,#b3b2b1,wmo,furtuna bulgaria,2026-04-08T05:01:00+00:00,Bulgaria,0.3041107496148176,0,1,ro,MED,Europe
-'5b84b6b854',extremes,Tsunami,#690191,usgs,tsunami creasta nordică a Atlanticului mijlociu,2026-03-22T04:33:00+00:00,,0.3041078528498202,0,1,ro,NAO,Atlantic Ocean
-'8e0ac5b7e8',extremes,Earthquake,#870007,usgs,cutremur luganville,2026-03-31T04:59:00+00:00,Vanuatu,0.3041059412057678,0,1,ro,SPO,Pacific Ocean
-'d865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,​​ciclon tropical australia,2026-03-19T04:35:00+00:00,Australia,0.3041019334992522,0,1,ro,NAU,Oceania
 '9f56f3696e',extremes,Drought,#edc291,edo,secetă lituania,2026-04-07T04:59:00+00:00,Lithuania,0.3040649501992979,0,1,ro,WCE,Europe
 '271200cbb0',extremes,Wildfire,#d60d2b,wmo,incendiu andhra pradesh,2026-04-03T04:43:00+00:00,India,0.3040574214873138,0,1,ro,SAS,Asia
 '5282102178',extremes,Flood,#030ba1,wmo,inundații israeliene,2026-03-18T04:36:00+00:00,Israel,0.3040453636731152,0,1,ro,MED,Asia
@@ -491,14 +484,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60cdf9fb44',extremes,Heat Wave,#c40202,wmo,val de căldură india,2026-04-03T04:43:00+00:00,India,0.258775072518232,1,1,ro,SAS,Asia
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie Africa de Sud,2026-04-03T04:43:00+00:00,South Africa,0.2587264304513282,1,1,ro,WSAF,Africa
 '8a3ed6b772',extremes,Heat Wave,#c40202,wmo,val de căldură regiune ryazan,2026-04-01T05:12:00+00:00,Russia,0.2587171793378568,1,1,ro,ESB,Europe
-'d3ea8177c3',extremes,Flood,#030ba1,wmo,inundarea statelor unite,2026-03-20T04:26:00+00:00,United States,0.25871096265695154,1,1,ro,CNA,North-America
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,inundarea statelor unite,2026-03-20T04:26:00+00:00,United States,0.2587109626569515,1,1,ro,CNA,North-America
 'aa611870f3',extremes,Earthquake,#870007,usgs,cutremur la vale,2026-03-22T04:33:00+00:00,Anguilla,0.258689562960899,1,1,ro,NAO,Atlantic Ocean
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,caniculă moscova,2026-04-01T05:12:00+00:00,Russia,0.2586770270615636,1,1,ro,ESB,Europe
+'d865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,​​ciclon tropical australia,2026-03-19T04:35:00+00:00,Australia,0.25863665847436434,1,1,ro,NAU,Oceania
 'e6200fd658',extremes,Drought,#edc291,edo,seceta angola,2026-04-04T04:30:00+00:00,Angola,0.2586091865350794,1,1,ro,WSAF,Africa
 'fda000bba3',extremes,Storm,#b3b2b1,wmo,storm surge litoral y sierra,2026-04-05T05:01:00+00:00,Ecuador,0.2585963338340572,1,1,ro,NWS,South-America
 'a015920a8d',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială în lanţurile Kaweka şi Ruahine,2026-04-11T04:34:00+00:00,New Zealand,0.2585857498285822,1,1,ro,NZ,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,cutremur port mathurin,2026-04-13T05:27:00+00:00,Mauritius,0.2585731735506393,1,1,ro,SIO,Indian Ocean
+'854af57bd3',extremes,Fog,#d60d2b,wmo,ceață canada,2026-04-03T04:43:00+00:00,Canada,0.2585595210627085,1,1,ro,NEN,North-America
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,val de vijelie islanda,2026-03-19T04:35:00+00:00,Iceland,0.2585473726069926,1,1,ro,GIC,Europe
+'a5a19a733b',extremes,Flood,#030ba1,wmo,inundație fulgerătoare etiopia,2026-03-29T05:00:00+00:00,Ethiopia,0.25854004250824325,1,1,ro,NEAF,Africa
+'8f1c5d5139',extremes,Tropical Cyclone,#4f4f4f,wmo,taifun western isabel si choiseul,2026-04-05T05:01:00+00:00,Solomon Islands,0.25853461701417396,1,1,ro,EPO,Oceania
+'69840e877f',extremes,Storm,#b3b2b1,wmo,furtuna bulgaria,2026-04-08T05:01:00+00:00,Bulgaria,0.25849413717259495,1,1,ro,MED,Europe
+'5b84b6b854',extremes,Tsunami,#690191,usgs,tsunami creasta nordică a Atlanticului mijlociu,2026-03-22T04:33:00+00:00,,0.2584916749223472,1,1,ro,NAO,Atlantic Ocean
+'8e0ac5b7e8',extremes,Earthquake,#870007,usgs,cutremur luganville,2026-03-31T04:59:00+00:00,Vanuatu,0.2584900500249026,1,1,ro,SPO,Pacific Ocean
 '1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,vreme severă botswana,2026-03-23T04:42:00+00:00,Botswana,0.2584784270716894,1,1,ro,WSAF,Africa
 '3738ea4320',extremes,Precipitation,#d60d2b,wmo,precipitatii uruguay,2026-03-23T04:42:00+00:00,Uruguay,0.2581860698322736,1,1,ro,SES,South-America
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,wildfire africa de sud,2026-03-20T04:26:00+00:00,South Africa,0.257932041722316,1,1,ro,WSAF,Africa
