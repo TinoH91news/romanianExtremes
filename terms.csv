@@ -73,23 +73,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,avalanșă nord troms,2026-04-10T05:13:00+00:00,Norway,0.3029365863066214,1,1,ro,NEU,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,boluri de praf,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,ro,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,vârtej,2026-04-08T05:00:00+00:00,,0.3026138637841818,1,1,ro,,
-'656a35b67b',extremes,Wildfire,#d60d2b,wmo,wildfire județul menghai,2026-04-04T04:30:00+00:00,China,0.3022787324906805,0,1,ro,EAS,Asia
-'586bd179b6',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială insula great barrier,2026-03-24T04:31:00+00:00,New Zealand,0.3022765363214351,0,1,ro,NZ,Oceania
-'0994b19b20',extremes,Snow&Ice,#d60d2b,wmo,gheață finland,2026-04-24T05:22:00+00:00,Finland,0.3022324891910571,0,1,ro,NEU,Europe
-'432bab655c',extremes,Wildfire,#d60d2b,eonet,wildfire state unite,2026-04-07T04:58:00+00:00,United States,0.3022149193444295,0,1,ro,ENA,North-America
-'6d8d7a16c8',extremes,Storm,#b3b2b1,wmo,furtuna innsbruck stadt,2026-03-25T04:33:00+00:00,Austria,0.3022138789170907,0,1,ro,WCE,Europe
-'416d23061d',extremes,Snow Avalanche,#deddd5,wmo,avalanșă jotunheimen,2026-04-11T04:34:00+00:00,Norway,0.3021907143137457,0,1,ro,NEU,Europe
-'6b6e3b7c81',extremes,Wildfire,#d60d2b,wmo,wildfire orașul xuanwei,2026-04-09T04:58:00+00:00,China,0.3021871091620745,0,1,ro,EAS,Asia
-'cb94a0fa32',extremes,Storm,#b3b2b1,wmo,furtuna coastal dunedin,2026-03-26T04:56:00+00:00,New Zealand,0.30218379082551,0,1,ro,NZ,Oceania
-'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,avalanșă republica Khakassia,2026-04-11T04:34:00+00:00,Russia,0.302157744421933,0,1,ro,ESB,Europe
-'a57654f4ed',extremes,Earthquake,#870007,usgs,cutremur king cove,2026-04-13T05:27:00+00:00,Alaska,0.3021571634737194,0,1,ro,NWN,North-America
-'eb7ae5e849',extremes,Storm,#b3b2b1,wmo,val de furtună sankt pölten land,2026-03-25T04:33:00+00:00,Austria,0.3021508820470262,0,1,ro,WCE,Europe
-'8e7c5ecf78',extremes,Snow&Ice,#d60d2b,wmo,îngheț vöcklabruck,2026-03-25T04:33:00+00:00,Austria,0.3021263567903549,0,1,ro,WCE,Europe
-'814435064a',extremes,Snow&Ice,#d60d2b,wmo,gheata slovenia,2026-03-25T04:33:00+00:00,Slovenia,0.3021258018383981,0,1,ro,WCE,Europe
 '111d00b3ed',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială taupo,2026-03-26T04:56:00+00:00,New Zealand,0.302114665515127,0,1,ro,NZ,Oceania
-'9298e9b0d8',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială în regiunea Nelson City,2026-04-12T05:12:00+00:00,New Zealand,0.3021127362136492,0,1,ro,NZ,Oceania
-'afccf77c89',extremes,Storm,#b3b2b1,wmo,storm litora interandina y amazonia,2026-04-14T05:11:00+00:00,Ecuador,0.3021078708143394,0,1,ro,NWS,South-America
-'420886cb54',extremes,Wildfire,#d60d2b,wmo,incendiu eshan yi autonom county,2026-04-05T05:01:00+00:00,China,0.3021038007825634,0,1,ro,EAS,Asia
 'efde745e9a',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială bay of plenty la vest de whakatane,2026-03-26T04:56:00+00:00,New Zealand,0.302083208101682,0,1,ro,NZ,Oceania
 '93312f4a33',extremes,Storm,#b3b2b1,wmo,val de furtună ungaria,2026-04-17T05:16:00+00:00,Hungary,0.3020765051397529,0,1,ro,WCE,Europe
 'ea0aa28870',extremes,Drought,#edc291,edo,lipsa ploilor finlanda,2026-04-02T04:42:00+00:00,Finland,0.302062796371728,0,1,ro,NEU,Europe
@@ -490,3 +474,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f0a7622c15',extremes,Storm,#b3b2b1,wmo,furtună galapagos,2026-04-19T05:16:00+00:00,Ecuador,0.2569684380758473,1,1,ro,NWS,South-America
 'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,avalanșă sunnmøre,2026-04-10T05:13:00+00:00,Norway,0.256963538434416,1,1,ro,NEU,Europe
 'e72de5f83a',extremes,Landslide,#572c03,wmo,alunecare de teren shangrao city,2026-04-05T05:01:00+00:00,China,0.2569558633447175,1,1,ro,EAS,Asia
+'656a35b67b',extremes,Wildfire,#d60d2b,wmo,wildfire județul menghai,2026-04-04T04:30:00+00:00,China,0.2569369226170784,1,1,ro,EAS,Asia
+'0994b19b20',extremes,Snow&Ice,#d60d2b,wmo,gheață finland,2026-04-24T05:22:00+00:00,Finland,0.25689761581239856,1,1,ro,NEU,Europe
+'432bab655c',extremes,Wildfire,#d60d2b,eonet,wildfire state unite,2026-04-07T04:58:00+00:00,United States,0.2568826814427651,1,1,ro,ENA,North-America
+'416d23061d',extremes,Snow Avalanche,#deddd5,wmo,avalanșă jotunheimen,2026-04-11T04:34:00+00:00,Norway,0.25686210716668384,1,1,ro,NEU,Europe
+'6b6e3b7c81',extremes,Wildfire,#d60d2b,wmo,wildfire orașul xuanwei,2026-04-09T04:58:00+00:00,China,0.2568590427877633,1,1,ro,EAS,Asia
+'cb94a0fa32',extremes,Storm,#b3b2b1,wmo,furtuna coastal dunedin,2026-03-26T04:56:00+00:00,New Zealand,0.25685622220168347,1,1,ro,NZ,Oceania
+'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,avalanșă republica Khakassia,2026-04-11T04:34:00+00:00,Russia,0.25683408275864306,1,1,ro,ESB,Europe
+'a57654f4ed',extremes,Earthquake,#870007,usgs,cutremur king cove,2026-04-13T05:27:00+00:00,Alaska,0.2568335889526615,1,1,ro,NWN,North-America
+'9298e9b0d8',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială în regiunea Nelson City,2026-04-12T05:12:00+00:00,New Zealand,0.2567958257816018,1,1,ro,NZ,Oceania
+'afccf77c89',extremes,Storm,#b3b2b1,wmo,storm litora interandina y amazonia,2026-04-14T05:11:00+00:00,Ecuador,0.25679169019218845,1,1,ro,NWS,South-America
+'420886cb54',extremes,Wildfire,#d60d2b,wmo,incendiu eshan yi autonom county,2026-04-05T05:01:00+00:00,China,0.25678823066517886,1,1,ro,EAS,Asia
