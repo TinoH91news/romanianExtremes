@@ -10,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7fad55db6',extremes,Storm,#b3b2b1,wmo,storm romania,2026-04-07T04:59:00+00:00,Romania,0.4791196092692565,2,1,ro,WCE,Europe
 '9aceadd432',extremes,Heat Wave,#c40202,random,căldură record,2026-03-30T05:11:00+00:00,,0.4728808540414464,1,2,ro,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,ploaie,2026-04-13T05:27:00+00:00,,0.4690273229712681,2,3,ro,,
+'75579b650e',extremes,Drought,#edc291,edo,seceta romania,2026-04-18T04:57:00+00:00,Romania,0.46254917252026434,0,1,ro,WCE,Europe
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.4590046709419947,1,2,ro,,
 '82d648b882',extremes,Drought,#edc291,random,seceta,2026-04-24T05:21:00+00:00,,0.4437972908285005,2,2,ro,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,furtună,2026-04-18T04:56:00+00:00,,0.4383873100095288,1,2,ro,,
@@ -55,19 +56,28 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-04-25T05:00:00+00:00,Moldova,0.3179429873141503,2,1,ro,WCE,Europe
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,rafală de zăpadă,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,ro,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,lapovita,2026-04-10T05:12:00+00:00,,0.3138926612143323,1,1,ro,,
-'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-04-01T05:12:00+00:00,Romania,0.31274254046645433,2,1,ro,WCE,Europe
+'f314bb7747',extremes,Flood,#030ba1,aidr,inundaţii pluviale australia,2026-04-29T05:40:00+00:00,Australia,0.3128902327855637,0,1,ro,EAU,Oceania
+'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-04-01T05:12:00+00:00,Romania,0.3127425404664543,2,1,ro,WCE,Europe
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,aterizare în Australia,2026-04-08T05:01:00+00:00,Australia,0.3123012304399556,1,1,ro,CAU,Oceania
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,vara de frig,2026-03-31T04:59:00+00:00,,0.3111071947519697,2,1,ro,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,lăcustă,2026-04-06T05:11:00+00:00,,0.3102334784491278,1,1,ro,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,ro,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,vara indiană,2026-04-01T05:12:00+00:00,,0.307288202254229,1,1,ro,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,wildfire,2026-04-08T05:00:00+00:00,,0.3070664895742703,1,1,ro,,
+'ac8883b5db',extremes,Drought,#edc291,edo,secetă Belarus,2026-04-18T04:57:00+00:00,Belarus,0.30587902359200764,0,1,ro,WCE,Europe
+'6c11585835',extremes,Drought,#edc291,edo,uscăciune lituania,2026-04-16T05:17:00+00:00,Lithuania,0.30557228695286387,0,1,ro,WCE,Europe
 '55c39b351d',extremes,Storm,#b3b2b1,random,diavol de praf,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,ro,,
 '8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-04-09T04:58:00+00:00,Romania,0.3052105583771501,2,1,ro,WCE,Europe
+'966ea715f3',extremes,Snow&Ice,#d60d2b,wmo,ger rusia,2026-04-28T05:45:00+00:00,Russia,0.30475259665508203,0,1,ro,ESB,Europe
+'8e0946a5f2',extremes,Drought,#edc291,edo,lipsa ploii estonia,2026-04-19T05:16:00+00:00,Estonia,0.30440273027060694,0,1,ro,NEU,Europe
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,avalanșă nord troms,2026-04-10T05:13:00+00:00,Norway,0.3029365863066214,1,1,ro,NEU,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,boluri de praf,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,ro,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,vârtej,2026-04-08T05:00:00+00:00,,0.3026138637841818,1,1,ro,,
+'734861543c',extremes,Storm,#b3b2b1,wmo,val de furtună región amazónica,2026-05-02T05:24:00+00:00,Ecuador,0.3020681855189693,0,1,ro,NWS,South-America
+'3229c2d52c',extremes,Drought,#edc291,edo,secetă finlandă,2026-04-28T05:45:00+00:00,Finland,0.3020545040622569,0,1,ro,NEU,Europe
+'28fd930aec',extremes,Wildfire,#d60d2b,wmo,incendiu de pădure părți din sørlandet și østlandet,2026-04-28T05:45:00+00:00,Norway,0.30196979173371397,0,1,ro,NEU,Europe
 'debdbdb81a',extremes,Flood,#030ba1,wmo,inundare mahoning oh trumbull oh,2026-04-02T04:42:00+00:00,United States,0.3019181240249782,0,1,ro,CNA,North-America
+'87ba69f7f2',extremes,Storm,#b3b2b1,wmo,storm surge maldive,2026-05-02T05:24:00+00:00,Maldives,0.3019175078825829,0,1,ro,EIO,Indian Ocean
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,zăpadă noua zeelandă,2026-04-19T05:16:00+00:00,New Zealand,0.301901162845295,0,1,ro,NZ,Oceania
 'aafce152ff',extremes,Storm,#b3b2b1,wmo,storm litoral y estribación de cordillera,2026-04-14T05:11:00+00:00,Ecuador,0.3018960059907544,0,1,ro,NWS,South-America
 '1e31928c5b',extremes,Storm,#b3b2b1,wmo,valuri de furtună northland,2026-04-11T04:34:00+00:00,New Zealand,0.3018863080576587,0,1,ro,NZ,Oceania
