@@ -40,8 +40,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,vrajă umedă,2026-04-17T05:15:00+00:00,,0.3389256570150449,1,1,ro,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclon bombă,2026-04-23T05:16:00+00:00,,0.3356541328167986,1,1,ro,,
 '75579b650e',extremes,Drought,#edc291,edo,seceta romania,2026-04-18T04:57:00+00:00,Romania,0.3341917771458909,2,1,ro,WCE,Europe
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antarctica,2026-04-03T04:42:00+00:00,,0.3330960748523434,1,1,ro,,
-'560b05d603',extremes,Heat Wave,#c40202,random,val de căldură,2026-05-01T05:54:00+00:00,,0.332063495447246,1,1,ro,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,val de vijelie,2026-04-05T05:00:00+00:00,,0.3298596639303587,1,1,ro,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de frig,2026-04-07T04:58:00+00:00,,0.3283897627937368,1,1,ro,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-04-06T05:11:00+00:00,,0.3260673079225005,1,2,ro,,
@@ -63,7 +61,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c38b19449',extremes,Storm,#b3b2b1,random,boluri de praf,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,ro,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,vârtej,2026-04-08T05:00:00+00:00,,0.3026138637841818,1,1,ro,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,furtuna de nisip,2026-04-24T05:21:00+00:00,,0.3018465118169421,0,1,ro,,
-'34799f2163',extremes,Drought,#edc291,edo,secetă republica congo,2026-04-21T05:15:00+00:00,Republic of the Congo,0.3018236821417163,0,1,ro,CAF,Africa
 '6d73764800',extremes,Earthquake,#870007,usgs,cutremur izvoare de argint,2026-04-14T05:10:00+00:00,United States,0.3018225474035657,0,1,ro,WNA,North-America
 'e873273000',extremes,Storm,#b3b2b1,wmo,storm malawi,2026-04-23T05:16:00+00:00,Malawi,0.3018097596637396,0,1,ro,ESAF,Africa
 '44211c95de',extremes,Flood,#030ba1,wmo,inundarea australiei,2026-04-06T05:11:00+00:00,Australia,0.3018044174163917,0,1,ro,CAU,Oceania
@@ -175,6 +172,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,lăcuste,2026-04-06T05:11:00+00:00,,0.2840120184367288,2,1,ro,,
 '5295642073',extremes,Flood,#030ba1,wmo,inundarea rusiei,2026-03-30T05:12:00+00:00,Russia,0.283885065577144,2,2,ro,ESB,Europe
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-04-21T05:14:00+00:00,,0.2836157536377933,1,1,ro,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antarctica,2026-04-03T04:42:00+00:00,,0.2831316636244919,2,1,ro,,
+'560b05d603',extremes,Heat Wave,#c40202,random,val de căldură,2026-05-01T05:54:00+00:00,,0.2827040161301591,2,1,ro,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,furtună tropicală,2026-04-06T05:11:00+00:00,,0.2814103417760271,1,1,ro,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,fătare pe ghețar,2026-04-19T05:16:00+00:00,,0.2798796621269687,1,1,ro,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,scăderea temperaturii,2026-04-18T04:56:00+00:00,,0.2797119897626461,1,1,ro,,
@@ -501,3 +500,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,furtuna qatar,2026-04-22T05:13:00+00:00,Qatar,0.256593204615164,1,1,ro,ARP,Asia
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,ceață state unite,2026-04-11T04:34:00+00:00,United States,0.2565891241397389,1,1,ro,CNA,North-America
 '4eb2182ddc',extremes,Snow&Ice,#d60d2b,wmo,snow fort hope lansdowne house ogoki,2026-04-09T04:58:00+00:00,Canada,0.2565615537226261,1,1,ro,NEN,North-America
+'34799f2163',extremes,Drought,#edc291,edo,secetă republica congo,2026-04-21T05:15:00+00:00,Republic of the Congo,0.2565501298204588,1,1,ro,CAF,Africa
