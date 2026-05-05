@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b2d779acfd',extremes,Snow&Ice,#d60d2b,wmo,ice romania,2026-04-21T05:15:00+00:00,Romania,0.7179100143757738,0,1,ro,WCE,Europe
 '00aaa81565',extremes,Snow&Ice,#d60d2b,wmo,frost romania,2026-03-30T05:12:00+00:00,Romania,0.6348255884949584,1,1,ro,WCE,Europe
+'b2d779acfd',extremes,Snow&Ice,#d60d2b,wmo,ice romania,2026-04-21T05:15:00+00:00,Romania,0.6103735272194077,1,1,ro,WCE,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-04-22T05:13:00+00:00,Romania,0.5945972535047036,0,1,ro,WCE,Europe
 '2eb242efc8',extremes,Snow&Ice,#d60d2b,wmo,moldova inghetata,2026-04-29T05:40:00+00:00,Moldova,0.5494710598607396,2,1,ro,WCE,Europe
 '43e3252826',extremes,Storm,#b3b2b1,wmo,furtuna moldova,2026-04-08T05:01:00+00:00,Moldova,0.5427778210822455,2,1,ro,WCE,Europe
@@ -32,10 +32,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcan,2026-04-07T04:58:00+00:00,,0.3856298743984598,1,1,ro,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,viscol,2026-04-22T05:13:00+00:00,,0.3855966145700744,1,2,ro,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,vara indiană,2026-05-03T05:43:00+00:00,,0.3833366462645316,0,1,ro,,
-'3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-05-04T05:49:00+00:00,,0.36989845054436415,0,1,ro,,
+'3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-05-04T05:49:00+00:00,,0.3698984505443641,0,1,ro,,
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-04-18T04:57:00+00:00,Moldova,0.3686604941011112,2,1,ro,WCE,Europe
 '985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2026-04-14T05:11:00+00:00,Romania,0.3568925626488825,1,1,ro,WCE,Europe
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antarctica,2026-04-23T05:16:00+00:00,,0.35496393070270066,0,1,ro,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antarctica,2026-04-23T05:16:00+00:00,,0.3549639307027006,0,1,ro,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umiditatea solului,2026-04-13T05:27:00+00:00,,0.3530144091783029,2,2,ro,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,alunecare,2026-04-20T05:26:00+00:00,,0.3525605939959972,1,1,ro,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,ger de noapte,2026-04-30T05:45:00+00:00,,0.3524647995229379,2,1,ro,,
@@ -48,9 +48,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-04-06T05:11:00+00:00,,0.3260673079225005,1,2,ro,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-04-10T05:12:00+00:00,,0.3207248190482783,1,2,ro,,
 '0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,wildfire clay counties florida,2026-05-05T05:29:00+00:00,United States,0.3198870690928678,0,1,ro,WNA,North-America
-'11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,ciclon tropical guam,2026-05-05T05:29:00+00:00,Guam,0.31981907955197686,0,1,ro,NPO,Oceania
-'9cb0438918',extremes,Storm,#b3b2b1,emdat,storm minnesota,2026-05-05T05:29:00+00:00,United States,0.31975809819536355,0,1,ro,WNA,North-America
-'3ea8a9b3b3',extremes,Storm,#b3b2b1,emdat,ciclon tropical nordul insulelor mariana,2026-05-05T05:29:00+00:00,Northern Mariana Islands,0.31974466824993586,0,1,ro,NPO,Pacific Ocean
+'11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,ciclon tropical guam,2026-05-05T05:29:00+00:00,Guam,0.3198190795519768,0,1,ro,NPO,Oceania
+'9cb0438918',extremes,Storm,#b3b2b1,emdat,storm minnesota,2026-05-05T05:29:00+00:00,United States,0.3197580981953635,0,1,ro,WNA,North-America
+'3ea8a9b3b3',extremes,Storm,#b3b2b1,emdat,ciclon tropical nordul insulelor mariana,2026-05-05T05:29:00+00:00,Northern Mariana Islands,0.3197446682499358,0,1,ro,NPO,Pacific Ocean
 '96285201b2',extremes,Storm,#b3b2b1,emdat,furtuna lao cai,2026-05-05T05:29:00+00:00,Vietnam,0.3196522804315967,0,1,ro,SEA,Asia
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-04-25T05:00:00+00:00,Moldova,0.3179429873141503,2,1,ro,WCE,Europe
 '8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-04-09T04:58:00+00:00,Romania,0.3052105583771501,2,1,ro,WCE,Europe
