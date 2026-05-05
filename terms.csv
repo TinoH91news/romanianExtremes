@@ -46,16 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-04-25T05:00:00+00:00,Moldova,0.3179429873141503,2,1,ro,WCE,Europe
 '8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-04-09T04:58:00+00:00,Romania,0.3052105583771501,2,1,ro,WCE,Europe
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-04-12T05:11:00+00:00,,0.3015433299778291,1,2,ro,,
-'e6c551d0ec',extremes,Earthquake,#870007,usgs,cutremur kazahstan,2026-04-03T04:42:00+00:00,Kazakhstan,0.301057971795705,0,1,ro,ECA,Asia
-'73eb93e4ee',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială libia,2026-04-24T05:22:00+00:00,Libya,0.3010577819607697,0,1,ro,SAH,Africa
-'437e94763e',extremes,Landslide,#572c03,wmo,alunecare de noroi orașul fuzhou,2026-04-14T05:11:00+00:00,China,0.30102569691698,0,1,ro,EAS,Asia
-'935b5342fa',extremes,Wildfire,#d60d2b,wmo,wildfire județul luliang,2026-04-10T05:13:00+00:00,China,0.301010876882926,0,1,ro,EAS,Asia
-'86c5eacad8',extremes,Wildfire,#d60d2b,wmo,wildfire tonghai county,2026-04-05T05:01:00+00:00,China,0.3009498830843883,0,1,ro,EAS,Asia
-'0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,wildfire china,2026-04-26T05:25:00+00:00,China,0.3009472103591062,0,1,ro,EAS,Asia
-'24e7169f97',extremes,Storm,#b3b2b1,wmo,furtună trinidad și tobago,2026-04-27T05:40:00+00:00,Trinidad and Tobago,0.3009347752680297,0,1,ro,NSA,North-America
-'d7cc235c9c',extremes,Snow Avalanche,#deddd5,wmo,avalanșă trollheimen,2026-04-13T05:28:00+00:00,Norway,0.3009282087903034,0,1,ro,NEU,Europe
-'1428632393',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclon tropical rota tinian saipan,2026-04-15T05:12:00+00:00,United States,0.3009208332531807,0,1,ro,CNA,North-America
-'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,gheață islanda,2026-04-08T05:01:00+00:00,Iceland,0.3009037983049293,0,1,ro,GIC,Europe
 'ded7aed5fe',extremes,Wildfire,#d60d2b,wmo,wildfire yanshan county,2026-04-07T04:59:00+00:00,China,0.3008917183016418,0,1,ro,EAS,Asia
 'd9231cf4ea',extremes,Landslide,#572c03,wmo,alunecare de teren orașul Ganzhou,2026-04-06T05:11:00+00:00,China,0.30088737241978,0,1,ro,EAS,Asia
 'a4dce3db5b',extremes,Storm,#b3b2b1,wmo,val de furtună islas galápagos.,2026-04-22T05:13:00+00:00,Ecuador,0.3008832733206881,0,1,ro,NWS,South-America
@@ -474,18 +464,28 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '162f54cd91',extremes,Drought,#edc291,wmo,secetă hlavní město praha,2026-05-03T05:44:00+00:00,Czechia,0.2561264859726487,1,1,ro,WCE,Europe
 'd8a54a840e',extremes,Precipitation,#d60d2b,wmo,precipitaţii mikoa ya lindi na mtwara.,2026-04-15T05:12:00+00:00,Tanzania,0.2561098165569854,1,1,ro,SEAF,Africa
 '78c8c60858',extremes,Earthquake,#870007,usgs,cutremur akutan,2026-04-29T05:40:00+00:00,Alaska,0.2560879552442031,1,1,ro,NWN,North-America
-'fa1ad4c940',extremes,Fog,#d60d2b,wmo,ceață flandra de est,2026-04-25T05:00:00+00:00,Belgium,0.25608137357246163,1,1,ro,WCE,Europe
+'fa1ad4c940',extremes,Fog,#d60d2b,wmo,ceață flandra de est,2026-04-25T05:00:00+00:00,Belgium,0.2560813735724616,1,1,ro,WCE,Europe
 '7747997246',extremes,Fog,#d60d2b,wmo,ceata rusia,2026-04-06T05:11:00+00:00,Russia,0.2560811405754665,1,1,ro,ESB,Europe
-'8c5b347857',extremes,Storm,#b3b2b1,wmo,val de furtună peninsula coromandel,2026-04-12T05:12:00+00:00,New Zealand,0.25607174532464444,1,1,ro,NZ,Oceania
+'8c5b347857',extremes,Storm,#b3b2b1,wmo,val de furtună peninsula coromandel,2026-04-12T05:12:00+00:00,New Zealand,0.2560717453246444,1,1,ro,NZ,Oceania
 'ef8f4f660b',extremes,Earthquake,#870007,usgs,cutremur picota,2026-04-05T05:01:00+00:00,Peru,0.2560546874829988,1,1,ro,NWS,South-America
 '0021faf7b8',extremes,Fog,#d60d2b,wmo,ceață danemarca,2026-04-15T05:12:00+00:00,Denmark,0.2560294140888627,1,1,ro,NEU,Europe
 '2b705832db',extremes,Snow Avalanche,#deddd5,wmo,avalanșă republica osetia de nord alania,2026-04-06T05:11:00+00:00,Russia,0.2559871066650336,1,1,ro,ESB,Europe
 '26c75cc7f3',extremes,Storm,#b3b2b1,wmo,storm surge golf de belșug și rotorua,2026-04-11T04:34:00+00:00,New Zealand,0.2559850089927884,1,1,ro,NZ,Oceania
-'90e6558608',extremes,Earthquake,#870007,usgs,cutremur sudul crestei atlantice medii,2026-04-26T05:25:00+00:00,,0.25598087022074606,1,1,ro,SAO,Atlantic Ocean
+'90e6558608',extremes,Earthquake,#870007,usgs,cutremur sudul crestei atlantice medii,2026-04-26T05:25:00+00:00,,0.255980870220746,1,1,ro,SAO,Atlantic Ocean
 '03f33e230d',extremes,Earthquake,#870007,usgs,cutremur chile,2026-04-06T05:11:00+00:00,Chile,0.2559772096247221,1,1,ro,SWS,South-America
-'02f56319a7',extremes,Flood,#030ba1,aidr,inundație australia,2026-04-26T05:26:00+00:00,Australia,0.25596126232756855,1,1,ro,EAU,Oceania
+'02f56319a7',extremes,Flood,#030ba1,aidr,inundație australia,2026-04-26T05:26:00+00:00,Australia,0.2559612623275685,1,1,ro,EAU,Oceania
 '5f78747de8',extremes,Storm,#b3b2b1,wmo,furtuna islas galápagos,2026-05-02T05:24:00+00:00,Ecuador,0.255926619635884,1,1,ro,NWS,South-America
-'3e5f311da7',extremes,Drought,#edc291,edo,vraja uscata sao tome si principe,2026-04-16T05:17:00+00:00,Sao Tome and Principe,0.25592298073086267,1,1,ro,WAF,Africa
+'3e5f311da7',extremes,Drought,#edc291,edo,vraja uscata sao tome si principe,2026-04-16T05:17:00+00:00,Sao Tome and Principe,0.2559229807308626,1,1,ro,WAF,Africa
+'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,gheață islanda,2026-04-08T05:01:00+00:00,Iceland,0.2559182435591899,1,1,ro,GIC,Europe
 'f259fec1b4',extremes,Precipitation,#d60d2b,wmo,precipitaţii galapagos,2026-04-14T05:11:00+00:00,Ecuador,0.2559134725544608,1,1,ro,NWS,South-America
 'fd071fede5',extremes,Landslide,#572c03,wmo,alunecare de stâncă orașul Ganzhou,2026-04-07T04:59:00+00:00,China,0.2559072005411412,1,1,ro,EAS,Asia
 'bdb3ebf6fc',extremes,Fog,#d60d2b,wmo,ceață republică cecenă,2026-05-01T05:54:00+00:00,Russia,0.2559009238066485,1,1,ro,ESB,Europe
+'e6c551d0ec',extremes,Earthquake,#870007,usgs,cutremur kazahstan,2026-04-03T04:42:00+00:00,Kazakhstan,0.2558992760263492,1,1,ro,ECA,Asia
+'73eb93e4ee',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială libia,2026-04-24T05:22:00+00:00,Libya,0.25589911466665427,1,1,ro,SAH,Africa
+'437e94763e',extremes,Landslide,#572c03,wmo,alunecare de noroi orașul fuzhou,2026-04-14T05:11:00+00:00,China,0.255871842379433,1,1,ro,EAS,Asia
+'935b5342fa',extremes,Wildfire,#d60d2b,wmo,wildfire județul luliang,2026-04-10T05:13:00+00:00,China,0.2558592453504871,1,1,ro,EAS,Asia
+'86c5eacad8',extremes,Wildfire,#d60d2b,wmo,wildfire tonghai county,2026-04-05T05:01:00+00:00,China,0.2558074006217301,1,1,ro,EAS,Asia
+'0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,wildfire china,2026-04-26T05:25:00+00:00,China,0.25580512880524026,1,1,ro,EAS,Asia
+'24e7169f97',extremes,Storm,#b3b2b1,wmo,furtună trinidad și tobago,2026-04-27T05:40:00+00:00,Trinidad and Tobago,0.2557945589778252,1,1,ro,NSA,North-America
+'d7cc235c9c',extremes,Snow Avalanche,#deddd5,wmo,avalanșă trollheimen,2026-04-13T05:28:00+00:00,Norway,0.2557889774717579,1,1,ro,NEU,Europe
+'1428632393',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclon tropical rota tinian saipan,2026-04-15T05:12:00+00:00,United States,0.2557827082652036,1,1,ro,CNA,North-America
