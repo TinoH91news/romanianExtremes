@@ -47,7 +47,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-04-10T05:12:00+00:00,,0.3207248190482783,1,2,ro,,
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-04-25T05:00:00+00:00,Moldova,0.3179429873141503,2,1,ro,WCE,Europe
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,vrajă caldă New South Wales,2026-05-06T05:43:00+00:00,Australia,0.3134956031876589,0,1,ro,EAU,Oceania
+'ec51ecb5d3',extremes,Flood,#030ba1,acwe,inundație fulgerătoare tasmania,2026-05-05T05:29:00+00:00,Australia,0.3123754045642738,0,1,ro,SAU,Oceania
+'acd0e1409b',extremes,Flood,#030ba1,acwe,inundații din Noua Galie de Sud,2026-05-05T05:29:00+00:00,Australia,0.3117812345544722,0,1,ro,EAU,Oceania
+'f6774fb5b2',extremes,Drought,#edc291,acwe,lipsa ploii victoria,2026-05-04T05:50:00+00:00,Australia,0.3114947567363839,0,1,ro,SAU,Oceania
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,poftă de frig,2026-04-27T05:39:00+00:00,,0.3101931620480774,1,1,ro,,
+'3d4880a15e',extremes,Heat Wave,#c40202,acwe,vrajă caldă sudul australiei,2026-05-05T05:29:00+00:00,Australia,0.30772543338065994,0,1,ro,SAU,Oceania
+'1d029532ac',extremes,Snow&Ice,#d60d2b,wmo,îngheț africa de sud,2026-05-06T05:43:00+00:00,South Africa,0.3075165279877251,0,1,ro,WSAF,Africa
+'afc393e166',extremes,Precipitation,#d60d2b,wmo,precipitaţii Africa de Sud,2026-05-05T05:29:00+00:00,South Africa,0.307369396234993,0,1,ro,WSAF,Africa
+'969dbf1866',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială Africa de Sud,2026-04-19T05:16:00+00:00,South Africa,0.30734797716716683,0,1,ro,WSAF,Africa
+'2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială región amazónica,2026-05-04T05:50:00+00:00,Ecuador,0.3070372550129375,0,1,ro,NWS,South-America
+'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială westland district,2026-05-06T05:43:00+00:00,New Zealand,0.3069326393575389,0,1,ro,NZ,Oceania
+'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,ploaie fiordland la nord de sunet îndoielnic,2026-05-05T05:29:00+00:00,New Zealand,0.30678478795069103,0,1,ro,NZ,Oceania
 '8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-04-09T04:58:00+00:00,Romania,0.3052105583771501,2,1,ro,WCE,Europe
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-04-12T05:11:00+00:00,,0.3015433299778291,1,2,ro,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,inundare a râului,2026-04-20T05:26:00+00:00,,0.2987585760089489,1,1,ro,,
@@ -96,7 +106,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,iarnă blândă vestul australiei,2026-05-04T05:50:00+00:00,Australia,0.2711431259064057,1,1,ro,CAU,Oceania
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-04-17T05:15:00+00:00,,0.2710239630548016,1,1,ro,,
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,umed western australia,2026-05-04T05:50:00+00:00,Australia,0.2702883774495468,1,1,ro,CAU,Oceania
-'ffcf460c48',extremes,Heat Wave,#c40202,acwe,caniculă queensland,2026-05-04T05:50:00+00:00,Australia,0.27027640558475324,1,1,ro,CAU,Oceania
+'ffcf460c48',extremes,Heat Wave,#c40202,acwe,caniculă queensland,2026-05-04T05:50:00+00:00,Australia,0.2702764055847532,1,1,ro,CAU,Oceania
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incendiu de vegetație,2026-04-18T04:56:00+00:00,,0.2695208262678216,1,1,ro,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,ziua cea mai rece,2026-04-07T04:58:00+00:00,,0.2695032843890324,1,1,ro,,
 '129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclon tropical indusa,2026-04-03T04:42:00+00:00,,0.2693132651609476,1,1,ro,SIO,Indian Ocean
