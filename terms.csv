@@ -45,7 +45,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-04-09T04:58:00+00:00,Romania,0.3052105583771501,2,1,ro,WCE,Europe
 '985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2026-04-14T05:11:00+00:00,Romania,0.3033586782515501,2,1,ro,WCE,Europe
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-04-12T05:11:00+00:00,,0.3015433299778291,1,2,ro,,
-'4dc8bdbf14',extremes,Flood,#030ba1,random,inundare a râului,2026-04-20T05:26:00+00:00,,0.2987585760089489,1,1,ro,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-04-13T05:27:00+00:00,,0.2964265185828118,2,1,ro,,
 'f90601fa23',extremes,Volcano,#b83202,random,erupție vulcanică,2026-04-27T05:39:00+00:00,,0.2962304529413387,2,1,ro,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,fătare iceberg,2026-04-27T05:39:00+00:00,,0.2888892493390608,2,1,ro,,
@@ -54,7 +53,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,cea mai scăzută temperatură minimă,2026-04-23T05:16:00+00:00,,0.2877892158629357,2,1,ro,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,precipitaţii record,2026-04-25T05:00:00+00:00,,0.2859029573791943,2,1,ro,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclon bombă,2026-04-23T05:16:00+00:00,,0.2853060128942788,2,1,ro,,
-'560b05d603',extremes,Heat Wave,#c40202,random,val de căldură,2026-05-01T05:54:00+00:00,,0.2827040161301591,2,1,ro,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,taifun,2026-05-03T05:43:00+00:00,,0.2802592662472344,2,1,ro,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gheață de mare arctică,2026-04-15T05:11:00+00:00,,0.2793992544128184,1,1,ro,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,vara indiană,2026-05-03T05:43:00+00:00,,0.2769607269261241,2,1,ro,,
@@ -424,6 +422,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,furtuna bahrain,2026-04-23T05:16:00+00:00,Bahrain,0.255390315114509,1,1,ro,ARP,Asia
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,gheață noua zeelandă,2026-04-15T05:12:00+00:00,New Zealand,0.2553897091113326,1,1,ro,NZ,Oceania
 'ac2978cea5',extremes,Thunderstorm,#53785a,wmo,vreme severă umsobomvu noupoort,2026-04-26T05:25:00+00:00,South Africa,0.2553594489344639,1,1,ro,WSAF,Africa
+'4dc8bdbf14',extremes,Flood,#030ba1,random,inundare a râului,2026-04-20T05:26:00+00:00,,0.2539447896076066,2,1,ro,,
 'ccefefc59e',extremes,Drought,#edc291,random,secetă fulgerătoare,2026-04-12T05:11:00+00:00,,0.2502632210652086,2,1,ro,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,slip de gheață,2026-05-07T05:46:00+00:00,,0.2485120800032418,2,1,ro,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,nămol de zăpadă,2026-05-06T05:43:00+00:00,,0.2477086616604324,2,1,ro,,
@@ -432,6 +431,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c948617fef',extremes,Heat Wave,#c40202,random,expunere la căldură extremă,2026-04-12T05:11:00+00:00,,0.245902378343758,2,1,ro,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,furtună tropicală,2026-04-26T05:25:00+00:00,,0.2431232829927478,2,1,ro,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-04-21T05:14:00+00:00,,0.2410733905921243,2,1,ro,,
+'560b05d603',extremes,Heat Wave,#c40202,random,val de căldură,2026-05-01T05:54:00+00:00,,0.24074845871063524,3,1,ro,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,fătare pe ghețar,2026-04-19T05:16:00+00:00,,0.2378977128079233,2,1,ro,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,scăderea temperaturii,2026-04-18T04:56:00+00:00,,0.2377551912982491,2,1,ro,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,lăcuste,2026-04-27T05:39:00+00:00,,0.2358663366127311,2,1,ro,,
@@ -441,19 +441,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,uragan,2026-04-11T04:34:00+00:00,,0.2317088927636012,2,1,ro,,
 '2595e5c49a',extremes,Flood,#030ba1,acwe,nivel ridicat al apei australia,2026-05-04T05:50:00+00:00,Australia,0.2313536550803572,2,1,ro,CAU,Oceania
 '9cb0438918',extremes,Storm,#b3b2b1,emdat,storm minnesota,2026-05-05T05:29:00+00:00,United States,0.23130275369615,2,1,ro,WNA,North-America
-'0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,wildfire clay counties florida,2026-05-05T05:29:00+00:00,United States,0.23111840741959697,2,1,ro,WNA,North-America
-'11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,ciclon tropical guam,2026-05-05T05:29:00+00:00,Guam,0.23106928497630316,2,1,ro,NPO,Oceania
+'0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,wildfire clay counties florida,2026-05-05T05:29:00+00:00,United States,0.2311184074195969,2,1,ro,WNA,North-America
+'11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,ciclon tropical guam,2026-05-05T05:29:00+00:00,Guam,0.2310692849763031,2,1,ro,NPO,Oceania
 '96285201b2',extremes,Storm,#b3b2b1,emdat,furtuna lao cai,2026-05-05T05:29:00+00:00,Vietnam,0.2309487726118286,2,1,ro,SEA,Asia
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,necunoscut orlando,2026-04-17T05:16:00+00:00,United States,0.2308382764367884,2,1,ro,ENA,North-America
-'8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitaţii tasmania,2026-05-04T05:50:00+00:00,Australia,0.23079836303919754,2,1,ro,SAU,Oceania
+'8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitaţii tasmania,2026-05-04T05:50:00+00:00,Australia,0.2307983630391975,2,1,ro,SAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,caniculă din sudul australiei,2026-05-04T05:50:00+00:00,Australia,0.2307977940982496,2,1,ro,CAU,Oceania
-'9d59b1d751',extremes,Flood,#030ba1,acwe,inundație fulgerătoare australia de sud,2026-05-04T05:50:00+00:00,Australia,0.23078629445900162,2,1,ro,CAU,Oceania
-'a0fea22150',extremes,Heat Wave,#c40202,acwe,caniculă New South Wales,2026-05-04T05:50:00+00:00,Australia,0.23078272011451645,2,1,ro,EAU,Oceania
-'83b05b31d0',extremes,Precipitation,#d60d2b,acwe,vară umedă New South Wales,2026-05-04T05:50:00+00:00,Australia,0.23078061511084355,2,1,ro,EAU,Oceania
-'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,vrajă caldă Australia,2026-05-04T05:50:00+00:00,Australia,0.23066474546149496,2,1,ro,CAU,Oceania
-'248cc444aa',extremes,Heat Wave,#c40202,acwe,iarnă blândă vestul australiei,2026-05-04T05:50:00+00:00,Australia,0.23047165702044484,2,1,ro,CAU,Oceania
-'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-04-17T05:15:00+00:00,,0.23037036859658133,2,1,ro,,
-'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicală hagupit,2026-05-07T05:46:00+00:00,,0.22996424548699135,2,1,ro,EPO,Pacific Ocean
+'9d59b1d751',extremes,Flood,#030ba1,acwe,inundație fulgerătoare australia de sud,2026-05-04T05:50:00+00:00,Australia,0.2307862944590016,2,1,ro,CAU,Oceania
+'a0fea22150',extremes,Heat Wave,#c40202,acwe,caniculă New South Wales,2026-05-04T05:50:00+00:00,Australia,0.2307827201145164,2,1,ro,EAU,Oceania
+'83b05b31d0',extremes,Precipitation,#d60d2b,acwe,vară umedă New South Wales,2026-05-04T05:50:00+00:00,Australia,0.2307806151108435,2,1,ro,EAU,Oceania
+'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,vrajă caldă Australia,2026-05-04T05:50:00+00:00,Australia,0.2306647454614949,2,1,ro,CAU,Oceania
+'248cc444aa',extremes,Heat Wave,#c40202,acwe,iarnă blândă vestul australiei,2026-05-04T05:50:00+00:00,Australia,0.2304716570204448,2,1,ro,CAU,Oceania
+'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-04-17T05:15:00+00:00,,0.2303703685965813,2,1,ro,,
+'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicală hagupit,2026-05-07T05:46:00+00:00,,0.2299642454869913,2,1,ro,EPO,Pacific Ocean
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,umed western australia,2026-05-04T05:50:00+00:00,Australia,0.2297451208321148,2,1,ro,CAU,Oceania
 '3fa143a609',extremes,Storm,#b3b2b1,random,viscol de praf,2026-04-19T05:16:00+00:00,,0.2272010387013583,2,1,ro,,
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,umed tasmania,2026-04-29T05:41:00+00:00,Australia,0.2267443689743122,2,1,ro,SAU,Oceania
