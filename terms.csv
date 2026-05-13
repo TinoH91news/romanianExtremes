@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'c2b3b4722a',extremes,Storm,#b3b2b1,wmo,storm surge romania,2026-05-12T05:52:00+00:00,Romania,0.7235854362532582,0,1,ro,WCE,Europe
+'8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-04-30T05:46:00+00:00,Romania,0.5671983840469976,0,1,ro,WCE,Europe
 'bddeae448c',extremes,Snow&Ice,#d60d2b,wmo,inghet moldova,2026-04-30T05:46:00+00:00,Moldova,0.5374951617411108,2,1,ro,WCE,Europe
 '223aafcb65',extremes,Precipitation,#d60d2b,wmo,precipitaţii moldova,2026-05-10T05:51:00+00:00,Moldova,0.5357575435924812,2,1,ro,WCE,Europe
 'b2d779acfd',extremes,Snow&Ice,#d60d2b,wmo,ice romania,2026-04-21T05:15:00+00:00,Romania,0.5189675131364966,2,1,ro,WCE,Europe
@@ -40,7 +42,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-04-06T05:11:00+00:00,,0.3260673079225005,1,2,ro,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-04-10T05:12:00+00:00,,0.3207248190482783,1,2,ro,,
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-04-25T05:00:00+00:00,Moldova,0.3179429873141503,2,1,ro,WCE,Europe
+'ec9681f6d8',extremes,Flood,#030ba1,aidr,inundație tasmania iunie iulie 2016,2026-05-12T05:53:00+00:00,Australia,0.3149581712228077,0,1,ro,SAU,Oceania
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,inundarea râului australia,2026-05-01T05:55:00+00:00,Australia,0.3143482050589688,0,1,ro,SAU,Oceania
 '52af874334',extremes,Drought,#edc291,random,ariditate,2026-05-07T05:46:00+00:00,,0.3124837413943351,2,2,ro,,
+'3894a694d1',extremes,Flood,#030ba1,aidr,inundație rapidă australia,2026-05-08T05:16:00+00:00,Australia,0.31067450828115784,0,1,ro,SAU,Oceania
 '985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2026-04-14T05:11:00+00:00,Romania,0.3033586782515501,2,1,ro,WCE,Europe
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-04-12T05:11:00+00:00,,0.3015433299778291,1,2,ro,,
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,necunoscut state unite,2026-04-19T05:17:00+00:00,United States,0.2991299053225867,3,1,ro,ENA,North-America
