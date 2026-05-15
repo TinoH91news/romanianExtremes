@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'223aafcb65',extremes,Precipitation,#d60d2b,wmo,precipitaţii moldova,2026-05-10T05:51:00+00:00,Moldova,0.5357575435924812,2,1,ro,WCE,Europe
 'c2b3b4722a',extremes,Storm,#b3b2b1,wmo,storm surge romania,2026-05-12T05:52:00+00:00,Romania,0.522790477692979,2,1,ro,WCE,Europe
 'b2d779acfd',extremes,Snow&Ice,#d60d2b,wmo,ice romania,2026-04-21T05:15:00+00:00,Romania,0.5189675131364966,2,1,ro,WCE,Europe
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-04-30T05:46:00+00:00,Moldova,0.4838539932873018,1,1,ro,WCE,Europe
@@ -7,7 +6,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grindină,2026-04-10T05:12:00+00:00,,0.4722794706442921,2,3,ro,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,ploaie,2026-04-13T05:27:00+00:00,,0.4690273229712681,2,3,ro,,
 '2eb242efc8',extremes,Snow&Ice,#d60d2b,wmo,moldova inghetata,2026-04-29T05:40:00+00:00,Moldova,0.4670504008816287,3,1,ro,WCE,Europe
-'bddeae448c',extremes,Snow&Ice,#d60d2b,wmo,inghet moldova,2026-04-30T05:46:00+00:00,Moldova,0.45687088747994414,3,1,ro,WCE,Europe
+'bddeae448c',extremes,Snow&Ice,#d60d2b,wmo,inghet moldova,2026-04-30T05:46:00+00:00,Moldova,0.4568708874799441,3,1,ro,WCE,Europe
+'223aafcb65',extremes,Precipitation,#d60d2b,wmo,precipitaţii moldova,2026-05-10T05:51:00+00:00,Moldova,0.455843957053609,3,1,ro,WCE,Europe
 'd12ee785d5',extremes,Precipitation,#d60d2b,wmo,ploaie prahova,2026-05-09T05:36:00+00:00,Romania,0.4440608181576361,3,1,ro,WCE,Europe
 '82d648b882',extremes,Drought,#edc291,random,seceta,2026-04-24T05:21:00+00:00,,0.4437972908285005,2,2,ro,,
 '41210bc398',extremes,Thunderstorm,#53785a,wmo,grindină romania,2026-05-12T05:52:00+00:00,Romania,0.4388432194826239,2,1,ro,WCE,Europe
@@ -286,7 +286,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c01ade432',extremes,Precipitation,#d60d2b,wmo,precipitatii republica moldova,2026-05-09T05:36:00+00:00,Republic of Moldova,0.2225528937003931,2,1,ro,WCE,Europe
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,precipitaţii región amazónica,2026-05-06T05:43:00+00:00,Ecuador,0.2224985930174876,2,1,ro,NWS,South-America
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,vrajă caldă sudul australiei,2026-05-05T05:29:00+00:00,Australia,0.2223316256175267,2,1,ro,SAU,Oceania
-'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitatii brazil,2026-05-02T05:24:00+00:00,Brazil,0.22223911923090636,2,1,ro,SAM,South-America
+'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitatii brazil,2026-05-02T05:24:00+00:00,Brazil,0.2222391192309063,2,1,ro,SAM,South-America
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială argentina,2026-04-28T05:45:00+00:00,Argentina,0.2222366008279059,2,1,ro,SES,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială brazilia,2026-05-03T05:44:00+00:00,Brazil,0.2222022478130724,2,1,ro,SAM,South-America
 '1d029532ac',extremes,Snow&Ice,#d60d2b,wmo,îngheț africa de sud,2026-05-06T05:43:00+00:00,South Africa,0.2221806914711313,2,1,ro,WSAF,Africa
@@ -296,7 +296,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '969dbf1866',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială Africa de Sud,2026-04-19T05:16:00+00:00,South Africa,0.2220589135032779,2,1,ro,WSAF,Africa
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,ploaie Africa de Sud,2026-05-06T05:43:00+00:00,South Africa,0.2220176119803146,2,1,ro,WSAF,Africa
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,ploaie argentina,2026-04-28T05:45:00+00:00,Argentina,0.2219921777223808,2,1,ro,SES,South-America
-'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,precipitatii arabia saudita,2026-04-28T05:45:00+00:00,Saudi Arabia,0.22199090657348308,2,1,ro,ARP,Asia
+'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,precipitatii arabia saudita,2026-04-28T05:45:00+00:00,Saudi Arabia,0.221990906573483,2,1,ro,ARP,Asia
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială Noua Zeelandă,2026-05-06T05:43:00+00:00,New Zealand,0.221989317890763,2,1,ro,NZ,Oceania
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,ice brazil,2026-04-28T05:45:00+00:00,Brazil,0.2219727334803919,2,1,ro,SAM,South-America
 'dea87e6ccd',extremes,Drought,#edc291,edo,secetă letonia,2026-04-22T05:13:00+00:00,Latvia,0.2219691620781138,2,1,ro,WCE,Europe
