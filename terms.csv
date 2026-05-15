@@ -32,7 +32,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umiditatea solului,2026-04-13T05:27:00+00:00,,0.3530144091783029,2,2,ro,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,ger de noapte,2026-04-30T05:45:00+00:00,,0.3524647995229379,2,1,ro,,
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,furtună africa de sud,2026-04-16T05:17:00+00:00,South Africa,0.3486311853996134,2,1,ro,WSAF,Africa
-'056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-05-03T05:43:00+00:00,,0.33722014150233615,0,1,ro,,
 '75579b650e',extremes,Drought,#edc291,edo,seceta romania,2026-04-18T04:57:00+00:00,Romania,0.3341917771458909,2,1,ro,WCE,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,ziua cea mai rece,2026-04-07T04:58:00+00:00,,0.3313280167306775,2,2,ro,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-04-06T05:11:00+00:00,,0.3260673079225005,1,2,ro,,
@@ -40,7 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,uragan,2026-05-01T05:54:00+00:00,,0.313005682613664,1,1,ro,,
 '52af874334',extremes,Drought,#edc291,random,ariditate,2026-05-07T05:46:00+00:00,,0.3124837413943351,2,2,ro,,
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ice argentina,2026-05-04T05:50:00+00:00,Argentina,0.3073318075650983,0,1,ro,SES,South-America
-'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,îngheț argentina,2026-05-01T05:54:00+00:00,Argentina,0.30658249583710684,0,1,ro,SES,South-America
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,îngheț argentina,2026-05-01T05:54:00+00:00,Argentina,0.3065824958371068,0,1,ro,SES,South-America
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,ploaie tanzania,2026-05-02T05:24:00+00:00,Tanzania,0.3064425761901006,0,1,ro,SEAF,Africa
 '985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2026-04-14T05:11:00+00:00,Romania,0.3033586782515501,2,1,ro,WCE,Europe
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-04-12T05:11:00+00:00,,0.3015433299778291,1,2,ro,,
@@ -50,6 +49,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frontul meteo,2026-05-13T06:02:00+00:00,,0.2884247987902945,2,1,ro,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,vrajă umedă,2026-04-17T05:15:00+00:00,,0.2880868084627881,2,1,ro,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,cea mai scăzută temperatură minimă,2026-04-23T05:16:00+00:00,,0.2877892158629357,2,1,ro,,
+'056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-05-03T05:43:00+00:00,,0.2876872252769857,1,1,ro,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,precipitaţii record,2026-04-25T05:00:00+00:00,,0.2859029573791943,2,1,ro,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,iarnă blândă,2026-05-12T05:52:00+00:00,,0.2845598852159955,2,1,ro,,
 '54927bfe65',extremes,Flood,#030ba1,random,inundaţii litorale,2026-05-13T06:02:00+00:00,,0.2804898361944962,2,1,ro,,
