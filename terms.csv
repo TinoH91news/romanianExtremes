@@ -38,9 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-04-25T05:00:00+00:00,Moldova,0.3179429873141503,2,1,ro,WCE,Europe
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,uragan,2026-05-01T05:54:00+00:00,,0.313005682613664,1,1,ro,,
 '52af874334',extremes,Drought,#edc291,random,ariditate,2026-05-07T05:46:00+00:00,,0.3124837413943351,2,2,ro,,
-'7978d58b02',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-05-01T05:54:00+00:00,Brazil,0.30821767204035894,0,1,ro,SAM,South-America
-'c229b0919c',extremes,Precipitation,#d60d2b,wmo,ploaie arabia saudită,2026-04-28T05:45:00+00:00,Saudi Arabia,0.30723087206384236,0,1,ro,ARP,Asia
-'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina înghețată,2026-05-01T05:54:00+00:00,Argentina,0.30717599171739257,0,1,ro,SES,South-America
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina înghețată,2026-05-01T05:54:00+00:00,Argentina,0.3071759917173925,0,1,ro,SES,South-America
 '985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2026-04-14T05:11:00+00:00,Romania,0.3033586782515501,2,1,ro,WCE,Europe
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-04-12T05:11:00+00:00,,0.3015433299778291,1,2,ro,,
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,necunoscut state unite,2026-04-19T05:17:00+00:00,United States,0.2991299053225867,3,1,ro,ENA,North-America
@@ -60,8 +58,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-05-04T05:49:00+00:00,,0.2672516305183031,2,1,ro,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,poftă de frig,2026-04-27T05:39:00+00:00,,0.2636641877408658,2,1,ro,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-04-16T05:16:00+00:00,,0.2629622216476779,2,1,ro,,
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-05-01T05:54:00+00:00,Brazil,0.26213503623430506,1,1,ro,SAM,South-America
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială tanzania,2026-05-01T05:54:00+00:00,Tanzania,0.2613635101947453,1,1,ro,SEAF,Africa
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ice argentina,2026-05-04T05:50:00+00:00,Argentina,0.2612320364303335,1,1,ro,SES,South-America
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,ploaie arabia saudită,2026-04-28T05:45:00+00:00,Saudi Arabia,0.26114624125426594,1,1,ro,ARP,Asia
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,îngheț argentina,2026-05-01T05:54:00+00:00,Argentina,0.2605951214615407,1,1,ro,SES,South-America
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,ploaie tanzania,2026-05-02T05:24:00+00:00,Tanzania,0.2604761897615855,1,1,ro,SEAF,Africa
 'f486a08b0d',extremes,Precipitation,#d60d2b,wmo,precipitaţii algeria,2026-04-29T05:40:00+00:00,Algeria,0.2602401089673866,1,1,ro,SAH,Africa
