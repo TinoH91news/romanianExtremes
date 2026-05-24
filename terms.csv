@@ -36,13 +36,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d446959e2',extremes,Drought,#edc291,edo,seceta estonia,2026-05-04T05:50:00+00:00,Estonia,0.3115664557581487,0,1,ro,NEU,Europe
 '6c11585835',extremes,Drought,#edc291,edo,uscăciune lituania,2026-05-07T05:46:00+00:00,Lithuania,0.3109379928994547,0,1,ro,WCE,Europe
 '96f0408faf',extremes,Drought,#edc291,edo,uscăciune letonia,2026-05-04T05:50:00+00:00,Latvia,0.3108189738357254,0,1,ro,WCE,Europe
+'f89b96cf78',extremes,Drought,#edc291,edo,uscăciune cehia,2026-05-06T05:43:00+00:00,Czechia,0.3082675137688788,0,1,ro,WCE,Europe
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-05-22T06:32:00+00:00,Brazil,0.3074060371871512,0,1,ro,SAM,South-America
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială ecuador,2026-05-23T05:53:00+00:00,Ecuador,0.30740102528815866,0,1,ro,NWS,South-America
+'e4d5bf1603',extremes,Drought,#edc291,edo,secetă ungaria,2026-05-06T05:43:00+00:00,Hungary,0.30545119327208337,0,1,ro,WCE,Europe
 '595acbcf9f',extremes,Heat Wave,#c40202,random,cea mai tare zi,2026-05-17T06:01:00+00:00,,0.2990525565730725,1,2,ro,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gheață de mare arctică,2026-05-06T05:43:00+00:00,,0.2895090567343825,2,1,ro,,
 '40f675561f',extremes,Heat Wave,#c40202,random,vara cea mai fierbinte,2026-05-22T06:31:00+00:00,,0.2887894781265173,2,1,ro,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,furtună cu grindină,2026-05-07T05:46:00+00:00,,0.2887221435045737,2,1,ro,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,picături de mercur,2026-04-30T05:45:00+00:00,,0.2885601953829425,2,1,ro,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frontul meteo,2026-05-13T06:02:00+00:00,,0.2884247987902945,2,1,ro,,
-'0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-05-20T06:32:00+00:00,,0.28790870242492067,2,1,ro,,
+'0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-05-20T06:32:00+00:00,,0.2879087024249206,2,1,ro,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,cea mai scăzută temperatură minimă,2026-04-23T05:16:00+00:00,,0.2877892158629357,2,1,ro,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-05-18T06:38:00+00:00,,0.2864258625600424,1,2,ro,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,precipitaţii record,2026-04-25T05:00:00+00:00,,0.2859029573791943,2,1,ro,,
@@ -55,7 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-05-04T05:49:00+00:00,,0.2672516305183031,2,1,ro,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,dom de căldură,2026-05-16T05:40:00+00:00,,0.2666582215906389,2,1,ro,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,uragan,2026-05-01T05:54:00+00:00,,0.2665048752216144,2,1,ro,,
-'6c34512524',extremes,Drought,#edc291,edo,lipsa ploii sri lanka,2026-05-16T05:40:00+00:00,Sri Lanka,0.26489278746035433,1,1,ro,BOB,Asia
+'6c34512524',extremes,Drought,#edc291,edo,lipsa ploii sri lanka,2026-05-16T05:40:00+00:00,Sri Lanka,0.2648927874603543,1,1,ro,BOB,Asia
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,poftă de frig,2026-04-27T05:39:00+00:00,,0.2636641877408658,2,1,ro,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ploaie puternică,2026-05-05T05:28:00+00:00,,0.2628807771458666,2,1,ro,,
 'f486a08b0d',extremes,Precipitation,#d60d2b,wmo,precipitaţii algeria,2026-04-29T05:40:00+00:00,Algeria,0.2602401089673866,1,1,ro,SAH,Africa
