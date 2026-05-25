@@ -1,6 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Bogdan Ivan,Bogdan Ivan,PERSON,0.03461538461538461,0.4312210012210012,en,6.5
 Donald Trump,Donald Trump,PERSON,0.09310459505772006,0.7170409451659452,en,4.8
+Elena Mateescu,Elena Mateescu,PERSON,0.10180180180180182,0.5761261261261261,en,3.6999999999999997
 Ilie Bolojan,Ilie Bolojan,PERSON,0.0878136200716846,0.1756272401433692,en,3.1
 Bâlea Lac,Bâlea Lac,PERSON,0.30867346938775514,0.7959183673469389,en,2.8
 Storm Kristin,Storm Kristin,PERSON,-0.053571428571428575,0.11607142857142859,en,2.8
@@ -10,88 +11,92 @@ Storm Goretti,Storm Goretti,PERSON,0.32936507936507936,0.5114087301587302,en,2.4
 Vladimir Putin,Vladimir Putin,PERSON,0.224931129476584,1.0487603305785123,en,2.2
 Valea Jiului,Valea Jiului,PERSON,0.575,0.8,en,2.0
 Corvinul Hunedoara,Corvinul Hunedoara,PERSON,0.07894736842105263,0.22807017543859648,en,1.9000000000000001
-Elena Mateescu,Elena Mateescu,PERSON,0.16666666666666669,0.8114035087719298,en,1.9
-Călin Georgescu,Călin Georgescu,PERSON,0.0,0.026315789473684213,en,1.9
+Nicolae Ceaușescu,Nicolae Ceaușescu,PERSON,0.13157894736842105,0.17543859649122806,en,1.9
 Jair Bolsonaro,Jair Bolsonaro,PERSON,-0.030701754385964907,0.4210526315789474,en,1.9
 Viktor Orbán,Viktor Orbán,PERSON,0.0,0.052631578947368425,en,1.9
 Vârful Omu,Vârful Omu,PERSON,0.5131578947368421,0.9342105263157895,en,1.9
+Nicușor Dan,Nicușor Dan,PERSON,0.055622009569377996,0.27093301435406697,en,1.9
+wind intensifications,wind intensifications,PERSON,0.10645933014354067,0.5478468899521531,en,1.9
 Raed Arafat,Raed Arafat,PERSON,0.2631578947368421,0.2631578947368421,en,1.9
 Storm Therese,Storm Therese,PERSON,0.11403508771929824,0.19298245614035087,en,1.9
-Nicușor Dan,Nicușor Dan,PERSON,0.055622009569377996,0.27093301435406697,en,1.9
-Nicolae Ceaușescu,Nicolae Ceaușescu,PERSON,0.13157894736842105,0.17543859649122806,en,1.9
-wind intensifications,wind intensifications,PERSON,0.10645933014354067,0.5478468899521531,en,1.9
+Călin Georgescu,Călin Georgescu,PERSON,0.0,0.026315789473684213,en,1.9
 Oana Pellea,Oana Pellea,PERSON,0.0,0.0,en,1.7
 Ion Duvac,Ion Duvac,PERSON,0.16176470588235295,0.338235294117647,en,1.7
 Oana Gheorghiu,Oana Gheorghiu,PERSON,1.09375,0.9375000000000002,en,1.5999999999999999
 Xi Jinping,Xi Jinping,PERSON,0.21536796536796535,0.7837662337662337,en,1.4000000000000001
-Ovidiu Iuliu,Ovidiu Iuliu,PERSON,0.6538461538461539,0.6634615384615384,en,1.3
 Mircea Lucescu,Mircea Lucescu,PERSON,-0.07692307692307693,0.07692307692307693,en,1.3
+Florinela Georgescu,Florinela Georgescu,PERSON,0.0,0.09615384615384615,en,1.3
+Iris Răducanu,Iris Răducanu,PERSON,-0.14335664335664336,0.7051282051282051,en,1.3
+Roxana Mînzatu,Roxana Mînzatu,PERSON,0.0,0.0,en,1.3
+Mugur Isărescu,Mugur Isărescu,PERSON,0.11538461538461539,0.5576923076923077,en,1.3
+Ionuț Iancu,Ionuț Iancu,PERSON,0.11538461538461538,0.23076923076923075,en,1.3
+Octavian Ursulescu,Octavian Ursulescu,PERSON,0.5384615384615384,0.6538461538461539,en,1.3
+Mihail Kogălniceanu,Mihail Kogălniceanu,PERSON,-0.125,0.3846153846153846,en,1.3
 Eugen Rădulescu,Eugen Rădulescu,PERSON,0.01666666666666666,0.39615384615384613,en,1.3
 Ursula von der Leyen,Ursula von der Leyen,PERSON,-0.04807692307692307,0.04807692307692307,en,1.3
-Iris Răducanu,Iris Răducanu,PERSON,-0.14335664335664336,0.7051282051282051,en,1.3
+Viktor Orban,Viktor Orban,PERSON,0.0,0.08653846153846154,en,1.3
+Ovidiu Iuliu,Ovidiu Iuliu,PERSON,0.6538461538461539,0.6634615384615384,en,1.3
+Maria Coman,Maria Coman,PERSON,0.23878205128205132,0.4262820512820512,en,1.3
+El Nino,El Nino,PERSON,0.1785693473193473,0.5158508158508158,en,1.3
 Jesus Christ,Jesus Christ,PERSON,0.09871794871794871,0.7410256410256411,en,1.3
-Octavian Ursulescu,Octavian Ursulescu,PERSON,0.5384615384615384,0.6538461538461539,en,1.3
 Vladimir Plahotniuc,Vladimir Plahotniuc,PERSON,0.5528846153846154,1.2067307692307692,en,1.3
 Igor Dodon,Igor Dodon,PERSON,0.5528846153846154,1.2067307692307692,en,1.3
-Viktor Orban,Viktor Orban,PERSON,0.0,0.08653846153846154,en,1.3
-Mugur Isărescu,Mugur Isărescu,PERSON,0.11538461538461539,0.5576923076923077,en,1.3
-Florinela Georgescu,Florinela Georgescu,PERSON,0.0,0.09615384615384615,en,1.3
-Mihail Kogălniceanu,Mihail Kogălniceanu,PERSON,-0.125,0.3846153846153846,en,1.3
-Maria Coman,Maria Coman,PERSON,0.23878205128205132,0.4262820512820512,en,1.3
-Roxana Mînzatu,Roxana Mînzatu,PERSON,0.0,0.0,en,1.3
-Leonardo da Vinci,Leonardo da Vinci,PERSON,0.3333333333333333,0.32051282051282054,en,1.3
 Truman Capote,Truman Capote,PERSON,-0.06593406593406595,0.20879120879120877,en,1.3
-Ionuț Iancu,Ionuț Iancu,PERSON,0.11538461538461538,0.23076923076923075,en,1.3
 Emil Michael,Emil Michael,PERSON,-0.24373543123543126,0.5198135198135199,en,1.3
-El Nino,El Nino,PERSON,0.1785693473193473,0.5158508158508158,en,1.3
+Leonardo da Vinci,Leonardo da Vinci,PERSON,0.3333333333333333,0.32051282051282054,en,1.3
 Keir Starmer,Keir Starmer,PERSON,0.18055555555555555,0.5833333333333334,en,1.2
 Adrian Marinescu,Adrian Marinescu,PERSON,0.08333333333333334,0.8333333333333334,en,1.2
-Amanda Nguyen,Amanda Nguyen,PERSON,0.07575757575757575,0.3737373737373737,en,1.1
 Lee Jae Myung,Lee Jae Myung,PERSON,-0.1515151515151515,0.38181818181818183,en,1.1
-ISU Teleorman,ISU Teleorman,PERSON,-0.25,0.2916666666666667,en,1.0
-"Magician"" Netanyahu","Magician"" Netanyahu",PERSON,0.0,0.03333333333333333,en,1.0
-Omu Peak,Omu Peak,PERSON,-0.125,1.0,en,1.0
-Gabriela Firea,Gabriela Firea,PERSON,0.10416666666666666,0.7708333333333333,en,1.0
+Amanda Nguyen,Amanda Nguyen,PERSON,0.07575757575757575,0.3737373737373737,en,1.1
+Mihai Fifor,Mihai Fifor,PERSON,0.016666666666666666,0.03333333333333333,en,1.0
+Don Jr,Don Jr,PERSON,0.0,0.03333333333333333,en,1.0
+Eric Trump,Eric Trump,PERSON,0.0,0.03333333333333333,en,1.0
 Sergey Melikov,Sergey Melikov,PERSON,0.5,0.5,en,1.0
+Ioan Andriesescu,Ioan Andriesescu,PERSON,0.0,0.041666666666666664,en,1.0
+Valea Costilei,Valea Costilei,PERSON,-0.1,0.25,en,1.0
+Valea Coștelei,Valea Coștelei,PERSON,0.1,0.9,en,1.0
+Alin Vaida,Alin Vaida,PERSON,0.375,0.75,en,1.0
+Christopher Columbus,Christopher Columbus,PERSON,0.06818181818181818,0.2606060606060606,en,1.0
+Florinela Geo,Florinela Geo,PERSON,-0.05,0.7,en,1.0
+Ion Țiriac,Ion Țiriac,PERSON,0.0,0.0,en,1.0
+Gabriela Firea,Gabriela Firea,PERSON,0.10416666666666666,0.7708333333333333,en,1.0
 Greg Daily,Greg Daily,PERSON,0.02777777777777779,0.65,en,1.0
 Fântâna Albă,Fântâna Albă,PERSON,0.0,0.0,en,1.0
+TEXT Putin,TEXT Putin,PERSON,-0.05681818181818182,0.3666666666666667,en,1.0
+Târnava Mare,Târnava Mare,PERSON,0.0,0.0,en,1.0
 Salvaţi Copiii,Salvaţi Copiii,PERSON,0.19999999999999998,0.24166666666666667,en,1.0
-Nikos Christodoulides,Nikos Christodoulides,PERSON,0.0,0.0,en,1.0
-Obârsia Lotrului,Obârsia Lotrului,PERSON,-0.1,0.1,en,1.0
+Gorj Mehedinți,Gorj Mehedinți,PERSON,0.0,0.0,en,1.0
+ISU Teleorman,ISU Teleorman,PERSON,-0.25,0.2916666666666667,en,1.0
+"Magician"" Netanyahu","Magician"" Netanyahu",PERSON,0.0,0.03333333333333333,en,1.0
 Tim Marshall,Tim Marshall,PERSON,0.0,0.0,en,1.0
-nea Ili,nea Ili,PERSON,0.016666666666666666,0.03333333333333333,en,1.0
-Christopher Columbus,Christopher Columbus,PERSON,0.06818181818181818,0.2606060606060606,en,1.0
-Ion Țiriac,Ion Țiriac,PERSON,0.0,0.0,en,1.0
-Alin Vaida,Alin Vaida,PERSON,0.375,0.75,en,1.0
-Ioan Andriesescu,Ioan Andriesescu,PERSON,0.0,0.041666666666666664,en,1.0
-Eric Trump,Eric Trump,PERSON,0.0,0.03333333333333333,en,1.0
-Don Jr,Don Jr,PERSON,0.0,0.03333333333333333,en,1.0
-Harper Lee,Harper Lee,PERSON,-0.08571428571428573,0.2714285714285714,en,1.0
-Lunca Cernii,Lunca Cernii,PERSON,0.046666666666666676,0.57,en,1.0
-Wyatt Andrews,Wyatt Andrews,PERSON,0.3,0.4000000000000001,en,1.0
-Akis Tselentis,Akis Tselentis,PERSON,0.0,0.0,en,1.0
-Mirela Ustucă,Mirela Ustucă,PERSON,0.0,0.0,en,1.0
-Piața Victoriei,Piața Victoriei,PERSON,0.0,0.0,en,1.0
-Eliza Ene Corbeanu,Eliza Ene Corbeanu,PERSON,0.0,0.0,en,1.0
-Mihai Fifor,Mihai Fifor,PERSON,0.016666666666666666,0.03333333333333333,en,1.0
-Gabriel García Márquez,Gabriel García Márquez,PERSON,0.25,0.3333333333333333,en,1.0
 The Moti of Apuseni,The Moti of Apuseni,PERSON,0.48571428571428577,0.6571428571428571,en,1.0
+Vama Veche,Vama Veche,PERSON,0.0,0.0,en,1.0
+nea Ili,nea Ili,PERSON,0.016666666666666666,0.03333333333333333,en,1.0
 Jeff Bezos,Jeff Bezos,PERSON,0.14977272727272725,0.27757575757575753,en,1.0
+Eliza Ene Corbeanu,Eliza Ene Corbeanu,PERSON,0.0,0.0,en,1.0
+Piața Victoriei,Piața Victoriei,PERSON,0.0,0.0,en,1.0
 Dragoş Pîslaru,Dragoş Pîslaru,PERSON,0.08333333333333333,0.13333333333333333,en,1.0
 Alexandru Nazare,Alexandru Nazare,PERSON,0.08333333333333333,0.13333333333333333,en,1.0
+Mirela Ustucă,Mirela Ustucă,PERSON,0.0,0.0,en,1.0
 Pope Leo,Pope Leo,PERSON,0.7,0.6000000000000001,en,1.0
+Akis Tselentis,Akis Tselentis,PERSON,0.0,0.0,en,1.0
+Wyatt Andrews,Wyatt Andrews,PERSON,0.3,0.4000000000000001,en,1.0
 Gheorghe Hagi,Gheorghe Hagi,PERSON,0.1,0.3,en,1.0
 Bogdan Bănuță,Bogdan Bănuță,PERSON,0.1,0.3,en,1.0
+Lunca Cernii,Lunca Cernii,PERSON,0.046666666666666676,0.57,en,1.0
 Cristi Chivu,Cristi Chivu,PERSON,0.3666666666666667,0.5444444444444444,en,1.0
-Poiana Brașov,Poiana Brașov,PERSON,0.0,0.06666666666666667,en,1.0
+Obârsia Lotrului,Obârsia Lotrului,PERSON,-0.1,0.1,en,1.0
 Ja Rule,Ja Rule,PERSON,0.2515151515151515,0.5772727272727273,en,1.0
 Garbriel Marcia Marquez,Garbriel Marcia Marquez,PERSON,0.0,0.0,en,1.0
 Ion Pillat,Ion Pillat,PERSON,0.0,0.0,en,1.0
+Harper Lee,Harper Lee,PERSON,-0.08571428571428573,0.2714285714285714,en,1.0
 Magda Isanos,Magda Isanos,PERSON,0.0,0.0,en,1.0
-Burj Khalifa,Burj Khalifa,PERSON,0.0,0.0,en,1.0
-Garabet Ibrăileanu,Garabet Ibrăileanu,PERSON,0.05,0.1125,en,1.0
-Benjamin Netanyahu,Benjamin Netanyahu,PERSON,-0.4,0.875,en,1.0
-Matei Balș,Matei Balș,PERSON,0.0,0.0,en,1.0
+Gabriel García Márquez,Gabriel García Márquez,PERSON,0.25,0.3333333333333333,en,1.0
+Nikos Christodoulides,Nikos Christodoulides,PERSON,0.0,0.0,en,1.0
+Münchner Philharmoniker,Münchner Philharmoniker,PERSON,-0.03333333333333333,0.23333333333333334,en,1.0
+Omu Peak,Omu Peak,PERSON,-0.125,1.0,en,1.0
+Ethan Hawke,Ethan Hawke,PERSON,-0.25,0.5,en,1.0
+Vyacheslav Molotov,Vyacheslav Molotov,PERSON,0.038888888888888896,0.30833333333333335,en,1.0
 Cyclone Harry,Cyclone Harry,PERSON,-0.5,0.8125,en,1.0
 Cristian Tudor Popescu,Cristian Tudor Popescu,PERSON,0.11666666666666667,0.13333333333333333,en,1.0
 Storm Leonardo,Storm Leonardo,PERSON,0.0,0.0,en,1.0
@@ -104,8 +109,8 @@ Giorgia Meloni,Giorgia Meloni,PERSON,0.0,0.0,en,1.0
 Alex Găvan,Alex Găvan,PERSON,-0.2,0.3,en,1.0
 Cristian Păun,Cristian Păun,PERSON,0.0,0.0,en,1.0
 Mircea Miclea,Mircea Miclea,PERSON,-0.06875,0.6,en,1.0
+Matei Balș,Matei Balș,PERSON,0.0,0.0,en,1.0
 Alexis de Tocqueville,Alexis de Tocqueville,PERSON,-0.04999999999999996,0.7666666666666666,en,1.0
-Buna Vestire,Buna Vestire,PERSON,0.7,0.6000000000000001,en,1.0
 Alexandru Rogobete,Alexandru Rogobete,PERSON,0.0,0.2,en,1.0
 Volodymyr Zelenskiy,Volodymyr Zelenskiy,PERSON,0.06944444444444443,0.34722222222222215,en,1.0
 Cristian Socol,Cristian Socol,PERSON,0.30000000000000004,0.75,en,1.0
@@ -118,21 +123,24 @@ Campulung Moldovenesc,Campulung Moldovenesc,PERSON,0.0,0.0,en,1.0
 Sanda Ladoși,Sanda Ladoși,PERSON,0.0,0.0,en,1.0
 Rudolf Julius Emanuel Clausius,Rudolf Julius Emanuel Clausius,PERSON,0.0,0.0,en,1.0
 Winter Storm Ezra,Winter Storm Ezra,PERSON,0.26666666666666666,0.3333333333333333,en,1.0
-Vyacheslav Molotov,Vyacheslav Molotov,PERSON,0.038888888888888896,0.30833333333333335,en,1.0
 Roxana Bojariu,Roxana Bojariu,PERSON,0.06944444444444445,0.4361111111111111,en,1.0
-Ethan Hawke,Ethan Hawke,PERSON,-0.25,0.5,en,1.0
 Kornel Mundruczo,Kornel Mundruczo,PERSON,0.24444444444444446,0.638888888888889,en,1.0
+Burj Khalifa,Burj Khalifa,PERSON,0.0,0.0,en,1.0
+Jeno Major,Jeno Major,PERSON,0.23125,0.6,en,1.0
+Poiana Brașov,Poiana Brașov,PERSON,0.0,0.06666666666666667,en,1.0
+Benjamin Netanyahu,Benjamin Netanyahu,PERSON,-0.4,0.875,en,1.0
+Buna Vestire,Buna Vestire,PERSON,0.7,0.6000000000000001,en,1.0
 Poon Lim,Poon Lim,PERSON,0.0,0.0,en,1.0
 Nicolás Maduro,Nicolás Maduro,PERSON,0.0,0.0,en,1.0
 Delcy Rodríguez,Delcy Rodríguez,PERSON,0.0,0.0,en,1.0
 Delcy Rodriguez,Delcy Rodriguez,PERSON,-0.1,0.1,en,1.0
 Roșia Montană,Roșia Montană,PERSON,-0.25,0.25,en,1.0
 Nazar Daletskyi,Nazar Daletskyi,PERSON,0.125,0.16666666666666666,en,1.0
-Münchner Philharmoniker,Münchner Philharmoniker,PERSON,-0.03333333333333333,0.23333333333333334,en,1.0
+Storm Ezra,Storm Ezra,PERSON,0.0,0.0,en,1.0
 Sergiu Celibidache,Sergiu Celibidache,PERSON,0.5,1.0,en,1.0
 Gavril Țarmure,Gavril Țarmure,PERSON,0.22142857142857142,0.3142857142857143,en,1.0
 Gavril Ţarmure,Gavril Ţarmure,PERSON,0.4,0.9,en,1.0
-Storm Ezra,Storm Ezra,PERSON,0.0,0.0,en,1.0
+Garabet Ibrăileanu,Garabet Ibrăileanu,PERSON,0.05,0.1125,en,1.0
 Sandu Valentin Mateiu,Sandu Valentin Mateiu,PERSON,-0.03333333333333333,0.03333333333333333,en,1.0
 Cseke Attila,Cseke Attila,PERSON,0.0,0.0,en,1.0
 Ayatollah Ali Khamenei,Ayatollah Ali Khamenei,PERSON,-0.1,0.1,en,1.0
@@ -146,5 +154,4 @@ Prince William,Prince William,PERSON,0.0,0.0,en,1.0
 Robert Manta,Robert Manta,PERSON,0.0,0.0,en,1.0
 Bogdan Mateescu,Bogdan Mateescu,PERSON,0.13999999999999999,0.3383333333333333,en,1.0
 Diana Buzoianu,Diana Buzoianu,PERSON,0.0,0.0,en,1.0
-Jeno Major,Jeno Major,PERSON,0.23125,0.6,en,1.0
-TEXT Putin,TEXT Putin,PERSON,-0.05681818181818182,0.3666666666666667,en,1.0
+Vâlcea Code,Vâlcea Code,PERSON,0.0,0.1,en,1.0
