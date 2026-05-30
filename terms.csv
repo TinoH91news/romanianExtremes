@@ -29,14 +29,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-04-22T05:13:00+00:00,,0.3351749483154486,2,2,ro,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundații,2026-05-19T06:33:00+00:00,,0.3342929191907539,2,1,ro,,
 '985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2026-05-04T05:50:00+00:00,Romania,0.3337544496939156,3,1,ro,WCE,Europe
+'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,precipitatii abundente,2026-05-18T06:38:00+00:00,,0.33106109677505274,0,1,ro,,
 '75579b650e',extremes,Drought,#edc291,edo,seceta romania,2026-05-10T05:51:00+00:00,Romania,0.3309602037081533,2,1,ro,WCE,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-05-17T06:01:00+00:00,Moldova,0.3291968283346223,2,1,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-05-01T05:54:00+00:00,Moldova,0.3179111769192749,3,1,ro,WCE,Europe
 'efa91cca03',extremes,Drought,#edc291,acwe,nivel scăzut al apei vestul australiei,2026-05-28T06:38:00+00:00,Australia,0.3171220211358438,0,1,ro,CAU,Oceania
+'100e8ab2b6',extremes,Cold Wave,#a7e9fa,acwe,coldwave western australia,2026-05-29T06:39:00+00:00,Australia,0.3170272289400485,0,1,ro,CAU,Oceania
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-05-27T06:46:00+00:00,,0.3137038158410328,2,1,ro,,
 '52af874334',extremes,Drought,#edc291,random,ariditate,2026-05-07T05:46:00+00:00,,0.3124837413943351,2,2,ro,,
 '6636b82ba3',extremes,Thunderstorm,#53785a,wmo,furtuna libia,2026-05-25T06:53:00+00:00,Libya,0.3079997501082523,0,1,ro,SAH,Africa
 '700ffc8c1c',extremes,Precipitation,#d60d2b,wmo,precipitaţii westland south of hokitika,2026-05-29T06:38:00+00:00,New Zealand,0.3052275046037253,0,1,ro,NZ,Oceania
+'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,ploaie canada,2026-05-15T06:09:00+00:00,Canada,0.30416039500342584,0,1,ro,NEN,North-America
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,storm surge argentina,2026-05-16T05:40:00+00:00,Argentina,0.3039754998436308,0,1,ro,SES,South-America
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,val de furtună paraguay,2026-05-29T06:38:00+00:00,Paraguay,0.3036650998667485,0,1,ro,SES,South-America
+'02711610b5',extremes,Storm,#b3b2b1,wmo,furtuna argentina,2026-05-16T05:40:00+00:00,Argentina,0.3035810106561183,0,1,ro,SES,South-America
 'a715281618',extremes,Storm,#b3b2b1,wmo,storm surge vanuatu,2026-05-14T06:02:00+00:00,Vanuatu,0.3032332482846498,0,1,ro,SPO,Oceania
 '007fd2f525',extremes,Storm,#b3b2b1,wmo,storm surge m_table bay table bay,2026-05-12T05:52:00+00:00,South Africa,0.3031278938221363,0,1,ro,WSAF,Africa
 'f6159d54ec',extremes,Heat Wave,#c40202,wmo,caniculă algeria,2026-05-13T06:03:00+00:00,Algeria,0.3031144721827813,0,1,ro,SAH,Africa
@@ -44,7 +50,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e4b341619',extremes,Storm,#b3b2b1,random,furtuna,2026-05-20T06:32:00+00:00,,0.2898267888216029,2,1,ro,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,fătare iceberg,2026-05-24T06:22:00+00:00,,0.2895096770990472,2,1,ro,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gheață de mare arctică,2026-05-06T05:43:00+00:00,,0.2895090567343825,2,1,ro,,
-'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,poftă de frig,2026-05-21T06:34:00+00:00,,0.28931948966171567,2,1,ro,,
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,poftă de frig,2026-05-21T06:34:00+00:00,,0.2893194896617156,2,1,ro,,
 '40f675561f',extremes,Heat Wave,#c40202,random,vara cea mai fierbinte,2026-05-22T06:31:00+00:00,,0.2887894781265173,2,1,ro,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,picături de mercur,2026-04-30T05:45:00+00:00,,0.2885601953829425,2,1,ro,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frontul meteo,2026-05-13T06:02:00+00:00,,0.2884247987902945,2,1,ro,,
@@ -63,7 +69,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,lăcuste,2026-05-17T06:01:00+00:00,,0.2747340101528158,1,1,ro,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,scăderea temperaturii,2026-05-08T05:16:00+00:00,,0.2723635063892177,2,1,ro,,
 'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,vrajă de frig vestul australiei,2026-05-27T06:46:00+00:00,Australia,0.2714206394356628,1,1,ro,CAU,Oceania
-'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,vreme rece vestul australiei,2026-05-28T06:38:00+00:00,Australia,0.27117296458891227,1,1,ro,CAU,Oceania
+'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,vreme rece vestul australiei,2026-05-28T06:38:00+00:00,Australia,0.2711729645889122,1,1,ro,CAU,Oceania
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,caniculă europeană paris,2026-05-28T06:38:00+00:00,France,0.271043232462277,1,1,ro,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-05-04T05:49:00+00:00,,0.2672516305183031,2,1,ro,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-05-26T06:31:00+00:00,,0.2665943497400583,2,1,ro,,
