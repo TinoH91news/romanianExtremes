@@ -39,25 +39,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-05-14T06:02:00+00:00,,0.319480899071204,1,2,ro,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-05-27T06:46:00+00:00,,0.3137038158410328,2,1,ro,,
 '52af874334',extremes,Drought,#edc291,random,ariditate,2026-05-07T05:46:00+00:00,,0.3124837413943351,2,2,ro,,
-'a46ce587cc',extremes,Precipitation,#d60d2b,wmo,ploaie región litoral,2026-05-12T05:52:00+00:00,Ecuador,0.3031784060855318,0,1,ro,NWS,South-America
-'74126f3d38',extremes,Drought,#edc291,edo,seceta brunei,2026-05-23T05:53:00+00:00,Brunei,0.3031403093006152,0,1,ro,SEA,Asia
-'007fd2f525',extremes,Storm,#b3b2b1,wmo,storm surge m_table bay table bay,2026-05-12T05:52:00+00:00,South Africa,0.3031278938221363,0,1,ro,WSAF,Africa
-'f6159d54ec',extremes,Heat Wave,#c40202,wmo,caniculă algeria,2026-05-13T06:03:00+00:00,Algeria,0.3031144721827813,0,1,ro,SAH,Africa
-'24e7169f97',extremes,Storm,#b3b2b1,wmo,furtună trinidad și tobago,2026-05-17T06:01:00+00:00,Trinidad and Tobago,0.3030817403089885,0,1,ro,NSA,North-America
-'d56de5f4df',extremes,Drought,#edc291,edo,lipsa ploilor letonia,2026-05-29T06:39:00+00:00,Latvia,0.3030787633276797,0,1,ro,WCE,Europe
-'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,îngheţ Statele Unite ale Americii,2026-05-16T05:40:00+00:00,United States,0.3030761556886078,0,1,ro,CNA,North-America
-'27fd81d198',extremes,Storm,#b3b2b1,wmo,furtuna insulele Solomon,2026-05-16T05:40:00+00:00,Solomon Islands,0.3030608503813626,0,1,ro,EPO,Oceania
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,fătare pe ghețar,2026-05-30T06:01:00+00:00,,0.3030478782175108,0,1,ro,,
-'59255472e8',extremes,Landslide,#572c03,wmo,alunecare de noroi orașul Ganzhou,2026-05-15T06:09:00+00:00,China,0.3029671985007923,0,1,ro,EAS,Asia
-'b9576a4c93',extremes,Storm,#b3b2b1,wmo,val de furtună trinidad și tobago,2026-05-18T06:38:00+00:00,Trinidad and Tobago,0.30292638537021027,0,1,ro,NSA,North-America
-'b7692928de',extremes,Earthquake,#870007,usgs,cutremur codrington,2026-05-18T06:38:00+00:00,Antigua and Barbuda,0.3028489771470514,0,1,ro,NAO,Atlantic Ocean
-'11ece58a02',extremes,Storm,#b3b2b1,wmo,storm surge bahrain,2026-05-17T06:01:00+00:00,Bahrain,0.3028476924759609,0,1,ro,ARP,Asia
-'dafed8e9de',extremes,Drought,#edc291,edo,lipsa ploii brunei,2026-05-13T06:03:00+00:00,Brunei,0.3028214926783124,0,1,ro,SEA,Asia
-'464c05f22e',extremes,Precipitation,#d60d2b,wmo,ploaie orașul Cape Town,2026-05-13T06:03:00+00:00,South Africa,0.30278562472841597,0,1,ro,WSAF,Africa
-'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,val de căldură etiopia,2026-05-14T06:02:00+00:00,Ethiopia,0.30277923659471534,0,1,ro,NEAF,Africa
 '922fde2aea',extremes,Drought,#edc291,edo,seceta benin,2026-05-16T05:40:00+00:00,Benin,0.3027088688917165,0,1,ro,WAF,Africa
-'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,îngheț Statele Unite,2026-05-16T05:40:00+00:00,United States,0.30255092543500484,0,1,ro,CNA,North-America
-'4e05f7cf69',extremes,Precipitation,#d60d2b,wmo,ploaie ciad,2026-05-14T06:02:00+00:00,Chad,0.30252677705484204,0,1,ro,SAH,Africa
+'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,îngheț Statele Unite,2026-05-16T05:40:00+00:00,United States,0.3025509254350048,0,1,ro,CNA,North-America
+'4e05f7cf69',extremes,Precipitation,#d60d2b,wmo,ploaie ciad,2026-05-14T06:02:00+00:00,Chad,0.302526777054842,0,1,ro,SAH,Africa
 '3e4b341619',extremes,Storm,#b3b2b1,random,furtuna,2026-05-20T06:32:00+00:00,,0.2898267888216029,2,1,ro,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,fătare iceberg,2026-05-24T06:22:00+00:00,,0.2895096770990472,2,1,ro,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gheață de mare arctică,2026-05-06T05:43:00+00:00,,0.2895090567343825,2,1,ro,,
@@ -120,7 +104,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d88e6d571',extremes,Storm,#b3b2b1,wmo,val de furtună apele de coastă de nord ale vanuatuului.,2026-05-13T06:03:00+00:00,Vanuatu,0.2577493587919129,1,1,ro,SPO,Oceania
 'a715281618',extremes,Storm,#b3b2b1,wmo,storm surge vanuatu,2026-05-14T06:02:00+00:00,Vanuatu,0.2577482610419523,1,1,ro,SPO,Oceania
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,storm surge zona 2 – moderată,2026-05-07T05:46:00+00:00,Paraguay,0.2577161281449899,1,1,ro,SES,South-America
+'a46ce587cc',extremes,Precipitation,#d60d2b,wmo,ploaie región litoral,2026-05-12T05:52:00+00:00,Ecuador,0.25770164517270205,1,1,ro,NWS,South-America
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,storm surge new zealand,2026-05-07T05:46:00+00:00,New Zealand,0.257681112707635,1,1,ro,NZ,Oceania
+'74126f3d38',extremes,Drought,#edc291,edo,seceta brunei,2026-05-23T05:53:00+00:00,Brunei,0.2576692629055229,1,1,ro,SEA,Asia
+'007fd2f525',extremes,Storm,#b3b2b1,wmo,storm surge m_table bay table bay,2026-05-12T05:52:00+00:00,South Africa,0.25765870974881583,1,1,ro,WSAF,Africa
+'f6159d54ec',extremes,Heat Wave,#c40202,wmo,caniculă algeria,2026-05-13T06:03:00+00:00,Algeria,0.2576473013553641,1,1,ro,SAH,Africa
+'24e7169f97',extremes,Storm,#b3b2b1,wmo,furtună trinidad și tobago,2026-05-17T06:01:00+00:00,Trinidad and Tobago,0.2576194792626402,1,1,ro,NSA,North-America
+'d56de5f4df',extremes,Drought,#edc291,edo,lipsa ploilor letonia,2026-05-29T06:39:00+00:00,Latvia,0.2576169488285277,1,1,ro,WCE,Europe
+'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,îngheţ Statele Unite ale Americii,2026-05-16T05:40:00+00:00,United States,0.2576147323353166,1,1,ro,CNA,North-America
+'27fd81d198',extremes,Storm,#b3b2b1,wmo,furtuna insulele Solomon,2026-05-16T05:40:00+00:00,Solomon Islands,0.2576017228241582,1,1,ro,EPO,Oceania
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,fătare pe ghețar,2026-05-30T06:01:00+00:00,,0.25759069648488414,1,1,ro,,
+'59255472e8',extremes,Landslide,#572c03,wmo,alunecare de noroi orașul Ganzhou,2026-05-15T06:09:00+00:00,China,0.25752211872567343,1,1,ro,EAS,Asia
+'b9576a4c93',extremes,Storm,#b3b2b1,wmo,val de furtună trinidad și tobago,2026-05-18T06:38:00+00:00,Trinidad and Tobago,0.2574874275646787,1,1,ro,NSA,North-America
+'b7692928de',extremes,Earthquake,#870007,usgs,cutremur codrington,2026-05-18T06:38:00+00:00,Antigua and Barbuda,0.2574216305749937,1,1,ro,NAO,Atlantic Ocean
+'11ece58a02',extremes,Storm,#b3b2b1,wmo,storm surge bahrain,2026-05-17T06:01:00+00:00,Bahrain,0.25742053860456676,1,1,ro,ARP,Asia
+'dafed8e9de',extremes,Drought,#edc291,edo,lipsa ploii brunei,2026-05-13T06:03:00+00:00,Brunei,0.2573982687765655,1,1,ro,SEA,Asia
+'464c05f22e',extremes,Precipitation,#d60d2b,wmo,ploaie orașul Cape Town,2026-05-13T06:03:00+00:00,South Africa,0.25736778101915353,1,1,ro,WSAF,Africa
+'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,val de căldură etiopia,2026-05-14T06:02:00+00:00,Ethiopia,0.257362351105508,1,1,ro,NEAF,Africa
 '734861543c',extremes,Storm,#b3b2b1,wmo,val de furtună región amazónica,2026-05-02T05:24:00+00:00,Ecuador,0.2567579576911239,1,1,ro,NWS,South-America
 '3229c2d52c',extremes,Drought,#edc291,edo,secetă finlandă,2026-04-28T05:45:00+00:00,Finland,0.2567463284529184,1,1,ro,NEU,Europe
 '3bed5748e7',extremes,Precipitation,#d60d2b,wmo,ploaie de la atolul lhaviyani la orașul addu,2026-04-29T05:40:00+00:00,Maldives,0.2567386569682829,1,1,ro,EIO,Indian Ocean
