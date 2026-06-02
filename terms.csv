@@ -17,7 +17,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd6c0bf69d6',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială romania,2026-05-17T06:01:00+00:00,Romania,0.3801369626546226,3,1,ro,WCE,Europe
 'd12ee785d5',extremes,Precipitation,#d60d2b,wmo,ploaie prahova,2026-05-09T05:36:00+00:00,Romania,0.3776017104339906,4,1,ro,WCE,Europe
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,dom de căldură,2026-05-16T05:40:00+00:00,,0.377109533352043,3,2,ro,,
-'a5ff1cde4a',extremes,Drought,#edc291,random,umiditatea solului,2026-06-02T07:08:00+00:00,,0.37422875168302233,0,1,ro,,
 '41210bc398',extremes,Thunderstorm,#53785a,wmo,grindină romania,2026-05-12T05:52:00+00:00,Romania,0.3730167365602303,3,1,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-05-21T06:35:00+00:00,Moldova,0.3722014758717469,2,1,ro,WCE,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcan,2026-05-21T06:34:00+00:00,,0.3703384571065788,1,1,ro,,
@@ -39,15 +38,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '75579b650e',extremes,Drought,#edc291,edo,seceta romania,2026-05-10T05:51:00+00:00,Romania,0.3309602037081533,2,1,ro,WCE,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-05-17T06:01:00+00:00,Moldova,0.3291968283346223,2,1,ro,WCE,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-05-14T06:02:00+00:00,,0.319480899071204,1,2,ro,,
+'a5ff1cde4a',extremes,Drought,#edc291,random,umiditatea solului,2026-06-02T07:08:00+00:00,,0.31839446893056894,1,1,ro,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-05-27T06:46:00+00:00,,0.3137038158410328,2,1,ro,,
 '52af874334',extremes,Drought,#edc291,random,ariditate,2026-05-07T05:46:00+00:00,,0.3124837413943351,2,2,ro,,
 '6977541e84',extremes,Drought,#edc291,edo,seceta madagascar,2026-06-02T07:08:00+00:00,Madagascar,0.3110427093199965,0,1,ro,MDG,Africa
-'53fda39314',extremes,Drought,#edc291,edo,lipsa ploii lituania,2026-05-30T06:01:00+00:00,Lithuania,0.31053159575871725,0,1,ro,WCE,Europe
-'6eff66ea81',extremes,Drought,#edc291,edo,uscăciune brunei,2026-06-02T07:08:00+00:00,Brunei,0.31000930415164496,0,1,ro,SEA,Asia
-'fe07b8547c',extremes,Drought,#edc291,edo,secetă cehia,2026-05-15T06:09:00+00:00,Czechia,0.30966108579871404,0,1,ro,WCE,Europe
+'53fda39314',extremes,Drought,#edc291,edo,lipsa ploii lituania,2026-05-30T06:01:00+00:00,Lithuania,0.3105315957587172,0,1,ro,WCE,Europe
+'6eff66ea81',extremes,Drought,#edc291,edo,uscăciune brunei,2026-06-02T07:08:00+00:00,Brunei,0.3100093041516449,0,1,ro,SEA,Asia
+'fe07b8547c',extremes,Drought,#edc291,edo,secetă cehia,2026-05-15T06:09:00+00:00,Czechia,0.309661085798714,0,1,ro,WCE,Europe
 '2180c0c4a1',extremes,Drought,#edc291,edo,lipsa ploii polonia,2026-06-02T07:08:00+00:00,Poland,0.3095717829617078,0,1,ro,WCE,Europe
 '815e4bf638',extremes,Drought,#edc291,edo,lipsa ploii ungaria,2026-05-15T06:09:00+00:00,Hungary,0.3081268644254411,0,1,ro,WCE,Europe
-'d79f0cf217',extremes,Drought,#edc291,edo,secetă slovacia,2026-05-22T06:32:00+00:00,Slovakia,0.30790523192435304,0,1,ro,WCE,Europe
+'d79f0cf217',extremes,Drought,#edc291,edo,secetă slovacia,2026-05-22T06:32:00+00:00,Slovakia,0.307905231924353,0,1,ro,WCE,Europe
 '8e0946a5f2',extremes,Drought,#edc291,edo,lipsa ploii estonia,2026-06-02T07:08:00+00:00,Estonia,0.3076869256386224,0,1,ro,NEU,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitatii brazil,2026-05-24T06:22:00+00:00,Brazil,0.3062121690793386,0,1,ro,SAM,South-America
 'c630738b07',extremes,Storm,#b3b2b1,wmo,furtună toate apele de coastă vanuatu.,2026-05-17T06:01:00+00:00,Vanuatu,0.302123164821871,0,1,ro,SPO,Oceania
