@@ -13,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9cfb4578c4',extremes,Thunderstorm,#53785a,wmo,furtuna moldova,2026-05-12T05:52:00+00:00,Moldova,0.4194280055757618,4,1,ro,WCE,Europe
 '0af4c11b9c',extremes,Precipitation,#d60d2b,wmo,ploaie romania,2026-05-09T05:36:00+00:00,Romania,0.4090308117582849,5,2,ro,WCE,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-05-16T05:40:00+00:00,Romania,0.4085267733812791,3,1,ro,WCE,Europe
+'60cdf9fb44',extremes,Heat Wave,#c40202,wmo,val de căldură india,2026-05-19T06:33:00+00:00,India,0.4060053566819433,1,2,ro,SAS,Asia
 '223aafcb65',extremes,Precipitation,#d60d2b,wmo,precipitaţii moldova,2026-05-10T05:51:00+00:00,Moldova,0.3879174084955676,4,1,ro,WCE,Europe
 '9391f481ee',extremes,Storm,#b3b2b1,random,furtună,2026-05-06T05:43:00+00:00,,0.3811966727547771,2,2,ro,,
 'd6c0bf69d6',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială romania,2026-05-17T06:01:00+00:00,Romania,0.3801369626546226,3,1,ro,WCE,Europe
@@ -43,22 +44,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-05-14T06:02:00+00:00,,0.319480899071204,1,2,ro,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-05-27T06:46:00+00:00,,0.3137038158410328,2,1,ro,,
 '52af874334',extremes,Drought,#edc291,random,ariditate,2026-05-07T05:46:00+00:00,,0.3124837413943351,2,2,ro,,
-'e058bc3eb7',extremes,Drought,#edc291,edo,secetă sri lanka,2026-05-26T06:31:00+00:00,Sri Lanka,0.3011122555880161,0,1,ro,BOB,Asia
-'2731214175',extremes,Heat Wave,#c40202,wmo,val de căldură regiunea kostroma,2026-05-17T06:01:00+00:00,Russia,0.3010982347786587,0,1,ro,ESB,Europe
-'110d2ee2b9',extremes,Heat Wave,#c40202,wmo,val de căldură regiunea kaluga,2026-05-21T06:35:00+00:00,Russia,0.3010969309157825,0,1,ro,ESB,Europe
-'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Canada înghețată,2026-05-24T06:22:00+00:00,Canada,0.301065406631007,0,1,ro,NEN,North-America
-'95cbe1baef',extremes,Heat Wave,#c40202,wmo,val de căldură canion palo duro,2026-05-16T05:40:00+00:00,United States,0.3010431695199175,0,1,ro,CNA,North-America
-'1d7d327aa2',extremes,Storm,#b3b2b1,wmo,furtuna taranaki si whanganui,2026-06-01T07:30:00+00:00,New Zealand,0.3010301252339655,0,1,ro,NZ,Oceania
-'ed47655456',extremes,Heat Wave,#c40202,wmo,val de căldură republica Tatarstan,2026-05-17T06:01:00+00:00,Russia,0.3010268773023564,0,1,ro,ESB,Europe
-'f7a6169f5f',extremes,Heat Wave,#c40202,wmo,val de căldură regiunea vladimir,2026-05-17T06:01:00+00:00,Russia,0.301009652104244,0,1,ro,ESB,Europe
-'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,gheață islanda,2026-05-29T06:38:00+00:00,Iceland,0.30099618491023017,0,1,ro,GIC,Europe
-'f314bb7747',extremes,Flood,#030ba1,aidr,inundaţii pluviale australia,2026-05-20T06:33:00+00:00,Australia,0.30094883509089415,0,1,ro,EAU,Oceania
-'1c0214d974',extremes,Storm,#b3b2b1,wmo,storm africa de sud,2026-06-03T07:23:00+00:00,South Africa,0.30087180556495563,0,1,ro,WSAF,Africa
-'60cdf9fb44',extremes,Heat Wave,#c40202,wmo,val de căldură india,2026-05-19T06:33:00+00:00,India,0.3008297960964039,0,1,ro,SAS,Asia
-'22828af238',extremes,Wildfire,#d60d2b,cmeter,wildfire londra,2026-06-02T07:08:00+00:00,France,0.30074048412951015,0,1,ro,,
-'07f7c2e78c',extremes,Heat Wave,#c40202,wmo,val de căldură regiune tula,2026-05-16T05:40:00+00:00,Russia,0.30071723903018205,0,1,ro,ESB,Europe
+'22828af238',extremes,Wildfire,#d60d2b,cmeter,wildfire londra,2026-06-02T07:08:00+00:00,France,0.3007404841295101,0,1,ro,,
+'07f7c2e78c',extremes,Heat Wave,#c40202,wmo,val de căldură regiune tula,2026-05-16T05:40:00+00:00,Russia,0.300717239030182,0,1,ro,ESB,Europe
 'b0a627b1e6',extremes,Earthquake,#870007,usgs,cutremur antigua și barbuda,2026-05-17T06:01:00+00:00,Antigua and Barbuda,0.3007077732550065,0,1,ro,NAO,Atlantic Ocean
-'560d242cd5',extremes,Storm,#b3b2b1,wmo,storm canada,2026-05-25T06:53:00+00:00,Canada,0.30070355421548767,0,1,ro,NEN,North-America
+'560d242cd5',extremes,Storm,#b3b2b1,wmo,storm canada,2026-05-25T06:53:00+00:00,Canada,0.3007035542154876,0,1,ro,NEN,North-America
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gheață de mare antarctică,2026-05-30T06:01:00+00:00,,0.3002273249417252,1,1,ro,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,izbucnirea lacului glaciar,2026-06-04T07:06:00+00:00,,0.2978186499413199,1,1,ro,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,furtuna,2026-05-20T06:32:00+00:00,,0.2898267888216029,2,1,ro,,
@@ -213,6 +202,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '994fe03563',extremes,Snow Avalanche,#deddd5,wmo,avalanșă slovenia,2026-05-17T06:01:00+00:00,Slovenia,0.256047180742692,1,1,ro,WCE,Europe
 '4a4191209b',extremes,Heat Wave,#c40202,wmo,val de căldură regiunea smolensk,2026-05-16T05:40:00+00:00,Russia,0.256039560687241,1,1,ro,ESB,Europe
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,storm surge canada,2026-05-31T06:40:00+00:00,Canada,0.2559474199039765,1,1,ro,NEN,North-America
+'e058bc3eb7',extremes,Drought,#edc291,edo,secetă sri lanka,2026-05-26T06:31:00+00:00,Sri Lanka,0.2559454172498137,1,1,ro,BOB,Asia
+'2731214175',extremes,Heat Wave,#c40202,wmo,val de căldură regiunea kostroma,2026-05-17T06:01:00+00:00,Russia,0.2559334995618599,1,1,ro,ESB,Europe
+'110d2ee2b9',extremes,Heat Wave,#c40202,wmo,val de căldură regiunea kaluga,2026-05-21T06:35:00+00:00,Russia,0.2559323912784151,1,1,ro,ESB,Europe
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Canada înghețată,2026-05-24T06:22:00+00:00,Canada,0.25590559563635595,1,1,ro,NEN,North-America
+'95cbe1baef',extremes,Heat Wave,#c40202,wmo,val de căldură canion palo duro,2026-05-16T05:40:00+00:00,United States,0.2558866940919299,1,1,ro,CNA,North-America
+'1d7d327aa2',extremes,Storm,#b3b2b1,wmo,furtuna taranaki si whanganui,2026-06-01T07:30:00+00:00,New Zealand,0.25587560644887064,1,1,ro,NZ,Oceania
+'ed47655456',extremes,Heat Wave,#c40202,wmo,val de căldură republica Tatarstan,2026-05-17T06:01:00+00:00,Russia,0.2558728457070029,1,1,ro,ESB,Europe
+'f7a6169f5f',extremes,Heat Wave,#c40202,wmo,val de căldură regiunea vladimir,2026-05-17T06:01:00+00:00,Russia,0.2558582042886074,1,1,ro,ESB,Europe
+'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,gheață islanda,2026-05-29T06:38:00+00:00,Iceland,0.2558467571736956,1,1,ro,GIC,Europe
+'f314bb7747',extremes,Flood,#030ba1,aidr,inundaţii pluviale australia,2026-05-20T06:33:00+00:00,Australia,0.25580650982726,1,1,ro,EAU,Oceania
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,storm africa de sud,2026-06-03T07:23:00+00:00,South Africa,0.25574103473021226,1,1,ro,WSAF,Africa
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,avalanșă svartisen,2026-05-03T05:44:00+00:00,Norway,0.2555946525295646,1,1,ro,NEU,Europe
 '8995958581',extremes,Wildfire,#d60d2b,wmo,wildfire regiune pskov,2026-05-03T05:44:00+00:00,Russia,0.255535496610448,1,1,ro,ESB,Europe
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,cea mai scăzută temperatură minimă,2026-05-14T06:02:00+00:00,,0.2490083526142757,2,1,ro,,
