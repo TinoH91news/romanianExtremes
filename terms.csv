@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'223aafcb65',extremes,Precipitation,#d60d2b,wmo,precipitaţii moldova,2026-06-02T07:08:00+00:00,Moldova,0.6024616061564735,1,1,ro,WCE,Europe
+'223aafcb65',extremes,Precipitation,#d60d2b,wmo,precipitaţii moldova,2026-06-02T07:08:00+00:00,Moldova,0.5120923652330025,2,1,ro,WCE,Europe
 '7c29d4f368',extremes,Thunderstorm,#53785a,wmo,grindină moldova,2026-05-22T06:32:00+00:00,Moldova,0.5110103942519634,3,1,ro,WCE,Europe
 '985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2026-05-29T06:39:00+00:00,Romania,0.4964862584026493,2,1,ro,WCE,Europe
 'a652d575aa',extremes,Thunderstorm,#53785a,wmo,vreme severă românia,2026-06-03T07:23:00+00:00,Romania,0.4963295545503902,2,1,ro,WCE,Europe
@@ -40,11 +40,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03f33e230d',extremes,Earthquake,#870007,usgs,cutremur chile,2026-05-16T05:40:00+00:00,Chile,0.3316801751595368,1,2,ro,SWS,South-America
 '75579b650e',extremes,Drought,#edc291,edo,seceta romania,2026-05-10T05:51:00+00:00,Romania,0.3309602037081533,2,1,ro,WCE,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-05-17T06:01:00+00:00,Moldova,0.3291968283346223,2,1,ro,WCE,Europe
-'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-05-27T06:46:00+00:00,,0.3249530869596851,0,1,ro,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-05-14T06:02:00+00:00,,0.319480899071204,1,2,ro,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-05-27T06:46:00+00:00,,0.3137038158410328,2,1,ro,,
 '52af874334',extremes,Drought,#edc291,random,ariditate,2026-05-07T05:46:00+00:00,,0.3124837413943351,2,2,ro,,
-'06adbcbae1',extremes,Drought,#edc291,edo,uscăciune madagascar,2026-05-31T06:40:00+00:00,Madagascar,0.3077617592068819,0,1,ro,MDG,Africa
 'e82c94efda',extremes,Earthquake,#870007,usgs,cutremur valparaíso,2026-06-02T07:08:00+00:00,Chile,0.3026796289846175,0,1,ro,SWS,South-America
 'be9f9ddcc5',extremes,Flood,#030ba1,wmo,inundare Danemarca,2026-06-07T06:48:00+00:00,Denmark,0.3017147469837677,0,1,ro,NEU,Europe
 '0ebdc15703',extremes,Earthquake,#870007,usgs,cutremur kahaluu keauhou,2026-06-03T07:22:00+00:00,Hawaii,0.3010736733373217,0,1,ro,NPO,Pacific Ocean
@@ -73,6 +71,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '54927bfe65',extremes,Flood,#030ba1,random,inundaţii litorale,2026-05-13T06:02:00+00:00,,0.2804898361944962,2,1,ro,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,alunecare,2026-05-11T06:14:00+00:00,,0.2801713816469621,1,1,ro,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,bruma,2026-05-21T06:34:00+00:00,,0.2795780677955303,2,1,ro,,
+'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-05-27T06:46:00+00:00,,0.27696019891573237,1,1,ro,,
 'f37139fe2d',extremes,Landslide,#572c03,random,alunecare de noroi,2026-05-30T06:01:00+00:00,,0.2764894024798242,1,1,ro,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,furtună tropicală,2026-05-17T06:01:00+00:00,,0.275712309656798,1,1,ro,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,scăderea temperaturii,2026-05-08T05:16:00+00:00,,0.2723635063892177,2,1,ro,,
@@ -100,6 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2180c0c4a1',extremes,Drought,#edc291,edo,lipsa ploii polonia,2026-06-02T07:08:00+00:00,Poland,0.2631360155174516,1,1,ro,WCE,Europe
 '815e4bf638',extremes,Drought,#edc291,edo,lipsa ploii ungaria,2026-05-15T06:09:00+00:00,Hungary,0.2619078347616249,1,1,ro,WCE,Europe
 'd79f0cf217',extremes,Drought,#edc291,edo,secetă slovacia,2026-05-22T06:32:00+00:00,Slovakia,0.2617194471357,1,1,ro,WCE,Europe
+'06adbcbae1',extremes,Drought,#edc291,edo,uscăciune madagascar,2026-05-31T06:40:00+00:00,Madagascar,0.26159749532584964,1,1,ro,MDG,Africa
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-05-24T06:22:00+00:00,Brazil,0.2615506515592289,1,1,ro,SAM,South-America
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,caniculă france,2026-05-24T06:22:00+00:00,France,0.2615425169995118,2,1,ro,WCE,Europe
 '8e0946a5f2',extremes,Drought,#edc291,edo,lipsa ploii estonia,2026-06-02T07:08:00+00:00,Estonia,0.261533886792829,1,1,ro,NEU,Europe
