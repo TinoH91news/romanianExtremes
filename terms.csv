@@ -14,6 +14,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornadă,2026-05-19T06:33:00+00:00,,0.4505569608926676,3,1,ro,,
 'c2b3b4722a',extremes,Storm,#b3b2b1,wmo,storm surge romania,2026-05-12T05:52:00+00:00,Romania,0.4443719060390321,3,1,ro,WCE,Europe
 '223aafcb65',extremes,Precipitation,#d60d2b,wmo,precipitaţii moldova,2026-06-02T07:08:00+00:00,Moldova,0.4352785104480521,3,1,ro,WCE,Europe
+'de3b36bacb',extremes,Thunderstorm,#53785a,random,vreme severă,2026-06-12T07:05:00+00:00,,0.42910046688240644,1,2,ro,,
 '985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2026-05-29T06:39:00+00:00,Romania,0.4220133196422519,3,1,ro,WCE,Europe
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-05-22T06:32:00+00:00,Moldova,0.4215543394570183,2,1,ro,WCE,Europe
 'f7fad55db6',extremes,Storm,#b3b2b1,wmo,storm romania,2026-05-28T06:38:00+00:00,Romania,0.4206984026154282,3,1,ro,WCE,Europe
@@ -30,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,furtună,2026-05-25T06:52:00+00:00,,0.3606652336463388,2,1,ro,,
 'e730b98a72',extremes,Thunderstorm,#53785a,wmo,furtuna romania,2026-05-17T06:01:00+00:00,Romania,0.3578436214328782,4,1,ro,WCE,Europe
 '9f0423d739',extremes,Drought,#edc291,random,uscăciune,2026-05-10T05:51:00+00:00,,0.3572994429583571,2,1,ro,,
-'de3b36bacb',extremes,Thunderstorm,#53785a,random,vreme severă,2026-06-12T07:05:00+00:00,,0.3556473963322429,0,1,ro,,
 'f90601fa23',extremes,Volcano,#b83202,random,erupție vulcanică,2026-05-17T06:01:00+00:00,,0.3539894366106559,3,1,ro,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-05-10T05:51:00+00:00,,0.3539806437323463,2,1,ro,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,uragan,2026-06-12T07:05:00+00:00,,0.3512848326886989,1,1,ro,,
@@ -52,15 +52,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '567f445b3d',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicala cristina,2026-06-12T07:05:00+00:00,,0.3187278744841875,0,1,ro,SCA,North-America
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-05-27T06:46:00+00:00,,0.3137038158410328,2,1,ro,,
 '52af874334',extremes,Drought,#edc291,random,ariditate,2026-05-07T05:46:00+00:00,,0.3124837413943351,2,2,ro,,
-'970305e1b7',extremes,Precipitation,#d60d2b,wmo,ploaie canada,2026-06-09T06:32:00+00:00,Canada,0.30657509955885875,0,1,ro,NEN,North-America
+'970305e1b7',extremes,Precipitation,#d60d2b,wmo,ploaie canada,2026-06-09T06:32:00+00:00,Canada,0.3065750995588587,0,1,ro,NEN,North-America
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,ploaie bulgaria,2026-06-12T07:05:00+00:00,Bulgaria,0.3038038725650579,0,1,ro,MED,Europe
-'0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,chile de îngheț,2026-06-12T07:05:00+00:00,Chile,0.30156684178647325,0,1,ro,SWS,South-America
+'0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,chile de îngheț,2026-06-12T07:05:00+00:00,Chile,0.3015668417864732,0,1,ro,SWS,South-America
 '2433af70de',extremes,Storm,#b3b2b1,wmo,val de furtună belize,2026-06-12T07:05:00+00:00,Belize,0.3010572736878001,0,1,ro,SCA,North-America
 'd0a1e0bc8b',extremes,Storm,#b3b2b1,wmo,val de furtună kuweit,2026-06-12T07:05:00+00:00,Kuwait,0.30090877200967,0,1,ro,ARP,Asia
 '85213d3f73',extremes,Heat Wave,#c40202,wmo,caniculă lg quatre laforge și fontanges,2026-06-11T07:14:00+00:00,Canada,0.3008686094500825,0,1,ro,NEN,North-America
 '47ff492c3a',extremes,Storm,#b3b2b1,wmo,val de furtună malampa shefa și provincia tafea,2026-06-12T07:05:00+00:00,Vanuatu,0.3006137502601456,0,1,ro,SPO,Oceania
-'432bab655c',extremes,Wildfire,#d60d2b,wmo,wildfire state unite,2026-06-06T06:08:00+00:00,United States,0.30032538947195103,0,1,ro,CNA,North-America
-'8deeb78802',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială belize,2026-06-12T07:05:00+00:00,Belize,0.30029976218318827,0,1,ro,SCA,North-America
+'432bab655c',extremes,Wildfire,#d60d2b,wmo,wildfire state unite,2026-06-06T06:08:00+00:00,United States,0.300325389471951,0,1,ro,CNA,North-America
+'8deeb78802',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială belize,2026-06-12T07:05:00+00:00,Belize,0.3002997621831882,0,1,ro,SCA,North-America
 'c502575656',extremes,Wildfire,#d60d2b,wmo,wildfire regiune yaroslavl,2026-05-26T06:31:00+00:00,Russia,0.3002339872733748,0,1,ro,ESB,Europe
 '2c6b443aaa',extremes,Storm,#b3b2b1,wmo,furtuna republica moldova,2026-05-29T06:38:00+00:00,Republic of Moldova,0.2948640297416938,3,1,ro,WCE,Europe
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,storm canada,2026-05-25T06:53:00+00:00,Canada,0.2934304838200862,3,2,ro,NEN,North-America
