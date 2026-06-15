@@ -26,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ger,2026-06-04T07:06:00+00:00,,0.3778426867667826,2,2,ro,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,dom de căldură,2026-05-16T05:40:00+00:00,,0.377109533352043,3,2,ro,,
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-05-21T06:35:00+00:00,Moldova,0.3722014758717469,2,1,ro,WCE,Europe
-'da1ae5191e',extremes,Storm,#b3b2b1,random,val de vijelie,2026-06-14T07:06:00+00:00,,0.3683469108287308,1,2,ro,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,furtună,2026-05-25T06:52:00+00:00,,0.3606652336463388,2,1,ro,,
 'e730b98a72',extremes,Thunderstorm,#53785a,wmo,furtuna romania,2026-05-17T06:01:00+00:00,Romania,0.3578436214328782,4,1,ro,WCE,Europe
 'f90601fa23',extremes,Volcano,#b83202,random,erupție vulcanică,2026-05-17T06:01:00+00:00,,0.3539894366106559,3,1,ro,,
@@ -50,23 +49,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-05-14T06:02:00+00:00,,0.319480899071204,1,2,ro,,
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-05-31T06:40:00+00:00,Moldova,0.3169763331972275,2,1,ro,WCE,Europe
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-05-27T06:46:00+00:00,,0.3137038158410328,2,1,ro,,
+'da1ae5191e',extremes,Storm,#b3b2b1,random,val de vijelie,2026-06-14T07:06:00+00:00,,0.3133949042044212,2,2,ro,,
 '52af874334',extremes,Drought,#edc291,random,ariditate,2026-05-07T05:46:00+00:00,,0.3124837413943351,2,2,ro,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclon bombă,2026-06-14T07:06:00+00:00,,0.3108829597266327,1,1,ro,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,ro,,
-'8b27d7924c',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială béchar,2026-06-14T07:07:00+00:00,Algeria,0.3045467118216011,0,1,ro,SAH,Africa
 '023d124975',extremes,Drought,#edc291,edo,uscăciune sri lanka,2026-06-04T07:06:00+00:00,Sri Lanka,0.3014238102859009,0,1,ro,BOB,Asia
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,precipitaţii región amazónica,2026-06-14T07:07:00+00:00,Ecuador,0.3010525913298929,0,1,ro,NWS,South-America
 'c40c3d7ce2',extremes,Flood,#030ba1,wmo,inundarea suediei,2026-06-12T07:05:00+00:00,Sweden,0.3010269461394207,0,1,ro,NEU,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,storm surge new zealand,2026-06-08T07:13:00+00:00,New Zealand,0.3010229603531492,0,1,ro,NZ,Oceania
 '7747997246',extremes,Fog,#d60d2b,wmo,ceata rusia,2026-06-06T06:08:00+00:00,Russia,0.3005839186905541,0,1,ro,ESB,Europe
-'037bb37761',extremes,Flood,#030ba1,wmo,inundatie state unite,2026-06-06T06:08:00+00:00,United States,0.30008800216859033,0,1,ro,CNA,North-America
-'e8c44a4946',extremes,Snow&Ice,#d60d2b,wmo,ger santarém,2026-06-12T07:05:00+00:00,Portugal,0.30006779538065914,0,1,ro,MED,Europe
-'23ce7b59e3',extremes,Storm,#b3b2b1,wmo,furtuna malampa shefa si provincia tafea,2026-06-14T07:07:00+00:00,Vanuatu,0.30006243810483735,0,1,ro,SPO,Oceania
+'037bb37761',extremes,Flood,#030ba1,wmo,inundatie state unite,2026-06-06T06:08:00+00:00,United States,0.3000880021685903,0,1,ro,CNA,North-America
+'e8c44a4946',extremes,Snow&Ice,#d60d2b,wmo,ger santarém,2026-06-12T07:05:00+00:00,Portugal,0.3000677953806591,0,1,ro,MED,Europe
+'23ce7b59e3',extremes,Storm,#b3b2b1,wmo,furtuna malampa shefa si provincia tafea,2026-06-14T07:07:00+00:00,Vanuatu,0.3000624381048373,0,1,ro,SPO,Oceania
 '0f8f3ed16f',extremes,Fog,#d60d2b,wmo,ceață regiunea novosibirsk,2026-06-12T07:05:00+00:00,Russia,0.2999468583031499,0,1,ro,ESB,Europe
-'5295642073',extremes,Flood,#030ba1,wmo,inundarea rusiei,2026-05-30T06:01:00+00:00,Russia,0.29973345773030136,0,1,ro,ESB,Europe
-'1617e554bb',extremes,Storm,#b3b2b1,wmo,valuri de vijelie zonele de coastă și offshore.,2026-06-13T06:38:00+00:00,Belize,0.29967624771909174,0,1,ro,SCA,North-America
+'5295642073',extremes,Flood,#030ba1,wmo,inundarea rusiei,2026-05-30T06:01:00+00:00,Russia,0.2997334577303013,0,1,ro,ESB,Europe
+'1617e554bb',extremes,Storm,#b3b2b1,wmo,valuri de vijelie zonele de coastă și offshore.,2026-06-13T06:38:00+00:00,Belize,0.2996762477190917,0,1,ro,SCA,North-America
 'f02f91db16',extremes,Snow&Ice,#d60d2b,wmo,îngheț din estul județului lemhi,2026-06-11T07:14:00+00:00,United States,0.2996730039411557,0,1,ro,CNA,North-America
-'74eaec292f',extremes,Earthquake,#870007,usgs,cutremur el tocuyo,2026-06-06T06:08:00+00:00,Venezuela,0.29958976887534633,0,1,ro,NSA,South-America
+'74eaec292f',extremes,Earthquake,#870007,usgs,cutremur el tocuyo,2026-06-06T06:08:00+00:00,Venezuela,0.2995897688753463,0,1,ro,NSA,South-America
 '4299cdd13a',extremes,Storm,#b3b2b1,wmo,storm surge ghana,2026-06-06T06:08:00+00:00,Ghana,0.2995862212876427,0,1,ro,WAF,Africa
 '0a8e5743d9',extremes,Landslide,#572c03,random,alunecare de teren,2026-06-14T07:06:00+00:00,,0.2980404069438449,1,1,ro,,
 '2c6b443aaa',extremes,Storm,#b3b2b1,wmo,furtuna republica moldova,2026-05-29T06:38:00+00:00,Republic of Moldova,0.2948640297416938,3,1,ro,WCE,Europe
@@ -118,6 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grindină canada,2026-05-25T06:53:00+00:00,Canada,0.2594220162000645,1,1,ro,NEN,North-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,furtuna brazil,2026-05-22T06:32:00+00:00,Brazil,0.2590402164635665,1,1,ro,SAM,South-America
 '97ba994d49',extremes,Earthquake,#870007,usgs,cutremur oman,2026-06-04T07:06:00+00:00,Oman,0.2590115146713732,1,1,ro,ARS,Indian Ocean
+'8b27d7924c',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială béchar,2026-06-14T07:07:00+00:00,Algeria,0.2588647050483609,1,1,ro,SAH,Africa
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,inundarea râului australia,2026-05-25T06:53:00+00:00,Australia,0.2588403195645711,1,1,ro,EAU,Oceania
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,inundație fulgerătoare tasmania,2026-05-31T06:41:00+00:00,Australia,0.2587622508976797,1,1,ro,SAU,Oceania
 '98db96b6de',extremes,Drought,#edc291,edo,secetă lituania,2026-05-17T06:01:00+00:00,Lithuania,0.258746206538817,1,1,ro,WCE,Europe
