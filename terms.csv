@@ -58,6 +58,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de frig,2026-06-16T08:27:00+00:00,,0.3021347386413177,2,1,ro,,
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,storm surge argentina,2026-06-06T06:08:00+00:00,Argentina,0.3019051017670832,0,1,ro,SES,South-America
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,avalanșă rusia,2026-06-06T06:08:00+00:00,Russia,0.3017859878497875,0,1,ro,ESB,Europe
+'84a2fde8e0',extremes,Heat Wave,#c40202,acwe,val de căldură australia,2026-06-14T07:07:00+00:00,Australia,0.300662405684369,0,1,ro,CAU,Oceania
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,inundarea statelor unite,2026-06-08T07:13:00+00:00,United States,0.29999624387150337,0,1,ro,CNA,North-America
+'b7181b9ed3',extremes,Storm,#b3b2b1,wmo,furtuna judetul inverness mabou si nord,2026-06-16T08:27:00+00:00,Canada,0.2998003208572942,0,1,ro,NEN,North-America
+'6eb74257af',extremes,Storm,#b3b2b1,wmo,stare de furtună din Kuweit,2026-06-16T08:27:00+00:00,Kuwait,0.29975067917429243,0,1,ro,ARP,Asia
+'f077ac38ed',extremes,Wildfire,#d60d2b,wmo,incendiu la sud de krasnoyarsk krai,2026-06-08T07:13:00+00:00,Russia,0.29964837833244146,0,1,ro,ESB,Europe
+'cb39822660',extremes,Fog,#d60d2b,wmo,ceață regiune kemerovo,2026-06-13T06:38:00+00:00,Russia,0.2995996735148775,0,1,ro,ESB,Europe
+'d721fe3dc0',extremes,Wildfire,#d60d2b,wmo,wildfire regiune kaluga,2026-06-12T07:05:00+00:00,Russia,0.29956724679665897,0,1,ro,ESB,Europe
+'df189581df',extremes,Wildfire,#d60d2b,wmo,wildfire regiune nizhny novgorod,2026-05-30T06:01:00+00:00,Russia,0.29956013740213044,0,1,ro,ESB,Europe
+'f2a6d25b24',extremes,Wildfire,#d60d2b,wmo,wildfire părți din troms,2026-06-06T06:08:00+00:00,Norway,0.2995592518910416,0,1,ro,NEU,Europe
+'815e4bf638',extremes,Drought,#edc291,edo,lipsa ploii ungaria,2026-06-04T07:06:00+00:00,Hungary,0.29954668712545146,0,1,ro,WCE,Europe
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,furtuna de nisip,2026-06-09T06:32:00+00:00,,0.2976037729038604,1,1,ro,,
 '2c6b443aaa',extremes,Storm,#b3b2b1,wmo,furtuna republica moldova,2026-05-29T06:38:00+00:00,Republic of Moldova,0.2948640297416938,3,1,ro,WCE,Europe
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,storm canada,2026-05-25T06:53:00+00:00,Canada,0.2934304838200862,3,2,ro,NEN,North-America
@@ -66,7 +76,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,poftă de frig,2026-05-21T06:34:00+00:00,,0.2893194896617156,2,1,ro,,
 '40f675561f',extremes,Heat Wave,#c40202,random,vara cea mai fierbinte,2026-05-22T06:31:00+00:00,,0.2887894781265173,2,1,ro,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,vrajă umedă,2026-05-31T06:40:00+00:00,,0.2884383800012831,2,1,ro,,
-'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ploaie puternică,2026-06-16T08:27:00+00:00,,0.28805473401762205,1,1,ro,,
+'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ploaie puternică,2026-06-16T08:27:00+00:00,,0.288054734017622,1,1,ro,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-05-20T06:32:00+00:00,,0.2879087024249206,2,1,ro,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mercurul scade,2026-05-16T05:40:00+00:00,,0.2865521677015584,2,1,ro,,
 '6636b82ba3',extremes,Thunderstorm,#53785a,wmo,furtuna libia,2026-05-25T06:53:00+00:00,Libya,0.2865348749532122,2,1,ro,SAH,Africa
