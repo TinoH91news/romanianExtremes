@@ -1,11 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,ger de noapte,2026-06-12T07:05:00+00:00,,0.5572941492711877,2,2,ro,,
 '0af4c11b9c',extremes,Precipitation,#d60d2b,wmo,ploaie romania,2026-06-09T06:32:00+00:00,Romania,0.5355542757465249,2,1,ro,WCE,Europe
 'e730b98a72',extremes,Thunderstorm,#53785a,wmo,furtuna romania,2026-06-06T06:08:00+00:00,Romania,0.5258253376287523,2,1,ro,WCE,Europe
 '244b4adc07',extremes,Landslide,#572c03,aidr,alunecare de teren australia,2026-06-10T06:49:00+00:00,Australia,0.5006399973418337,2,2,ro,EAU,Oceania
 'a652d575aa',extremes,Thunderstorm,#53785a,wmo,vreme severă românia,2026-06-03T07:23:00+00:00,Romania,0.4963295545503902,2,1,ro,WCE,Europe
 '3507a081a3',extremes,Precipitation,#d60d2b,wmo,precipitatii romania,2026-06-08T07:13:00+00:00,Romania,0.4931491001304068,2,1,ro,WCE,Europe
 '8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-05-22T06:32:00+00:00,Romania,0.4913484868084374,2,1,ro,WCE,Europe
+'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,ger de noapte,2026-06-12T07:05:00+00:00,,0.47385004188050955,3,2,ro,,
 '41210bc398',extremes,Thunderstorm,#53785a,wmo,grindină romania,2026-06-06T06:08:00+00:00,Romania,0.4725557312578363,2,1,ro,WCE,Europe
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,vârtej,2026-05-29T06:38:00+00:00,,0.4723545345114057,2,2,ro,,
 '560b05d603',extremes,Heat Wave,#c40202,random,val de căldură,2026-05-21T06:34:00+00:00,,0.4560625276686825,2,3,ro,,
@@ -81,7 +81,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,ploaie algeria,2026-06-10T06:49:00+00:00,Algeria,0.261033749902837,1,1,ro,SAH,Africa
 '538eadceb4',extremes,Heat Wave,#c40202,random,iarnă blândă,2026-06-08T07:13:00+00:00,,0.260947602511015,2,1,ro,,
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,ploaie Africa de Sud,2026-06-03T07:23:00+00:00,South Africa,0.2606442117370721,1,1,ro,WSAF,Africa
-'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitaţii ecuador,2026-06-03T07:23:00+00:00,Ecuador,0.2606071286441422,1,1,ro,NWS,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitaţii argentina,2026-05-28T06:38:00+00:00,Argentina,0.2605885498146594,1,1,ro,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie argentina,2026-05-28T06:38:00+00:00,Argentina,0.260396204693568,1,1,ro,SES,South-America
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,caniculă din noua gălă de sud,2026-05-29T06:39:00+00:00,Australia,0.2603897263383807,1,1,ro,EAU,Oceania
@@ -307,7 +306,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,ceață lituania,2026-06-06T06:08:00+00:00,Lithuania,0.2548626425002008,1,1,ro,WCE,Europe
 '1d47df9d63',extremes,Precipitation,#d60d2b,wmo,ploaie republică moldova,2026-06-06T06:08:00+00:00,Republic of Moldova,0.2548557632173273,1,1,ro,WCE,Europe
 '82e3d2a385',extremes,Flood,#030ba1,acwe,"nivel ridicat al apei, sudul australiei",2026-06-15T08:36:00+00:00,Australia,0.2548428526453533,1,1,ro,SAU,Oceania
-'b7181b9ed3',extremes,Storm,#b3b2b1,wmo,furtuna judetul inverness mabou si nord,2026-06-16T08:27:00+00:00,Canada,0.25483027272870007,1,1,ro,NEN,North-America
+'b7181b9ed3',extremes,Storm,#b3b2b1,wmo,furtuna judetul inverness mabou si nord,2026-06-16T08:27:00+00:00,Canada,0.2548302727287,1,1,ro,NEN,North-America
 '28cbb3e262',extremes,Heat Wave,#c40202,wmo,caniculă reg. 1 pampa reg. 2 pampa,2026-06-02T07:08:00+00:00,Chile,0.2548154983785388,1,1,ro,SWS,South-America
 '6eb74257af',extremes,Storm,#b3b2b1,wmo,stare de furtună din Kuweit,2026-06-16T08:27:00+00:00,Kuwait,0.2547880772981485,1,1,ro,ARP,Asia
 'cfa60f4659',extremes,Storm,#b3b2b1,wmo,val de furtună macao,2026-06-08T07:13:00+00:00,Macao,0.254757260750957,1,1,ro,EAS,Asia
@@ -316,15 +315,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0179e47b3d',extremes,Earthquake,#870007,usgs,cutremur unalaska,2026-06-15T08:36:00+00:00,Alaska,0.2547044812581152,1,1,ro,NWN,North-America
 'f077ac38ed',extremes,Wildfire,#d60d2b,wmo,incendiu la sud de krasnoyarsk krai,2026-06-08T07:13:00+00:00,Russia,0.2547011215825752,1,1,ro,ESB,Europe
 '37d17dd9bc',extremes,Flood,#030ba1,wmo,inundaţii fulgerătoare suedia,2026-06-15T08:36:00+00:00,Sweden,0.2546898732614984,1,1,ro,NEU,Europe
-'cb39822660',extremes,Fog,#d60d2b,wmo,ceață regiune kemerovo,2026-06-13T06:38:00+00:00,Russia,0.25465972248764585,1,1,ro,ESB,Europe
+'cb39822660',extremes,Fog,#d60d2b,wmo,ceață regiune kemerovo,2026-06-13T06:38:00+00:00,Russia,0.2546597224876458,1,1,ro,ESB,Europe
 '74eaec292f',extremes,Earthquake,#870007,usgs,cutremur el tocuyo,2026-06-06T06:08:00+00:00,Venezuela,0.2546513035440443,1,1,ro,NSA,South-America
 '4299cdd13a',extremes,Storm,#b3b2b1,wmo,storm surge ghana,2026-06-06T06:08:00+00:00,Ghana,0.2546482880944962,1,1,ro,WAF,Africa
 'd721fe3dc0',extremes,Wildfire,#d60d2b,wmo,wildfire regiune kaluga,2026-06-12T07:05:00+00:00,Russia,0.2546321597771601,1,1,ro,ESB,Europe
 'df189581df',extremes,Wildfire,#d60d2b,wmo,wildfire regiune nizhny novgorod,2026-05-30T06:01:00+00:00,Russia,0.2546261167918108,1,1,ro,ESB,Europe
-'f2a6d25b24',extremes,Wildfire,#d60d2b,wmo,wildfire părți din troms,2026-06-06T06:08:00+00:00,Norway,0.25462536410738534,1,1,ro,NEU,Europe
+'f2a6d25b24',extremes,Wildfire,#d60d2b,wmo,wildfire părți din troms,2026-06-06T06:08:00+00:00,Norway,0.2546253641073853,1,1,ro,NEU,Europe
 '815e4bf638',extremes,Drought,#edc291,edo,lipsa ploii ungaria,2026-06-04T07:06:00+00:00,Hungary,0.2546146840566337,1,1,ro,WCE,Europe
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,izbucnirea lacului glaciar,2026-06-04T07:06:00+00:00,,0.2531458524501219,2,1,ro,,
-'deaa4b70a0',extremes,Storm,#b3b2b1,random,furtuna de nisip,2026-06-09T06:32:00+00:00,,0.25296320696828134,2,1,ro,,
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,furtuna de nisip,2026-06-09T06:32:00+00:00,,0.2529632069682813,2,1,ro,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centru național pentru uragane,2026-05-28T06:38:00+00:00,,0.2462631341432895,2,1,ro,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ploaie puternică,2026-06-16T08:27:00+00:00,,0.2448465239149787,2,1,ro,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-05-18T06:38:00+00:00,,0.243462478176036,2,1,ro,,
@@ -350,14 +349,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60a34b83b0',extremes,Flood,#030ba1,acwe,inundarea australiei de sud,2026-06-04T07:06:00+00:00,Australia,0.226584821554404,2,1,ro,SAU,Oceania
 '053bb10e09',extremes,Heat Wave,#c40202,random,vara indiană,2026-05-23T05:52:00+00:00,,0.2256079275015335,2,1,ro,,
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,inundații hobart inundații rapide tasmania 2018,2026-06-01T07:30:00+00:00,Australia,0.2255233373813785,2,1,ro,SAU,Oceania
-'806dd08d67',extremes,Flood,#030ba1,acwe,inundare victoria,2026-06-15T08:36:00+00:00,Australia,0.22520832797600007,2,1,ro,SAU,Oceania
+'806dd08d67',extremes,Flood,#030ba1,acwe,inundare victoria,2026-06-15T08:36:00+00:00,Australia,0.225208327976,2,1,ro,SAU,Oceania
 '6977541e84',extremes,Drought,#edc291,edo,seceta madagascar,2026-06-02T07:08:00+00:00,Madagascar,0.2247283574836974,2,1,ro,MDG,Africa
 'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,caniculă europeană bordeaux,2026-05-30T06:01:00+00:00,France,0.2246831686045438,2,1,ro,,
 '53fda39314',extremes,Drought,#edc291,edo,lipsa ploii lituania,2026-05-30T06:01:00+00:00,Lithuania,0.2243590779356731,2,1,ro,WCE,Europe
 'ecd6c72a27',extremes,Drought,#edc291,edo,lipsa ploii madagascar,2026-06-01T07:30:00+00:00,Madagascar,0.2243354391249647,2,1,ro,MDG,Africa
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,caniculă din sudul australiei,2026-06-04T07:06:00+00:00,Australia,0.2240168014744836,2,1,ro,SAU,Oceania
 '6eff66ea81',extremes,Drought,#edc291,edo,uscăciune brunei,2026-06-02T07:08:00+00:00,Brunei,0.2239817222495634,2,1,ro,SEA,Asia
-'641ad67faf',extremes,Wildfire,#d60d2b,acwe,interdicție de incendiu australia de sud,2026-06-14T07:07:00+00:00,Australia,0.22392335398424407,2,1,ro,SAU,Oceania
+'641ad67faf',extremes,Wildfire,#d60d2b,acwe,interdicție de incendiu australia de sud,2026-06-14T07:07:00+00:00,Australia,0.223923353984244,2,1,ro,SAU,Oceania
 '2180c0c4a1',extremes,Drought,#edc291,edo,lipsa ploii polonia,2026-06-02T07:08:00+00:00,Poland,0.2236656131898338,2,1,ro,WCE,Europe
 '9f05eaaf90',extremes,Drought,#edc291,edo,secetă islanda,2026-05-21T06:35:00+00:00,Iceland,0.2228179403342017,2,1,ro,GIC,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,ploaie argentina,2026-05-28T06:38:00+00:00,Argentina,0.2227248703190035,2,1,ro,SES,South-America
@@ -375,11 +374,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '226e93183d',extremes,Precipitation,#d60d2b,wmo,precipitații the ranges of westland,2026-05-21T06:35:00+00:00,New Zealand,0.221896601574088,2,1,ro,NZ,Oceania
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,vreme severă canada,2026-05-30T06:01:00+00:00,Canada,0.2218799686281382,2,1,ro,NEN,North-America
 'aaee78223c',extremes,Precipitation,#d60d2b,wmo,averse regiune litoral e interandina,2026-05-23T05:53:00+00:00,Ecuador,0.2218188204107154,2,1,ro,NWS,South-America
-'4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,grindină libia,2026-06-01T07:30:00+00:00,Libya,0.22171163892674023,2,1,ro,SAH,Africa
-'895007d2de',extremes,Snow Avalanche,#deddd5,wmo,avalanșă norvegia,2026-05-20T06:33:00+00:00,Norway,0.22164531785589575,2,1,ro,NEU,Europe
+'4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,grindină libia,2026-06-01T07:30:00+00:00,Libya,0.2217116389267402,2,1,ro,SAH,Africa
+'895007d2de',extremes,Snow Avalanche,#deddd5,wmo,avalanșă norvegia,2026-05-20T06:33:00+00:00,Norway,0.2216453178558957,2,1,ro,NEU,Europe
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,precipitaţii Africa de Sud,2026-06-02T07:08:00+00:00,South Africa,0.2216261916044449,2,1,ro,WSAF,Africa
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială argentina,2026-05-27T06:46:00+00:00,Argentina,0.2215646637543017,2,1,ro,SES,South-America
 '9b59bee21e',extremes,Drought,#edc291,edo,secetă polonia,2026-05-22T06:32:00+00:00,Poland,0.2215386981732243,2,1,ro,WCE,Europe
+'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitaţii ecuador,2026-06-03T07:23:00+00:00,Ecuador,0.22151605934752086,2,1,ro,NWS,South-America
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială Noua Zeelandă,2026-05-30T06:01:00+00:00,New Zealand,0.2207852500122683,2,1,ro,NZ,Oceania
 '0006615477',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială canada,2026-05-28T06:38:00+00:00,Canada,0.2206203230554068,2,1,ro,NEN,North-America
 'ce4931e51e',extremes,Flood,#030ba1,wmo,inundație fulgerătoare South Australia Cooper Creek,2026-05-23T05:53:00+00:00,Australia,0.2206106280448353,2,1,ro,CAU,Oceania
