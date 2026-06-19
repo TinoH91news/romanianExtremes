@@ -26,6 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicală jangmi,2026-05-30T06:01:00+00:00,,0.380642705333965,2,2,ro,NPO,Pacific Ocean
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ger,2026-06-04T07:06:00+00:00,,0.3778426867667826,2,2,ro,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,dom de căldură,2026-05-16T05:40:00+00:00,,0.377109533352043,3,2,ro,,
+'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-05-27T06:46:00+00:00,,0.37247698039416194,2,2,ro,,
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-05-21T06:35:00+00:00,Moldova,0.3722014758717469,2,1,ro,WCE,Europe
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,furtună,2026-05-25T06:52:00+00:00,,0.3606652336463388,2,1,ro,,
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-06-12T07:05:00+00:00,Romania,0.3557426297887719,2,1,ro,WCE,Europe
@@ -66,7 +67,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,cea mai scăzută temperatură minimă,2026-06-03T07:22:00+00:00,,0.2808295777042456,2,1,ro,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,bruma,2026-05-21T06:34:00+00:00,,0.2795780677955303,2,1,ro,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,alunecare de teren,2026-06-14T07:06:00+00:00,,0.2783614639791912,2,1,ro,,
-'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-05-27T06:46:00+00:00,,0.2769601989157323,1,1,ro,,
 'f37139fe2d',extremes,Landslide,#572c03,random,alunecare de noroi,2026-05-30T06:01:00+00:00,,0.2764894024798242,1,1,ro,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-06-17T07:33:00+00:00,,0.2758905154527347,1,1,ro,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,furtună tropicală,2026-05-17T06:01:00+00:00,,0.275712309656798,1,1,ro,,
@@ -318,7 +318,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ccefefc59e',extremes,Drought,#edc291,random,secetă fulgerătoare,2026-05-22T06:31:00+00:00,,0.2411819494126325,2,1,ro,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,val de frig,2026-06-02T07:08:00+00:00,,0.2406712261335372,2,1,ro,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mercurul scade,2026-06-08T07:13:00+00:00,,0.2396088061993475,2,1,ro,,
-'59b5340b69',extremes,Precipitation,#d60d2b,random,frontul meteo,2026-06-04T07:06:00+00:00,,0.23919735461902245,2,1,ro,,
+'59b5340b69',extremes,Precipitation,#d60d2b,random,frontul meteo,2026-06-04T07:06:00+00:00,,0.2391973546190224,2,1,ro,,
 'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,vrajă de frig vestul australiei,2026-05-27T06:46:00+00:00,Australia,0.2307075435203133,2,1,ro,CAU,Oceania
 '1927a6d4e9',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicală amanda,2026-06-04T07:06:00+00:00,,0.2305342680007449,2,1,ro,NPO,Pacific Ocean
 '70bae49ea5',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicală boris,2026-06-12T07:05:00+00:00,,0.2305024678366231,2,1,ro,SCA,North-America
@@ -385,5 +385,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe5ac6d3b6',extremes,Drought,#edc291,edo,lipsa ploii slovacia,2026-05-26T06:31:00+00:00,Slovakia,0.2200152252958173,2,1,ro,WCE,Europe
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,furtuna tanzania,2026-05-20T06:33:00+00:00,Tanzania,0.2200139576567218,2,1,ro,SEAF,Africa
 '9e020e244e',extremes,Drought,#edc291,edo,uscăciune polonia,2026-05-23T05:53:00+00:00,Poland,0.2198067691437332,2,1,ro,WCE,Europe
-'769c0da087',extremes,Storm,#b3b2b1,wmo,stare de furtună din Kuweit,2026-06-16T08:27:00+00:00,Kuwait,0.21925806955090912,2,1,ro,ARP,Asia
-'3bd2789f86',extremes,Earthquake,#870007,usgs,cutremur şalālah,2026-06-01T07:30:00+00:00,Oman,0.21874712502208876,2,1,ro,ARS,Indian Ocean
+'769c0da087',extremes,Storm,#b3b2b1,wmo,stare de furtună din Kuweit,2026-06-16T08:27:00+00:00,Kuwait,0.2192580695509091,2,1,ro,ARP,Asia
+'3bd2789f86',extremes,Earthquake,#870007,usgs,cutremur şalālah,2026-06-01T07:30:00+00:00,Oman,0.2187471250220887,2,1,ro,ARS,Indian Ocean
