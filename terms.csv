@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'d6c0bf69d6',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială romania,2026-06-10T06:49:00+00:00,Romania,0.6531248186287519,0,1,ro,WCE,Europe
 'a652d575aa',extremes,Thunderstorm,#53785a,wmo,vreme severă românia,2026-06-03T07:23:00+00:00,Romania,0.4963295545503902,2,1,ro,WCE,Europe
 '3507a081a3',extremes,Precipitation,#d60d2b,wmo,precipitatii romania,2026-06-08T07:13:00+00:00,Romania,0.4931491001304068,2,1,ro,WCE,Europe
 '8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-05-22T06:32:00+00:00,Romania,0.4913484868084374,2,1,ro,WCE,Europe
@@ -6,6 +7,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,ger de noapte,2026-06-12T07:05:00+00:00,,0.4738500418805095,3,2,ro,,
 '41210bc398',extremes,Thunderstorm,#53785a,wmo,grindină romania,2026-06-06T06:08:00+00:00,Romania,0.4725557312578363,2,1,ro,WCE,Europe
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,vârtej,2026-05-29T06:38:00+00:00,,0.4723545345114057,2,2,ro,,
+'030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-06-13T06:38:00+00:00,Moldova,0.45855308095846015,0,1,ro,WCE,Europe
 '560b05d603',extremes,Heat Wave,#c40202,random,val de căldură,2026-05-21T06:34:00+00:00,,0.4560625276686825,2,3,ro,,
 '0af4c11b9c',extremes,Precipitation,#d60d2b,wmo,ploaie romania,2026-06-09T06:32:00+00:00,Romania,0.4555211643845461,3,1,ro,WCE,Europe
 'd82b7a522b',extremes,Thunderstorm,#53785a,wmo,furtună arad bihor timiș,2026-06-12T07:05:00+00:00,Romania,0.4526082206600034,2,1,ro,WCE,Europe
@@ -21,8 +23,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '75579b650e',extremes,Drought,#edc291,edo,seceta romania,2026-06-07T06:48:00+00:00,Romania,0.4094669353026616,2,1,ro,WCE,Europe
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,taifun,2026-05-23T05:52:00+00:00,,0.3941324329527552,3,2,ro,,
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,ploaie canada,2026-05-15T06:09:00+00:00,Canada,0.3914968297564788,3,2,ro,NEN,North-America
-'f37139fe2d',extremes,Landslide,#572c03,random,alunecare de noroi,2026-05-30T06:01:00+00:00,,0.38516600710785054,2,2,ro,,
+'f37139fe2d',extremes,Landslide,#572c03,random,alunecare de noroi,2026-05-30T06:01:00+00:00,,0.3851660071078505,2,2,ro,,
 'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicală jangmi,2026-05-30T06:01:00+00:00,,0.380642705333965,2,2,ro,NPO,Pacific Ocean
+'8a1a9038c3',extremes,Storm,#b3b2b1,random,viscol,2026-06-14T07:06:00+00:00,,0.37845620509943045,0,1,ro,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ger,2026-06-04T07:06:00+00:00,,0.3778426867667826,2,2,ro,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,dom de căldură,2026-05-16T05:40:00+00:00,,0.377109533352043,3,2,ro,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-05-27T06:46:00+00:00,,0.3724769803941619,2,2,ro,,
@@ -45,8 +48,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,uragan,2026-06-12T07:05:00+00:00,,0.3253922877853941,2,1,ro,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-05-14T06:02:00+00:00,,0.319480899071204,1,2,ro,,
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-05-31T06:40:00+00:00,Moldova,0.3169763331972275,2,1,ro,WCE,Europe
+'16afad5339',extremes,Heat Wave,#c40202,acwe,iarnă blândă sudul australiei,2026-06-19T07:39:00+00:00,Australia,0.3141477408125901,0,1,ro,CAU,Oceania
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-05-27T06:46:00+00:00,,0.3137038158410328,2,1,ro,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,val de vijelie,2026-06-14T07:06:00+00:00,,0.3133949042044212,2,2,ro,,
+'792a35d4a4',extremes,Flood,#030ba1,random,inundaţie pluvială,2026-06-18T07:16:00+00:00,,0.3094191771759335,0,1,ro,,
+'c22c0da855',extremes,Precipitation,#d60d2b,wmo,precipitaţii canada,2026-06-09T06:32:00+00:00,Canada,0.3075303806793295,0,1,ro,NEN,North-America
+'98db96b6de',extremes,Drought,#edc291,edo,secetă lituania,2026-06-07T06:48:00+00:00,Lithuania,0.30586467840212317,0,1,ro,WCE,Europe
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de frig,2026-06-16T08:27:00+00:00,,0.3021347386413177,2,1,ro,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,furtună cu grindină,2026-06-17T07:33:00+00:00,,0.2952823528454438,2,1,ro,,
 '2c6b443aaa',extremes,Storm,#b3b2b1,wmo,furtuna republica moldova,2026-05-29T06:38:00+00:00,Republic of Moldova,0.2948640297416938,3,1,ro,WCE,Europe
@@ -364,9 +371,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe5ac6d3b6',extremes,Drought,#edc291,edo,lipsa ploii slovacia,2026-05-26T06:31:00+00:00,Slovakia,0.2200152252958173,2,1,ro,WCE,Europe
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,furtuna tanzania,2026-05-20T06:33:00+00:00,Tanzania,0.2200139576567218,2,1,ro,SEAF,Africa
 '9e020e244e',extremes,Drought,#edc291,edo,uscăciune polonia,2026-05-23T05:53:00+00:00,Poland,0.2198067691437332,2,1,ro,WCE,Europe
-'0511e6ef31',extremes,Drought,#edc291,edo,vrajă de secetă Estonia,2026-06-01T07:30:00+00:00,Estonia,0.21979616178338837,2,1,ro,NEU,Europe
+'0511e6ef31',extremes,Drought,#edc291,edo,vrajă de secetă Estonia,2026-06-01T07:30:00+00:00,Estonia,0.2197961617833883,2,1,ro,NEU,Europe
 '769c0da087',extremes,Storm,#b3b2b1,wmo,stare de furtună din Kuweit,2026-06-16T08:27:00+00:00,Kuwait,0.2192580695509091,2,1,ro,ARP,Asia
 '3bd2789f86',extremes,Earthquake,#870007,usgs,cutremur şalālah,2026-06-01T07:30:00+00:00,Oman,0.2187471250220887,2,1,ro,ARS,Indian Ocean
 'de55985e54',extremes,Earthquake,#870007,usgs,cutremur hadibu,2026-06-08T07:13:00+00:00,Yemen,0.2183087220913758,2,1,ro,ARS,Indian Ocean
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială brazilia,2026-05-23T05:53:00+00:00,Brazil,0.2179266767712677,2,1,ro,SAM,South-America
-'9c4d852f5b',extremes,Earthquake,#870007,usgs,cutremur la nord de svalbard,2026-06-04T07:06:00+00:00,,0.21775608096643914,2,1,ro,ARO,Arctica
+'9c4d852f5b',extremes,Earthquake,#870007,usgs,cutremur la nord de svalbard,2026-06-04T07:06:00+00:00,,0.2177560809664391,2,1,ro,ARO,Arctica
