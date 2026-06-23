@@ -31,10 +31,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-05-27T06:46:00+00:00,,0.3724769803941619,2,2,ro,,
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-05-21T06:35:00+00:00,Moldova,0.3722014758717469,2,1,ro,WCE,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcan,2026-06-20T06:46:00+00:00,,0.3674466823208597,1,1,ro,,
-'053bb10e09',extremes,Heat Wave,#c40202,random,vara indiană,2026-06-18T07:16:00+00:00,,0.3643675936207747,0,1,ro,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,furtună,2026-05-25T06:52:00+00:00,,0.3606652336463388,2,1,ro,,
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-06-12T07:05:00+00:00,Romania,0.3557426297887719,2,1,ro,WCE,Europe
-'b8eb47bf7f',extremes,Heat Wave,#c40202,random,dom de căldură,2026-06-07T06:48:00+00:00,,0.3551694510969091,0,1,ro,,
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,ploaie bulgaria,2026-06-12T07:05:00+00:00,Bulgaria,0.3472758256782543,2,2,ro,MED,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,vara cea mai fierbinte,2026-06-11T07:14:00+00:00,,0.3460513214951737,0,1,ro,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-06-07T06:48:00+00:00,,0.3460441440176059,1,2,ro,,
@@ -49,6 +47,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-06-13T06:38:00+00:00,Moldova,0.3313046009924874,2,1,ro,WCE,Europe
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-06-13T06:38:00+00:00,,0.3292341059786993,1,2,ro,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,uragan,2026-06-12T07:05:00+00:00,,0.3253922877853941,2,1,ro,,
+'b8eb47bf7f',extremes,Heat Wave,#c40202,random,dom de căldură,2026-06-07T06:48:00+00:00,,0.3243727098609442,1,1,ro,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,viscol,2026-06-14T07:06:00+00:00,,0.3225878643345158,1,1,ro,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,furtună tropicală,2026-06-13T06:38:00+00:00,,0.3216553197878139,1,1,ro,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,bruma,2026-06-15T08:36:00+00:00,,0.3196921037041809,1,1,ro,,
@@ -58,12 +57,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f314bb7747',extremes,Flood,#030ba1,aidr,inundaţii pluviale australia,2026-06-13T06:38:00+00:00,Australia,0.3136863097585858,0,1,ro,EAU,Oceania
 'da1ae5191e',extremes,Storm,#b3b2b1,random,val de vijelie,2026-06-14T07:06:00+00:00,,0.3133949042044212,2,2,ro,,
 'a652c78afc',extremes,Drought,#edc291,random,megasecetă,2026-06-22T08:39:00+00:00,,0.311667023984557,1,1,ro,,
+'053bb10e09',extremes,Heat Wave,#c40202,random,vara indiană,2026-06-18T07:16:00+00:00,,0.3097124545776585,1,1,ro,,
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,precipitaţii new zealand,2026-06-19T07:39:00+00:00,New Zealand,0.3084934625323377,0,1,ro,NZ,Oceania
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-06-18T07:16:00+00:00,Brazil,0.3084645821833535,0,1,ro,SAM,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială brazilia,2026-06-12T07:05:00+00:00,Brazil,0.3083576797969789,0,1,ro,SAM,South-America
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie arabia saudită,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3083570713036944,0,1,ro,ARP,Asia
-'a77fe28103',extremes,Precipitation,#d60d2b,wmo,ploaie auckland și insula Great Barrier,2026-06-23T06:33:00+00:00,New Zealand,0.30822045363122696,0,1,ro,NZ,Oceania
-'82db593da5',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie peninsula Coromandel,2026-06-23T06:33:00+00:00,New Zealand,0.30807827520948644,0,1,ro,NZ,Oceania
+'a77fe28103',extremes,Precipitation,#d60d2b,wmo,ploaie auckland și insula Great Barrier,2026-06-23T06:33:00+00:00,New Zealand,0.3082204536312269,0,1,ro,NZ,Oceania
+'82db593da5',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie peninsula Coromandel,2026-06-23T06:33:00+00:00,New Zealand,0.3080782752094864,0,1,ro,NZ,Oceania
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie Costa Rica,2026-06-23T06:33:00+00:00,Costa Rica,0.3063112568852629,0,1,ro,SCA,North-America
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,storm surge madagascar,2026-06-22T08:39:00+00:00,Madagascar,0.3054120431594204,0,1,ro,MDG,Africa
 '3336c980ab',extremes,Earthquake,#870007,usgs,cutremur sfanta elena,2026-06-21T07:16:00+00:00,Saint Helena,0.304183301583773,0,1,ro,EAO,Atlantic Ocean
