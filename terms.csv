@@ -50,23 +50,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40f675561f',extremes,Heat Wave,#c40202,random,vara cea mai fierbinte,2026-06-11T07:14:00+00:00,,0.3220031628635963,2,1,ro,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,furtună tropicală,2026-06-13T06:38:00+00:00,,0.3216553197878139,1,1,ro,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,bruma,2026-06-15T08:36:00+00:00,,0.3196921037041809,1,1,ro,,
-'0642c90e96',extremes,Iceberg,#d60d2b,eonet,aisberg b22f,2026-06-24T06:29:00+00:00,Antarctica,0.3170366054315546,0,1,ro,WAN,Antarctica
 'bb960b1994',extremes,Drought,#edc291,edo,uscăciune moldova,2026-05-31T06:40:00+00:00,Moldova,0.3169763331972275,2,1,ro,WCE,Europe
-'b87a41f64c',extremes,Iceberg,#d60d2b,eonet,aisberg a76c,2026-06-24T06:29:00+00:00,Antarctica,0.3160494325111736,0,1,ro,WAN,Antarctica
-'10fd2d8d46',extremes,Iceberg,#d60d2b,eonet,aisberg a81,2026-06-24T06:29:00+00:00,Antarctica,0.3159814968609215,0,1,ro,EAN,Antarctica
-'729f81e9bb',extremes,Iceberg,#d60d2b,eonet,aisberg b22h,2026-06-24T06:29:00+00:00,Antarctica,0.3151917905018551,0,1,ro,WAN,Antarctica
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-05-27T06:46:00+00:00,,0.3137038158410328,2,1,ro,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,val de vijelie,2026-06-14T07:06:00+00:00,,0.3133949042044212,2,2,ro,,
-'595acbcf9f',extremes,Heat Wave,#c40202,random,cea mai fierbinte zi,2026-06-06T06:08:00+00:00,,0.3126735894040318,1,1,ro,,
 '5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,aisberg d33b,2026-06-24T06:29:00+00:00,,0.3124380319247081,0,1,ro,EAN,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antarctica,2026-06-06T06:08:00+00:00,,0.3093406349877013,2,1,ro,,
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitatii brazil,2026-06-16T08:27:00+00:00,Brazil,0.3082874121609948,0,1,ro,SAM,South-America
-'155c83286e',extremes,Precipitation,#d60d2b,wmo,ploaie peninsula coromandel,2026-06-24T06:30:00+00:00,New Zealand,0.30756940341547295,0,1,ro,NZ,Oceania
-'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,inghet brazilia,2026-06-15T08:36:00+00:00,Brazil,0.30561891596238305,0,1,ro,SAM,South-America
+'155c83286e',extremes,Precipitation,#d60d2b,wmo,ploaie peninsula coromandel,2026-06-24T06:30:00+00:00,New Zealand,0.3075694034154729,0,1,ro,NZ,Oceania
+'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,inghet brazilia,2026-06-15T08:36:00+00:00,Brazil,0.305618915962383,0,1,ro,SAM,South-America
 '39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,wildfire antarctica,2026-06-24T06:30:00+00:00,Antarctica,0.305113404069782,0,1,ro,EAN,
-'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,drumul înghețat al coroanei,2026-06-24T06:30:00+00:00,New Zealand,0.30385291777320317,0,1,ro,NZ,Oceania
-'f3f61a0510',extremes,Flood,#030ba1,wmo,inundație regiune tomsk,2026-06-15T08:36:00+00:00,Russia,0.30374759513732363,0,1,ro,ESB,Europe
-'9044bc0335',extremes,Earthquake,#870007,usgs,cutremur georgetown,2026-06-24T06:29:00+00:00,Saint Helena,0.30343255643902944,0,1,ro,EAO,Atlantic Ocean
+'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,drumul înghețat al coroanei,2026-06-24T06:30:00+00:00,New Zealand,0.3038529177732031,0,1,ro,NZ,Oceania
+'f3f61a0510',extremes,Flood,#030ba1,wmo,inundație regiune tomsk,2026-06-15T08:36:00+00:00,Russia,0.3037475951373236,0,1,ro,ESB,Europe
+'9044bc0335',extremes,Earthquake,#870007,usgs,cutremur georgetown,2026-06-24T06:29:00+00:00,Saint Helena,0.3034325564390294,0,1,ro,EAO,Atlantic Ocean
 '8db658717e',extremes,Flood,#030ba1,wmo,flashflood australia,2026-06-06T06:08:00+00:00,Australia,0.3030088995909043,0,1,ro,CAU,Oceania
 '70773b5956',extremes,Earthquake,#870007,usgs,cutremur alaska,2026-06-06T06:08:00+00:00,Alaska,0.3028278567915032,0,1,ro,NPO,Pacific Ocean
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,lapovita,2026-06-24T06:29:00+00:00,,0.3022091100587399,1,1,ro,,
@@ -80,6 +75,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclon,2026-05-27T06:46:00+00:00,,0.2848309429865317,2,1,ro,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,nămol de zăpadă,2026-06-06T06:08:00+00:00,,0.2844891298909957,2,1,ro,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grindină,2026-05-26T06:31:00+00:00,,0.2842618918430026,2,2,ro,,
+'595acbcf9f',extremes,Heat Wave,#c40202,random,cea mai fierbinte zi,2026-06-06T06:08:00+00:00,,0.28377285099342703,2,1,ro,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-06-10T06:49:00+00:00,,0.283145775795356,2,1,ro,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,precipitaţii record,2026-06-10T06:49:00+00:00,,0.2816876614697491,2,1,ro,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gheață de mare arctică,2026-06-21T07:16:00+00:00,,0.2808973842223075,2,1,ro,,
@@ -90,6 +86,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umiditatea solului,2026-06-02T07:08:00+00:00,,0.2710853435909836,2,1,ro,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-06-20T06:46:00+00:00,,0.2701690259947583,1,1,ro,,
 'd306e1819b',extremes,Iceberg,#d60d2b,eonet,aisberg d33a,2026-06-24T06:29:00+00:00,,0.2700689821095424,1,1,ro,EAN,
+'0642c90e96',extremes,Iceberg,#d60d2b,eonet,aisberg b22f,2026-06-24T06:29:00+00:00,Antarctica,0.2694811146168214,1,1,ro,WAN,Antarctica
+'b87a41f64c',extremes,Iceberg,#d60d2b,eonet,aisberg a76c,2026-06-24T06:29:00+00:00,Antarctica,0.2686420176344976,1,1,ro,WAN,Antarctica
+'10fd2d8d46',extremes,Iceberg,#d60d2b,eonet,aisberg a81,2026-06-24T06:29:00+00:00,Antarctica,0.2685842723317832,1,1,ro,EAN,Antarctica
+'729f81e9bb',extremes,Iceberg,#d60d2b,eonet,aisberg b22h,2026-06-24T06:29:00+00:00,Antarctica,0.2679130219265768,1,1,ro,WAN,Antarctica
 'f314bb7747',extremes,Flood,#030ba1,aidr,inundaţii pluviale australia,2026-06-13T06:38:00+00:00,Australia,0.2666333632947979,1,1,ro,EAU,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-05-26T06:31:00+00:00,,0.2665943497400583,2,1,ro,,
 'a652c78afc',extremes,Drought,#edc291,random,megasecetă,2026-06-22T08:39:00+00:00,,0.2649169703868734,2,1,ro,,
