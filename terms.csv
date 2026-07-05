@@ -17,6 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e730b98a72',extremes,Thunderstorm,#53785a,wmo,furtuna romania,2026-06-06T06:08:00+00:00,Romania,0.4469515369844394,3,1,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-06-15T08:36:00+00:00,Moldova,0.4465899386531334,2,1,ro,WCE,Europe
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanșă,2026-07-04T05:59:00+00:00,,0.4406632300719766,1,2,ro,,
+'a5ff1cde4a',extremes,Drought,#edc291,random,umiditatea solului,2026-06-22T08:39:00+00:00,,0.4404867546964091,1,2,ro,,
 '223aafcb65',extremes,Precipitation,#d60d2b,wmo,precipitaţii moldova,2026-06-02T07:08:00+00:00,Moldova,0.4352785104480521,3,1,ro,WCE,Europe
 '985dfb1189',extremes,Drought,#edc291,edo,lipsa ploii romania,2026-06-19T07:39:00+00:00,Romania,0.430134964566786,2,1,ro,WCE,Europe
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,vreme severă,2026-06-12T07:05:00+00:00,,0.4291004668824064,1,2,ro,,
@@ -44,7 +45,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,ploaie bulgaria,2026-06-12T07:05:00+00:00,Bulgaria,0.3472758256782543,2,2,ro,MED,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,anul cel mai rece,2026-06-07T06:48:00+00:00,,0.3460441440176059,1,2,ro,,
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,furtună india,2026-06-30T06:39:00+00:00,India,0.3441910383242963,2,2,ro,SAS,Asia
-'a5ff1cde4a',extremes,Drought,#edc291,random,umiditatea solului,2026-06-22T08:39:00+00:00,,0.3413961467016578,0,1,ro,,
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-06-23T06:33:00+00:00,Moldova,0.3386236513802718,2,1,ro,WCE,Europe
 '1405131905',extremes,Thunderstorm,#53785a,random,grindină,2026-06-03T07:22:00+00:00,,0.3378042835620071,1,2,ro,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,furtună,2026-06-10T06:49:00+00:00,,0.3355218367375092,2,1,ro,,
@@ -80,7 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,precipitaţii tanzania,2026-07-04T05:59:00+00:00,Tanzania,0.3014057390895612,0,1,ro,SEAF,Africa
 '9d70153cdd',extremes,Precipitation,#d60d2b,wmo,precipitaţii mali,2026-07-04T05:59:00+00:00,Mali,0.3004390034314508,0,1,ro,SAH,Africa
 'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,îngheț milford road sh94,2026-07-04T05:59:00+00:00,New Zealand,0.3004277135908473,0,1,ro,NZ,Oceania
-'4dbc33b191',extremes,Wildfire,#d60d2b,wmo,incendiu din regiune novosibirsk,2026-06-27T06:08:00+00:00,Russia,0.30033277099143313,0,1,ro,ESB,Europe
+'4dbc33b191',extremes,Wildfire,#d60d2b,wmo,incendiu din regiune novosibirsk,2026-06-27T06:08:00+00:00,Russia,0.3003327709914331,0,1,ro,ESB,Europe
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,furtuna india,2026-06-30T06:39:00+00:00,India,0.3002815750674951,0,1,ro,SAS,Asia
 '59b529f428',extremes,Thunderstorm,#53785a,random,furtună cu grindină,2026-06-17T07:33:00+00:00,,0.2952823528454438,2,1,ro,,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,ploaie torenţială,2026-06-29T07:12:00+00:00,,0.2866935881627986,2,1,ro,,
