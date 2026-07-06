@@ -1,550 +1,483 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Thursday,Thursday,DATE,,,en,60.19999999999993
-morning,morning,TIME,,,en,54.49999999999994
+Thursday,Thursday,DATE,,,en,61.99999999999993
+morning,morning,TIME,,,en,55.39999999999994
+two,two,CARDINAL,,,en,42.099999999999966
 Monday,Monday,DATE,,,en,40.99999999999997
 Saturday,Saturday,DATE,,,en,38.699999999999974
-two,two,CARDINAL,,,en,35.799999999999976
 Friday,Friday,DATE,,,en,33.69999999999999
 Tuesday,Tuesday,DATE,,,en,32.99999999999998
-Wednesday,Wednesday,DATE,,,en,29.499999999999993
-Sunday,Sunday,DATE,,,en,26.599999999999994
+Wednesday,Wednesday,DATE,,,en,31.29999999999999
+Sunday,Sunday,DATE,,,en,27.799999999999994
+winter,winter,DATE,,,en,25.999999999999993
 first,first,ORDINAL,,,en,24.9
-winter,winter,DATE,,,en,24.199999999999996
 evening,evening,TIME,,,en,21.199999999999996
+one,one,CARDINAL,,,en,19.000000000000004
 Romanian,Romanian,NORP,,,en,18.500000000000004
 Romanians,Romanians,NORP,,,en,17.0
-one,one,CARDINAL,,,en,16.40000000000001
-Two,Two,CARDINAL,,,en,14.800000000000002
+Two,Two,CARDINAL,,,en,15.700000000000003
 thousands,thousands,CARDINAL,,,en,13.700000000000003
+summer,summer,DATE,,,en,13.100000000000003
 Russian,Russian,NORP,,,en,13.100000000000001
 today,today,DATE,,,en,13.0
-summer,summer,DATE,,,en,12.200000000000003
 5,5,CARDINAL,,,en,10.900000000000002
 half,half,CARDINAL,,,en,10.500000000000002
+second,second,ORDINAL,,,en,10.200000000000003
+afternoon,afternoon,TIME,,,en,10.100000000000001
 American,American,NORP,,,en,10.1
 noon,noon,TIME,,,en,10.000000000000002
 night,night,TIME,,,en,9.500000000000002
 Easter,Easter,EVENT,1.156862745098039,2.856209150326797,en,9.500000000000002
 dozens,dozens,CARDINAL,,,en,9.3
-afternoon,afternoon,TIME,,,en,9.200000000000001
 7.4,7.4,CARDINAL,,,en,9.100000000000001
 Ukrainian,Ukrainian,NORP,,,en,9.1
 2025,2025,DATE,,,en,8.8
 10,10,CARDINAL,,,en,8.700000000000001
 the coming days,the coming days,DATE,,,en,8.700000000000001
-second,second,ORDINAL,,,en,8.600000000000001
 Dozens,Dozens,CARDINAL,,,en,8.6
+One,One,CARDINAL,,,en,8.2
 Winter,Winter,DATE,,,en,7.600000000000001
 3,3,CARDINAL,,,en,7.5
-One,One,CARDINAL,,,en,7.5
-eight,eight,CARDINAL,,,en,7.300000000000001
 Thousands,Thousands,CARDINAL,,,en,7.300000000000001
+eight,eight,CARDINAL,,,en,7.300000000000001
 French,French,NORP,,,en,6.999999999999999
+Japanese,Japanese,NORP,,,en,6.900000000000001
 the night,the night,TIME,,,en,6.9
 hundreds,hundreds,CARDINAL,,,en,6.9
 this weekend,this weekend,DATE,,,en,6.7
 more than half,more than half,CARDINAL,,,en,6.6000000000000005
 15,15,CARDINAL,,,en,6.500000000000001
+three,three,CARDINAL,,,en,6.4
 January,January,DATE,,,en,6.3
-three,three,CARDINAL,,,en,6.1000000000000005
-Japanese,Japanese,NORP,,,en,6.000000000000001
+five,five,CARDINAL,,,en,6.3
+May,May,DATE,,,en,6.1000000000000005
 next week,next week,DATE,,,en,5.9
 European,European,NORP,,,en,5.500000000000001
 the day,the day,DATE,,,en,5.5
 2026,2026,DATE,,,en,5.499999999999999
 six,six,CARDINAL,,,en,5.399999999999999
-10:00 a.m.,10:00 a.m.,TIME,,,en,4.8999999999999995
+Three,Three,CARDINAL,,,en,5.299999999999999
+the last 24 hours,the last 24 hours,TIME,,,en,5.2
 last year,last year,DATE,,,en,4.8999999999999995
-12,12,CARDINAL,,,en,4.8999999999999995
-4,4,CARDINAL,,,en,4.8999999999999995
-five,five,CARDINAL,,,en,4.8999999999999995
 German,German,NORP,,,en,4.8999999999999995
+12,12,CARDINAL,,,en,4.8999999999999995
+10:00 a.m.,10:00 a.m.,TIME,,,en,4.8999999999999995
+4,4,CARDINAL,,,en,4.8999999999999995
 the next few days,the next few days,DATE,,,en,4.6
-3.3,3.3,CARDINAL,,,en,4.6
 up to,up to,QUANTITY,,,en,4.6
+3.3,3.3,CARDINAL,,,en,4.6
 Monday morning,Monday morning,TIME,,,en,4.6
-May 1,May 1,DATE,,,en,4.5
-May,May,DATE,,,en,4.5
-Iranian,Iranian,NORP,,,en,4.5
 tomorrow,tomorrow,DATE,,,en,4.5
+May 1,May 1,DATE,,,en,4.5
 this year,this year,DATE,,,en,4.5
+Iranian,Iranian,NORP,,,en,4.5
 February,February,DATE,,,en,4.5
-Three,Three,CARDINAL,,,en,4.3999999999999995
-the last 24 hours,the last 24 hours,TIME,,,en,4.3
 25,25,CARDINAL,,,en,4.2
+6.9,6.9,CARDINAL,,,en,4.1000000000000005
 Banat,Banat,NORP,0.1554054054054054,0.2545045045045045,en,4.0
-a Yellow Code,a Yellow Code,LAW,,,en,3.9999999999999996
+this week,this week,DATE,,,en,4.0
 2,2,CARDINAL,,,en,3.9999999999999996
 2023,2023,DATE,,,en,3.9999999999999996
+a Yellow Code,a Yellow Code,LAW,,,en,3.9999999999999996
 The day,The day,DATE,,,en,3.8999999999999995
-6.1,6.1,CARDINAL,,,en,3.6999999999999997
-14,14,CARDINAL,,,en,3.6999999999999997
-"over 1,800 meters","over 1,800 meters",QUANTITY,,,en,3.6999999999999997
-Yellow Code,Yellow Code,LAW,,,en,3.6999999999999997
-Half,Half,CARDINAL,,,en,3.6999999999999997
-12:00,12:00,TIME,,,en,3.6999999999999997
-tonight,tonight,TIME,,,en,3.6999999999999997
-the morning,the morning,TIME,,,en,3.6999999999999997
-4.4,4.4,CARDINAL,,,en,3.6999999999999997
-7.8,7.8,CARDINAL,,,en,3.6999999999999997
+6,6,CARDINAL,,,en,3.8
 Four,Four,CARDINAL,,,en,3.6999999999999997
-hundreds of thousands,hundreds of thousands,CARDINAL,,,en,3.6999999999999997
+"over 1,800 meters","over 1,800 meters",QUANTITY,,,en,3.6999999999999997
+Half,Half,CARDINAL,,,en,3.6999999999999997
+Yellow Code,Yellow Code,LAW,,,en,3.6999999999999997
 almost half,almost half,CARDINAL,,,en,3.6999999999999997
+7.8,7.8,CARDINAL,,,en,3.6999999999999997
+tonight,tonight,TIME,,,en,3.6999999999999997
+hundreds of thousands,hundreds of thousands,CARDINAL,,,en,3.6999999999999997
 5.8,5.8,CARDINAL,,,en,3.6999999999999997
+12:00,12:00,TIME,,,en,3.6999999999999997
+the morning,the morning,TIME,,,en,3.6999999999999997
 10:00,10:00,TIME,,,en,3.6999999999999997
+14,14,CARDINAL,,,en,3.6999999999999997
+6.1,6.1,CARDINAL,,,en,3.6999999999999997
+4.4,4.4,CARDINAL,,,en,3.6999999999999997
 millions,millions,CARDINAL,,,en,3.6999999999999993
 16,16,CARDINAL,,,en,3.5999999999999996
+British,British,NORP,,,en,3.5
 recent days,recent days,DATE,,,en,3.5
 Wednesday morning,Wednesday morning,TIME,,,en,3.5
-British,British,NORP,,,en,3.5
-at least one,at least one,CARDINAL,,,en,3.3
 Today,Today,DATE,,,en,3.3
-6.9,6.9,CARDINAL,,,en,3.2
+at least one,at least one,CARDINAL,,,en,3.3
 Sunday morning,Sunday morning,TIME,,,en,3.1
 6.7,6.7,CARDINAL,,,en,3.1
-this week,this week,DATE,,,en,3.1
 Chinese,Chinese,NORP,,,en,3.0999999999999996
 At least five,At least five,CARDINAL,,,en,3.0999999999999996
-May 1st,May 1st,DATE,,,en,2.9
-6,6,CARDINAL,,,en,2.9
 Hungarian,Hungarian,NORP,,,en,2.9
-Caraș-Severin,Caraș-Severin,NORP,-0.125,0.8083333333333333,en,2.8
-400,400,CARDINAL,,,en,2.8
-the next two weeks,the next two weeks,DATE,,,en,2.8
-17%,17%,PERCENT,,,en,2.8
-midnight,midnight,TIME,,,en,2.8
-the last few hours,the last few hours,TIME,,,en,2.8
-the last days,the last days,DATE,,,en,2.8
-spring,spring,DATE,,,en,2.8
-Spanish,Spanish,NORP,,,en,2.8
-CET Sud,CET Sud,FAC,,,en,2.8
-February 26,February 26,DATE,,,en,2.8
-the last few days,the last few days,DATE,,,en,2.8
-80,80,CARDINAL,,,en,2.8
+May 1st,May 1st,DATE,,,en,2.9
 2 p.m.,2 p.m.,TIME,,,en,2.8
-Easter night,Easter night,FAC,,,en,2.8
-"Saturday, December 27","Saturday, December 27",DATE,,,en,2.8
 up to three meters,up to three meters,QUANTITY,,,en,2.8
-March,March,DATE,,,en,2.8
-the next three days,the next three days,DATE,,,en,2.8
-mornings,mornings,TIME,,,en,2.8
-Argeș,Argeș,NORP,,,en,2.8
+80,80,CARDINAL,,,en,2.8
+spring,spring,DATE,,,en,2.8
+the next two weeks,the next two weeks,DATE,,,en,2.8
 this evening,this evening,TIME,,,en,2.8
-Hundreds,Hundreds,CARDINAL,,,en,2.8
+17%,17%,PERCENT,,,en,2.8
+Caraș-Severin,Caraș-Severin,NORP,-0.125,0.8083333333333333,en,2.8
+the next three days,the next three days,DATE,,,en,2.8
 a day,a day,DATE,,,en,2.8
+the last few days,the last few days,DATE,,,en,2.8
+Spanish,Spanish,NORP,,,en,2.8
+the last few hours,the last few hours,TIME,,,en,2.8
+Easter night,Easter night,FAC,,,en,2.8
 6.2,6.2,CARDINAL,,,en,2.8
-At least 30,At least 30,CARDINAL,,,en,2.7
-30,30,CARDINAL,,,en,2.7
+Hundreds,Hundreds,CARDINAL,,,en,2.8
+"Saturday, December 27","Saturday, December 27",DATE,,,en,2.8
+mornings,mornings,TIME,,,en,2.8
+the last days,the last days,DATE,,,en,2.8
+midnight,midnight,TIME,,,en,2.8
+March,March,DATE,,,en,2.8
+Argeș,Argeș,NORP,,,en,2.8
+February 26,February 26,DATE,,,en,2.8
+400,400,CARDINAL,,,en,2.8
+CET Sud,CET Sud,FAC,,,en,2.8
 More than 100,More than 100,CARDINAL,,,en,2.7
 the weekend,the weekend,DATE,,,en,2.7
+At least 30,At least 30,CARDINAL,,,en,2.7
+30,30,CARDINAL,,,en,2.7
 Wednesday evening,Wednesday evening,TIME,,,en,2.7
 17,17,CARDINAL,,,en,2.6
-daily,daily,DATE,,,en,2.4999999999999996
-the same day,the same day,DATE,,,en,2.4999999999999996
+7,7,CARDINAL,,,en,2.5
 38,38,CARDINAL,,,en,2.4999999999999996
+the same day,the same day,DATE,,,en,2.4999999999999996
+daily,daily,DATE,,,en,2.4999999999999996
+Vulcan,Vulcan,NORP,0.22023809523809526,0.4761904761904762,en,2.4
 39,39,CARDINAL,,,en,2.4
-May 10,May 10,DATE,,,en,2.2
-Americans,Americans,NORP,,,en,2.2
-May 8,May 8,DATE,,,en,2.2
-2024,2024,DATE,,,en,2.2
-May 9,May 9,DATE,,,en,2.2
 last year's,last year's,DATE,,,en,2.2
+May 9,May 9,DATE,,,en,2.2
+May 8,May 8,DATE,,,en,2.2
+Americans,Americans,NORP,,,en,2.2
+three days,three days,DATE,,,en,2.2
+2024,2024,DATE,,,en,2.2
 these days,these days,DATE,,,en,2.2
-days,days,DATE,,,en,2.1999999999999997
+May 10,May 10,DATE,,,en,2.2
 the last five years,the last five years,DATE,,,en,2.1999999999999997
 Russians,Russians,NORP,,,en,2.1999999999999997
 April 12,April 12,DATE,,,en,2.1999999999999997
 Indonesian,Indonesian,NORP,,,en,2.1999999999999997
+days,days,DATE,,,en,2.1999999999999997
 Almost half,Almost half,CARDINAL,,,en,2.0
-the end of May,the end of May,DATE,,,en,1.9
-Sicilian,Sicilian,NORP,,,en,1.9
-Christmas Day,Christmas Day,DATE,,,en,1.9
-the second year in a row,the second year in a row,DATE,,,en,1.9
-March 28,March 28,DATE,,,en,1.9
-Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,1.9
-Weekend,Weekend,DATE,,,en,1.9
+60 million,60 million,CARDINAL,,,en,1.9
+up to 60 km/h,up to 60 km/h,QUANTITY,,,en,1.9
+More than 180,More than 180,CARDINAL,,,en,1.9
+Tuesday morning,Tuesday morning,TIME,,,en,1.9
+minutes,minutes,TIME,,,en,1.9
+the end of the month,the end of the month,DATE,,,en,1.9
+the month of February,the month of February,DATE,,,en,1.9
 At least 200,At least 200,CARDINAL,,,en,1.9
-"160,000","160,000",CARDINAL,,,en,1.9
+Alaskan,Alaskan,NORP,,,en,1.9
+communist,communist,NORP,,,en,1.9
+two days,two days,DATE,,,en,1.9
+May 2,May 2,DATE,,,en,1.9
+the second year in a row,the second year in a row,DATE,,,en,1.9
+"up to 100,000 euros","up to 100,000 euros",MONEY,,,en,1.9
+overnight,overnight,TIME,,,en,1.9
+At least one,At least one,CARDINAL,,,en,1.9
+"45,000","45,000",CARDINAL,,,en,1.9
+Nepali,Nepali,NORP,,,en,1.9
+Sunday evening,Sunday evening,TIME,,,en,1.9
 May 21,May 21,DATE,,,en,1.9
 More than half,More than half,CARDINAL,,,en,1.9
-8,8,CARDINAL,,,en,1.9
-"Tuesday, February 3","Tuesday, February 3",DATE,,,en,1.9
-overnight,overnight,TIME,,,en,1.9
-Germans,Germans,NORP,,,en,1.9
-Sunday evening,Sunday evening,TIME,,,en,1.9
-the month of February,the month of February,DATE,,,en,1.9
-80 km,80 km,QUANTITY,,,en,1.9
-up to 30%,up to 30%,PERCENT,,,en,1.9
-20:00,20:00,TIME,,,en,1.9
-the night of Saturday to Sunday,the night of Saturday to Sunday,TIME,,,en,1.9
 Australian,Australian,NORP,,,en,1.9
-the end of the month,the end of the month,DATE,,,en,1.9
-annually,annually,DATE,,,en,1.9
-20,20,CARDINAL,,,en,1.9
-full spring,full spring,DATE,,,en,1.9
+50 cm,50 cm,QUANTITY,,,en,1.9
+A7 highways,A7 highways,PRODUCT,,,en,1.9
 the end of May 2026,the end of May 2026,DATE,,,en,1.9
-89,89,CARDINAL,,,en,1.9
-"up to 100,000 euros","up to 100,000 euros",MONEY,,,en,1.9
-Tuesday morning,Tuesday morning,TIME,,,en,1.9
-35,35,CARDINAL,,,en,1.9
-"45,000","45,000",CARDINAL,,,en,1.9
-communist,communist,NORP,,,en,1.9
+Sunday afternoon,Sunday afternoon,TIME,,,en,1.9
 the next 48 hours,the next 48 hours,TIME,,,en,1.9
-May 2,May 2,DATE,,,en,1.9
-"Almost 3,500","Almost 3,500",CARDINAL,,,en,1.9
-16 degrees,16 degrees,QUANTITY,,,en,1.9
-a weekend,a weekend,DATE,,,en,1.9
-Eurosceptic,Eurosceptic,NORP,,,en,1.9
-annual,annual,DATE,,,en,1.9
+"20,000","20,000",CARDINAL,,,en,1.9
 50 centimeters,50 centimeters,QUANTITY,,,en,1.9
-"3,000","3,000",CARDINAL,,,en,1.9
-At least three,At least three,CARDINAL,,,en,1.9
-up to 60 km/h,up to 60 km/h,QUANTITY,,,en,1.9
-more than ten,more than ten,CARDINAL,,,en,1.9
+5.5,5.5,CARDINAL,,,en,1.9
+5.6 billion lei,5.6 billion lei,MONEY,,,en,1.9
+the night of Saturday to Sunday,the night of Saturday to Sunday,TIME,,,en,1.9
+Weekend,Weekend,DATE,,,en,1.9
+3.1,3.1,CARDINAL,,,en,1.9
 Eight,Eight,CARDINAL,,,en,1.9
-3.5,3.5,CARDINAL,,,en,1.9
-Martian,Martian,NORP,,,en,1.9
-15 cm,15 cm,QUANTITY,,,en,1.9
-Next week,Next week,DATE,,,en,1.9
-Alaskan,Alaskan,NORP,,,en,1.9
-"Tuesday, January 13","Tuesday, January 13",DATE,,,en,1.9
-6.4,6.4,CARDINAL,,,en,1.9
-Greek,Greek,NORP,,,en,1.9
-At least one,At least one,CARDINAL,,,en,1.9
+Nearly 90,Nearly 90,CARDINAL,,,en,1.9
+Five,Five,CARDINAL,,,en,1.9
+At least three,At least three,CARDINAL,,,en,1.9
+Sicilian,Sicilian,NORP,,,en,1.9
+Germans,Germans,NORP,,,en,1.9
 the end of March,the end of March,DATE,,,en,1.9
-nearly 100,nearly 100,CARDINAL,,,en,1.9
-1.42 degrees Celsius,1.42 degrees Celsius,QUANTITY,,,en,1.9
-the first years,the first years,DATE,,,en,1.9
+more than ten,more than ten,CARDINAL,,,en,1.9
 49 years,49 years,DATE,,,en,1.9
-at least 15,at least 15,CARDINAL,,,en,1.9
-the Yellow Code,the Yellow Code,LAW,,,en,1.9
+the first years,the first years,DATE,,,en,1.9
+20,20,CARDINAL,,,en,1.9
+annually,annually,DATE,,,en,1.9
+Next week,Next week,DATE,,,en,1.9
+the end of May,the end of May,DATE,,,en,1.9
+Last minute,Last minute,TIME,,,en,1.9
+"Tuesday, February 3","Tuesday, February 3",DATE,,,en,1.9
+a weekend,a weekend,DATE,,,en,1.9
+up to 30%,up to 30%,PERCENT,,,en,1.9
+less than an hour,less than an hour,TIME,,,en,1.9
+March 28,March 28,DATE,,,en,1.9
+35 cm,35 cm,QUANTITY,,,en,1.9
+nearly €4 million,nearly €4 million,MONEY,,,en,1.9
+15 cm,15 cm,QUANTITY,,,en,1.9
+"160,000","160,000",CARDINAL,,,en,1.9
+Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,1.9
+annual,annual,DATE,,,en,1.9
+16 degrees,16 degrees,QUANTITY,,,en,1.9
+Eurosceptic,Eurosceptic,NORP,,,en,1.9
+"Almost 3,500","Almost 3,500",CARDINAL,,,en,1.9
+the next period,the next period,DATE,,,en,1.9
+1.42 degrees Celsius,1.42 degrees Celsius,QUANTITY,,,en,1.9
+Greek,Greek,NORP,,,en,1.9
+Martian,Martian,NORP,,,en,1.9
+four more days,four more days,DATE,,,en,1.9
+80 km,80 km,QUANTITY,,,en,1.9
 2 meters,2 meters,QUANTITY,,,en,1.9
 more than two meters,more than two meters,QUANTITY,,,en,1.9
-More than 180,More than 180,CARDINAL,,,en,1.9
-60 million,60 million,CARDINAL,,,en,1.9
-Sunday afternoon,Sunday afternoon,TIME,,,en,1.9
-"20,000","20,000",CARDINAL,,,en,1.9
-Last minute,Last minute,TIME,,,en,1.9
-Nearly 90,Nearly 90,CARDINAL,,,en,1.9
-35 cm,35 cm,QUANTITY,,,en,1.9
-four more days,four more days,DATE,,,en,1.9
-nearly €4 million,nearly €4 million,MONEY,,,en,1.9
-the next period,the next period,DATE,,,en,1.9
-5.5,5.5,CARDINAL,,,en,1.9
-minutes,minutes,TIME,,,en,1.9
-5.6 billion lei,5.6 billion lei,MONEY,,,en,1.9
-less than an hour,less than an hour,TIME,,,en,1.9
-3.1,3.1,CARDINAL,,,en,1.9
-50 cm,50 cm,QUANTITY,,,en,1.9
-two days,two days,DATE,,,en,1.9
-poles,poles,NORP,,,en,1.9
-Five,Five,CARDINAL,,,en,1.9
-A7 highways,A7 highways,PRODUCT,,,en,1.9
+6.4,6.4,CARDINAL,,,en,1.9
+at least 15,at least 15,CARDINAL,,,en,1.9
+full spring,full spring,DATE,,,en,1.9
+3.5,3.5,CARDINAL,,,en,1.9
+"more than 4,300","more than 4,300",CARDINAL,,,en,1.9
 4.9,4.9,CARDINAL,,,en,1.9
-40 degrees,40 degrees,QUANTITY,,,en,1.8
-Canadian,Canadian,NORP,,,en,1.8
-Orange Code,Orange Code,LAW,,,en,1.8
-33 degrees,33 degrees,QUANTITY,,,en,1.8
+nearly 100,nearly 100,CARDINAL,,,en,1.9
+poles,poles,NORP,,,en,1.9
+"3,000","3,000",CARDINAL,,,en,1.9
+the Yellow Code,the Yellow Code,LAW,,,en,1.9
+8,8,CARDINAL,,,en,1.9
+Christmas Day,Christmas Day,DATE,,,en,1.9
+"Tuesday, January 13","Tuesday, January 13",DATE,,,en,1.9
+20:00,20:00,TIME,,,en,1.9
+Argentine,Argentine,NORP,,,en,1.9
+35,35,CARDINAL,,,en,1.9
+89,89,CARDINAL,,,en,1.9
 more than 800 hectares,more than 800 hectares,QUANTITY,,,en,1.8
-"more than 95,000","more than 95,000",CARDINAL,,,en,1.8
-July,July,DATE,,,en,1.8
 May day,May day,DATE,,,en,1.8
+years,years,DATE,,,en,1.8
 this morning,this morning,TIME,,,en,1.8
+May 2026,May 2026,DATE,,,en,1.8
+33 degrees,33 degrees,QUANTITY,,,en,1.8
+Canadian,Canadian,NORP,,,en,1.8
+40 degrees,40 degrees,QUANTITY,,,en,1.8
+Orange Code,Orange Code,LAW,,,en,1.8
 "Wednesday, April 1","Wednesday, April 1",DATE,,,en,1.8
 the following days,the following days,DATE,,,en,1.8
+"more than 95,000","more than 95,000",CARDINAL,,,en,1.8
+July,July,DATE,,,en,1.8
 Italian,Italian,NORP,,,en,1.8
-"Over 1,200","Over 1,200",CARDINAL,,,en,1.7
-El Mancho,El Mancho,WORK_OF_ART,,,en,1.7
+Passion Week,Passion Week,DATE,,,en,1.7
 this summer,this summer,DATE,,,en,1.7
-the next two years,the next two years,DATE,,,en,1.7
+El Mancho,El Mancho,WORK_OF_ART,,,en,1.7
 a few hours,a few hours,TIME,,,en,1.7
 Nazi,Nazi,NORP,,,en,1.7
-3.73 billion lei,3.73 billion lei,MONEY,,,en,1.7
-Orthodox,Orthodox,NORP,,,en,1.7
+"Over 1,200","Over 1,200",CARDINAL,,,en,1.7
+7.5,7.5,CARDINAL,,,en,1.7
 almost 350 million lei,almost 350 million lei,MONEY,,,en,1.7
 January 29,January 29,DATE,,,en,1.7
-Passion Week,Passion Week,DATE,,,en,1.7
-Vulcan,Vulcan,NORP,0.19642857142857145,0.25,en,1.7
+the next two years,the next two years,DATE,,,en,1.7
+7.2,7.2,CARDINAL,,,en,1.7
+3.73 billion lei,3.73 billion lei,MONEY,,,en,1.7
+Orthodox,Orthodox,NORP,,,en,1.7
 Israeli,Israeli,NORP,,,en,1.6000000000000003
-one day,one day,DATE,,,en,1.6
-Turks,Turks,NORP,,,en,1.6
 recent years,recent years,DATE,,,en,1.6
-a week,a week,DATE,,,en,1.6
-7,7,CARDINAL,,,en,1.6
-April 17,April 17,DATE,,,en,1.6
-one night,one night,TIME,,,en,1.6
-World War II,World War II,EVENT,,,en,1.6
 25%,25%,PERCENT,,,en,1.6
-June 11 - July 19,June 11 - July 19,DATE,,,en,1.6
 the World Cup,the World Cup,EVENT,,,en,1.6
+June 11 - July 19,June 11 - July 19,DATE,,,en,1.6
+Turks,Turks,NORP,,,en,1.6
+one day,one day,DATE,,,en,1.6
+April 17,April 17,DATE,,,en,1.6
+World War II,World War II,EVENT,,,en,1.6
+one night,one night,TIME,,,en,1.6
+a week,a week,DATE,,,en,1.6
 next year,next year,DATE,,,en,1.5
 the years,the years,DATE,,,en,1.5
-tens of millions,tens of millions,CARDINAL,,,en,1.3
-Tens of millions,Tens of millions,CARDINAL,,,en,1.3
+More than 30,More than 30,CARDINAL,,,en,1.3
 the Land of Motilor,the Land of Motilor,EVENT,,,en,1.3
-three days,three days,DATE,,,en,1.3
-only half,only half,CARDINAL,,,en,1.3
-Sulawesi,Sulawesi,NORP,0.1784188034188034,0.704059829059829,en,1.3
-over 100 million,over 100 million,CARDINAL,,,en,1.3
-third,third,ORDINAL,,,en,1.3
-three years,three years,DATE,,,en,1.3
-13 degrees,13 degrees,QUANTITY,,,en,1.3
-1,1,CARDINAL,,,en,1.3
+Ukrainians,Ukrainians,NORP,,,en,1.3
 the 19th century,the 19th century,DATE,,,en,1.3
+more than 300,more than 300,CARDINAL,,,en,1.3
+Tens of millions,Tens of millions,CARDINAL,,,en,1.3
+tens of millions,tens of millions,CARDINAL,,,en,1.3
+34 years,34 years,DATE,,,en,1.3
+thousands of kilometers,thousands of kilometers,QUANTITY,,,en,1.3
+Sulawesi,Sulawesi,NORP,0.1784188034188034,0.704059829059829,en,1.3
 32 degrees,32 degrees,QUANTITY,,,en,1.3
 Artemis,Artemis,FAC,,,en,1.3
-between April 20,between April 20,DATE,,,en,1.3
-oriental,oriental,NORP,,,en,1.3
-May 3,May 3,DATE,,,en,1.3
-the first days,the first days,DATE,,,en,1.3
-Ukrainians,Ukrainians,NORP,,,en,1.3
-Moldavian,Moldavian,NORP,,,en,1.3
-Roman,Roman,NORP,,,en,1.3
-More than 30,More than 30,CARDINAL,,,en,1.3
-more than 300,more than 300,CARDINAL,,,en,1.3
-thousands of kilometers,thousands of kilometers,QUANTITY,,,en,1.3
-24 years ago,24 years ago,DATE,,,en,1.3
-tens of thousands,tens of thousands,CARDINAL,,,en,1.3
-20 seconds,20 seconds,TIME,,,en,1.3
-decades,decades,DATE,,,en,1.3
-12 degrees,12 degrees,QUANTITY,,,en,1.3
-the 2026 FIFA World Cup,the 2026 FIFA World Cup,EVENT,,,en,1.3
-4 years,4 years,DATE,,,en,1.3
 The beginning of the week,The beginning of the week,DATE,,,en,1.3
-2022,2022,DATE,,,en,1.3
-"50,000","50,000",CARDINAL,,,en,1.3
-34 years,34 years,DATE,,,en,1.3
-several years,several years,DATE,,,en,1.3
-30 degrees,30 degrees,QUANTITY,,,en,1.3
-May 30,May 30,DATE,,,en,1.3
-the Iran war,the Iran war,EVENT,,,en,1.3
-post-December,post-December,DATE,,,en,1.3
-South American,South American,NORP,,,en,1.3
-March 11,March 11,DATE,,,en,1.3
-Digi24,Digi24,CARDINAL,,,en,1.3
-Hungarians,Hungarians,NORP,,,en,1.3
-Christmas,Christmas,DATE,,,en,1.3
-"40,000 euros","40,000 euros",MONEY,,,en,1.3
-1986,1986,DATE,,,en,1.3
-May 1 holiday,May 1 holiday,DATE,,,en,1.3
 March 4,March 4,DATE,,,en,1.3
-Băneasa Airport,Băneasa Airport,FAC,,,en,1.0
-more than a year,more than a year,DATE,,,en,1.0
-"over 16,000 years ago","over 16,000 years ago",DATE,,,en,1.0
-20 years,20 years,DATE,,,en,1.0
-"around 40,000 euros","around 40,000 euros",MONEY,,,en,1.0
-2.2 meters,2.2 meters,QUANTITY,,,en,1.0
-"400,000 years ago","400,000 years ago",DATE,,,en,1.0
-52,52,CARDINAL,,,en,1.0
-the last two decades,the last two decades,DATE,,,en,1.0
-40 cm,40 cm,QUANTITY,,,en,1.0
-94,94,CARDINAL,,,en,1.0
--13 degrees,-13 degrees,QUANTITY,,,en,1.0
-Earth Day Warning:,Earth Day Warning:,EVENT,,,en,1.0
-Baneasa Airport,Baneasa Airport,FAC,,,en,1.0
-"More than 6,200","More than 6,200",CARDINAL,,,en,1.0
-minus 13 degrees Celsius,minus 13 degrees Celsius,QUANTITY,,,en,1.0
-Omu Peak,Omu Peak,FAC,,,en,1.0
-the first season,the first season,DATE,,,en,1.0
-four days,four days,DATE,,,en,1.0
-FreeBuds,FreeBuds,PRODUCT,,,en,1.0
-"60,000","60,000",CARDINAL,,,en,1.0
-5:23 a.m.,5:23 a.m.,TIME,,,en,1.0
-81 kilometers,81 kilometers,QUANTITY,,,en,1.0
-18 kilometers,18 kilometers,QUANTITY,,,en,1.0
-Jewish,Jewish,NORP,,,en,1.0
-To Kill a Mockingbird,To Kill a Mockingbird,WORK_OF_ART,,,en,1.0
-AD 33,AD 33,DATE,,,en,1.0
-over 20 hectares,over 20 hectares,QUANTITY,,,en,1.0
-the century,the century,DATE,,,en,1.0
-the days,the days,DATE,,,en,1.0
-one tenth,one tenth,CARDINAL,,,en,1.0
-between 12:00 and 18:00,between 12:00 and 18:00,TIME,,,en,1.0
-a single year,a single year,DATE,,,en,1.0
-the last 16 years,the last 16 years,DATE,,,en,1.0
-Adevărul,Adevărul,WORK_OF_ART,,,en,1.0
-hundreds of kilometers,hundreds of kilometers,QUANTITY,,,en,1.0
-at least 20,at least 20,CARDINAL,,,en,1.0
-130 kilometers per hour,130 kilometers per hour,QUANTITY,,,en,1.0
-At least ten,At least ten,CARDINAL,,,en,1.0
-at least 10,at least 10,CARDINAL,,,en,1.0
-the Collective Labor Agreement,the Collective Labor Agreement,LAW,,,en,1.0
-the coming hours,the coming hours,TIME,,,en,1.0
-12 years,12 years,DATE,,,en,1.0
-"Monday, April 27","Monday, April 27",DATE,,,en,1.0
-2003,2003,DATE,,,en,1.0
-Thousands of kilometers,Thousands of kilometers,QUANTITY,,,en,1.0
-last month,last month,DATE,,,en,1.0
-two weeks,two weeks,DATE,,,en,1.0
-"4,000","4,000",CARDINAL,,,en,1.0
-the coming week,the coming week,DATE,,,en,1.0
-"nearly 40,000 euros","nearly 40,000 euros",MONEY,,,en,1.0
-late spring frost,late spring frost,DATE,,,en,1.0
-Byzantium,Byzantium,NORP,,,en,1.0
-15%-20%,15%-20%,PERCENT,,,en,1.0
-"2,400","2,400",CARDINAL,,,en,1.0
-Bedouins,Bedouins,NORP,,,en,1.0
-16th-century,16th-century,DATE,,,en,1.0
-almost a century ago,almost a century ago,DATE,,,en,1.0
-Dacians,Dacians,NORP,,,en,1.0
-centuries,centuries,DATE,,,en,1.0
-nearly 40 million,nearly 40 million,CARDINAL,,,en,1.0
-Romans,Romans,NORP,,,en,1.0
-FreeBuds Pro 5,FreeBuds Pro 5,PRODUCT,,,en,1.0
-democrats,democrats,NORP,,,en,1.0
-5:00 p.m.,5:00 p.m.,TIME,,,en,1.0
-Easter days,Easter days,DATE,,,en,1.0
-"more than 1,400 meters","more than 1,400 meters",QUANTITY,,,en,1.0
-"the ""alms hour","the ""alms hour",TIME,,,en,1.0
-more than 25 centimeters,more than 25 centimeters,QUANTITY,,,en,1.0
-the end of the year,the end of the year,DATE,,,en,1.0
-"nearly 8,000","nearly 8,000",CARDINAL,,,en,1.0
-about 10 percent,about 10 percent,PERCENT,,,en,1.0
-his first full season,his first full season,DATE,,,en,1.0
-the Nobel Prize for Literature,the Nobel Prize for Literature,WORK_OF_ART,,,en,1.0
-Colombian,Colombian,NORP,,,en,1.0
-the 90s,the 90s,DATE,,,en,1.0
-"December 25, 2024","December 25, 2024",DATE,,,en,1.0
-Azeri,Azeri,NORP,,,en,1.0
-90,90,CARDINAL,,,en,1.0
-"Friday, April 17","Friday, April 17",DATE,,,en,1.0
-"between April 1-7, 2026","between April 1-7, 2026",DATE,,,en,1.0
-24 degrees Celsius,24 degrees Celsius,QUANTITY,,,en,1.0
-Inter,Inter,NORP,,,en,1.0
-Catholics,Catholics,NORP,,,en,1.0
-40%,40%,PERCENT,,,en,1.0
-5:53 a.m.,5:53 a.m.,TIME,,,en,1.0
-the last 60 years,the last 60 years,DATE,,,en,1.0
-the next week,the next week,DATE,,,en,1.0
-the week,the week,DATE,,,en,1.0
-140 years,140 years,DATE,,,en,1.0
-Romanian-Hungarian,Romanian-Hungarian,NORP,,,en,1.0
-7.5,7.5,CARDINAL,,,en,1.0
-"April 22, 1990","April 22, 1990",DATE,,,en,1.0
-"Monday, April 20","Monday, April 20",DATE,,,en,1.0
-the Cotroceni Palace,the Cotroceni Palace,FAC,,,en,1.0
-over 2 meters,over 2 meters,QUANTITY,,,en,1.0
-three months,three months,DATE,,,en,1.0
-two meters,two meters,QUANTITY,,,en,1.0
-April 22,April 22,DATE,,,en,1.0
+1986,1986,DATE,,,en,1.3
+30 degrees,30 degrees,QUANTITY,,,en,1.3
+"50,000","50,000",CARDINAL,,,en,1.3
+"40,000 euros","40,000 euros",MONEY,,,en,1.3
+May 1 holiday,May 1 holiday,DATE,,,en,1.3
+only half,only half,CARDINAL,,,en,1.3
+4 years,4 years,DATE,,,en,1.3
+over 100 million,over 100 million,CARDINAL,,,en,1.3
+24 years ago,24 years ago,DATE,,,en,1.3
+Christmas,Christmas,DATE,,,en,1.3
+Roman,Roman,NORP,,,en,1.3
+Hungarians,Hungarians,NORP,,,en,1.3
+13 degrees,13 degrees,QUANTITY,,,en,1.3
+Digi24,Digi24,CARDINAL,,,en,1.3
+12 degrees,12 degrees,QUANTITY,,,en,1.3
+Moldavian,Moldavian,NORP,,,en,1.3
+oriental,oriental,NORP,,,en,1.3
+three years,three years,DATE,,,en,1.3
+1,1,CARDINAL,,,en,1.3
+South American,South American,NORP,,,en,1.3
+decades,decades,DATE,,,en,1.3
+third,third,ORDINAL,,,en,1.3
+the Iran war,the Iran war,EVENT,,,en,1.3
+the 2026 FIFA World Cup,the 2026 FIFA World Cup,EVENT,,,en,1.3
+post-December,post-December,DATE,,,en,1.3
+between April 20,between April 20,DATE,,,en,1.3
+2022,2022,DATE,,,en,1.3
+March 11,March 11,DATE,,,en,1.3
+several years,several years,DATE,,,en,1.3
+the first days,the first days,DATE,,,en,1.3
+May 30,May 30,DATE,,,en,1.3
+tens of thousands,tens of thousands,CARDINAL,,,en,1.3
+May 3,May 3,DATE,,,en,1.3
+20 seconds,20 seconds,TIME,,,en,1.3
 La Reunion,La Reunion,FAC,,,en,1.0
-University Square,University Square,FAC,,,en,1.0
-7.7,7.7,CARDINAL,,,en,1.0
-the Rânca - Obarsia Lotrului,the Rânca - Obarsia Lotrului,FAC,,,en,1.0
-the full month of April,the full month of April,DATE,,,en,1.0
+"December 25, 2024","December 25, 2024",DATE,,,en,1.0
+8-12 degrees,8-12 degrees,QUANTITY,,,en,1.0
+April 29,April 29,DATE,,,en,1.0
+three months,three months,DATE,,,en,1.0
+the past years,the past years,DATE,,,en,1.0
 349.98 million lei,349.98 million lei,MONEY,,,en,1.0
 350 million,350 million,CARDINAL,,,en,1.0
 zero degrees,zero degrees,QUANTITY,,,en,1.0
-one meter,one meter,QUANTITY,,,en,1.0
-5 centimeters,5 centimeters,QUANTITY,,,en,1.0
-1916,1916,DATE,,,en,1.0
-at least 10 percent,at least 10 percent,PERCENT,,,en,1.0
-approximately 10 kilometers,approximately 10 kilometers,QUANTITY,,,en,1.0
+the first weekend of May,the first weekend of May,DATE,,,en,1.0
+Byzantium,Byzantium,NORP,,,en,1.0
+the end of the week,the end of the week,DATE,,,en,1.0
 the first three days,the first three days,DATE,,,en,1.0
-the night of April 11 to 12,the night of April 11 to 12,TIME,,,en,1.0
-10:53 Romanian time,10:53 Romanian time,TIME,,,en,1.0
-almost 5 hours,almost 5 hours,TIME,,,en,1.0
-"Thursday, April 23","Thursday, April 23",DATE,,,en,1.0
-a night,a night,TIME,,,en,1.0
-about 5 hours,about 5 hours,TIME,,,en,1.0
 10 degrees,10 degrees,QUANTITY,,,en,1.0
+the night of April 27 to 28,the night of April 27 to 28,TIME,,,en,1.0
 Democrats,Democrats,NORP,,,en,1.0
-Kelemen,Kelemen,NORP,,,en,1.0
-16 years,16 years,DATE,,,en,1.0
-97.7%,97.7%,PERCENT,,,en,1.0
-just two days,just two days,DATE,,,en,1.0
-"more than 100,000","more than 100,000",CARDINAL,,,en,1.0
-Monday evening,Monday evening,TIME,,,en,1.0
-"100,000","100,000",CARDINAL,,,en,1.0
+The Greatest Ecological Catastrophe,The Greatest Ecological Catastrophe,WORK_OF_ART,,,en,1.0
 almost three months,almost three months,DATE,,,en,1.0
-the middle of spring,the middle of spring,DATE,,,en,1.0
-Facebook,Facebook,WORK_OF_ART,,,en,1.0
+"100,000","100,000",CARDINAL,,,en,1.0
+"more than 100,000","more than 100,000",CARDINAL,,,en,1.0
+the period April,the period April,DATE,,,en,1.0
 between April 27,between April 27,DATE,,,en,1.0
-the period June 1,the period June 1,DATE,,,en,1.0
-86%,86%,PERCENT,,,en,1.0
-2026-2030,2026-2030,DATE,,,en,1.0
-40.3 degrees Celsius,40.3 degrees Celsius,QUANTITY,,,en,1.0
-10th,10th,ORDINAL,,,en,1.0
-1846,1846,DATE,,,en,1.0
-1908,1908,DATE,,,en,1.0
-next Monday,next Monday,DATE,,,en,1.0
-the last day of spring,the last day of spring,DATE,,,en,1.0
-June 1st,June 1st,DATE,,,en,1.0
-The last day,The last day,DATE,,,en,1.0
-May 202,May 202,DATE,,,en,1.0
-the 2026 World Cup,the 2026 World Cup,EVENT,,,en,1.0
-30.7 million euros,30.7 million euros,MONEY,,,en,1.0
-Lusitanians,Lusitanians,NORP,,,en,1.0
-250 kilometers,250 kilometers,QUANTITY,,,en,1.0
-253 kilometers,253 kilometers,QUANTITY,,,en,1.0
-787,787,PRODUCT,,,en,1.0
-Constanța Port,Constanța Port,FAC,,,en,1.0
-the summer season,the summer season,DATE,,,en,1.0
-the Port of Constanța,the Port of Constanța,FAC,,,en,1.0
-29,29,CARDINAL,,,en,1.0
-the afternoons of Sunday and Monday,the afternoons of Sunday and Monday,TIME,,,en,1.0
+Bedouins,Bedouins,NORP,,,en,1.0
+just two days,just two days,DATE,,,en,1.0
+the middle of spring,the middle of spring,DATE,,,en,1.0
+"60,000","60,000",CARDINAL,,,en,1.0
+5:23 a.m.,5:23 a.m.,TIME,,,en,1.0
+more than 1 million hectares,more than 1 million hectares,QUANTITY,,,en,1.0
+"April 22, 1990","April 22, 1990",DATE,,,en,1.0
+"Tomorrow, April 30","Tomorrow, April 30",DATE,,,en,1.0
+the end of April,the end of April,DATE,,,en,1.0
+the week,the week,DATE,,,en,1.0
+10:53 Romanian time,10:53 Romanian time,TIME,,,en,1.0
+This afternoon,This afternoon,TIME,,,en,1.0
+3 and a half days,3 and a half days,DATE,,,en,1.0
+1916,1916,DATE,,,en,1.0
+nearly two decades,nearly two decades,DATE,,,en,1.0
+the 90s,the 90s,DATE,,,en,1.0
+the end of spring,the end of spring,DATE,,,en,1.0
+Kazakh,Kazakh,NORP,,,en,1.0
+approximately 10 kilometers,approximately 10 kilometers,QUANTITY,,,en,1.0
+"More than 6,200","More than 6,200",CARDINAL,,,en,1.0
+the first season,the first season,DATE,,,en,1.0
+40 cm,40 cm,QUANTITY,,,en,1.0
+$1.6 billion,$1.6 billion,MONEY,,,en,1.0
+a year 2025,a year 2025,DATE,,,en,1.0
+"around 40,000 euros","around 40,000 euros",MONEY,,,en,1.0
+"4,000","4,000",CARDINAL,,,en,1.0
+the Nobel Prize for Literature,the Nobel Prize for Literature,WORK_OF_ART,,,en,1.0
+90,90,CARDINAL,,,en,1.0
+the Middle Ages,the Middle Ages,DATE,,,en,1.0
+Colombian,Colombian,NORP,,,en,1.0
+about 10 percent,about 10 percent,PERCENT,,,en,1.0
+more than 25 centimeters,more than 25 centimeters,QUANTITY,,,en,1.0
+"Thursday, April 23","Thursday, April 23",DATE,,,en,1.0
+"nearly 8,000","nearly 8,000",CARDINAL,,,en,1.0
+less than 800,less than 800,CARDINAL,,,en,1.0
+"3,500 years","3,500 years",DATE,,,en,1.0
+"nearly 40,000 euros","nearly 40,000 euros",MONEY,,,en,1.0
+97.7%,97.7%,PERCENT,,,en,1.0
+the end of the year,the end of the year,DATE,,,en,1.0
+late spring frost,late spring frost,DATE,,,en,1.0
+16 years,16 years,DATE,,,en,1.0
+Azeri,Azeri,NORP,,,en,1.0
+81 kilometers,81 kilometers,QUANTITY,,,en,1.0
+18 kilometers,18 kilometers,QUANTITY,,,en,1.0
+April 22,April 22,DATE,,,en,1.0
+Omu Peak,Omu Peak,FAC,,,en,1.0
+three thousand,three thousand,CARDINAL,,,en,1.0
+his first full season,his first full season,DATE,,,en,1.0
+two meters,two meters,QUANTITY,,,en,1.0
+2.2 meters,2.2 meters,QUANTITY,,,en,1.0
+5:00 p.m.,5:00 p.m.,TIME,,,en,1.0
+over 2 meters,over 2 meters,QUANTITY,,,en,1.0
+Baneasa Airport,Baneasa Airport,FAC,,,en,1.0
+Dacians,Dacians,NORP,,,en,1.0
+Băneasa Airport,Băneasa Airport,FAC,,,en,1.0
+Easter days,Easter days,DATE,,,en,1.0
+almost a century ago,almost a century ago,DATE,,,en,1.0
+"400,000 years ago","400,000 years ago",DATE,,,en,1.0
+"over 16,000 years ago","over 16,000 years ago",DATE,,,en,1.0
+Inter,Inter,NORP,,,en,1.0
+24 degrees Celsius,24 degrees Celsius,QUANTITY,,,en,1.0
+more than a year,more than a year,DATE,,,en,1.0
+one meter,one meter,QUANTITY,,,en,1.0
+centuries,centuries,DATE,,,en,1.0
+University Square,University Square,FAC,,,en,1.0
+FreeBuds Pro 5,FreeBuds Pro 5,PRODUCT,,,en,1.0
+"2,400","2,400",CARDINAL,,,en,1.0
+the Rânca - Obarsia Lotrului,the Rânca - Obarsia Lotrului,FAC,,,en,1.0
+the full month of April,the full month of April,DATE,,,en,1.0
+5 centimeters,5 centimeters,QUANTITY,,,en,1.0
+the last two decades,the last two decades,DATE,,,en,1.0
+130 kilometers per hour,130 kilometers per hour,QUANTITY,,,en,1.0
+Earth Day Warning:,Earth Day Warning:,EVENT,,,en,1.0
+94,94,CARDINAL,,,en,1.0
+52,52,CARDINAL,,,en,1.0
+nearly 40 million,nearly 40 million,CARDINAL,,,en,1.0
+Romans,Romans,NORP,,,en,1.0
+the Cotroceni Palace,the Cotroceni Palace,FAC,,,en,1.0
+four days,four days,DATE,,,en,1.0
+Adevărul,Adevărul,WORK_OF_ART,,,en,1.0
+the days,the days,DATE,,,en,1.0
+the next week,the next week,DATE,,,en,1.0
+FreeBuds,FreeBuds,PRODUCT,,,en,1.0
+a night,a night,TIME,,,en,1.0
+between 12:00 and 18:00,between 12:00 and 18:00,TIME,,,en,1.0
+"between April 1-7, 2026","between April 1-7, 2026",DATE,,,en,1.0
+at least 10 percent,at least 10 percent,PERCENT,,,en,1.0
+the century,the century,DATE,,,en,1.0
+almost 5 hours,almost 5 hours,TIME,,,en,1.0
+over 20 hectares,over 20 hectares,QUANTITY,,,en,1.0
+Kelemen,Kelemen,NORP,,,en,1.0
+Monday evening,Monday evening,TIME,,,en,1.0
+To Kill a Mockingbird,To Kill a Mockingbird,WORK_OF_ART,,,en,1.0
+about 5 hours,about 5 hours,TIME,,,en,1.0
+democrats,democrats,NORP,,,en,1.0
+7.7,7.7,CARDINAL,,,en,1.0
+the last 60 years,the last 60 years,DATE,,,en,1.0
+"Friday, April 17","Friday, April 17",DATE,,,en,1.0
+the coming week,the coming week,DATE,,,en,1.0
+"Monday, April 27","Monday, April 27",DATE,,,en,1.0
+15%-20%,15%-20%,PERCENT,,,en,1.0
+"the ""alms hour","the ""alms hour",TIME,,,en,1.0
+16th-century,16th-century,DATE,,,en,1.0
+5:53 a.m.,5:53 a.m.,TIME,,,en,1.0
+"Monday, April 20","Monday, April 20",DATE,,,en,1.0
+Catholics,Catholics,NORP,,,en,1.0
+hundreds of kilometers,hundreds of kilometers,QUANTITY,,,en,1.0
+At least ten,At least ten,CARDINAL,,,en,1.0
+140 years,140 years,DATE,,,en,1.0
+40%,40%,PERCENT,,,en,1.0
+Romanian-Hungarian,Romanian-Hungarian,NORP,,,en,1.0
+the night of April 11 to 12,the night of April 11 to 12,TIME,,,en,1.0
+"more than 1,400 meters","more than 1,400 meters",QUANTITY,,,en,1.0
+at least 10,at least 10,CARDINAL,,,en,1.0
+26 degrees,26 degrees,QUANTITY,,,en,1.0
+"around 3,500","around 3,500",CARDINAL,,,en,1.0
 13,13,CARDINAL,,,en,1.0
-Sunday noon,Sunday noon,TIME,,,en,1.0
-2030,2030,DATE,,,en,1.0
-30 million euros,30 million euros,MONEY,,,en,1.0
-approximately 100 meters,approximately 100 meters,QUANTITY,,,en,1.0
-the past week,the past week,DATE,,,en,1.0
-40 degrees Celsius,40 degrees Celsius,QUANTITY,,,en,1.0
-year,year,DATE,,,en,1.0
-the hottest day of this first,the hottest day of this first,DATE,,,en,1.0
-A week,A week,DATE,,,en,1.0
-a single week,a single week,DATE,,,en,1.0
-12–16 degrees,12–16 degrees,QUANTITY,,,en,1.0
-104 years,104 years,DATE,,,en,1.0
-33.5,33.5,CARDINAL,,,en,1.0
-1944,1944,DATE,,,en,1.0
-16°,16°,CARDINAL,,,en,1.0
-10 to 15,10 to 15,CARDINAL,,,en,1.0
-approximately 30 kilometers,approximately 30 kilometers,QUANTITY,,,en,1.0
-34,34,CARDINAL,,,en,1.0
-monthly,monthly,DATE,,,en,1.0
-The hottest day,The hottest day,DATE,,,en,1.0
-the beginning of this year,the beginning of this year,DATE,,,en,1.0
-80 km/h,80 km/h,TIME,,,en,1.0
-6000 Km,6000 Km,QUANTITY,,,en,1.0
-3000 kg,3000 kg,QUANTITY,,,en,1.0
-August 31,August 31,DATE,,,en,1.0
-61%,61%,PERCENT,,,en,1.0
-Dutch,Dutch,NORP,,,en,1.0
-26,26,CARDINAL,,,en,1.0
-39°C,39°C,MONEY,,,en,1.0
 half of a month,half of a month,DATE,,,en,1.0
 approximately 710 million euros,approximately 710 million euros,MONEY,,,en,1.0
 the summer,the summer,DATE,,,en,1.0
-Every day,Every day,DATE,,,en,1.0
-1:58,1:58,TIME,,,en,1.0
-Thursday evening,Thursday evening,TIME,,,en,1.0
-Otopeni Airport,Otopeni Airport,FAC,,,en,1.0
-Henri Coandă International Airport,Henri Coandă International Airport,FAC,,,en,1.0
-"the ""Prediction of Luggage Delivery Time","the ""Prediction of Luggage Delivery Time",WORK_OF_ART,,,en,1.0
-28,28,CARDINAL,,,en,1.0
-330 hectares,330 hectares,QUANTITY,,,en,1.0
-about 330 hectares,about 330 hectares,QUANTITY,,,en,1.0
-"Tuesday, June 16","Tuesday, June 16",DATE,,,en,1.0
-the last millennium,the last millennium,DATE,,,en,1.0
-the end of August,the end of August,DATE,,,en,1.0
-"about 8,000","about 8,000",CARDINAL,,,en,1.0
 the night of Pentecost,the night of Pentecost,TIME,,,en,1.0
-Four months,Four months,DATE,,,en,1.0
-"Tuesday, June 23","Tuesday, June 23",DATE,,,en,1.0
-85,85,CARDINAL,,,en,1.0
-seconds,seconds,TIME,,,en,1.0
-39 degrees - MAP,39 degrees - MAP,QUANTITY,,,en,1.0
-between June 25,between June 25,DATE,,,en,1.0
-June 29,June 29,DATE,,,en,1.0
-39 degrees,39 degrees,QUANTITY,,,en,1.0
-Yellow Code and,Yellow Code and,LAW,,,en,1.0
-just 39 seconds,just 39 seconds,TIME,,,en,1.0
-Red Heat Code,Red Heat Code,EVENT,,,en,1.0
-Realitatea PLUS,Realitatea PLUS,WORK_OF_ART,,,en,1.0
-the next hours-VIDEO,the next hours-VIDEO,TIME,,,en,1.0
-19th century,19th century,DATE,,,en,1.0
-last month's,last month's,DATE,,,en,1.0
 1951,1951,DATE,,,en,1.0
 "approximately 45,000","approximately 45,000",CARDINAL,,,en,1.0
 Banatians,Banatians,NORP,,,en,1.0
@@ -566,96 +499,101 @@ At least 37,At least 37,CARDINAL,,,en,1.0
 nearly 490,nearly 490,CARDINAL,,,en,1.0
 Tuesday afternoon,Tuesday afternoon,TIME,,,en,1.0
 50 years ago,50 years ago,DATE,,,en,1.0
-the summer of 1974,the summer of 1974,DATE,,,en,1.0
+Sunday noon,Sunday noon,TIME,,,en,1.0
+the afternoons of Sunday and Monday,the afternoons of Sunday and Monday,TIME,,,en,1.0
 five decades,five decades,DATE,,,en,1.0
-"around 500,000","around 500,000",CARDINAL,,,en,1.0
-May 24,May 24,DATE,,,en,1.0
-the period April,the period April,DATE,,,en,1.0
-the Day,the Day,DATE,,,en,1.0
-45,45,CARDINAL,,,en,1.0
-approximately 20 hectares,approximately 20 hectares,QUANTITY,,,en,1.0
-"above 1,800 meters","above 1,800 meters",QUANTITY,,,en,1.0
-"above 1,800 m","above 1,800 m",QUANTITY,,,en,1.0
-Iezer-Păpușa,Iezer-Păpușa,FAC,,,en,1.0
-12:14,12:14,TIME,,,en,1.0
-43,43,CARDINAL,,,en,1.0
-"About 3,500","About 3,500",CARDINAL,,,en,1.0
-Austrian,Austrian,NORP,,,en,1.0
-the beginning of May,the beginning of May,DATE,,,en,1.0
-Valea Aniesului,Valea Aniesului,FAC,,,en,1.0
-"May 8, 1945","May 8, 1945",DATE,,,en,1.0
-several hundred years later,several hundred years later,DATE,,,en,1.0
-the Second World War,the Second World War,EVENT,,,en,1.0
-the mid-2000s,the mid-2000s,DATE,,,en,1.0
-May 8-10,May 8-10,DATE,,,en,1.0
-10 degrees colder,10 degrees colder,QUANTITY,,,en,1.0
-yesterday,yesterday,DATE,,,en,1.0
-1502,1502,DATE,,,en,1.0
-the New World,the New World,EVENT,,,en,1.0
-1877,1877,DATE,,,en,1.0
-1945,1945,DATE,,,en,1.0
-weather weekend,weather weekend,DATE,,,en,1.0
-between 15 and 24 degrees Celsius,between 15 and 24 degrees Celsius,QUANTITY,,,en,1.0
-11 degrees Celsius,11 degrees Celsius,QUANTITY,,,en,1.0
-more than five centuries ago,more than five centuries ago,DATE,,,en,1.0
-100 meters,100 meters,QUANTITY,,,en,1.0
-less than 800,less than 800,CARDINAL,,,en,1.0
-The Greatest Ecological Catastrophe,The Greatest Ecological Catastrophe,WORK_OF_ART,,,en,1.0
-the night of April 27 to 28,the night of April 27 to 28,TIME,,,en,1.0
-the end of the week,the end of the week,DATE,,,en,1.0
-the past years,the past years,DATE,,,en,1.0
-April 29,April 29,DATE,,,en,1.0
-8-12 degrees,8-12 degrees,QUANTITY,,,en,1.0
-the first weekend of May,the first weekend of May,DATE,,,en,1.0
-more than 1 million hectares,more than 1 million hectares,QUANTITY,,,en,1.0
-"Tomorrow, April 30","Tomorrow, April 30",DATE,,,en,1.0
-the end of spring,the end of spring,DATE,,,en,1.0
-"3,500 years","3,500 years",DATE,,,en,1.0
-the Middle Ages,the Middle Ages,DATE,,,en,1.0
-May 2nd,May 2nd,DATE,,,en,1.0
-a year 2025,a year 2025,DATE,,,en,1.0
-This afternoon,This afternoon,TIME,,,en,1.0
-3 and a half days,3 and a half days,DATE,,,en,1.0
-nearly two decades,nearly two decades,DATE,,,en,1.0
-the end of April,the end of April,DATE,,,en,1.0
-Kazakh,Kazakh,NORP,,,en,1.0
-$1.6 billion,$1.6 billion,MONEY,,,en,1.0
-three thousand,three thousand,CARDINAL,,,en,1.0
-"around 3,500","around 3,500",CARDINAL,,,en,1.0
+29,29,CARDINAL,,,en,1.0
+2030,2030,DATE,,,en,1.0
+86%,86%,PERCENT,,,en,1.0
+2026-2030,2026-2030,DATE,,,en,1.0
+40.3 degrees Celsius,40.3 degrees Celsius,QUANTITY,,,en,1.0
+10th,10th,ORDINAL,,,en,1.0
+1846,1846,DATE,,,en,1.0
+1908,1908,DATE,,,en,1.0
+next Monday,next Monday,DATE,,,en,1.0
+the last day of spring,the last day of spring,DATE,,,en,1.0
+June 1st,June 1st,DATE,,,en,1.0
+The last day,The last day,DATE,,,en,1.0
+May 202,May 202,DATE,,,en,1.0
+the period June 1,the period June 1,DATE,,,en,1.0
+the 2026 World Cup,the 2026 World Cup,EVENT,,,en,1.0
+Lusitanians,Lusitanians,NORP,,,en,1.0
+250 kilometers,250 kilometers,QUANTITY,,,en,1.0
+253 kilometers,253 kilometers,QUANTITY,,,en,1.0
+787,787,PRODUCT,,,en,1.0
+Constanța Port,Constanța Port,FAC,,,en,1.0
+the summer season,the summer season,DATE,,,en,1.0
+the Port of Constanța,the Port of Constanța,FAC,,,en,1.0
+six days,six days,DATE,,,en,1.0
+six days later,six days later,DATE,,,en,1.0
+Base Camp,Base Camp,FAC,,,en,1.0
+57,57,DATE,,,en,1.0
+the summer of 1974,the summer of 1974,DATE,,,en,1.0
+15.81,15.81,CARDINAL,,,en,1.0
 100 years ago,100 years ago,DATE,,,en,1.0
-Balkan,Balkan,NORP,,,en,1.0
+Western European,Western European,NORP,,,en,1.0
+85,85,CARDINAL,,,en,1.0
+40C,40C,CARDINAL,,,en,1.0
+seconds,seconds,TIME,,,en,1.0
+just seconds,just seconds,TIME,,,en,1.0
+39 degrees - MAP,39 degrees - MAP,QUANTITY,,,en,1.0
+between June 25,between June 25,DATE,,,en,1.0
+June 29,June 29,DATE,,,en,1.0
+39 degrees,39 degrees,QUANTITY,,,en,1.0
+Yellow Code and,Yellow Code and,LAW,,,en,1.0
+just one hour,just one hour,TIME,,,en,1.0
+7.2 and 7.5 degrees,7.2 and 7.5 degrees,QUANTITY,,,en,1.0
+only one hour,only one hour,TIME,,,en,1.0
+over 100 years,over 100 years,DATE,,,en,1.0
+decades - VIDEO,decades - VIDEO,DATE,,,en,1.0
+"more than 27,000","more than 27,000",CARDINAL,,,en,1.0
+just 39 seconds,just 39 seconds,TIME,,,en,1.0
+235,235,CARDINAL,,,en,1.0
+at least 235,at least 235,CARDINAL,,,en,1.0
+Red Heat Code,Red Heat Code,EVENT,,,en,1.0
+40 degrees Cels,40 degrees Cels,QUANTITY,,,en,1.0
+four,four,CARDINAL,,,en,1.0
+Three days,Three days,DATE,,,en,1.0
+50,50,CARDINAL,,,en,1.0
+last week,last week,DATE,,,en,1.0
+"Tuesday, June 30","Tuesday, June 30",DATE,,,en,1.0
+"Tuesday, June 23","Tuesday, June 23",DATE,,,en,1.0
+80 years old,80 years old,DATE,,,en,1.0
+0.55,0.55,CARDINAL,,,en,1.0
+43C.,43C.,CARDINAL,,,en,1.0
+last month's,last month's,DATE,,,en,1.0
+19th century,19th century,DATE,,,en,1.0
+the next hours-VIDEO,the next hours-VIDEO,TIME,,,en,1.0
+Realitatea PLUS,Realitatea PLUS,WORK_OF_ART,,,en,1.0
+1:58,1:58,TIME,,,en,1.0
+Thursday evening,Thursday evening,TIME,,,en,1.0
+Otopeni Airport,Otopeni Airport,FAC,,,en,1.0
+Henri Coandă International Airport,Henri Coandă International Airport,FAC,,,en,1.0
+"the ""Prediction of Luggage Delivery Time","the ""Prediction of Luggage Delivery Time",WORK_OF_ART,,,en,1.0
+the month of June,the month of June,DATE,,,en,1.0
+28,28,CARDINAL,,,en,1.0
+A330-200,A330-200,PRODUCT,,,en,1.0
+207,207,CARDINAL,,,en,1.0
+330 hectares,330 hectares,QUANTITY,,,en,1.0
+about 330 hectares,about 330 hectares,QUANTITY,,,en,1.0
+"Tuesday, June 16","Tuesday, June 16",DATE,,,en,1.0
+the last millennium,the last millennium,DATE,,,en,1.0
+a century,a century,DATE,,,en,1.0
+the end of August,the end of August,DATE,,,en,1.0
+Every day,Every day,DATE,,,en,1.0
+"about 8,000","about 8,000",CARDINAL,,,en,1.0
+Four months,Four months,DATE,,,en,1.0
+41 degrees,41 degrees,QUANTITY,,,en,1.0
+43 degrees,43 degrees,QUANTITY,,,en,1.0
+"Sunday, June 21","Sunday, June 21",DATE,,,en,1.0
+30.7 million euros,30.7 million euros,MONEY,,,en,1.0
+30 million euros,30 million euros,MONEY,,,en,1.0
+34,34,CARDINAL,,,en,1.0
+weather weekend,weather weekend,DATE,,,en,1.0
 Saturday night,Saturday night,TIME,,,en,1.0
 81st,81st,ORDINAL,,,en,1.0
 Victory Day,Victory Day,EVENT,,,en,1.0
-five meters,five meters,QUANTITY,,,en,1.0
-10 a.m.,10 a.m.,TIME,,,en,1.0
-3 hours,3 hours,TIME,,,en,1.0
-more than two years,more than two years,DATE,,,en,1.0
-almost 500 meters,almost 500 meters,QUANTITY,,,en,1.0
-14.3 million euros,14.3 million euros,MONEY,,,en,1.0
-144 million euros,144 million euros,MONEY,,,en,1.0
-Tuesday to Saturday,Tuesday to Saturday,DATE,,,en,1.0
-around 30 degrees,around 30 degrees,QUANTITY,,,en,1.0
-between 19,between 19,DATE,,,en,1.0
-26 degrees,26 degrees,QUANTITY,,,en,1.0
-June 6,June 6,DATE,,,en,1.0
-May 22,May 22,DATE,,,en,1.0
 the Great War,the Great War,EVENT,,,en,1.0
-more than three decades,more than three decades,DATE,,,en,1.0
-four years,four years,DATE,,,en,1.0
-up to 65 km/h,up to 65 km/h,QUANTITY,,,en,1.0
-5 months,5 months,DATE,,,en,1.0
-March 2026,March 2026,DATE,,,en,1.0
-Jolina,Jolina,WORK_OF_ART,,,en,1.0
-2020,2020,DATE,,,en,1.0
-At least 16,At least 16,CARDINAL,,,en,1.0
-sunny days,sunny days,DATE,,,en,1.0
-33 degrees Celsius,33 degrees Celsius,QUANTITY,,,en,1.0
-the middle of the week,the middle of the week,DATE,,,en,1.0
-19,19,CARDINAL,,,en,1.0
-More than 20,More than 20,CARDINAL,,,en,1.0
-up to 20 meters,up to 20 meters,QUANTITY,,,en,1.0
-200 million euros,200 million euros,MONEY,,,en,1.0
 22,22,CARDINAL,,,en,1.0
 the Someşul Mare,the Someşul Mare,PRODUCT,,,en,1.0
 Jiu,Jiu,NORP,,,en,1.0
@@ -668,7 +606,7 @@ May.,May.,DATE,,,en,1.0
 May 12 - 14,May 12 - 14,DATE,,,en,1.0
 up to 90 km/h,up to 90 km/h,QUANTITY,,,en,1.0
 May 14,May 14,DATE,,,en,1.0
-85-110 km,85-110 km,QUANTITY,,,en,1.0
+Facebook,Facebook,WORK_OF_ART,,,en,1.0
 162 million euros,162 million euros,MONEY,,,en,1.0
 the 12th century,the 12th century,DATE,,,en,1.0
 "Wednesday, May 13","Wednesday, May 13",DATE,,,en,1.0
@@ -677,16 +615,96 @@ at least 12,at least 12,CARDINAL,,,en,1.0
 the middle of May,the middle of May,DATE,,,en,1.0
 a matter of days,a matter of days,DATE,,,en,1.0
 15 degrees,15 degrees,QUANTITY,,,en,1.0
+between 15 and 24 degrees Celsius,between 15 and 24 degrees Celsius,QUANTITY,,,en,1.0
+1945,1945,DATE,,,en,1.0
+39°C,39°C,MONEY,,,en,1.0
+1877,1877,DATE,,,en,1.0
+Balkan,Balkan,NORP,,,en,1.0
+May 2nd,May 2nd,DATE,,,en,1.0
+more than five centuries ago,more than five centuries ago,DATE,,,en,1.0
+several hundred years later,several hundred years later,DATE,,,en,1.0
+11 degrees Celsius,11 degrees Celsius,QUANTITY,,,en,1.0
+45,45,CARDINAL,,,en,1.0
+approximately 20 hectares,approximately 20 hectares,QUANTITY,,,en,1.0
+"above 1,800 meters","above 1,800 meters",QUANTITY,,,en,1.0
+"above 1,800 m","above 1,800 m",QUANTITY,,,en,1.0
+Iezer-Păpușa,Iezer-Păpușa,FAC,,,en,1.0
+12:14,12:14,TIME,,,en,1.0
+43,43,CARDINAL,,,en,1.0
+"About 3,500","About 3,500",CARDINAL,,,en,1.0
+Austrian,Austrian,NORP,,,en,1.0
+the beginning of May,the beginning of May,DATE,,,en,1.0
+Valea Aniesului,Valea Aniesului,FAC,,,en,1.0
+the Day,the Day,DATE,,,en,1.0
+"May 8, 1945","May 8, 1945",DATE,,,en,1.0
+the Second World War,the Second World War,EVENT,,,en,1.0
+the mid-2000s,the mid-2000s,DATE,,,en,1.0
+May 8-10,May 8-10,DATE,,,en,1.0
+10 degrees colder,10 degrees colder,QUANTITY,,,en,1.0
+yesterday,yesterday,DATE,,,en,1.0
+1502,1502,DATE,,,en,1.0
+the New World,the New World,EVENT,,,en,1.0
 The weekend,The weekend,DATE,,,en,1.0
 hot days,hot days,DATE,,,en,1.0
-April,April,DATE,,,en,1.0
-Christian,Christian,NORP,,,en,1.0
-1st,1st,ORDINAL,,,en,1.0
-Friday morning,Friday morning,TIME,,,en,1.0
-Bessarabians,Bessarabians,NORP,,,en,1.0
-Soviet,Soviet,NORP,,,en,1.0
-"300,000","300,000",CARDINAL,,,en,1.0
-about two years,about two years,DATE,,,en,1.0
+200 million euros,200 million euros,MONEY,,,en,1.0
+up to 20 meters,up to 20 meters,QUANTITY,,,en,1.0
+approximately 100 meters,approximately 100 meters,QUANTITY,,,en,1.0
+"around 500,000","around 500,000",CARDINAL,,,en,1.0
+40 degrees Celsius,40 degrees Celsius,QUANTITY,,,en,1.0
+year,year,DATE,,,en,1.0
+the hottest day of this first,the hottest day of this first,DATE,,,en,1.0
+A week,A week,DATE,,,en,1.0
+a single week,a single week,DATE,,,en,1.0
+12–16 degrees,12–16 degrees,QUANTITY,,,en,1.0
+104 years,104 years,DATE,,,en,1.0
+33.5,33.5,CARDINAL,,,en,1.0
+1944,1944,DATE,,,en,1.0
+16°,16°,CARDINAL,,,en,1.0
+10 to 15,10 to 15,CARDINAL,,,en,1.0
+the past week,the past week,DATE,,,en,1.0
+approximately 30 kilometers,approximately 30 kilometers,QUANTITY,,,en,1.0
+monthly,monthly,DATE,,,en,1.0
+The hottest day,The hottest day,DATE,,,en,1.0
+the beginning of this year,the beginning of this year,DATE,,,en,1.0
+80 km/h,80 km/h,TIME,,,en,1.0
+6000 Km,6000 Km,QUANTITY,,,en,1.0
+3000 kg,3000 kg,QUANTITY,,,en,1.0
+August 31,August 31,DATE,,,en,1.0
+61%,61%,PERCENT,,,en,1.0
+Dutch,Dutch,NORP,,,en,1.0
+26,26,CARDINAL,,,en,1.0
+May 24,May 24,DATE,,,en,1.0
+100 meters,100 meters,QUANTITY,,,en,1.0
+the middle of the week,the middle of the week,DATE,,,en,1.0
+-13 degrees,-13 degrees,QUANTITY,,,en,1.0
+More than 20,More than 20,CARDINAL,,,en,1.0
+19,19,CARDINAL,,,en,1.0
+10 a.m.,10 a.m.,TIME,,,en,1.0
+3 hours,3 hours,TIME,,,en,1.0
+more than two years,more than two years,DATE,,,en,1.0
+almost 500 meters,almost 500 meters,QUANTITY,,,en,1.0
+14.3 million euros,14.3 million euros,MONEY,,,en,1.0
+144 million euros,144 million euros,MONEY,,,en,1.0
+Tuesday to Saturday,Tuesday to Saturday,DATE,,,en,1.0
+around 30 degrees,around 30 degrees,QUANTITY,,,en,1.0
+between 19,between 19,DATE,,,en,1.0
+June 6,June 6,DATE,,,en,1.0
+33 degrees Celsius,33 degrees Celsius,QUANTITY,,,en,1.0
+five meters,five meters,QUANTITY,,,en,1.0
+May 22,May 22,DATE,,,en,1.0
+more than three decades,more than three decades,DATE,,,en,1.0
+four years,four years,DATE,,,en,1.0
+up to 65 km/h,up to 65 km/h,QUANTITY,,,en,1.0
+5 months,5 months,DATE,,,en,1.0
+March 2026,March 2026,DATE,,,en,1.0
+Jolina,Jolina,WORK_OF_ART,,,en,1.0
+2020,2020,DATE,,,en,1.0
+At least 16,At least 16,CARDINAL,,,en,1.0
+sunny days,sunny days,DATE,,,en,1.0
+minus 13 degrees Celsius,minus 13 degrees Celsius,QUANTITY,,,en,1.0
+three decades ago,three decades ago,DATE,,,en,1.0
+20 years,20 years,DATE,,,en,1.0
+Eskimos,Eskimos,NORP,0.0,0.5,en,1.0
 1946-1947,1946-1947,DATE,,,en,1.0
 the last 5 years,the last 5 years,DATE,,,en,1.0
 This winter,This winter,DATE,,,en,1.0
@@ -698,21 +716,23 @@ this winter,this winter,DATE,,,en,1.0
 only three years,only three years,DATE,,,en,1.0
 43%,43%,PERCENT,,,en,1.0
 quarterly,quarterly,DATE,,,en,1.0
-Eskimos,Eskimos,NORP,0.0,0.5,en,1.0
 millions of euros,millions of euros,MONEY,,,en,1.0
+"300,000","300,000",CARDINAL,,,en,1.0
 several days,several days,DATE,,,en,1.0
 "25,000","25,000",CARDINAL,,,en,1.0
 January 25,January 25,DATE,,,en,1.0
 90 km/h,90 km/h,QUANTITY,,,en,1.0
 the next two days,the next two days,DATE,,,en,1.0
 11,11,CARDINAL,,,en,1.0
-10.00,10.00,CARDINAL,,,en,1.0
-the last 40 years,the last 40 years,DATE,,,en,1.0
+the first half of the 20th century,the first half of the 20th century,DATE,,,en,1.0
 A Difficult Road to Becoming a World Power,A Difficult Road to Becoming a World Power,WORK_OF_ART,,,en,1.0
-the cold months,the cold months,DATE,,,en,1.0
-"January 29, 1916","January 29, 1916",DATE,,,en,1.0
-Zeppelin,Zeppelin,PRODUCT,,,en,1.0
-"850,000","850,000",CARDINAL,,,en,1.0
+March 2025,March 2025,DATE,,,en,1.0
+the middle of February,the middle of February,DATE,,,en,1.0
+the Great Hall of the People,the Great Hall of the People,FAC,,,en,1.0
+about two years,about two years,DATE,,,en,1.0
+Soviet,Soviet,NORP,,,en,1.0
+last night,last night,TIME,,,en,1.0
+minus 20 degrees Celsius,minus 20 degrees Celsius,QUANTITY,,,en,1.0
 at least five,at least five,CARDINAL,,,en,1.0
 "more than 850,000","more than 850,000",CARDINAL,,,en,1.0
 12.00,12.00,CARDINAL,,,en,1.0
@@ -724,8 +744,8 @@ this month,this month,DATE,,,en,1.0
 the last more than 200 years,the last more than 200 years,DATE,,,en,1.0
 February 3,February 3,DATE,,,en,1.0
 up to 9 cm,up to 9 cm,QUANTITY,,,en,1.0
-minus 20 degrees Celsius,minus 20 degrees Celsius,QUANTITY,,,en,1.0
 nights,nights,TIME,,,en,1.0
+Bessarabians,Bessarabians,NORP,,,en,1.0
 10 o'clock,10 o'clock,TIME,,,en,1.0
 "March 31, 2026","March 31, 2026",DATE,,,en,1.0
 the same month last year,the same month last year,DATE,,,en,1.0
@@ -733,16 +753,14 @@ Another day,Another day,DATE,,,en,1.0
 20%,20%,PERCENT,,,en,1.0
 30%,30%,PERCENT,,,en,1.0
 only two,only two,CARDINAL,,,en,1.0
-the first half of the 20th century,the first half of the 20th century,DATE,,,en,1.0
-March 2025,March 2025,DATE,,,en,1.0
-at least six,at least six,CARDINAL,,,en,1.0
-just a few days,just a few days,DATE,,,en,1.0
-An ordinary day,An ordinary day,DATE,,,en,1.0
-Pieces of a Woman,Pieces of a Woman,WORK_OF_ART,,,en,1.0
-8 p.m.,8 p.m.,TIME,,,en,1.0
-"Wednesday, February 18","Wednesday, February 18",DATE,,,en,1.0
-12:00 p.m.,12:00 p.m.,TIME,,,en,1.0
-the North Station,the North Station,FAC,,,en,1.0
+the cold months,the cold months,DATE,,,en,1.0
+the last 40 years,the last 40 years,DATE,,,en,1.0
+Friday morning,Friday morning,TIME,,,en,1.0
+10.00,10.00,CARDINAL,,,en,1.0
+the Great Hall,the Great Hall,FAC,,,en,1.0
+1:54 a.m.,1:54 a.m.,TIME,,,en,1.0
+Three years,Three years,DATE,,,en,1.0
+"approximately 200,000","approximately 200,000",CARDINAL,,,en,1.0
 Otopeni,Otopeni,NORP,,,en,1.0
 half a meter,half a meter,QUANTITY,,,en,1.0
 7 o'clock,7 o'clock,TIME,,,en,1.0
@@ -754,21 +772,23 @@ over 7.5 tons,over 7.5 tons,QUANTITY,,,en,1.0
 "86,000","86,000",CARDINAL,,,en,1.0
 50 centimetres,50 centimetres,QUANTITY,,,en,1.0
 266,266,CARDINAL,,,en,1.0
-"approximately 200,000","approximately 200,000",CARDINAL,,,en,1.0
 More than a year,More than a year,DATE,,,en,1.0
+12:00 p.m.,12:00 p.m.,TIME,,,en,1.0
 recent decades,recent decades,DATE,,,en,1.0
 ninth,ninth,ORDINAL,,,en,1.0
 a capricious month,a capricious month,DATE,,,en,1.0
 14 degrees Celsius,14 degrees Celsius,QUANTITY,,,en,1.0
-more than 200 square kilometers,more than 200 square kilometers,QUANTITY,,,en,1.0
-months,months,DATE,,,en,1.0
-the middle of February,the middle of February,DATE,,,en,1.0
-December,December,DATE,,,en,1.0
-the Great Hall of the People,the Great Hall of the People,FAC,,,en,1.0
-the Great Hall,the Great Hall,FAC,,,en,1.0
-last night,last night,TIME,,,en,1.0
-1:54 a.m.,1:54 a.m.,TIME,,,en,1.0
+0 degrees,0 degrees,QUANTITY,,,en,1.0
+the end of this week,the end of this week,DATE,,,en,1.0
+several days of winter,several days of winter,DATE,,,en,1.0
+"Friday, February 20","Friday, February 20",DATE,,,en,1.0
+"Sunday, February 22","Sunday, February 22",DATE,,,en,1.0
+5 minutes,5 minutes,TIME,,,en,1.0
+32,32,DATE,,,en,1.0
+the North Station,the North Station,FAC,,,en,1.0
+"Wednesday, February 18","Wednesday, February 18",DATE,,,en,1.0
 "1,600","1,600",CARDINAL,,,en,1.0
+1 a.m,1 a.m,TIME,,,en,1.0
 "About 1,600","About 1,600",CARDINAL,,,en,1.0
 the middle of winter,the middle of winter,DATE,,,en,1.0
 "Friday, February 6","Friday, February 6",DATE,,,en,1.0
@@ -780,18 +800,23 @@ the month of January,the month of January,DATE,,,en,1.0
 about 15 centimeters,about 15 centimeters,QUANTITY,,,en,1.0
 between February 16,between February 16,DATE,,,en,1.0
 February 19,February 19,DATE,,,en,1.0
-1 a.m,1 a.m,TIME,,,en,1.0
 30 cm,30 cm,QUANTITY,,,en,1.0
+8 p.m.,8 p.m.,TIME,,,en,1.0
 Approximately 80,Approximately 80,CARDINAL,,,en,1.0
 the Board Room,the Board Room,FAC,,,en,1.0
 15:00,15:00,TIME,,,en,1.0
 Two days,Two days,DATE,,,en,1.0
 two-year-old,two-year-old,DATE,,,en,1.0
-the Town Hall,the Town Hall,FAC,,,en,1.0
-49 degrees Celsius,49 degrees Celsius,QUANTITY,,,en,1.0
-the end of this week,the end of this week,DATE,,,en,1.0
-At least 20,At least 20,CARDINAL,,,en,1.0
-January 8,January 8,DATE,,,en,1.0
+December,December,DATE,,,en,1.0
+months,months,DATE,,,en,1.0
+just a few days,just a few days,DATE,,,en,1.0
+more than 200 square kilometers,more than 200 square kilometers,QUANTITY,,,en,1.0
+An ordinary day,An ordinary day,DATE,,,en,1.0
+Pieces of a Woman,Pieces of a Woman,WORK_OF_ART,,,en,1.0
+"850,000","850,000",CARDINAL,,,en,1.0
+Zeppelin,Zeppelin,PRODUCT,,,en,1.0
+"January 29, 1916","January 29, 1916",DATE,,,en,1.0
+a hundred years old,a hundred years old,DATE,,,en,1.0
 the 2025–2026 school year,the 2025–2026 school year,DATE,,,en,1.0
 "Thursday, January 8, 2026","Thursday, January 8, 2026",DATE,,,en,1.0
 -16 degrees,-16 degrees,QUANTITY,,,en,1.0
@@ -803,8 +828,8 @@ Almost half a meter,Almost half a meter,CARDINAL,,,en,1.0
 Oceans,Oceans,NORP,,,en,1.0
 more than 90%,more than 90%,PERCENT,,,en,1.0
 At least four,At least four,CARDINAL,,,en,1.0
-a hundred years old,a hundred years old,DATE,,,en,1.0
 200 km/h,200 km/h,QUANTITY,,,en,1.0
+almost 40%,almost 40%,PERCENT,,,en,1.0
 up to 20cm,up to 20cm,QUANTITY,,,en,1.0
 "almost 400,000","almost 400,000",CARDINAL,,,en,1.0
 129 million dollars,129 million dollars,MONEY,,,en,1.0
@@ -814,10 +839,12 @@ Minus 13 degrees,Minus 13 degrees,QUANTITY,,,en,1.0
 to -10 degrees,to -10 degrees,QUANTITY,,,en,1.0
 up to 15 cm,up to 15 cm,QUANTITY,,,en,1.0
 2040,2040,DATE,,,en,1.0
-almost 40%,almost 40%,PERCENT,,,en,1.0
-37.7%,37.7%,PERCENT,,,en,1.0
+10 years,10 years,DATE,,,en,1.0
 |,|,CARDINAL,,,en,1.0
-"3,476","3,476",CARDINAL,,,en,1.0
+January 8,January 8,DATE,,,en,1.0
+At least 20,At least 20,CARDINAL,,,en,1.0
+the Town Hall,the Town Hall,FAC,,,en,1.0
+"more than 6,000","more than 6,000",CARDINAL,,,en,1.0
 6 million cubic meters,6 million cubic meters,QUANTITY,,,en,1.0
 cobza,cobza,NORP,,,en,1.0
 "450,000 euros","450,000 euros",MONEY,,,en,1.0
@@ -829,8 +856,8 @@ the last weekend,the last weekend,DATE,,,en,1.0
 two millennia,two millennia,DATE,,,en,1.0
 "more than 2,000 years","more than 2,000 years",DATE,,,en,1.0
 70,70,CARDINAL,,,en,1.0
-"more than 6,000","more than 6,000",CARDINAL,,,en,1.0
 a third day in a row Monday,a third day in a row Monday,DATE,,,en,1.0
+37.7%,37.7%,PERCENT,,,en,1.0
 January 2,January 2,DATE,,,en,1.0
 "January 2, 1822","January 2, 1822",DATE,,,en,1.0
 "January 2, 1970","January 2, 1970",DATE,,,en,1.0
@@ -841,12 +868,11 @@ Vietnamese,Vietnamese,NORP,,,en,1.0
 the beginning of the year,the beginning of the year,DATE,,,en,1.0
 January 7,January 7,DATE,,,en,1.0
 Almost 40%,Almost 40%,PERCENT,,,en,1.0
-10 years,10 years,DATE,,,en,1.0
+"3,476","3,476",CARDINAL,,,en,1.0
 The next ten years,The next ten years,DATE,,,en,1.0
-early January,early January,DATE,,,en,1.0
-3.0,3.0,CARDINAL,,,en,1.0
-the last eight years,the last eight years,DATE,,,en,1.0
-"today, January 21st","today, January 21st",DATE,,,en,1.0
+"April 1, 2026","April 1, 2026",DATE,,,en,1.0
+the middle of this week,the middle of this week,DATE,,,en,1.0
+"Sunday, January 25","Sunday, January 25",DATE,,,en,1.0
 the past days,the past days,DATE,,,en,1.0
 Twelve,Twelve,CARDINAL,,,en,1.0
 More than 180 million,More than 180 million,CARDINAL,,,en,1.0
@@ -858,8 +884,8 @@ this afternoon,this afternoon,TIME,,,en,1.0
 50-70 km/h,50-70 km/h,QUANTITY,,,en,1.0
 the coming period,the coming period,DATE,,,en,1.0
 Tens of thousands,Tens of thousands,CARDINAL,,,en,1.0
-"Sunday, January 25","Sunday, January 25",DATE,,,en,1.0
 January 26,January 26,DATE,,,en,1.0
+the first few days,the first few days,DATE,,,en,1.0
 24 hours,24 hours,TIME,,,en,1.0
 "above 1,700 meters","above 1,700 meters",QUANTITY,,,en,1.0
 seven,seven,CARDINAL,,,en,1.0
@@ -868,12 +894,13 @@ Tuesday noon,Tuesday noon,TIME,,,en,1.0
 just 2 years from now,just 2 years from now,DATE,,,en,1.0
 €1 million,€1 million,MONEY,,,en,1.0
 one million,one million,CARDINAL,,,en,1.0
+early January,early January,DATE,,,en,1.0
+49 degrees Celsius,49 degrees Celsius,QUANTITY,,,en,1.0
+at least six,at least six,CARDINAL,,,en,1.0
+"today, January 21st","today, January 21st",DATE,,,en,1.0
+the last eight years,the last eight years,DATE,,,en,1.0
 1990,1990,DATE,,,en,1.0
-the Soarelui Highway,the Soarelui Highway,FAC,,,en,1.0
-"April 1, 2026","April 1, 2026",DATE,,,en,1.0
-The six years,The six years,DATE,,,en,1.0
-the middle of this week,the middle of this week,DATE,,,en,1.0
-the first few days,the first few days,DATE,,,en,1.0
+3.0,3.0,CARDINAL,,,en,1.0
 more than three days,more than three days,DATE,,,en,1.0
 "over 3,500","over 3,500",CARDINAL,,,en,1.0
 last Saturday,last Saturday,DATE,,,en,1.0
@@ -895,23 +922,12 @@ up to 1.5 meters,up to 1.5 meters,QUANTITY,,,en,1.0
 the coldest day,the coldest day,DATE,,,en,1.0
 "lower than 1,800 meters","lower than 1,800 meters",QUANTITY,,,en,1.0
 below -20 degrees,below -20 degrees,QUANTITY,,,en,1.0
-0 degrees,0 degrees,QUANTITY,,,en,1.0
-several days of winter,several days of winter,DATE,,,en,1.0
-Code Yellow and Code,Code Yellow and Code,LAW,,,en,1.0
-Constantin,Constantin,PRODUCT,,,en,1.0
-2008,2008,DATE,,,en,1.0
-three decades ago,three decades ago,DATE,,,en,1.0
-the Munich Philharmonic,the Munich Philharmonic,FAC,,,en,1.0
-the end of February,the end of February,DATE,,,en,1.0
-2027,2027,DATE,,,en,1.0
-Dobrogean,Dobrogean,NORP,,,en,1.0
-Byzantine,Byzantine,NORP,,,en,1.0
-nearly three years,nearly three years,DATE,,,en,1.0
-the first months,the first months,DATE,,,en,1.0
-11 million,11 million,CARDINAL,,,en,1.0
-some days,some days,DATE,,,en,1.0
-Wizz Air,Wizz Air,PRODUCT,,,en,1.0
-the last 20 years,the last 20 years,DATE,,,en,1.0
+The six years,The six years,DATE,,,en,1.0
+the Soarelui Highway,the Soarelui Highway,FAC,,,en,1.0
+a few days ago,a few days ago,DATE,,,en,1.0
+Aninoasa,Aninoasa,WORK_OF_ART,,,en,1.0
+two weeks,two weeks,DATE,,,en,1.0
+"over 2,500 meters","over 2,500 meters",QUANTITY,,,en,1.0
 the last week,the last week,DATE,,,en,1.0
 133 days,133 days,DATE,,,en,1.0
 The Gulf War,The Gulf War,EVENT,,,en,1.0
@@ -922,37 +938,93 @@ up to four and a,up to four and a,CARDINAL,,,en,1.0
 six weeks,six weeks,DATE,,,en,1.0
 The last weekend,The last weekend,DATE,,,en,1.0
 Thursday night,Thursday night,TIME,,,en,1.0
-1936,1936,DATE,,,en,1.0
-"March 12, 1878","March 12, 1878",DATE,,,en,1.0
-"over 2,500 meters","over 2,500 meters",QUANTITY,,,en,1.0
-March 12,March 12,DATE,,,en,1.0
--25 degrees,-25 degrees,QUANTITY,,,en,1.0
-the beginning of spring,the beginning of spring,DATE,,,en,1.0
-2026 March,2026 March,DATE,,,en,1.0
-years,years,DATE,,,en,1.0
-25 seconds,25 seconds,TIME,,,en,1.0
-approximately 25 seconds,approximately 25 seconds,TIME,,,en,1.0
-the Grădiște hill,the Grădiște hill,FAC,,,en,1.0
-decades ago,decades ago,DATE,,,en,1.0
-"February 28, 2026","February 28, 2026",DATE,,,en,1.0
-Nature,Nature,WORK_OF_ART,,,en,1.0
-above $200,above $200,MONEY,,,en,1.0
-Israelis,Israelis,NORP,,,en,1.0
+almost zero,almost zero,CARDINAL,,,en,1.0
+"Friday, March 27","Friday, March 27",DATE,,,en,1.0
+Wizz Air,Wizz Air,PRODUCT,,,en,1.0
+the Meteorological Station,the Meteorological Station,FAC,,,en,1.0
+March 23,March 23,DATE,,,en,1.0
+1923,1923,DATE,,,en,1.0
+1948,1948,DATE,,,en,1.0
+1974,1974,DATE,,,en,1.0
+Ottomans,Ottomans,NORP,,,en,1.0
+Muslim,Muslim,NORP,,,en,1.0
+English,English,LANGUAGE,,,en,1.0
+Turkish,Turkish,NORP,,,en,1.0
+Păstrăvărie,Păstrăvărie,WORK_OF_ART,,,en,1.0
+"Saturday, March 28","Saturday, March 28",DATE,,,en,1.0
+the last 20 years,the last 20 years,DATE,,,en,1.0
+some days,some days,DATE,,,en,1.0
+hijab,hijab,NORP,,,en,1.0
+the 12th day,the 12th day,DATE,,,en,1.0
 more than $200,more than $200,MONEY,,,en,1.0
 40,40,CARDINAL,,,en,1.0
 44,44,CARDINAL,,,en,1.0
 March 9,March 9,DATE,,,en,1.0
+Christian,Christian,NORP,,,en,1.0
 the first centuries,the first centuries,DATE,,,en,1.0
 almost 110 dollars,almost 110 dollars,MONEY,,,en,1.0
 about 20 dollars,about 20 dollars,MONEY,,,en,1.0
 Iranians,Iranians,NORP,,,en,1.0
 Arab,Arab,NORP,,,en,1.0
 Day 12,Day 12,DATE,,,en,1.0
-the 12th day,the 12th day,DATE,,,en,1.0
-almost zero,almost zero,CARDINAL,,,en,1.0
-"Friday, March 27","Friday, March 27",DATE,,,en,1.0
-"March 4, 1977","March 4, 1977",DATE,,,en,1.0
+March 12,March 12,DATE,,,en,1.0
+11 million,11 million,CARDINAL,,,en,1.0
+"March 12, 1878","March 12, 1878",DATE,,,en,1.0
+Constantin,Constantin,PRODUCT,,,en,1.0
+1936,1936,DATE,,,en,1.0
+2008,2008,DATE,,,en,1.0
+the Munich Philharmonic,the Munich Philharmonic,FAC,,,en,1.0
+the end of February,the end of February,DATE,,,en,1.0
+2027,2027,DATE,,,en,1.0
+Dobrogean,Dobrogean,NORP,,,en,1.0
+Byzantine,Byzantine,NORP,,,en,1.0
+nearly three years,nearly three years,DATE,,,en,1.0
+the first months,the first months,DATE,,,en,1.0
+10-20 cm,10-20 cm,QUANTITY,,,en,1.0
+zero,zero,CARDINAL,,,en,1.0
+1977,1977,DATE,,,en,1.0
+April,April,DATE,,,en,1.0
+each day,each day,DATE,,,en,1.0
+"Monday, April 6","Monday, April 6",DATE,,,en,1.0
+Orthodox Christians,Orthodox Christians,NORP,,,en,1.0
+last days,last days,DATE,,,en,1.0
+several thousand,several thousand,CARDINAL,,,en,1.0
+Easter holidays,Easter holidays,DATE,,,en,1.0
+April 4,April 4,DATE,,,en,1.0
+"Wednesday, April 8","Wednesday, April 8",DATE,,,en,1.0
+Code Yellow and Code,Code Yellow and Code,LAW,,,en,1.0
+1st,1st,ORDINAL,,,en,1.0
+85-110 km,85-110 km,QUANTITY,,,en,1.0
+Jewish,Jewish,NORP,,,en,1.0
+winters,winters,DATE,,,en,1.0
+AD 33,AD 33,DATE,,,en,1.0
+one tenth,one tenth,CARDINAL,,,en,1.0
+a single year,a single year,DATE,,,en,1.0
+the last 16 years,the last 16 years,DATE,,,en,1.0
+at least 20,at least 20,CARDINAL,,,en,1.0
+the Collective Labor Agreement,the Collective Labor Agreement,LAW,,,en,1.0
+the coming hours,the coming hours,TIME,,,en,1.0
+12 years,12 years,DATE,,,en,1.0
+2003,2003,DATE,,,en,1.0
+Thousands of kilometers,Thousands of kilometers,QUANTITY,,,en,1.0
+last month,last month,DATE,,,en,1.0
+"over 5,000 meters","over 5,000 meters",QUANTITY,,,en,1.0
+8 years ago,8 years ago,DATE,,,en,1.0
+1917,1917,DATE,,,en,1.0
 over half,over half,CARDINAL,,,en,1.0
+Less than half,Less than half,CARDINAL,,,en,1.0
+49.3%,49.3%,PERCENT,,,en,1.0
+exams next year,exams next year,DATE,,,en,1.0
+"Tuesday, March 31st","Tuesday, March 31st",DATE,,,en,1.0
+Tropical Cyclone Narelle,Tropical Cyclone Narelle,WORK_OF_ART,,,en,1.0
+21.5 million euros,21.5 million euros,MONEY,,,en,1.0
+April 1st,April 1st,DATE,,,en,1.0
+last weekend,last weekend,DATE,,,en,1.0
+more than a decade,more than a decade,DATE,,,en,1.0
+Saturday evening,Saturday evening,TIME,,,en,1.0
+Saharan,Saharan,NORP,,,en,1.0
+Saturday afternoon,Saturday afternoon,TIME,,,en,1.0
+Politico,Politico,NORP,,,en,1.0
 above 1800 meters,above 1800 meters,QUANTITY,,,en,1.0
 A month,A month,DATE,,,en,1.0
 3 – after 7 years,3 – after 7 years,DATE,,,en,1.0
@@ -964,57 +1036,10 @@ Evangelical,Evangelical,NORP,,,en,1.0
 more than 200,more than 200,CARDINAL,,,en,1.0
 85 years,85 years,DATE,,,en,1.0
 85 years ago,85 years ago,DATE,,,en,1.0
-Politico,Politico,NORP,,,en,1.0
-8 years ago,8 years ago,DATE,,,en,1.0
-winters,winters,DATE,,,en,1.0
-"over 5,000 meters","over 5,000 meters",QUANTITY,,,en,1.0
-each day,each day,DATE,,,en,1.0
-"Monday, April 6","Monday, April 6",DATE,,,en,1.0
-Orthodox Christians,Orthodox Christians,NORP,,,en,1.0
-last days,last days,DATE,,,en,1.0
-several thousand,several thousand,CARDINAL,,,en,1.0
-Easter holidays,Easter holidays,DATE,,,en,1.0
-April 4,April 4,DATE,,,en,1.0
-"Wednesday, April 8","Wednesday, April 8",DATE,,,en,1.0
-Saturday afternoon,Saturday afternoon,TIME,,,en,1.0
-Saharan,Saharan,NORP,,,en,1.0
-the Meteorological Station,the Meteorological Station,FAC,,,en,1.0
-Saturday evening,Saturday evening,TIME,,,en,1.0
-March 23,March 23,DATE,,,en,1.0
-1923,1923,DATE,,,en,1.0
-1948,1948,DATE,,,en,1.0
-1974,1974,DATE,,,en,1.0
-Ottomans,Ottomans,NORP,,,en,1.0
-Muslim,Muslim,NORP,,,en,1.0
-English,English,LANGUAGE,,,en,1.0
-Turkish,Turkish,NORP,,,en,1.0
-Păstrăvărie,Păstrăvărie,WORK_OF_ART,,,en,1.0
-"Saturday, March 28","Saturday, March 28",DATE,,,en,1.0
-10-20 cm,10-20 cm,QUANTITY,,,en,1.0
-hijab,hijab,NORP,,,en,1.0
-zero,zero,CARDINAL,,,en,1.0
-1917,1917,DATE,,,en,1.0
-Less than half,Less than half,CARDINAL,,,en,1.0
-49.3%,49.3%,PERCENT,,,en,1.0
-exams next year,exams next year,DATE,,,en,1.0
-"Tuesday, March 31st","Tuesday, March 31st",DATE,,,en,1.0
-Tropical Cyclone Narelle,Tropical Cyclone Narelle,WORK_OF_ART,,,en,1.0
-21.5 million euros,21.5 million euros,MONEY,,,en,1.0
-April 1st,April 1st,DATE,,,en,1.0
-last weekend,last weekend,DATE,,,en,1.0
-more than a decade,more than a decade,DATE,,,en,1.0
-The first days of March,The first days of March,DATE,,,en,1.0
-"Wednesday, 49 years","Wednesday, 49 years",DATE,,,en,1.0
-"Friday, February 20","Friday, February 20",DATE,,,en,1.0
-February 25,February 25,DATE,,,en,1.0
-February 17-20,February 17-20,DATE,,,en,1.0
-the BAFTA Awards,the BAFTA Awards,EVENT,,,en,1.0
-the BAFTA Film Awards,the BAFTA Film Awards,EVENT,,,en,1.0
-the first days of spring,the first days of spring,DATE,,,en,1.0
-March 8,March 8,DATE,,,en,1.0
-February 23 to March 8,February 23 to March 8,DATE,,,en,1.0
-between February 23 and 25,between February 23 and 25,DATE,,,en,1.0
-Prahov,Prahov,NORP,,,en,1.0
+Israelis,Israelis,NORP,,,en,1.0
+above $200,above $200,MONEY,,,en,1.0
+Nature,Nature,WORK_OF_ART,,,en,1.0
+almost a meter,almost a meter,QUANTITY,,,en,1.0
 130 years old,130 years old,DATE,,,en,1.0
 Sadu,Sadu,NORP,0.175,0.4666666666666667,en,1.0
 "More than 5,700","More than 5,700",CARDINAL,,,en,1.0
@@ -1026,21 +1051,23 @@ Four years,Four years,DATE,,,en,1.0
 153 years,153 years,DATE,,,en,1.0
 Code Orange,Code Orange,PRODUCT,,,en,1.0
 "more than 5,000","more than 5,000",CARDINAL,,,en,1.0
-almost a meter,almost a meter,QUANTITY,,,en,1.0
 80%,80%,PERCENT,,,en,1.0
+between February 23 and 25,between February 23 and 25,DATE,,,en,1.0
 World War I and World War III,World War I and World War III,EVENT,,,en,1.0
 four years ago,four years ago,DATE,,,en,1.0
-winter to spring,winter to spring,DATE,,,en,1.0
-"Wednesday, February 25","Wednesday, February 25",DATE,,,en,1.0
+the Olteniței Road,the Olteniței Road,FAC,,,en,1.0
 Olteniței Road,Olteniței Road,FAC,,,en,1.0
-between winter and spring,between winter and spring,DATE,,,en,1.0
-"Sunday, February 22","Sunday, February 22",DATE,,,en,1.0
-5 minutes,5 minutes,TIME,,,en,1.0
-32,32,DATE,,,en,1.0
-a few days ago,a few days ago,DATE,,,en,1.0
-Three years,Three years,DATE,,,en,1.0
-Aninoasa,Aninoasa,WORK_OF_ART,,,en,1.0
-1977,1977,DATE,,,en,1.0
+Capital,Capital,FAC,0.0,0.0,en,1.0
+Caraș-Severin County,Caraș-Severin County,NORP,,,en,1.0
+Olteniţei Road,Olteniţei Road,FAC,,,en,1.0
+19:00,19:00,TIME,,,en,1.0
+Almost 30 degrees,Almost 30 degrees,CARDINAL,,,en,1.0
+25 degrees Celsius,25 degrees Celsius,QUANTITY,,,en,1.0
+More than 200,More than 200,CARDINAL,,,en,1.0
+Prahov,Prahov,NORP,,,en,1.0
+February 23 to March 8,February 23 to March 8,DATE,,,en,1.0
+"February 28, 2026","February 28, 2026",DATE,,,en,1.0
+the next four weeks,the next four weeks,DATE,,,en,1.0
 2 kilograms,2 kilograms,QUANTITY,,,en,1.0
 over 10 kilograms,over 10 kilograms,QUANTITY,,,en,1.0
 "300,000 euros","300,000 euros",MONEY,,,en,1.0
@@ -1052,24 +1079,23 @@ the next few hours,the next few hours,TIME,,,en,1.0
 150 years ago,150 years ago,DATE,,,en,1.0
 Constantin Brâncusi,Constantin Brâncusi,PRODUCT,,,en,1.0
 14-15 degrees,14-15 degrees,QUANTITY,,,en,1.0
-the next four weeks,the next four weeks,DATE,,,en,1.0
 133,133,CARDINAL,,,en,1.0
+March 8,March 8,DATE,,,en,1.0
 "More than 3,000","More than 3,000",CARDINAL,,,en,1.0
 12 - 13 degrees Celsius,12 - 13 degrees Celsius,QUANTITY,,,en,1.0
 the decade,the decade,DATE,,,en,1.0
-the Olteniței Road,the Olteniței Road,FAC,,,en,1.0
-Capital,Capital,FAC,0.0,0.0,en,1.0
-418,418,CARDINAL,,,en,1.0
-Călmațui,Călmațui,NORP,,,en,1.0
-"March 2, 2026","March 2, 2026",DATE,,,en,1.0
-06:00 a.m.,06:00 a.m.,TIME,,,en,1.0
-Calmătui,Calmătui,NORP,,,en,1.0
-five years ago,five years ago,DATE,,,en,1.0
-the mid-1980s,the mid-1980s,DATE,,,en,1.0
-the next four decades,the next four decades,DATE,,,en,1.0
-100 years,100 years,DATE,,,en,1.0
-the Blue Highway,the Blue Highway,FAC,,,en,1.0
-World War III,World War III,EVENT,,,en,1.0
+between winter and spring,between winter and spring,DATE,,,en,1.0
+"Wednesday, February 25","Wednesday, February 25",DATE,,,en,1.0
+February 25,February 25,DATE,,,en,1.0
+winter to spring,winter to spring,DATE,,,en,1.0
+February 17-20,February 17-20,DATE,,,en,1.0
+the BAFTA Awards,the BAFTA Awards,EVENT,,,en,1.0
+the BAFTA Film Awards,the BAFTA Film Awards,EVENT,,,en,1.0
+the first days of spring,the first days of spring,DATE,,,en,1.0
+"above 1,500 meters","above 1,500 meters",QUANTITY,,,en,1.0
+the morning of Thursday,the morning of Thursday,TIME,,,en,1.0
+100-110 km,100-110 km,QUANTITY,,,en,1.0
+Seven,Seven,CARDINAL,,,en,1.0
 The Truth,The Truth,WORK_OF_ART,,,en,1.0
 Day 3,Day 3,DATE,,,en,1.0
 third day,third day,DATE,,,en,1.0
@@ -1078,25 +1104,26 @@ the Oval Office,the Oval Office,FAC,,,en,1.0
 "March 4, 1977:","March 4, 1977:",DATE,,,en,1.0
 almost five decades,almost five decades,DATE,,,en,1.0
 the evening,the evening,TIME,,,en,1.0
-7.2,7.2,CARDINAL,,,en,1.0
 Grădiște street,Grădiște street,FAC,,,en,1.0
 Grădiște Street,Grădiște Street,FAC,,,en,1.0
 the Old Center,the Old Center,FAC,,,en,1.0
-Seven,Seven,CARDINAL,,,en,1.0
 Gradiste street,Gradiste street,FAC,,,en,1.0
-"between February 28, 2026","between February 28, 2026",DATE,,,en,1.0
-over 1800 meters,over 1800 meters,QUANTITY,,,en,1.0
-Caraș-Severin County,Caraș-Severin County,NORP,,,en,1.0
-9,9,CARDINAL,,,en,1.0
-Olteniţei Road,Olteniţei Road,FAC,,,en,1.0
-19:00,19:00,TIME,,,en,1.0
-Almost 30 degrees,Almost 30 degrees,CARDINAL,,,en,1.0
-25 degrees Celsius,25 degrees Celsius,QUANTITY,,,en,1.0
-More than 200,More than 200,CARDINAL,,,en,1.0
-"above 1,500 meters","above 1,500 meters",QUANTITY,,,en,1.0
-the morning of Thursday,the morning of Thursday,TIME,,,en,1.0
-100-110 km,100-110 km,QUANTITY,,,en,1.0
 Gen Z,Gen Z,PRODUCT,,,en,1.0
+418,418,CARDINAL,,,en,1.0
+"Wednesday, 49 years","Wednesday, 49 years",DATE,,,en,1.0
+"March 4, 1977","March 4, 1977",DATE,,,en,1.0
+The first days of March,The first days of March,DATE,,,en,1.0
+-25 degrees,-25 degrees,QUANTITY,,,en,1.0
+the beginning of spring,the beginning of spring,DATE,,,en,1.0
+2026 March,2026 March,DATE,,,en,1.0
+25 seconds,25 seconds,TIME,,,en,1.0
+approximately 25 seconds,approximately 25 seconds,TIME,,,en,1.0
+the Grădiște hill,the Grădiște hill,FAC,,,en,1.0
+decades ago,decades ago,DATE,,,en,1.0
+World War III,World War III,EVENT,,,en,1.0
+the Blue Highway,the Blue Highway,FAC,,,en,1.0
+100 years,100 years,DATE,,,en,1.0
+the next four decades,the next four decades,DATE,,,en,1.0
 between the ages of 14 and 29,between the ages of 14 and 29,DATE,,,en,1.0
 "almost 7,000 cubic meters","almost 7,000 cubic meters",QUANTITY,,,en,1.0
 "more than 2,500","more than 2,500",CARDINAL,,,en,1.0
@@ -1111,4 +1138,13 @@ around noon,around noon,TIME,,,en,1.0
 4km chasm,4km chasm,QUANTITY,,,en,1.0
 about 37%,about 37%,PERCENT,,,en,1.0
 the first month of 2026,the first month of 2026,DATE,,,en,1.0
-40 degrees Cels,40 degrees Cels,QUANTITY,,,en,1.0
+9,9,CARDINAL,,,en,1.0
+over 1800 meters,over 1800 meters,QUANTITY,,,en,1.0
+Călmațui,Călmațui,NORP,,,en,1.0
+"between February 28, 2026","between February 28, 2026",DATE,,,en,1.0
+"March 2, 2026","March 2, 2026",DATE,,,en,1.0
+06:00 a.m.,06:00 a.m.,TIME,,,en,1.0
+Calmătui,Calmătui,NORP,,,en,1.0
+five years ago,five years ago,DATE,,,en,1.0
+the mid-1980s,the mid-1980s,DATE,,,en,1.0
+a day earlier,a day earlier,DATE,,,en,1.0
