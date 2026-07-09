@@ -33,6 +33,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,val de frig,2026-06-23T06:32:00+00:00,,0.3994695163789186,2,1,ro,,
 'd389bc4f63',extremes,Earthquake,#870007,usgs,cutremur mexic,2026-06-29T07:12:00+00:00,Mexico,0.3992575845343514,2,2,ro,SCA,North-America
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,vara de frig,2026-06-25T06:32:00+00:00,,0.3946579598182544,2,2,ro,,
+'15a9c61e3e',extremes,Landslide,#572c03,random,alunecare,2026-07-02T06:23:00+00:00,,0.3946543539321391,2,2,ro,,
 'f37139fe2d',extremes,Landslide,#572c03,random,alunecare de noroi,2026-05-30T06:01:00+00:00,,0.3851660071078505,2,2,ro,,
 'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicală jangmi,2026-05-30T06:01:00+00:00,,0.380642705333965,2,2,ro,NPO,Pacific Ocean
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-07-01T06:52:00+00:00,,0.3780964263599358,1,2,ro,,
@@ -53,18 +54,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-06-23T06:33:00+00:00,Moldova,0.3386236513802718,2,1,ro,WCE,Europe
 '1405131905',extremes,Thunderstorm,#53785a,random,grindină,2026-06-03T07:22:00+00:00,,0.3378042835620071,1,2,ro,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,furtună,2026-06-10T06:49:00+00:00,,0.3355218367375092,2,1,ro,,
-'8447ef896b',extremes,Snow&Ice,#d60d2b,random,nămol de zăpadă,2026-06-27T06:08:00+00:00,,0.3344678764312723,0,1,ro,,
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-06-13T06:38:00+00:00,Moldova,0.3313046009924874,2,1,ro,WCE,Europe
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclon,2026-06-18T07:16:00+00:00,,0.3311675997620291,1,2,ro,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,furtuna,2026-06-10T06:49:00+00:00,,0.3293830854591308,2,1,ro,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-06-13T06:38:00+00:00,,0.3292341059786993,1,2,ro,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcan,2026-06-20T06:46:00+00:00,,0.3272946593934878,3,1,ro,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,uragan,2026-06-12T07:05:00+00:00,,0.3253922877853941,2,1,ro,,
-'d59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-07-08T05:37:00+00:00,,0.3253790816789862,1,1,ro,,
 '40f675561f',extremes,Heat Wave,#c40202,random,vara cea mai fierbinte,2026-06-11T07:14:00+00:00,,0.3220031628635963,2,1,ro,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,furtună tropicală,2026-06-13T06:38:00+00:00,,0.3216553197878139,1,1,ro,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,bruma,2026-06-15T08:36:00+00:00,,0.3196921037041809,1,1,ro,,
-'15a9c61e3e',extremes,Landslide,#572c03,random,alunecare,2026-07-02T06:23:00+00:00,,0.3180930752142813,1,1,ro,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,val de vijelie,2026-06-14T07:06:00+00:00,,0.3133949042044212,2,2,ro,,
 'fc6abeb657',extremes,Earthquake,#870007,usgs,cutremur boconó,2026-06-18T07:16:00+00:00,Venezuela,0.3125389127072105,2,1,ro,NSA,South-America
 'ca94998c29',extremes,Heat Wave,#c40202,wmo,val de căldură regatul Unit,2026-06-21T07:16:00+00:00,United Kingdom,0.3108462809353147,2,1,ro,NEU,Europe
@@ -78,11 +76,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,furtună trinidad și tobago,2026-07-08T05:37:00+00:00,Trinidad and Tobago,0.3008878822949286,0,1,ro,NSA,North-America
 '065a68d42d',extremes,Storm,#b3b2b1,wmo,storm surge mauritius,2026-07-08T05:37:00+00:00,Mauritius,0.3003188077112567,0,1,ro,SIO,Africa
 '8ec3c413ed',extremes,Flood,#030ba1,wmo,inundație fulgerătoare râul pembina la nord de Killarney,2026-07-08T05:37:00+00:00,Canada,0.3001857145086004,0,1,ro,NEN,North-America
-'6ae822c377',extremes,Snow&Ice,#d60d2b,wmo,inghet lindis trece sh8,2026-07-08T05:37:00+00:00,New Zealand,0.29991067830955725,0,1,ro,NZ,Oceania
+'6ae822c377',extremes,Snow&Ice,#d60d2b,wmo,inghet lindis trece sh8,2026-07-08T05:37:00+00:00,New Zealand,0.2999106783095572,0,1,ro,NZ,Oceania
 '25b6813d1f',extremes,Flood,#030ba1,wmo,inundație fulgerătoare la sud de Kamchatka Krai,2026-07-08T05:37:00+00:00,Russia,0.2998666901673264,0,1,ro,ESB,Europe
 '55688ac94f',extremes,Tropical Cyclone,#4f4f4f,wmo,​​ciclon tropical filipine,2026-06-24T06:30:00+00:00,Philippines,0.2996192942598736,0,1,ro,SEA,Asia
 'a24f5db818',extremes,Flood,#030ba1,wmo,inundarea râului Little Souris lângă Brandon,2026-07-08T05:37:00+00:00,Canada,0.2995924288835547,0,1,ro,NEN,North-America
-'c37650b8be',extremes,Flood,#030ba1,wmo,flashflood rusia,2026-07-03T06:09:00+00:00,Russia,0.29927457849664235,0,1,ro,ESB,Europe
+'c37650b8be',extremes,Flood,#030ba1,wmo,flashflood rusia,2026-07-03T06:09:00+00:00,Russia,0.2992745784966423,0,1,ro,ESB,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,ceață state unite,2026-06-27T06:08:00+00:00,United States,0.2992136886404187,0,1,ro,CNA,North-America
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,storm africa de sud,2026-06-24T06:30:00+00:00,South Africa,0.2990953816124401,0,1,ro,WSAF,Africa
 'ce4d5cd14d',extremes,Storm,#b3b2b1,wmo,val de vijelie în majoritatea apelor,2026-06-30T06:39:00+00:00,Solomon Islands,0.2988105328077183,0,1,ro,EPO,Oceania
@@ -97,18 +95,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,furtună belize,2026-06-24T06:30:00+00:00,Belize,0.2987454385232826,0,1,ro,SCA,North-America
 'e0d11e9e5e',extremes,Storm,#b3b2b1,wmo,storm surge sweden,2026-07-04T05:59:00+00:00,Sweden,0.2986656135800122,0,1,ro,NEU,Europe
 '6151a5c46b',extremes,Heat Wave,#c40202,wmo,val de căldură puvirnituq,2026-07-02T06:24:00+00:00,Canada,0.2986555087263704,0,1,ro,NEN,North-America
-'98ff5c9897',extremes,Wildfire,#d60d2b,wmo,wildfire slovenia,2026-07-08T05:37:00+00:00,Slovenia,0.29864118200158357,0,1,ro,WCE,Europe
+'98ff5c9897',extremes,Wildfire,#d60d2b,wmo,wildfire slovenia,2026-07-08T05:37:00+00:00,Slovenia,0.2986411820015835,0,1,ro,WCE,Europe
 '4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,inghet polonia,2026-06-20T06:47:00+00:00,Poland,0.2985764567381821,0,1,ro,WCE,Europe
 '0006615477',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială canada,2026-06-21T07:16:00+00:00,Canada,0.2985757795283025,0,1,ro,NEN,North-America
-'9336129229',extremes,Precipitation,#d60d2b,wmo,ploaie Canterbury South of Methven,2026-07-08T05:37:00+00:00,New Zealand,0.29853197746745674,0,1,ro,NZ,Oceania
-'a06f1ee344',extremes,Heat Wave,#c40202,wmo,val de căldură fyn,2026-06-25T06:32:00+00:00,Denmark,0.29852770145490043,0,1,ro,NEU,Europe
-'1832ba612c',extremes,Flood,#030ba1,wmo,inundație fulgerătoare okaloosa fl,2026-06-18T07:16:00+00:00,United States,0.29851553166850486,0,1,ro,CNA,North-America
-'7586d31b50',extremes,Wildfire,#d60d2b,wmo,wildfire republic of mordovia,2026-06-21T07:16:00+00:00,Russia,0.29845915973540715,0,1,ro,ESB,Europe
+'9336129229',extremes,Precipitation,#d60d2b,wmo,ploaie Canterbury South of Methven,2026-07-08T05:37:00+00:00,New Zealand,0.2985319774674567,0,1,ro,NZ,Oceania
+'a06f1ee344',extremes,Heat Wave,#c40202,wmo,val de căldură fyn,2026-06-25T06:32:00+00:00,Denmark,0.2985277014549004,0,1,ro,NEU,Europe
+'1832ba612c',extremes,Flood,#030ba1,wmo,inundație fulgerătoare okaloosa fl,2026-06-18T07:16:00+00:00,United States,0.2985155316685048,0,1,ro,CNA,North-America
+'7586d31b50',extremes,Wildfire,#d60d2b,wmo,wildfire republic of mordovia,2026-06-21T07:16:00+00:00,Russia,0.2984591597354071,0,1,ro,ESB,Europe
 '59b529f428',extremes,Thunderstorm,#53785a,random,furtună cu grindină,2026-06-17T07:33:00+00:00,,0.2952823528454438,2,1,ro,,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,ploaie torenţială,2026-06-29T07:12:00+00:00,,0.2866935881627986,2,1,ro,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centru național pentru uragane,2026-06-18T07:16:00+00:00,,0.2860778536913033,2,1,ro,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,anul cel mai tare,2026-06-07T06:48:00+00:00,,0.2856987096562229,1,2,ro,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,cea mai scăzută temperatură minimă,2026-06-25T06:32:00+00:00,,0.285220255005163,2,1,ro,,
+'8447ef896b',extremes,Snow&Ice,#d60d2b,random,nămol de zăpadă,2026-06-27T06:08:00+00:00,,0.2842976949665814,1,1,ro,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,fătare iceberg,2026-06-13T06:38:00+00:00,,0.2838020734942612,2,1,ro,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-06-10T06:49:00+00:00,,0.283145775795356,2,1,ro,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frontul meteo,2026-06-28T06:44:00+00:00,,0.2822264372816114,2,1,ro,,
@@ -116,6 +115,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,precipitaţii record,2026-06-10T06:49:00+00:00,,0.2816876614697491,2,1,ro,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gheață de mare arctică,2026-06-21T07:16:00+00:00,,0.2808973842223075,2,1,ro,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,alunecare de teren,2026-06-14T07:06:00+00:00,,0.2783614639791912,2,1,ro,,
+'d59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-07-08T05:37:00+00:00,,0.2765722194271383,2,1,ro,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,viscol,2026-06-14T07:06:00+00:00,,0.2752497896843384,2,1,ro,,
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,ploaie canada,2026-06-07T06:48:00+00:00,Canada,0.2730609725167975,2,1,ro,NEN,North-America
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,izbucnirea lacului glaciar,2026-07-02T06:23:00+00:00,,0.2719157901137981,1,1,ro,,
