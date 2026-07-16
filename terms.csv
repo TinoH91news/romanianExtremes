@@ -79,7 +79,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,caniculă val de ruz colombier,2026-07-11T05:27:00+00:00,Switzerland,0.3028383864382835,0,1,ro,WCE,Europe
 '91a13c4ea2',extremes,Fog,#d60d2b,wmo,ceață sanirajak igloolik,2026-07-14T05:14:00+00:00,Canada,0.3025021790423232,0,1,ro,NEN,North-America
 '16664cc668',extremes,Heat Wave,#c40202,wmo,caniculă verzasca,2026-07-08T05:37:00+00:00,Switzerland,0.3023404974298067,0,1,ro,WCE,Europe
+'ac4720587c',extremes,Snow&Ice,#d60d2b,wmo,îngheț reg. 3 cordilieră,2026-07-15T05:15:00+00:00,Chile,0.3023051772637745,0,1,ro,SWS,South-America
+'54559d4fe4',extremes,Thunderstorm,#53785a,wmo,furtună moosonee,2026-07-14T05:14:00+00:00,Canada,0.3022893278624632,0,1,ro,NEN,North-America
+'d9f5a28608',extremes,Heat Wave,#c40202,wmo,val de căldură basso moesano,2026-07-10T06:27:00+00:00,Switzerland,0.30221298233947613,0,1,ro,WCE,Europe
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de frig,2026-06-16T08:27:00+00:00,,0.3021347386413177,2,1,ro,,
+'2b6285aa8a',extremes,Drought,#edc291,edo,secetă Coasta de Fildeș,2026-06-25T06:32:00+00:00,Ivory Coast,0.302040266984308,0,1,ro,WAF,Africa
+'96fce9e739',extremes,Flood,#030ba1,wmo,inundații din Trinidad și Tobago,2026-07-13T05:53:00+00:00,Trinidad and Tobago,0.3020076375943224,0,1,ro,NSA,North-America
+'a715281618',extremes,Storm,#b3b2b1,wmo,storm surge vanuatu,2026-07-13T05:53:00+00:00,Vanuatu,0.3020012331789693,0,1,ro,SPO,Oceania
+'b923131e8f',extremes,Wildfire,#d60d2b,wmo,wildfire regiune volgograd,2026-07-04T05:59:00+00:00,Russia,0.3018790708961645,0,1,ro,ESB,Europe
+'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,inghet,2026-07-03T06:09:00+00:00,,0.30176946201692717,0,1,ro,,
+'0a43eb8b74',extremes,Heat Wave,#c40202,wmo,caniculă vouvry,2026-07-10T06:27:00+00:00,Switzerland,0.3017021766510026,0,1,ro,WCE,Europe
+'4389b7abd6',extremes,Heat Wave,#c40202,wmo,caniculă frick leibstadt,2026-07-08T05:37:00+00:00,Switzerland,0.30169509498529357,0,1,ro,WCE,Europe
 '59b529f428',extremes,Thunderstorm,#53785a,random,furtună cu grindină,2026-06-17T07:33:00+00:00,,0.2952823528454438,2,1,ro,,
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,furtună india,2026-06-30T06:39:00+00:00,India,0.2925623825756518,3,1,ro,SAS,Asia
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,ploaie torenţială,2026-06-29T07:12:00+00:00,,0.2866935881627986,2,1,ro,,
@@ -102,7 +112,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a652c78afc',extremes,Drought,#edc291,random,megasecetă,2026-06-22T08:39:00+00:00,,0.2649169703868734,2,1,ro,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclon bombă,2026-06-14T07:06:00+00:00,,0.2642505157676378,2,1,ro,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,vara indiană,2026-06-18T07:16:00+00:00,,0.2632555863910097,2,1,ro,,
-'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,snow brazil,2026-07-05T06:25:00+00:00,Brazil,0.26241043111431867,1,1,ro,SAM,South-America
+'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,snow brazil,2026-07-05T06:25:00+00:00,Brazil,0.2624104311143186,1,1,ro,SAM,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-06-17T07:33:00+00:00,Brazil,0.262386290991214,1,1,ro,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-06-18T07:16:00+00:00,Brazil,0.2623449098558504,1,1,ro,SAM,South-America
 '8d298839a5',extremes,Precipitation,#d60d2b,wmo,averse tamps ver,2026-07-10T06:27:00+00:00,Mexico,0.2611442552936339,1,1,ro,NCA,North-America
