@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a1a7e934f7',extremes,Precipitation,#d60d2b,wmo,precipitații argeș dâmbovița prahova,2026-07-22T05:35:00+00:00,Romania,0.6534959415815295,0,1,ro,WCE,Europe
-'0af4c11b9c',extremes,Precipitation,#d60d2b,wmo,ploaie romania,2026-07-22T05:35:00+00:00,Romania,0.6391756841832075,0,1,ro,WCE,Europe
 'd19a2e53e5',extremes,Heat Wave,#c40202,wmo,caniculă moldova,2026-06-27T06:08:00+00:00,Moldova,0.6012835088848275,2,1,ro,WCE,Europe
 '9778ee6716',extremes,Earthquake,#870007,usgs,cutremur yumare,2026-06-25T06:32:00+00:00,Venezuela,0.5715061690737648,3,2,ro,NSA,South-America
 '43e3252826',extremes,Storm,#b3b2b1,wmo,furtuna moldova,2026-07-04T05:59:00+00:00,Moldova,0.5606999323540521,3,1,ro,WCE,Europe
+'a1a7e934f7',extremes,Precipitation,#d60d2b,wmo,precipitații argeș dâmbovița prahova,2026-07-22T05:35:00+00:00,Romania,0.5554715503443001,1,1,ro,WCE,Europe
+'0af4c11b9c',extremes,Precipitation,#d60d2b,wmo,ploaie romania,2026-07-22T05:35:00+00:00,Romania,0.5435993615557263,1,1,ro,WCE,Europe
 '41210bc398',extremes,Thunderstorm,#53785a,wmo,grindină romania,2026-06-30T06:39:00+00:00,Romania,0.5357660094635102,2,1,ro,WCE,Europe
 'e730b98a72',extremes,Thunderstorm,#53785a,wmo,furtuna romania,2026-06-30T06:39:00+00:00,Romania,0.534670078072453,2,1,ro,WCE,Europe
 '76e79e8dfd',extremes,Precipitation,#d60d2b,wmo,ploaie romania,2026-07-13T05:53:00+00:00,Romania,0.5244836994890271,3,1,ro,WCE,Europe
@@ -79,8 +79,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ca94998c29',extremes,Heat Wave,#c40202,wmo,val de căldură regatul Unit,2026-06-21T07:16:00+00:00,United Kingdom,0.3108462809353147,2,1,ro,NEU,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitaţii argentina,2026-07-09T06:27:00+00:00,Argentina,0.3072150540256617,0,1,ro,SES,South-America
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,ploaie torenţială argentina,2026-07-09T06:27:00+00:00,Argentina,0.307158915146113,0,1,ro,SES,South-America
-'8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grindină canada,2026-07-09T06:27:00+00:00,Canada,0.30713536044532985,0,1,ro,NEN,North-America
-'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-07-15T05:15:00+00:00,Brazil,0.30320683017924677,0,1,ro,SAM,South-America
+'8adbdb9546',extremes,Thunderstorm,#53785a,wmo,grindină canada,2026-07-09T06:27:00+00:00,Canada,0.3071353604453298,0,1,ro,NEN,North-America
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ploaie brazilia,2026-07-15T05:15:00+00:00,Brazil,0.3032068301792467,0,1,ro,SAM,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,furtuna paraguay,2026-07-17T05:27:00+00:00,Paraguay,0.3029581547217658,0,1,ro,SES,South-America
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,ice chile,2026-07-13T05:53:00+00:00,Chile,0.3026289729656364,0,1,ro,SWS,South-America
 '9cf34e6f8a',extremes,Heat Wave,#c40202,wmo,val de căldură regiunea nord-estică,2026-07-17T05:27:00+00:00,North Macedonia,0.3011272300760038,0,1,ro,MED,Europe
