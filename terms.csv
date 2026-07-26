@@ -59,6 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03f33e230d',extremes,Earthquake,#870007,usgs,cutremur chile,2026-06-27T06:08:00+00:00,Chile,0.3625051474338079,2,2,ro,SWS,South-America
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aterizare,2026-07-09T06:27:00+00:00,,0.3607501763014367,1,2,ro,,
 '66fed82b61',extremes,Heat Wave,#c40202,wmo,caniculă serbia,2026-07-10T06:27:00+00:00,Serbia,0.3557234002301866,2,2,ro,MED,Europe
+'ec60b7df34',extremes,Heat Wave,#c40202,wmo,val de căldură state unite,2026-07-05T06:25:00+00:00,United States,0.3554561172392885,1,2,ro,CNA,North-America
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,dom de căldură,2026-07-22T05:35:00+00:00,,0.3543620726089276,1,1,ro,,
 '8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-07-07T06:30:00+00:00,Romania,0.3521010573856871,2,1,ro,WCE,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,ploaie de ploaie argentina,2026-06-18T07:16:00+00:00,Argentina,0.3501989984132661,2,2,ro,SES,South-America
@@ -71,12 +72,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20516962cd',extremes,Thunderstorm,#53785a,wmo,grindină serbia,2026-07-14T05:14:00+00:00,Serbia,0.3447824836684097,2,1,ro,MED,Europe
 'c98bc7a289',extremes,Thunderstorm,#53785a,wmo,furtună danemarca,2026-07-12T05:43:00+00:00,Denmark,0.3447350817699091,2,1,ro,NEU,Europe
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-07-04T05:59:00+00:00,Moldova,0.3314670728496856,2,1,ro,WCE,Europe
-'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,lapovita,2026-07-16T05:25:00+00:00,,0.32954838341818177,1,1,ro,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-07-09T06:27:00+00:00,,0.3263910210774319,2,1,ro,,
-'9fdafe82e8',extremes,Wildfire,#d60d2b,wmo,wildfire republic of adygea,2026-07-10T06:27:00+00:00,Russia,0.300020157027384,0,1,ro,ESB,Europe
-'45015c86e8',extremes,Drought,#edc291,edo,uscăciune haiti,2026-07-09T06:27:00+00:00,Haiti,0.3000167746321034,0,1,ro,CAR,North-America
-'cb39822660',extremes,Fog,#d60d2b,wmo,ceață regiune kemerovo,2026-07-10T06:27:00+00:00,Russia,0.3000113671243725,0,1,ro,ESB,Europe
-'ec60b7df34',extremes,Heat Wave,#c40202,wmo,val de căldură state unite,2026-07-05T06:25:00+00:00,United States,0.3000071438109277,0,1,ro,CNA,North-America
 'c76cb9fc29',extremes,Heat Wave,#c40202,wmo,val de căldură regiunea sud-vest,2026-07-16T05:25:00+00:00,North Macedonia,0.2999650286524506,0,1,ro,MED,Europe
 '6eb74257af',extremes,Storm,#b3b2b1,wmo,stare de furtună din Kuweit,2026-07-20T05:54:00+00:00,Kuwait,0.2999497816260409,0,1,ro,ARP,Asia
 '8a67a1fe5c',extremes,Heat Wave,#c40202,wmo,caniculă bex villars,2026-07-11T05:27:00+00:00,Switzerland,0.2998881996262594,0,1,ro,WCE,Europe
@@ -100,6 +96,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,poftă de frig,2026-07-11T05:26:00+00:00,,0.2817406978317453,2,1,ro,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,picături de mercur,2026-07-10T06:27:00+00:00,,0.2816579629729382,2,1,ro,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclon bombă,2026-07-07T06:30:00+00:00,,0.2810995942970449,2,1,ro,,
+'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,lapovita,2026-07-16T05:25:00+00:00,,0.2801161259054544,2,1,ro,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,diavol de praf,2026-07-14T05:14:00+00:00,,0.2800834518204186,2,1,ro,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,bruma,2026-07-07T06:30:00+00:00,,0.2799809477330457,2,1,ro,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiratie,2026-07-08T05:37:00+00:00,,0.2765722194271383,2,1,ro,,
@@ -153,7 +150,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4be795f03',extremes,Drought,#edc291,edo,lipsa ploii guinea ecuatoriala,2026-07-01T06:52:00+00:00,Equatorial Guinea,0.2592172778040117,1,1,ro,WAF,Africa
 '12775cc05a',extremes,Drought,#edc291,wmo,seceta brazil,2026-07-07T06:30:00+00:00,Brazil,0.25920419346778,1,1,ro,SAM,South-America
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,grindină iran,2026-07-24T05:36:00+00:00,Iran,0.2591842682412139,1,1,ro,WCA,Asia
-'accf7e59ae',extremes,Thunderstorm,#53785a,wmo,vreme severă belarus,2026-07-13T05:53:00+00:00,Belarus,0.25916896788249616,1,1,ro,WCE,Europe
+'accf7e59ae',extremes,Thunderstorm,#53785a,wmo,vreme severă belarus,2026-07-13T05:53:00+00:00,Belarus,0.2591689678824961,1,1,ro,WCE,Europe
 '0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,chile de îngheț,2026-07-14T05:14:00+00:00,Chile,0.2591527613515249,1,1,ro,SWS,South-America
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,storm surge new zealand,2026-07-03T06:09:00+00:00,New Zealand,0.2591407868450952,1,1,ro,NZ,Oceania
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,furtuna vanuatu,2026-07-02T06:24:00+00:00,Vanuatu,0.2590749564435608,1,1,ro,SPO,Oceania
@@ -190,7 +187,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd61de81685',extremes,Storm,#b3b2b1,wmo,storm surge chile,2026-07-08T05:37:00+00:00,Chile,0.2576831751752472,1,1,ro,SWS,South-America
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,furtuna uruguay,2026-07-19T05:37:00+00:00,Uruguay,0.2576766529949515,1,1,ro,SES,South-America
 '199a71ffe8',extremes,Heat Wave,#c40202,wmo,caniculă muntenegro,2026-06-30T06:39:00+00:00,Montenegro,0.2576755326991348,1,1,ro,MED,Europe
-'538094e890',extremes,Heat Wave,#c40202,wmo,caniculă msila,2026-07-26T05:46:00+00:00,Algeria,0.25763281778709224,1,1,ro,SAH,Africa
+'538094e890',extremes,Heat Wave,#c40202,wmo,caniculă msila,2026-07-26T05:46:00+00:00,Algeria,0.2576328177870922,1,1,ro,SAH,Africa
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-07-12T05:43:00+00:00,,0.2576322072364868,2,1,ro,,
 'de55985e54',extremes,Earthquake,#870007,usgs,cutremur hadibu,2026-07-19T05:37:00+00:00,Yemen,0.2575567254835213,1,1,ro,ARS,Indian Ocean
 '9e020e244e',extremes,Drought,#edc291,edo,uscăciune polonia,2026-07-04T05:59:00+00:00,Poland,0.2575446649088727,1,1,ro,WCE,Europe
@@ -350,7 +347,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '49b55c4a32',extremes,Precipitation,#d60d2b,wmo,precipitation gro oax,2026-07-11T05:27:00+00:00,Mexico,0.2555518371898229,1,1,ro,NCA,North-America
 '52e6ca3f85',extremes,Storm,#b3b2b1,wmo,furtuna reg. 9 vale longitudinală,2026-07-15T05:15:00+00:00,Chile,0.2555514533162162,1,1,ro,SWS,South-America
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,vreme severă India,2026-06-30T06:39:00+00:00,India,0.2555502813099285,1,1,ro,SAS,Asia
-'c9de150e59',extremes,Fog,#d60d2b,wmo,ceață districtul autonom chukotka,2026-07-25T05:29:00+00:00,Russia,0.25552748795826746,1,1,ro,ESB,Europe
+'c9de150e59',extremes,Fog,#d60d2b,wmo,ceață districtul autonom chukotka,2026-07-25T05:29:00+00:00,Russia,0.2555274879582674,1,1,ro,ESB,Europe
 'e762488b7b',extremes,Earthquake,#870007,usgs,cutremur caluula,2026-06-28T06:44:00+00:00,Somalia,0.2554984085014904,1,1,ro,NEAF,Africa
 '1cea2810c9',extremes,Storm,#b3b2b1,wmo,furtună în apele de coastă nordice.,2026-06-25T06:32:00+00:00,Vanuatu,0.2554950869641628,1,1,ro,SPO,Oceania
 '404a3ce925',extremes,Fog,#d60d2b,wmo,ceață regiunea Kaliningrad,2026-07-16T05:25:00+00:00,Russia,0.2554677314388514,1,1,ro,ESB,Europe
@@ -401,7 +398,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,storm surge zona 1 – moderată,2026-06-28T06:44:00+00:00,Paraguay,0.2550538334591517,1,1,ro,SES,South-America
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitaţii ecuador,2026-07-04T05:59:00+00:00,Ecuador,0.2550394660159666,1,1,ro,NWS,South-America
 'ecac020f22',extremes,Earthquake,#870007,usgs,cutremur la serena,2026-06-25T06:32:00+00:00,Chile,0.2550368957863216,1,1,ro,SWS,South-America
+'9fdafe82e8',extremes,Wildfire,#d60d2b,wmo,wildfire republic of adygea,2026-07-10T06:27:00+00:00,Russia,0.25501713347327637,1,1,ro,ESB,Europe
+'45015c86e8',extremes,Drought,#edc291,edo,uscăciune haiti,2026-07-09T06:27:00+00:00,Haiti,0.25501425843728787,1,1,ro,CAR,North-America
 '9fc8372048',extremes,Storm,#b3b2b1,wmo,furtuna zimbabwe,2026-06-24T06:30:00+00:00,Zimbabwe,0.2550124459178998,1,1,ro,ESAF,Africa
+'cb39822660',extremes,Fog,#d60d2b,wmo,ceață regiune kemerovo,2026-07-10T06:27:00+00:00,Russia,0.2550096620557166,1,1,ro,ESB,Europe
 'fab5f38af4',extremes,Snow&Ice,#d60d2b,wmo,portarii de zapada trec sh73,2026-07-06T06:52:00+00:00,New Zealand,0.2549961091312741,1,1,ro,NZ,Oceania
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,îngheț noua zeelandă,2026-06-24T06:30:00+00:00,New Zealand,0.2549840110321621,1,1,ro,NZ,Oceania
 '6ae822c377',extremes,Snow&Ice,#d60d2b,wmo,inghet lindis trece sh8,2026-07-08T05:37:00+00:00,New Zealand,0.2549240765631236,1,1,ro,NZ,Oceania
