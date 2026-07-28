@@ -73,19 +73,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,caniculă belgia,2026-07-07T06:30:00+00:00,Belgium,0.3448240149622199,2,1,ro,WCE,Europe
 '20516962cd',extremes,Thunderstorm,#53785a,wmo,grindină serbia,2026-07-14T05:14:00+00:00,Serbia,0.3447824836684097,2,1,ro,MED,Europe
 'c98bc7a289',extremes,Thunderstorm,#53785a,wmo,furtună danemarca,2026-07-12T05:43:00+00:00,Denmark,0.3447350817699091,2,1,ro,NEU,Europe
+'1856e0de6b',extremes,Tropical Cyclone,#4f4f4f,wmo,taifun hong kong,2026-07-27T06:05:00+00:00,Hong Kong,0.3316285764990291,1,2,ro,EAS,Asia
 '030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-07-04T05:59:00+00:00,Moldova,0.3314670728496856,2,1,ro,WCE,Europe
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-07-09T06:27:00+00:00,,0.3263910210774319,2,1,ro,,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,val de căldură state unite,2026-07-05T06:25:00+00:00,United States,0.3021377446533952,2,1,ro,CNA,North-America
-'69dfb15ea7',extremes,Storm,#b3b2b1,wmo,furtună adak la kiska bering side,2026-07-10T06:27:00+00:00,United States,0.3018653448887767,0,1,ro,CNA,North-America
-'1856e0de6b',extremes,Tropical Cyclone,#4f4f4f,wmo,taifun hong kong,2026-07-27T06:05:00+00:00,Hong Kong,0.3015629958812107,0,1,ro,EAS,Asia
-'4edc7586ed',extremes,Flood,#030ba1,wmo,centrul de inundații rapide al republicii Sakha,2026-07-23T05:40:00+00:00,Russia,0.30090527811894235,0,1,ro,ESB,Europe
-'60b2c23708',extremes,Flood,#030ba1,wmo,inundație regiunea Tyumen,2026-07-27T06:05:00+00:00,Russia,0.30065969702100165,0,1,ro,ESB,Europe
+'4edc7586ed',extremes,Flood,#030ba1,wmo,centrul de inundații rapide al republicii Sakha,2026-07-23T05:40:00+00:00,Russia,0.3009052781189423,0,1,ro,ESB,Europe
+'60b2c23708',extremes,Flood,#030ba1,wmo,inundație regiunea Tyumen,2026-07-27T06:05:00+00:00,Russia,0.3006596970210016,0,1,ro,ESB,Europe
 'f82258495e',extremes,Flood,#030ba1,wmo,inundare regiunea sverdlovsk,2026-07-11T05:27:00+00:00,Russia,0.3003729932274663,0,1,ro,ESB,Europe
 'b91eb8316e',extremes,Precipitation,#d60d2b,wmo,averse camp yuc,2026-07-12T05:43:00+00:00,Mexico,0.2997089366268291,0,1,ro,NCA,North-America
-'6d0f200efd',extremes,Thunderstorm,#53785a,wmo,grindină regiunea yaroslavl,2026-07-13T05:53:00+00:00,Russia,0.29970275462039836,0,1,ro,ESB,Europe
-'3cfd502555',extremes,Storm,#b3b2b1,wmo,furtuna reg. 3 cordilieră,2026-07-23T05:40:00+00:00,Chile,0.29967646623074046,0,1,ro,SWS,South-America
-'c16aa46f44',extremes,Storm,#b3b2b1,wmo,storm surge blida,2026-07-22T05:35:00+00:00,Algeria,0.29967075371081714,0,1,ro,SAH,Africa
-'2e538bfb03',extremes,Fog,#d60d2b,wmo,ceață evenkiyskiy m.r.,2026-07-20T05:54:00+00:00,Russia,0.29966290516988736,0,1,ro,ESB,Europe
+'6d0f200efd',extremes,Thunderstorm,#53785a,wmo,grindină regiunea yaroslavl,2026-07-13T05:53:00+00:00,Russia,0.2997027546203983,0,1,ro,ESB,Europe
+'3cfd502555',extremes,Storm,#b3b2b1,wmo,furtuna reg. 3 cordilieră,2026-07-23T05:40:00+00:00,Chile,0.2996764662307404,0,1,ro,SWS,South-America
+'c16aa46f44',extremes,Storm,#b3b2b1,wmo,storm surge blida,2026-07-22T05:35:00+00:00,Algeria,0.2996707537108171,0,1,ro,SAH,Africa
+'2e538bfb03',extremes,Fog,#d60d2b,wmo,ceață evenkiyskiy m.r.,2026-07-20T05:54:00+00:00,Russia,0.2996629051698873,0,1,ro,ESB,Europe
 'c76cb9fc29',extremes,Heat Wave,#c40202,wmo,val de căldură regiunea sud-vest,2026-07-16T05:25:00+00:00,North Macedonia,0.2991123719513955,2,1,ro,MED,Europe
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,furtună india,2026-06-30T06:39:00+00:00,India,0.2925623825756518,3,1,ro,SAS,Asia
 '40f675561f',extremes,Heat Wave,#c40202,random,vara cea mai fierbinte,2026-07-12T05:43:00+00:00,,0.2883771772781981,2,1,ro,,
@@ -264,6 +263,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,furtuna noua zeelanda,2026-07-24T05:36:00+00:00,New Zealand,0.2566235312585919,1,1,ro,NZ,Oceania
 'b923131e8f',extremes,Wildfire,#d60d2b,wmo,wildfire regiune volgograd,2026-07-04T05:59:00+00:00,Russia,0.2565972102617398,1,1,ro,ESB,Europe
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,wildfire regiune kemerovo,2026-07-18T05:10:00+00:00,Russia,0.2565966672518543,1,1,ro,ESB,Europe
+'69dfb15ea7',extremes,Storm,#b3b2b1,wmo,furtună adak la kiska bering side,2026-07-10T06:27:00+00:00,United States,0.25658554315546017,1,1,ro,CNA,North-America
 '7d3dc8961a',extremes,Thunderstorm,#53785a,wmo,furtună republică buryatia,2026-07-06T06:52:00+00:00,Russia,0.2565814762600754,1,1,ro,ESB,Europe
 '76ad379230',extremes,Earthquake,#870007,usgs,cutremur petropavlovsk kamchatsky,2026-06-27T06:08:00+00:00,Russia,0.2565706817586866,1,1,ro,RFE,Asia
 '95694d19cf',extremes,Earthquake,#870007,usgs,cutremur yemen,2026-07-18T05:10:00+00:00,Yemen,0.2565574908685749,1,1,ro,ARS,Indian Ocean
