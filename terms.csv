@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0424fd4d78',extremes,Heat Wave,#c40202,wmo,caniculă arad bihor timiș,2026-07-31T05:51:00+00:00,Romania,0.6645367529079572,0,1,ro,WCE,Europe
+'0424fd4d78',extremes,Heat Wave,#c40202,wmo,caniculă arad bihor timiș,2026-07-31T05:51:00+00:00,Romania,0.7150062549717636,1,2,ro,WCE,Europe
 'd19a2e53e5',extremes,Heat Wave,#c40202,wmo,caniculă moldova,2026-06-27T06:08:00+00:00,Moldova,0.6012835088848275,2,1,ro,WCE,Europe
 '9778ee6716',extremes,Earthquake,#870007,usgs,cutremur yumare,2026-06-25T06:32:00+00:00,Venezuela,0.5715061690737648,3,2,ro,NSA,South-America
 '43e3252826',extremes,Storm,#b3b2b1,wmo,furtuna moldova,2026-07-04T05:59:00+00:00,Moldova,0.5606999323540521,3,1,ro,WCE,Europe
@@ -81,12 +81,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-07-09T06:27:00+00:00,,0.3263910210774319,2,1,ro,,
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-07-30T05:24:00+00:00,Moldova,0.3241364825958691,2,1,ro,WCE,Europe
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ice argentina,2026-07-21T05:36:00+00:00,Argentina,0.3100327647196747,0,1,ro,SES,South-America
-'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,îngheț argentina,2026-07-21T05:36:00+00:00,Argentina,0.30977752002181885,0,1,ro,SES,South-America
-'cbd214af74',extremes,Drought,#edc291,edo,uscăciune uganda,2026-07-31T05:51:00+00:00,Uganda,0.30789077302815027,0,1,ro,SEAF,Africa
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,îngheț argentina,2026-07-21T05:36:00+00:00,Argentina,0.3097775200218188,0,1,ro,SES,South-America
+'cbd214af74',extremes,Drought,#edc291,edo,uscăciune uganda,2026-07-31T05:51:00+00:00,Uganda,0.3078907730281502,0,1,ro,SEAF,Africa
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,storm surge brazil,2026-07-18T05:10:00+00:00,Brazil,0.3052837859245118,0,1,ro,SAM,South-America
 '863042ed44',extremes,Heat Wave,#c40202,wmo,caniculă egipt,2026-07-31T05:51:00+00:00,Egypt,0.30303784297412,0,1,ro,SAH,Africa
-'46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,drum cu coroană de zăpadă,2026-07-31T05:51:00+00:00,New Zealand,0.30298688448685374,0,1,ro,NZ,Oceania
-'fc07d3ac53',extremes,Snow&Ice,#d60d2b,wmo,îngheț lewis trece sh7,2026-07-31T05:51:00+00:00,New Zealand,0.30277695411046474,0,1,ro,NZ,Oceania
+'46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,drum cu coroană de zăpadă,2026-07-31T05:51:00+00:00,New Zealand,0.3029868844868537,0,1,ro,NZ,Oceania
+'fc07d3ac53',extremes,Snow&Ice,#d60d2b,wmo,îngheț lewis trece sh7,2026-07-31T05:51:00+00:00,New Zealand,0.3027769541104647,0,1,ro,NZ,Oceania
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,val de căldură state unite,2026-07-05T06:25:00+00:00,United States,0.3021377446533952,2,1,ro,CNA,North-America
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,dom de căldură,2026-07-22T05:35:00+00:00,,0.3013577767175884,2,1,ro,,
 'c76cb9fc29',extremes,Heat Wave,#c40202,wmo,val de căldură regiunea sud-vest,2026-07-16T05:25:00+00:00,North Macedonia,0.2991123719513955,2,1,ro,MED,Europe
