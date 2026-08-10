@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-07-29T05:38:00+00:00,Romania,0.6296409631991907,0,1,ro,WCE,Europe
 'd19a2e53e5',extremes,Heat Wave,#c40202,wmo,caniculă moldova,2026-06-27T06:08:00+00:00,Moldova,0.5983777301415101,4,3,ro,WCE,Europe
 '7c29d4f368',extremes,Thunderstorm,#53785a,wmo,grindină moldova,2026-08-07T09:56:00+00:00,Moldova,0.5769603047606328,2,2,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-08-01T05:42:00+00:00,Moldova,0.5764787576539278,0,1,ro,WCE,Europe
@@ -13,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30402c562a',extremes,Wildfire,#d60d2b,effis,bushfire românia tulcea jurilovca,2026-08-07T09:56:00+00:00,Romania,0.571714977854917,2,1,ro,MED,Europe
 '9cfb4578c4',extremes,Thunderstorm,#53785a,meteo,furtuna moldova,2026-08-07T11:06:00+00:00,Moldova,0.557594343549339,2,1,ro,WCE,Europe
 'b977b005b8',extremes,Heat Wave,#c40202,wmo,caniculă romania,2026-07-16T05:25:00+00:00,Romania,0.5574571864466644,3,1,ro,WCE,Europe
+'8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-07-29T05:38:00+00:00,Romania,0.5353448337193121,1,1,ro,WCE,Europe
 'e730b98a72',extremes,Thunderstorm,#53785a,wmo,furtuna romania,2026-07-22T05:35:00+00:00,Romania,0.5298598047379269,2,1,ro,WCE,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundații,2026-08-02T05:41:00+00:00,,0.5296175768506503,2,3,ro,,
 '76e79e8dfd',extremes,Precipitation,#d60d2b,wmo,ploaie romania,2026-07-13T05:53:00+00:00,Romania,0.5244836994890271,3,1,ro,WCE,Europe
@@ -87,14 +87,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20516962cd',extremes,Thunderstorm,#53785a,wmo,grindină serbia,2026-07-14T05:14:00+00:00,Serbia,0.3447824836684097,2,1,ro,MED,Europe
 'c98bc7a289',extremes,Thunderstorm,#53785a,wmo,furtună danemarca,2026-07-12T05:43:00+00:00,Denmark,0.3447350817699091,2,1,ro,NEU,Europe
 '0a8e5743d9',extremes,Landslide,#572c03,random,alunecare de teren,2026-07-28T05:30:00+00:00,,0.3425883733795616,1,1,ro,,
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de frig,2026-07-31T05:51:00+00:00,,0.33432243416625196,0,1,ro,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record de frig,2026-07-31T05:51:00+00:00,,0.3343224341662519,0,1,ro,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,iarna cea mai rece,2026-07-09T06:27:00+00:00,,0.3263910210774319,2,1,ro,,
 '63663feccd',extremes,Drought,#edc291,edo,lipsa ploii moldova,2026-07-30T05:24:00+00:00,Moldova,0.3241364825958691,2,1,ro,WCE,Europe
-'e69b7dfbfb',extremes,Wildfire,#d60d2b,effis,wildfire nabi youcheaa liban,2026-08-07T11:06:00+00:00,Lebanon,0.31975622164848283,0,1,ro,MED,Asia
-'81a6886100',extremes,Wildfire,#d60d2b,effis,incendiu de vegetație osječko baranjska županija croația,2026-08-07T11:06:00+00:00,Croatia,0.31975621875725246,0,1,ro,WCE,Europe
+'e69b7dfbfb',extremes,Wildfire,#d60d2b,effis,wildfire nabi youcheaa liban,2026-08-07T11:06:00+00:00,Lebanon,0.3197562216484828,0,1,ro,MED,Asia
+'81a6886100',extremes,Wildfire,#d60d2b,effis,incendiu de vegetație osječko baranjska županija croația,2026-08-07T11:06:00+00:00,Croatia,0.3197562187572524,0,1,ro,WCE,Europe
 '2f03e0c694',extremes,Wildfire,#d60d2b,effis,wildfire n.a. Tunisia,2026-08-07T09:56:00+00:00,Tunisia,0.3197562181328537,0,1,ro,MED,Africa
-'be6a55ce29',extremes,Wildfire,#d60d2b,effis,incendiu de vegetație црна гора muntenegro,2026-08-07T11:06:00+00:00,Montenegro,0.31975621766053514,0,1,ro,MED,Europe
-'52eade2718',extremes,Wildfire,#d60d2b,effis,wildfire azrou maroc,2026-08-07T11:06:00+00:00,Morocco,0.31975621748501815,0,1,ro,MED,Africa
+'be6a55ce29',extremes,Wildfire,#d60d2b,effis,incendiu de vegetație црна гора muntenegro,2026-08-07T11:06:00+00:00,Montenegro,0.3197562176605351,0,1,ro,MED,Europe
+'52eade2718',extremes,Wildfire,#d60d2b,effis,wildfire azrou maroc,2026-08-07T11:06:00+00:00,Morocco,0.3197562174850181,0,1,ro,MED,Africa
 '046de84cff',extremes,Wildfire,#d60d2b,effis,wildfire izmir turkey,2026-08-07T09:56:00+00:00,Turkey,0.3197562168683661,0,1,ro,MED,Asia
 'a5ff1cde4a',extremes,Drought,#edc291,random,umiditatea solului,2026-07-13T05:53:00+00:00,,0.3095176371395153,2,2,ro,,
 'c76cb9fc29',extremes,Heat Wave,#c40202,wmo,val de căldură regiunea sud-vest,2026-07-16T05:25:00+00:00,North Macedonia,0.3051456061586862,3,1,ro,MED,Europe
