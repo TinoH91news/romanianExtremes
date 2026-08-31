@@ -1,5 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,căldură,2026-08-19T03:25:00+00:00,,0.7639161683125525,10,3,ro,,
+'f75c04ba5d',extremes,Wildfire,#d60d2b,effis,wildfire românia gorj drăgoteşti,2026-08-28T14:32:00+00:00,Romania,0.7523029274970999,0,1,ro,MED,Europe
+'91dfbfb099',extremes,Wildfire,#d60d2b,effis,wild fire românia gorj drăgoteşti,2026-08-29T09:18:00+00:00,Romania,0.7469423863431698,0,1,ro,MED,Europe
+'fb663afbe7',extremes,Wildfire,#d60d2b,effis,wildfire românia cluj mărişel,2026-08-28T14:32:00+00:00,Romania,0.7462051850992559,0,1,ro,WCE,Europe
+'4457b83151',extremes,Wildfire,#d60d2b,effis,wildfire românia vâlcea valea mare,2026-08-28T14:32:00+00:00,Romania,0.7336385271472998,0,1,ro,MED,Europe
+'fe458db3fd',extremes,Wildfire,#d60d2b,effis,wildfire sibiu romania,2026-08-29T09:18:00+00:00,Romania,0.732139208577101,0,1,ro,WCE,Europe
+'4480cb2919',extremes,Wildfire,#d60d2b,effis,wildfire românia sibiu nocrich,2026-08-29T09:18:00+00:00,Romania,0.7319172574568228,0,1,ro,WCE,Europe
+'c54798ae88',extremes,Wildfire,#d60d2b,wmo,wildfire moldova,2026-08-24T03:32:00+00:00,Moldova,0.7262188370125614,0,1,ro,WCE,Europe
+'f2145ea90f',extremes,Wildfire,#d60d2b,effis,wildfire românia mureş daneş,2026-08-28T14:32:00+00:00,Romania,0.7177172222932192,0,1,ro,WCE,Europe
+'a94fb47865',extremes,Wildfire,#d60d2b,effis,wild fire românia bihor ceica,2026-08-28T14:32:00+00:00,Romania,0.7124951437943045,0,1,ro,WCE,Europe
+'358c238926',extremes,Wildfire,#d60d2b,effis,bushfire vâlcea romania,2026-08-29T09:18:00+00:00,Romania,0.7085487573314019,0,1,ro,MED,Europe
 'fec300afc8',extremes,Precipitation,#d60d2b,wmo,ploaie moldova,2026-08-26T03:34:00+00:00,Moldova,0.5989787709258722,2,2,ro,WCE,Europe
 '75579b650e',extremes,Drought,#edc291,edo,seceta romania,2026-08-11T04:01:00+00:00,Romania,0.5769241942992914,2,2,ro,WCE,Europe
 'a5cee39506',extremes,Wildfire,#d60d2b,effis,bushfire românia caraş severin păltiniş,2026-08-07T09:56:00+00:00,Romania,0.5717268191731341,2,1,ro,WCE,Europe
@@ -285,14 +295,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,wild fire n.a. algeria,2026-08-07T09:56:00+00:00,Algeria,0.2310236905113248,2,1,ro,MED,Africa
 'c4cd5dbcd4',extremes,Wildfire,#d60d2b,effis,foc sălbatic sud-vestul Irlandei,2026-08-07T11:06:00+00:00,Ireland,0.2310236787383323,2,1,ro,NEU,Europe
 '50ab15c1e2',extremes,Wildfire,#d60d2b,effis,bushfire eskişehir turkey,2026-08-07T11:06:00+00:00,Turkey,0.231023677667659,2,1,ro,MED,Asia
-'42a77b6b7e',extremes,Wildfire,#d60d2b,effis,wildfire portugal,2026-08-07T09:56:00+00:00,Portugal,0.23102359645393403,2,1,ro,MED,Europe
+'42a77b6b7e',extremes,Wildfire,#d60d2b,effis,wildfire portugal,2026-08-07T09:56:00+00:00,Portugal,0.231023596453934,2,1,ro,MED,Europe
 '38c3444fa0',extremes,Wildfire,#d60d2b,effis,incendiu sălbatic мачванска област bosnia și herțegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.2310232596226441,2,1,ro,MED,Europe
 '5ab0a2836b',extremes,Wildfire,#d60d2b,effis,bushfire turkey,2026-08-07T09:56:00+00:00,Turkey,0.2310222286180217,2,1,ro,MED,Asia
 '51639203d2',extremes,Wildfire,#d60d2b,effis,wildfire denizli curcan,2026-08-07T11:06:00+00:00,Turkey,0.2310220223982017,2,1,ro,MED,Asia
 '6d6528d836',extremes,Wildfire,#d60d2b,effis,wild fire albania,2026-08-07T09:56:00+00:00,Albania,0.2310215961170122,2,1,ro,MED,Europe
 '44e28cc926',extremes,Wildfire,#d60d2b,effis,incendiu portugal,2026-08-07T09:56:00+00:00,Portugal,0.2310211752606219,2,1,ro,MED,Europe
 'be6eea75ee',extremes,Wildfire,#d60d2b,effis,wildfire tunisia,2026-08-07T09:56:00+00:00,Tunisia,0.2310209164837724,2,1,ro,MED,Africa
-'d33e4146b6',extremes,Wildfire,#d60d2b,effis,incendiu de vegetație türkiye kilis n.a.,2026-08-07T11:06:00+00:00,Syria,0.23101846810785914,2,1,ro,MED,Asia
+'d33e4146b6',extremes,Wildfire,#d60d2b,effis,incendiu de vegetație türkiye kilis n.a.,2026-08-07T11:06:00+00:00,Syria,0.2310184681078591,2,1,ro,MED,Asia
 'f93df854ee',extremes,Wildfire,#d60d2b,effis,wildfire north macedonia,2026-08-07T11:06:00+00:00,North Macedonia,0.2310180906082036,2,1,ro,MED,Europe
 '3438303391',extremes,Wildfire,#d60d2b,effis,incendiu de vegetație muntenegro,2026-08-07T11:06:00+00:00,Montenegro,0.2310172918550075,2,1,ro,MED,Europe
 '4ff9a5d897',extremes,Wildfire,#d60d2b,effis,wildfire serbia,2026-08-07T09:56:00+00:00,Serbia,0.231017217162007,2,1,ro,MED,Europe
