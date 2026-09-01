@@ -1,5 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,căldură,2026-08-19T03:25:00+00:00,,0.7681362666512737,12,3,ro,,
+'e398b8f506',extremes,Wildfire,#d60d2b,effis,wildfire românia caraş severin brebu,2026-08-31T08:51:00+00:00,Romania,0.7210728869783162,0,1,ro,WCE,Europe
+'90f76d7292',extremes,Wildfire,#d60d2b,effis,wild fire mureş romania,2026-08-30T08:29:00+00:00,Romania,0.7011144721632644,0,1,ro,WCE,Europe
+'a08f64b85d',extremes,Wildfire,#d60d2b,effis,bushfire românia vâlcea valea mare,2026-08-29T09:18:00+00:00,Romania,0.6988261057722163,0,1,ro,MED,Europe
+'888a2da24e',extremes,Wildfire,#d60d2b,effis,wild fire românia mureş daneş,2026-08-30T08:29:00+00:00,Romania,0.6952763025486334,0,1,ro,WCE,Europe
+'a0ec74ca62',extremes,Wildfire,#d60d2b,effis,wild fire românia dolj oraş dăbuleni,2026-08-28T14:32:00+00:00,Romania,0.6921437437018877,0,1,ro,MED,Europe
+'2a293a74eb',extremes,Wildfire,#d60d2b,effis,wild fire vâlcea romania,2026-08-30T08:29:00+00:00,Romania,0.6844645564427393,0,1,ro,MED,Europe
+'7265f0902f',extremes,Wildfire,#d60d2b,effis,wildfire bihor romania,2026-08-30T08:29:00+00:00,Romania,0.6815067839694413,0,1,ro,WCE,Europe
+'c2b3b4722a',extremes,Storm,#b3b2b1,wmo,storm surge romania,2026-08-18T03:24:00+00:00,Romania,0.6772074396891441,0,1,ro,WCE,Europe
+'a9f3c3538f',extremes,Wildfire,#d60d2b,effis,wild fire românia vâlcea valea mare,2026-08-30T08:29:00+00:00,Romania,0.6746934188788273,0,1,ro,MED,Europe
+'bb35e10b72',extremes,Wildfire,#d60d2b,effis,bushfire cluj romania,2026-08-30T08:29:00+00:00,Romania,0.6621843389297581,0,1,ro,WCE,Europe
 '91dfbfb099',extremes,Wildfire,#d60d2b,effis,wild fire românia gorj drăgoteşti,2026-08-29T09:18:00+00:00,Romania,0.6349010283916943,1,1,ro,MED,Europe
 'fb663afbe7',extremes,Wildfire,#d60d2b,effis,wildfire românia cluj mărişel,2026-08-28T14:32:00+00:00,Romania,0.6342744073343676,1,1,ro,WCE,Europe
 '4457b83151',extremes,Wildfire,#d60d2b,effis,wildfire românia vâlcea valea mare,2026-08-28T14:32:00+00:00,Romania,0.6235927480752048,1,1,ro,MED,Europe
@@ -294,10 +304,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56c99f5cea',extremes,Wildfire,#d60d2b,effis,incendiu de bush liban niha n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.2310170656786485,2,1,ro,MED,Asia
 '3267f5413d',extremes,Wildfire,#d60d2b,effis,wildfire türkiye mardin n.a.,2026-08-07T11:06:00+00:00,Turkey,0.2310170424521652,2,1,ro,WCA,Asia
 'a1414fb7e9',extremes,Wildfire,#d60d2b,effis,incendiu de bush црна гора црна гора n.a.,2026-08-07T11:06:00+00:00,Montenegro,0.2310163880601793,2,1,ro,MED,Europe
-'5b302ce6b4',extremes,Wildfire,#d60d2b,effis,wildfire ucraine,2026-08-07T09:56:00+00:00,Ukraine,0.23101605207538278,2,1,ro,WCE,Europe
+'5b302ce6b4',extremes,Wildfire,#d60d2b,effis,wildfire ucraine,2026-08-07T09:56:00+00:00,Ukraine,0.2310160520753827,2,1,ro,WCE,Europe
 'd0a56df84c',extremes,Wildfire,#d60d2b,effis,wild fire lebanon el mery n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.2310158267077153,2,1,ro,MED,Asia
 '5dae4d0d44',extremes,Wildfire,#d60d2b,effis,incendiu bosnia și herțegovina,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.2310150699216211,2,1,ro,MED,Europe
-'785f49402b',extremes,Wildfire,#d60d2b,effis,wild fire lebanon haret jandal n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.23101480189528958,2,1,ro,MED,Asia
+'785f49402b',extremes,Wildfire,#d60d2b,effis,wild fire lebanon haret jandal n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.2310148018952895,2,1,ro,MED,Asia
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,furtună vânt puternic și precipitații victoria 2024,2026-08-04T05:32:00+00:00,Australia,0.2280163502552294,2,1,ro,SAU,Oceania
 '5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,storm melbourne victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.2277234458448102,2,1,ro,SAU,Oceania
 'b445ee6ee0',extremes,Drought,#edc291,edo,uscăciune el salvador,2026-08-04T05:32:00+00:00,El Salvador,0.2250677691385943,2,1,ro,SCA,North-America
