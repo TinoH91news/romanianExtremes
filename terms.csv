@@ -141,6 +141,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '474ecb8d08',extremes,Thunderstorm,#53785a,wmo,furtună botoșani maramureș neamț suceava,2026-08-07T11:06:00+00:00,Romania,0.3681552635564717,2,1,ro,WCE,Europe
 '543618a34e',extremes,Wildfire,#d60d2b,effis,bushfire bihor romania,2026-08-14T04:24:00+00:00,Romania,0.3678828693893069,3,1,ro,WCE,Europe
 'ffe1b18a0a',extremes,Wildfire,#d60d2b,effis,bushfire românia mehedinţi podeni,2026-08-23T03:30:00+00:00,Romania,0.3642909569697715,4,1,ro,MED,Europe
+'8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-09-09T07:32:00+00:00,,0.3638364049571675,0,1,ro,,
 '19696dd924',extremes,Wildfire,#d60d2b,effis,wild fire vaslui romania,2026-09-01T07:57:00+00:00,Romania,0.3622901746852384,1,1,ro,WCE,Europe
 '538eadceb4',extremes,Heat Wave,#c40202,random,iarnă blândă,2026-08-10T04:13:00+00:00,,0.3617586888980451,3,2,ro,,
 '7ab9e972fb',extremes,Wildfire,#d60d2b,effis,wild fire gorj romania,2026-08-11T04:01:00+00:00,Romania,0.3600495962530803,3,1,ro,WCE,Europe
@@ -183,7 +184,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,uraganul karina,2026-08-31T08:51:00+00:00,,0.3178790642496082,0,1,ro,NPO,Pacific Ocean
 'eb39f219fd',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicală julio,2026-08-26T03:33:00+00:00,,0.3175669230411359,0,1,ro,NPO,Pacific Ocean
 'c85c7cd836',extremes,Wildfire,#d60d2b,meteo,forest fire romania,2026-08-17T03:28:00+00:00,Romania,0.3170071135545588,2,1,ro,WCE,Europe
+'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicală bang lang,2026-08-31T08:51:00+00:00,,0.31695543914799973,0,1,ro,NPO,Pacific Ocean
+'dd6493c331',extremes,Storm,#b3b2b1,aidr,furtună australia,2026-09-01T07:58:00+00:00,Australia,0.31653438512261933,0,1,ro,EAU,Oceania
+'ccefefc59e',extremes,Drought,#edc291,random,secetă fulgerătoare,2026-09-08T07:23:00+00:00,,0.316472337097205,0,1,ro,,
+'41f3b5b396',extremes,Storm,#b3b2b1,aidr,furtună vânt puternic și precipitații victoria 2024,2026-08-27T13:01:00+00:00,Australia,0.3164082035295365,0,1,ro,SAU,Oceania
 '43cc495268',extremes,Wildfire,#d60d2b,effis,wild fire bacău romania,2026-09-01T07:57:00+00:00,Romania,0.3161670401395127,2,1,ro,WCE,Europe
+'ec98366bcb',extremes,Flood,#030ba1,aidr,inundație sud-estul Australiei 2016,2026-08-30T08:30:00+00:00,Australia,0.3161416931685712,0,1,ro,SAU,Oceania
+'a320301f76',extremes,Wildfire,#d60d2b,effis,wild fire algeria,2026-08-27T13:00:00+00:00,Algeria,0.3159927465131042,0,1,ro,MED,Africa
+'e09a5222d3',extremes,Wildfire,#d60d2b,effis,wildfire algeria,2026-08-27T13:00:00+00:00,Algeria,0.31593061882222817,0,1,ro,MED,Africa
+'be6eea75ee',extremes,Wildfire,#d60d2b,effis,wildfire tunisia,2026-08-27T13:00:00+00:00,Tunisia,0.3157890047204932,0,1,ro,MED,Africa
+'3438303391',extremes,Wildfire,#d60d2b,effis,incendiu de vegetație muntenegro,2026-08-27T13:00:00+00:00,Montenegro,0.3157432822909521,0,1,ro,MED,Europe
 '5ac8d6f013',extremes,Wildfire,#d60d2b,effis,wild fire românia tulcea ceatalchioi,2026-09-01T07:57:00+00:00,Romania,0.3153722634897634,2,1,ro,WCE,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-30T08:29:00+00:00,,0.3142614820861137,2,1,ro,,
 'f37139fe2d',extremes,Landslide,#572c03,random,alunecare de noroi,2026-08-15T03:13:00+00:00,,0.3092683123862149,1,1,ro,,
