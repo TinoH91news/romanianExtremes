@@ -60,7 +60,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b977b005b8',extremes,Heat Wave,#c40202,meteo,caniculă romania,2026-08-28T14:32:00+00:00,Romania,0.433928724364879,3,1,ro,WCE,Europe
 '126dbdb910',extremes,Drought,#edc291,edo,seceta moldova,2026-08-26T03:34:00+00:00,Moldova,0.4332142510677704,1,1,ro,WCE,Europe
 '1d3b72dde9',extremes,Wildfire,#d60d2b,effis,bushfire românia mehedinţi vânători,2026-09-05T07:04:00+00:00,Romania,0.4314924849093401,3,1,ro,MED,Europe
-'333319c3bf',extremes,Wildfire,#d60d2b,effis,bushfire românia bihor lunca,2026-09-05T07:04:00+00:00,Romania,0.42978342396246016,3,1,ro,WCE,Europe
+'333319c3bf',extremes,Wildfire,#d60d2b,effis,bushfire românia bihor lunca,2026-09-05T07:04:00+00:00,Romania,0.4297834239624601,3,1,ro,WCE,Europe
 'a08f64b85d',extremes,Wildfire,#d60d2b,effis,bushfire românia vâlcea valea mare,2026-08-29T09:18:00+00:00,Romania,0.4291665822073622,3,1,ro,MED,Europe
 'a652d575aa',extremes,Thunderstorm,#53785a,wmo,vreme severă românia,2026-08-12T04:23:00+00:00,Romania,0.4284855694709321,3,1,ro,WCE,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-08-30T08:30:00+00:00,Romania,0.4270869395026639,2,1,ro,WCE,Europe
@@ -149,6 +149,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-09-08T07:23:00+00:00,,0.3343663529343995,1,1,ro,,
 'ec52bc8b48',extremes,Wildfire,#d60d2b,effis,wildfire românia cluj valea ierii,2026-09-01T07:57:00+00:00,Romania,0.3338645099859457,2,1,ro,WCE,Europe
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ger,2026-08-31T08:51:00+00:00,,0.3331971695466827,1,1,ro,,
+'f37139fe2d',extremes,Landslide,#572c03,random,alunecare de noroi,2026-08-15T03:13:00+00:00,,0.3308948671949493,2,1,ro,,
 'a5e5b4a35b',extremes,Wildfire,#d60d2b,effis,wild fire românia bacău glăvăneşti,2026-09-01T07:57:00+00:00,Romania,0.326781644103336,3,1,ro,WCE,Europe
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclon bombă,2026-08-28T14:31:00+00:00,,0.3257608613165604,1,1,ro,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,vara indiană,2026-08-30T08:29:00+00:00,,0.3255349854664229,1,1,ro,,
@@ -173,7 +174,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3438303391',extremes,Wildfire,#d60d2b,effis,incendiu de vegetație muntenegro,2026-08-27T13:00:00+00:00,Montenegro,0.3157432822909521,0,1,ro,MED,Europe
 '5ac8d6f013',extremes,Wildfire,#d60d2b,effis,wild fire românia tulcea ceatalchioi,2026-09-01T07:57:00+00:00,Romania,0.3153722634897634,2,1,ro,WCE,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-30T08:29:00+00:00,,0.3142614820861137,2,1,ro,,
-'f37139fe2d',extremes,Landslide,#572c03,random,alunecare de noroi,2026-08-15T03:13:00+00:00,,0.3092683123862149,1,1,ro,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,furtună de zăpadă,2026-09-09T07:32:00+00:00,,0.3092609442135924,1,1,ro,,
 '9391f481ee',extremes,Storm,#b3b2b1,random,furtună,2026-08-16T03:27:00+00:00,,0.309023354438935,3,2,ro,,
 'e9f009db8a',extremes,Earthquake,#870007,usgs,cutremur vama buzăului,2026-08-27T13:00:00+00:00,Romania,0.3068872725879245,2,1,ro,WCE,Europe
