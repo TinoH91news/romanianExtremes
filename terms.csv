@@ -1,10 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '0392411da5',extremes,Wildfire,#d60d2b,effis,bushfire românia sibiu nocrich,2026-08-28T14:32:00+00:00,Romania,0.5488473233330217,2,1,ro,WCE,Europe
-'030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-08-20T03:26:00+00:00,Moldova,0.5475867808918069,3,2,ro,WCE,Europe
 'fb663afbe7',extremes,Wildfire,#d60d2b,effis,wildfire românia cluj mărişel,2026-08-28T14:32:00+00:00,Romania,0.5391332462342124,2,1,ro,WCE,Europe
 'fec300afc8',extremes,Precipitation,#d60d2b,wmo,ploaie moldova,2026-08-26T03:34:00+00:00,Moldova,0.5290820752869912,3,2,ro,WCE,Europe
 'fe458db3fd',extremes,Wildfire,#d60d2b,effis,wildfire sibiu romania,2026-08-29T09:18:00+00:00,Romania,0.5289705781969555,2,1,ro,WCE,Europe
-'5830423e9e',extremes,Wildfire,#d60d2b,effis,wild fire românia mehedinţi vânători,2026-09-06T07:16:00+00:00,Romania,0.5247456390129442,2,1,ro,MED,Europe
 'c54798ae88',extremes,Wildfire,#d60d2b,wmo,wildfire moldova,2026-08-24T03:32:00+00:00,Moldova,0.5246931097415756,2,1,ro,WCE,Europe
 'f2145ea90f',extremes,Wildfire,#d60d2b,effis,wildfire românia mureş daneş,2026-08-28T14:32:00+00:00,Romania,0.5185506931068509,2,1,ro,WCE,Europe
 'a94fb47865',extremes,Wildfire,#d60d2b,effis,wild fire românia bihor ceica,2026-08-28T14:32:00+00:00,Romania,0.514777741391385,2,1,ro,WCE,Europe
@@ -24,7 +22,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '552d7b9dc7',extremes,Wildfire,#d60d2b,effis,wildfire românia tulcea chilia veche,2026-08-27T13:00:00+00:00,Romania,0.4752211559346109,3,1,ro,WCE,Europe
 '08e06ab5be',extremes,Wildfire,#d60d2b,effis,bushfire gorj romania,2026-08-28T14:32:00+00:00,Romania,0.4747359299479621,3,1,ro,MED,Europe
 'f8bfd4bf9d',extremes,Wildfire,#d60d2b,effis,bushfire sibiu romania,2026-08-28T14:32:00+00:00,Romania,0.4739631980133059,3,1,ro,WCE,Europe
-'a23789be55',extremes,Wildfire,#d60d2b,effis,bushfire românia gorj văgiuleşti,2026-08-28T14:32:00+00:00,Romania,0.4735038678775467,3,1,ro,MED,Europe
 '8e838994ae',extremes,Wildfire,#d60d2b,effis,wildfire gorj romania,2026-08-28T14:32:00+00:00,Romania,0.4731533109648136,3,1,ro,MED,Europe
 '231b4e64f3',extremes,Wildfire,#d60d2b,effis,wildfire românia bihor ceica,2026-08-30T08:29:00+00:00,Romania,0.4724555143951815,2,1,ro,WCE,Europe
 '2316c95deb',extremes,Wildfire,#d60d2b,effis,wild fire maramureş romania,2026-08-27T13:00:00+00:00,Romania,0.4721529308956138,3,1,ro,WCE,Europe
@@ -33,6 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'baec1869f1',extremes,Wildfire,#d60d2b,effis,wildfire românia mehedinţi vlădaia,2026-08-28T14:32:00+00:00,Romania,0.4708070413880571,3,1,ro,MED,Europe
 'b9a003bd2b',extremes,Wildfire,#d60d2b,effis,wildfire mureş romania,2026-08-28T14:32:00+00:00,Romania,0.4706581696588859,3,1,ro,WCE,Europe
 '4543a2576e',extremes,Wildfire,#d60d2b,effis,wild fire românia dolj poiana mare,2026-08-11T04:01:00+00:00,Romania,0.4675844792861078,2,1,ro,MED,Europe
+'030aa64ddb',extremes,Drought,#edc291,edo,seceta moldova,2026-08-20T03:26:00+00:00,Moldova,0.46544888375803584,4,1,ro,WCE,Europe
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornadă,2026-08-21T03:30:00+00:00,,0.4624744617775199,2,2,ro,,
 '2d731d2ccd',extremes,Wildfire,#d60d2b,effis,bushfire românia cluj mărişel,2026-08-30T08:29:00+00:00,Romania,0.4613962838349199,2,1,ro,WCE,Europe
 '68f3889931',extremes,Wildfire,#d60d2b,effis,bushfire românia caraş severin mehadia,2026-08-25T03:27:00+00:00,Romania,0.4578467166408035,3,1,ro,MED,Europe
@@ -48,6 +46,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4480cb2919',extremes,Wildfire,#d60d2b,effis,wildfire românia sibiu nocrich,2026-08-29T09:18:00+00:00,Romania,0.4494886857356712,3,1,ro,WCE,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grindină,2026-08-20T03:26:00+00:00,,0.4483532660414571,1,3,ro,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcan,2026-08-25T03:27:00+00:00,,0.4468576287477532,1,3,ro,,
+'5830423e9e',extremes,Wildfire,#d60d2b,effis,wild fire românia mehedinţi vânători,2026-09-06T07:16:00+00:00,Romania,0.4460337931610026,3,1,ro,MED,Europe
 '788342b4b7',extremes,Wildfire,#d60d2b,effis,wildfire românia sibiu laslea,2026-09-01T07:57:00+00:00,Romania,0.4450553182705153,2,1,ro,WCE,Europe
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incendiu de vegetație,2026-07-31T05:51:00+00:00,,0.4437027845060282,2,3,ro,,
 'e398b8f506',extremes,Wildfire,#d60d2b,effis,wildfire românia caraş severin brebu,2026-08-31T08:51:00+00:00,Romania,0.4428288867155583,3,1,ro,WCE,Europe
@@ -90,6 +89,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '438d7996c0',extremes,Wildfire,#d60d2b,effis,wild fire românia caraş severin zăvoi,2026-08-11T04:01:00+00:00,Romania,0.404195370193734,3,1,ro,WCE,Europe
 '1c8470a3dc',extremes,Wildfire,#d60d2b,effis,wild fire românia caraş severin ticvaniu mare,2026-08-19T03:26:00+00:00,Romania,0.4040294222505881,3,1,ro,WCE,Europe
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,furtună tropicală,2026-08-23T03:30:00+00:00,,0.403760882250223,2,1,ro,,
+'a23789be55',extremes,Wildfire,#d60d2b,effis,bushfire românia gorj văgiuleşti,2026-08-28T14:32:00+00:00,Romania,0.4024782876959147,4,1,ro,MED,Europe
 'c72ec31d82',extremes,Wildfire,#d60d2b,effis,wildfire românia caraş severin oraş băile herculane,2026-08-30T08:29:00+00:00,Romania,0.4021574473541398,2,1,ro,MED,Europe
 '394a9c3f9f',extremes,Wildfire,#d60d2b,effis,wildfire cluj romania,2026-08-28T14:32:00+00:00,Romania,0.4014867113986637,4,1,ro,WCE,Europe
 '8bbcf20888',extremes,Drought,#edc291,edo,seceta romania,2026-08-25T03:27:00+00:00,Romania,0.401219074820815,4,1,ro,WCE,Europe
@@ -129,6 +129,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b6ae58ad13',extremes,Earthquake,#870007,usgs,cutremur romania,2026-08-15T03:13:00+00:00,Romania,0.372930586028922,2,1,ro,WCE,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,cutremur,2026-09-05T07:04:00+00:00,,0.372094415107575,1,2,ro,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,căldură record,2026-09-02T07:16:00+00:00,,0.3715977839182244,1,1,ro,,
+'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,uraganul karina,2026-08-31T08:51:00+00:00,,0.37064724961216694,1,2,ro,NPO,Pacific Ocean
 'b9c06a7146',extremes,Wildfire,#d60d2b,effis,wild fire bihor romania,2026-08-12T04:22:00+00:00,Romania,0.3684646894816453,3,1,ro,WCE,Europe
 '543618a34e',extremes,Wildfire,#d60d2b,effis,bushfire bihor romania,2026-08-14T04:24:00+00:00,Romania,0.3678828693893069,3,1,ro,WCE,Europe
 'ffe1b18a0a',extremes,Wildfire,#d60d2b,effis,bushfire românia mehedinţi podeni,2026-08-23T03:30:00+00:00,Romania,0.3642909569697715,4,1,ro,MED,Europe
@@ -160,7 +161,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a652c78afc',extremes,Drought,#edc291,random,megasecetă,2026-09-03T07:20:00+00:00,,0.3218654491131005,1,1,ro,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,inundare a râului,2026-08-31T08:51:00+00:00,,0.3211999749991262,1,1,ro,,
 'f0428d1383',extremes,Wildfire,#d60d2b,effis,wildfire românia caraş severin dognecea,2026-09-01T07:57:00+00:00,Romania,0.3202498154471419,2,1,ro,WCE,Europe
-'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,uraganul karina,2026-08-31T08:51:00+00:00,,0.3178790642496082,0,1,ro,NPO,Pacific Ocean
 'eb39f219fd',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicală julio,2026-08-26T03:33:00+00:00,,0.3175669230411359,0,1,ro,NPO,Pacific Ocean
 'c85c7cd836',extremes,Wildfire,#d60d2b,meteo,forest fire romania,2026-08-17T03:28:00+00:00,Romania,0.3170071135545588,2,1,ro,WCE,Europe
 'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicală bang lang,2026-08-31T08:51:00+00:00,,0.3169554391479997,0,1,ro,NPO,Pacific Ocean
@@ -199,7 +199,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,precipitatii mai multe,2026-08-26T03:33:00+00:00,,0.2702501600725032,2,1,ro,,
 '234332b213',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicala cristobal,2026-08-13T04:26:00+00:00,,0.2701667866797606,1,1,ro,NAO,Atlantic Ocean
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,inghet,2026-08-18T03:23:00+00:00,,0.2699934017712448,2,1,ro,,
-'00e5e36ea1',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicală iselle,2026-08-25T03:27:00+00:00,,0.2693854718351765,1,1,ro,NPO,Pacific Ocean
 'e09a5222d3',extremes,Wildfire,#d60d2b,effis,wildfire algeria,2026-08-27T13:00:00+00:00,Algeria,0.2685410259988939,1,1,ro,MED,Africa
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,slip de gheață,2026-08-14T04:24:00+00:00,,0.2678972710466362,2,1,ro,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mercurul scade,2026-08-15T03:13:00+00:00,,0.2678862952374474,2,1,ro,,
@@ -210,3 +209,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,ger de noapte,2026-08-14T04:24:00+00:00,,0.2366391838643508,2,1,ro,,
 'c948617fef',extremes,Heat Wave,#c40202,random,expunere la căldură extremă,2026-08-22T03:22:00+00:00,,0.2348270406107299,2,1,ro,,
 '52af874334',extremes,Drought,#edc291,random,ariditate,2026-08-12T04:22:00+00:00,,0.2316902864900385,2,1,ro,,
+'00e5e36ea1',extremes,Tropical Cyclone,#4f4f4f,eonet,furtuna tropicală iselle,2026-08-25T03:27:00+00:00,,0.22897765105990003,2,1,ro,NPO,Pacific Ocean
