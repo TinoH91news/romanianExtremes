@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ger,2026-08-31T08:51:00+00:00,,0.3811031047140113,5,1,ro,,
 '358c238926',extremes,Wildfire,#d60d2b,effis,bushfire vâlcea romania,2026-08-29T09:18:00+00:00,Romania,0.369866879756725,4,1,ro,MED,Europe
-'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ger,2026-08-31T08:51:00+00:00,,0.3683368271145231,4,1,ro,,
 '98aef7adef',extremes,Wildfire,#d60d2b,effis,wildfire caraş severin romania,2026-09-12T07:19:00+00:00,Romania,0.3676789786247469,4,1,ro,WCE,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,cutremur,2026-09-05T07:04:00+00:00,,0.3672044657532759,8,2,ro,,
 '1d3b72dde9',extremes,Wildfire,#d60d2b,effis,bushfire românia mehedinţi vânători,2026-09-05T07:04:00+00:00,Romania,0.3667686121729391,4,1,ro,MED,Europe
@@ -28,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zăpadă,2026-09-06T07:16:00+00:00,,0.3279495052350035,5,1,ro,,
 '5830423e9e',extremes,Wildfire,#d60d2b,effis,wild fire românia mehedinţi vânători,2026-09-06T07:16:00+00:00,Romania,0.3222594155588243,5,1,ro,MED,Europe
 '788342b4b7',extremes,Wildfire,#d60d2b,effis,wildfire românia sibiu laslea,2026-09-01T07:57:00+00:00,Romania,0.3215524674504473,4,1,ro,WCE,Europe
-'c66cac460d',extremes,Wildfire,#d60d2b,effis,wildfire românia bihor lunca,2026-09-05T07:04:00+00:00,Romania,0.3190413453153311,4,1,ro,WCE,Europe
 '82429c8793',extremes,Wildfire,#d60d2b,effis,wildfire românia mureş gheorghe doja,2026-09-01T07:57:00+00:00,Romania,0.3190141932390296,4,1,ro,WCE,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-30T08:29:00+00:00,,0.3167504348072171,4,1,ro,,
 '523549816b',extremes,Wildfire,#d60d2b,effis,wild fire românia mehedinţi şişeşti,2026-09-01T07:57:00+00:00,Romania,0.3152787515244615,4,1,ro,MED,Europe
@@ -36,6 +35,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b350b1fa4c',extremes,Drought,#edc291,edo,uscaciune romania,2026-08-30T08:30:00+00:00,Romania,0.3085703137906747,4,1,ro,WCE,Europe
 'a73c7316da',extremes,Wildfire,#d60d2b,effis,wild fire românia vaslui ivăneşti,2026-09-01T07:57:00+00:00,Romania,0.2827061392800844,4,1,ro,WCE,Europe
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,uraganul marie,2026-09-04T07:23:00+00:00,,0.2765124069058879,4,2,ro,NPO,Pacific Ocean
+'c66cac460d',extremes,Wildfire,#d60d2b,effis,wildfire românia bihor lunca,2026-09-05T07:04:00+00:00,Romania,0.27118514351803147,5,1,ro,WCE,Europe
 '1941ef133a',extremes,Wildfire,#d60d2b,effis,wildfire arad romania,2026-09-03T07:20:00+00:00,Romania,0.2710613451228564,4,1,ro,WCE,Europe
 '90fc49fd65',extremes,Wildfire,#d60d2b,effis,bushfire românia tulcea ceatalchioi,2026-09-01T07:57:00+00:00,Romania,0.2551587015672469,4,1,ro,WCE,Europe
 '223aafcb65',extremes,Precipitation,#d60d2b,meteo,precipitaţii moldova,2026-09-12T07:19:00+00:00,Moldova,0.2486225498028976,4,1,ro,WCE,Europe
@@ -54,7 +54,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,cea mai scăzută temperatură minimă,2026-09-02T07:16:00+00:00,,0.2072183383938617,4,1,ro,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-09-08T07:23:00+00:00,,0.2053427364958379,4,1,ro,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,lăcustă,2026-09-02T07:16:00+00:00,,0.2025792722635874,4,1,ro,,
-'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclon,2026-09-01T07:57:00+00:00,,0.20004258785431545,4,1,ro,,
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclon,2026-09-01T07:57:00+00:00,,0.2000425878543154,4,1,ro,,
 '69791e5a17',extremes,Flood,#030ba1,random,inundaţie fulgerătoare,2026-09-03T07:20:00+00:00,,0.1955062425340359,3,1,ro,,
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,furtună australia,2026-09-01T07:58:00+00:00,Australia,0.1943916792634285,3,1,ro,EAU,Oceania
 'ec98366bcb',extremes,Flood,#030ba1,aidr,inundație sud-estul Australiei 2016,2026-08-30T08:30:00+00:00,Australia,0.1941505173171487,3,1,ro,SAU,Oceania
